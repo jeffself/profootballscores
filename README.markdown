@@ -13,4 +13,8 @@ Here's an example:
 
 `12/12/2010  Philadelphia        30  Dallas              27`
 
-If the game is played on a neutral site, a 1 is placed after the home team's score following a couple of spaces.
+If the game is played on a neutral site, a **N** is placed after the home team's score following a couple of spaces.
+
+Here's an example:
+
+02/07/2010  New Orleans         31  Indianapolis        17 N
