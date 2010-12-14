@@ -18,3 +18,12 @@ If the game is played on a neutral site, a **N** is placed after the home team's
 Here's an example:
 
 `02/07/2010  New Orleans         31  Indianapolis        17 N`
+
+*Update*: 12/14/2010
+Just noticed that many of the older files for scores had a slightly different format for games.  Many of them use a '1' to indicate a game played at the home team's field and a '0' to indicate a game played at a neutral site.
+
+Here's an example:
+`01/05/1964  Boston              10  San Diego           51 1`
+`01/26/1986  Chicago             46  New England         10 0`
+
+Also have noticed that many of the files are using tabs to separate the teams and scores.  Will correct that as time permits.
