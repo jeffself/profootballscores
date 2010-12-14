@@ -1,0 +1,73 @@
+09/26/1959	Cleveland           	 7	Pittsburgh          	17
+09/26/1959	NY Giants           	23	LA Rams             	21
+09/27/1959	Chicago             	 6	Green Bay           	 9
+09/27/1959	Detroit             	 9	Baltimore           	21
+09/27/1959	Philadelphia        	14	San Francisco       	24
+09/27/1959	Washington          	21	Chicago Cardinals   	49
+10/03/1959	Chicago             	26	Baltimore           	21
+10/04/1959	Cleveland           	34	Chicago Cardinals   	 7
+10/04/1959	Detroit             	10	Green Bay           	28
+10/04/1959	LA Rams             	 0	San Francisco       	34
+10/04/1959	NY Giants           	21	Philadelphia        	49
+10/04/1959	Washington          	23	Pittsburgh          	17
+10/11/1959	LA Rams             	28	Chicago             	21
+10/11/1959	Chicago Cardinals   	14	Washington          	23
+10/11/1959	NY Giants           	10	Cleveland           	 6
+10/11/1959	Baltimore           	31	Detroit             	24
+10/11/1959	Pittsburgh          	24	Philadelphia        	28
+10/11/1959	San Francisco       	20	Green Bay           	21
+10/18/1959	Baltimore           	21	Chicago             	 7
+10/18/1959	Chicago Cardinals   	 7	Cleveland           	17
+10/18/1959	San Francisco       	34	Detroit             	13
+10/18/1959	LA Rams             	45	Green Bay           	 6
+10/18/1959	Philadelphia        	 7	NY Giants           	24
+10/18/1959	Pittsburgh          	27	Washington          	 6
+10/25/1959	Chicago             	17	San Francisco       	20
+10/25/1959	Philadelphia        	28	Chicago Cardinals   	24	neutral
+10/25/1959	Green Bay           	21	Baltimore           	38
+10/25/1959	Detroit             	17	LA Rams             	 7
+10/25/1959	NY Giants           	21	Pittsburgh          	16
+10/25/1959	Washington          	 7	Cleveland           	34
+11/01/1959	Cleveland           	38	Baltimore           	31
+11/01/1959	Detroit             	 7	San Francisco       	33
+11/01/1959	Green Bay           	 3	NY Giants           	20
+11/01/1959	Chicago             	26	LA Rams             	21
+11/01/1959	Pittsburgh          	24	Chicago Cardinals   	45
+11/01/1959	Washington          	23	Philadelphia        	30
+11/08/1959	Baltimore           	24	Washington          	27
+11/08/1959	Chicago Cardinals   	 3	NY Giants           	 9
+11/08/1959	Green Bay           	17	Chicago             	28
+11/08/1959	San Francisco       	24	LA Rams             	16
+11/08/1959	Philadelphia        	 7	Cleveland           	28
+11/08/1959	Detroit             	10	Pittsburgh          	10
+11/15/1959	Chicago Cardinals   	17	Philadelphia        	27
+11/15/1959	Baltimore           	28	Green Bay           	24
+11/15/1959	LA Rams             	17	Detroit             	23
+11/15/1959	Pittsburgh          	14	NY Giants           	 9
+11/15/1959	San Francisco       	 3	Chicago             	14
+11/15/1959	Cleveland           	31	Washington          	17
+11/22/1959	NY Giants           	30	Chicago Cardinals   	20	neutral
+11/22/1959	Pittsburgh          	21	Cleveland           	20
+11/22/1959	Chicago             	24	Detroit             	14
+11/22/1959	LA Rams             	20	Philadelphia        	23
+11/22/1959	San Francisco       	14	Baltimore           	45
+11/22/1959	Washington          	 0	Green Bay           	21
+11/26/1959	Green Bay           	24	Detroit             	17
+11/29/1959	Chicago             	31	Chicago Cardinals   	 7
+11/29/1959	San Francisco       	21	Cleveland           	20
+11/29/1959	LA Rams             	21	Baltimore           	35
+11/29/1959	Philadelphia        	 0	Pittsburgh          	31
+11/29/1959	Washington          	14	NY Giants           	45
+12/05/1959	Baltimore           	34	San Francisco       	14
+12/06/1959	Chicago Cardinals   	21	Detroit             	45
+12/06/1959	Cleveland           	 7	NY Giants           	48
+12/06/1959	Green Bay           	38	LA Rams             	20
+12/06/1959	Pittsburgh          	21	Chicago             	27
+12/06/1959	Philadelphia        	34	Washington          	14
+12/12/1959	Baltimore           	45	LA Rams             	26
+12/13/1959	Chicago Cardinals   	20	Pittsburgh          	35
+12/13/1959	Detroit             	14	Chicago             	25
+12/13/1959	Cleveland           	28	Philadelphia        	21
+12/13/1959	Green Bay           	36	San Francisco       	14
+12/13/1959	NY Giants           	24	Washington          	10
+12/27/1959	NY Giants           	16	Baltimore           	31

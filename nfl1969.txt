@@ -1,0 +1,115 @@
+09/21/1969	LA Rams             	27	Baltimore           	20
+09/21/1969	Chicago             	 0	Green Bay           	17
+09/21/1969	Detroit             	13	Pittsburgh          	16
+09/21/1969	Minnesota           	23	NY Giants           	24
+09/21/1969	Washington          	26	New Orleans         	20
+09/21/1969	Cleveland           	27	Philadelphia        	20
+09/21/1969	St Louis            	 3	Dallas              	24
+09/21/1969	San Francisco       	12	Atlanta             	24
+09/28/1969	Atlanta             	 7	LA Rams             	17
+09/28/1969	Baltimore           	14	Minnesota           	52
+09/28/1969	Chicago             	17	St Louis            	20
+09/28/1969	Dallas              	21	New Orleans         	17
+09/28/1969	NY Giants           	 0	Detroit             	24
+09/28/1969	Pittsburgh          	27	Philadelphia        	41
+09/28/1969	San Francisco       	 7	Green Bay           	14
+09/28/1969	Washington          	23	Cleveland           	27
+10/05/1969	Baltimore           	21	Atlanta             	14
+10/05/1969	Detroit             	28	Cleveland           	21
+10/05/1969	Green Bay           	 7	Minnesota           	19
+10/05/1969	New Orleans         	17	LA Rams             	36
+10/05/1969	Dallas              	38	Philadelphia        	 7
+10/05/1969	St Louis            	27	Pittsburgh          	14
+10/05/1969	Washington          	17	San Francisco       	17
+10/06/1969	Chicago             	24	NY Giants           	28
+10/12/1969	Dallas              	24	Atlanta             	17
+10/12/1969	Minnesota           	31	Chicago             	 0
+10/12/1969	Green Bay           	28	Detroit             	17
+10/12/1969	Cleveland           	27	New Orleans         	17
+10/12/1969	Philadelphia        	20	Baltimore           	24
+10/12/1969	Pittsburgh          	 7	NY Giants           	10
+10/12/1969	St Louis            	17	Washington          	33
+10/12/1969	LA Rams             	27	San Francisco       	21
+10/18/1969	Pittsburgh          	31	Cleveland           	42
+10/19/1969	Chicago             	 7	Detroit             	13
+10/19/1969	Green Bay           	21	LA Rams             	34
+10/19/1969	Baltimore           	30	New Orleans         	10
+10/19/1969	NY Giants           	14	Washington          	20
+10/19/1969	Philadelphia        	14	Dallas              	49
+10/19/1969	Minnesota           	27	St Louis            	10
+10/19/1969	Atlanta             	21	San Francisco       	 7
+10/26/1969	Atlanta             	10	Green Bay           	28
+10/26/1969	San Francisco       	24	Baltimore           	21
+10/26/1969	LA Rams             	 9	Chicago             	 7
+10/26/1969	St Louis            	21	Cleveland           	21
+10/26/1969	Detroit             	10	Minnesota           	24
+10/26/1969	New Orleans         	10	Philadelphia        	13
+10/26/1969	Washington          	14	Pittsburgh          	 7
+10/27/1969	NY Giants           	 3	Dallas              	25
+11/02/1969	LA Rams             	38	Atlanta             	 6
+11/02/1969	Chicago             	14	Minnesota           	31
+11/02/1969	Dallas              	10	Cleveland           	42
+11/02/1969	Philadelphia        	23	NY Giants           	20
+11/02/1969	Green Bay           	38	Pittsburgh          	34
+11/02/1969	New Orleans         	51	St Louis            	42
+11/02/1969	Detroit             	26	San Francisco       	14
+11/02/1969	Washington          	17	Baltimore           	41
+11/09/1969	Atlanta             	21	Detroit             	27
+11/09/1969	Cleveland           	 3	Minnesota           	51
+11/09/1969	Green Bay           	 6	Baltimore           	14
+11/09/1969	New Orleans         	17	Dallas              	33
+11/09/1969	NY Giants           	17	St Louis            	42
+11/09/1969	Pittsburgh          	 7	Chicago             	38
+11/09/1969	San Francisco       	30	LA Rams             	41
+11/09/1969	Philadelphia        	28	Washington          	28
+11/16/1969	Baltimore           	17	San Francisco       	20
+11/16/1969	Chicago             	31	Atlanta             	48
+11/16/1969	Minnesota           	 9	Green Bay           	 7
+11/16/1969	New Orleans         	25	NY Giants           	24
+11/16/1969	LA Rams             	23	Philadelphia        	17
+11/16/1969	Cleveland           	24	Pittsburgh          	 3
+11/16/1969	St Louis            	 0	Detroit             	20
+11/16/1969	Dallas              	41	Washington          	28
+11/23/1969	Atlanta             	20	Washington          	27
+11/23/1969	Baltimore           	24	Chicago             	21
+11/23/1969	Dallas              	23	LA Rams             	24
+11/23/1969	Detroit             	16	Green Bay           	10
+11/23/1969	NY Giants           	17	Cleveland           	28
+11/23/1969	Pittsburgh          	14	Minnesota           	52
+11/23/1969	Philadelphia        	34	St Louis            	30
+11/23/1969	San Francisco       	38	New Orleans         	43
+11/27/1969	San Francisco       	24	Dallas              	24
+11/27/1969	Minnesota           	27	Detroit             	 0
+11/30/1969	Atlanta             	 6	Baltimore           	13
+11/30/1969	Cleveland           	28	Chicago             	24
+11/30/1969	NY Giants           	10	Green Bay           	20
+11/30/1969	Philadelphia        	17	New Orleans         	26
+11/30/1969	Pittsburgh          	10	St Louis            	47
+11/30/1969	LA Rams             	24	Washington          	13
+12/06/1969	Chicago             	21	San Francisco       	42
+12/07/1969	Detroit             	17	Baltimore           	17
+12/07/1969	Green Bay           	 7	Cleveland           	20
+12/07/1969	Minnesota           	20	LA Rams             	13
+12/07/1969	New Orleans         	17	Atlanta             	45
+12/07/1969	Washington          	34	Philadelphia        	29
+12/07/1969	Dallas              	10	Pittsburgh          	 7
+12/07/1969	St Louis            	 6	NY Giants           	49
+12/13/1969	Baltimore           	10	Dallas              	27
+12/14/1969	Green Bay           	21	Chicago             	 3
+12/14/1969	LA Rams             	 0	Detroit             	28
+12/14/1969	New Orleans         	14	Washington          	17
+12/14/1969	Atlanta             	27	Philadelphia        	 3
+12/14/1969	NY Giants           	21	Pittsburgh          	17
+12/14/1969	Cleveland           	27	St Louis            	21
+12/14/1969	San Francisco       	 7	Minnesota           	10
+12/21/1969	Detroit             	20	Chicago             	 3
+12/21/1969	Cleveland           	14	NY Giants           	27
+12/21/1969	Baltimore           	13	LA Rams             	 7
+12/21/1969	Minnesota           	 3	Atlanta             	10
+12/21/1969	Philadelphia        	13	San Francisco       	14
+12/21/1969	Pittsburgh          	24	New Orleans         	27
+12/21/1969	St Louis            	28	Green Bay           	45
+12/21/1969	Washington          	10	Dallas              	20
+12/27/1969	LA Rams             	20	Minnesota           	23
+12/28/1969	Cleveland           	38	Dallas              	14
+01/04/1970	Cleveland           	 7	Minnesota           	27

@@ -1,0 +1,72 @@
+09/06/1968	Cincinnati     	13	San Diego      	29	1
+09/08/1968	Boston         	16	Buffalo        	7	1
+09/09/1968	Kansas City    	26	Houston        	21	1
+09/14/1968	Houston        	24	Miami          	10	1
+09/15/1968	Oakland        	48	Buffalo        	6	1
+09/15/1968	Denver         	10	Cincinnati     	24	1
+09/15/1968	NY Jets        	20	Kansas City    	19	1
+09/21/1968	Houston        	14	San Diego      	30	1
+09/21/1968	Oakland        	47	Miami          	21	1
+09/22/1968	Boston         	31	NY Jets        	47	0
+09/22/1968	Buffalo        	23	Cincinnati     	34	1
+09/22/1968	Denver         	2	Kansas City    	34	1
+09/28/1968	Kansas City    	48	Miami          	3	1
+09/29/1968	San Diego      	31	Cincinnati     	10	1
+09/29/1968	Boston         	20	Denver         	17	1
+09/29/1968	Oakland        	24	Houston        	15	1
+09/29/1968	NY Jets        	35	Buffalo        	37	1
+10/05/1968	Kansas City    	18	Buffalo        	7	1
+10/05/1968	San Diego      	20	NY Jets        	23	1
+10/06/1968	Boston         	10	Oakland        	41	1
+10/06/1968	Cincinnati     	7	Denver         	10	1
+10/06/1968	Miami          	24	Houston        	7	1
+10/12/1968	Buffalo        	14	Miami          	14	1
+10/13/1968	Houston        	16	Boston         	0	1
+10/13/1968	Cincinnati     	3	Kansas City    	13	1
+10/13/1968	Denver         	21	NY Jets        	13	1
+10/13/1968	San Diego      	23	Oakland        	14	1
+10/20/1968	Buffalo        	6	Boston         	23	1
+10/20/1968	Miami          	24	Cincinnati     	22	1
+10/20/1968	Denver         	24	San Diego      	55	1
+10/20/1968	NY Jets        	20	Houston        	14	1
+10/20/1968	Oakland        	10	Kansas City    	24	1
+10/27/1968	Boston         	14	NY Jets        	48	1
+10/27/1968	Houston        	30	Buffalo        	7	1
+10/27/1968	Cincinnati     	10	Oakland        	31	1
+10/27/1968	Miami          	14	Denver         	21	1
+10/27/1968	San Diego      	20	Kansas City    	27	1
+11/03/1968	Denver         	35	Boston         	14	1
+11/03/1968	Buffalo        	21	NY Jets        	25	1
+11/03/1968	Houston        	27	Cincinnati     	17	1
+11/03/1968	Kansas City    	21	Oakland        	38	1
+11/03/1968	Miami          	28	San Diego      	34	1
+11/10/1968	San Diego      	27	Boston         	17	1
+11/10/1968	Miami          	21	Buffalo        	17	1
+11/10/1968	Kansas City    	16	Cincinnati     	9	1
+11/10/1968	Oakland        	43	Denver         	7	1
+11/10/1968	Houston        	7	NY Jets        	26	1
+11/17/1968	Boston         	17	Kansas City    	31	1
+11/17/1968	San Diego      	21	Buffalo        	6	1
+11/17/1968	Denver         	17	Houston        	38	1
+11/17/1968	Cincinnati     	38	Miami          	21	1
+11/17/1968	NY Jets        	32	Oakland        	43	1
+11/24/1968	Miami          	34	Boston         	10	1
+11/24/1968	Buffalo        	32	Denver         	34	1
+11/24/1968	Oakland        	34	Cincinnati     	0	1
+11/24/1968	NY Jets        	37	San Diego      	15	1
+11/28/1968	Buffalo        	10	Oakland        	13	1
+11/28/1968	Houston        	10	Kansas City    	24	1
+12/01/1968	Cincinnati     	14	Boston         	33	1
+12/01/1968	San Diego      	47	Denver         	23	1
+12/01/1968	Miami          	17	NY Jets        	35	1
+12/07/1968	Buffalo        	6	Houston        	35	1
+12/08/1968	Boston         	7	Miami          	38	1
+12/08/1968	Cincinnati     	14	NY Jets        	27	1
+12/08/1968	Denver         	27	Oakland        	33	1
+12/08/1968	Kansas City    	40	San Diego      	3	1
+12/14/1968	Kansas City    	30	Denver         	7	1
+12/15/1968	Boston         	17	Houston        	45	1
+12/15/1968	NY Jets        	31	Miami          	7	1
+12/15/1968	Oakland        	34	San Diego      	27	1
+12/22/1968	Kansas City    	6	Oakland        	41	1
+12/29/1968	Oakland        	23	NY Jets        	27	1

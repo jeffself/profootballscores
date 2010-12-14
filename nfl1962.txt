@@ -1,0 +1,99 @@
+09/16/1962	Washington          	35	Dallas              	35
+09/16/1962	LA Rams             	27	Baltimore           	30
+09/16/1962	Minnesota           	 7	Green Bay           	34
+09/16/1962	NY Giants           	 7	Cleveland           	17
+09/16/1962	St Louis            	27	Philadelphia        	21
+09/16/1962	Pittsburgh          	 7	Detroit             	45
+09/16/1962	Chicago             	30	San Francisco       	14
+09/23/1962	Washington          	17	Cleveland           	16
+09/23/1962	Pittsburgh          	30	Dallas              	28
+09/23/1962	Chicago             	27	LA Rams             	23
+09/23/1962	Baltimore           	34	Minnesota           	 7
+09/23/1962	NY Giants           	29	Philadelphia        	13
+09/23/1962	St Louis            	 0	Green Bay           	17
+09/23/1962	San Francisco       	24	Detroit             	45
+09/30/1962	Detroit             	29	Baltimore           	20
+09/30/1962	Chicago             	 0	Green Bay           	49
+09/30/1962	Cleveland           	 7	Philadelphia        	35
+09/30/1962	Dallas              	27	LA Rams             	17
+09/30/1962	Minnesota           	 7	San Francisco       	21
+09/30/1962	NY Giants           	31	Pittsburgh          	27
+09/30/1962	St Louis            	14	Washington          	24
+10/06/1962	Philadelphia        	 7	Pittsburgh          	13
+10/07/1962	San Francisco       	21	Baltimore           	13
+10/07/1962	Dallas              	10	Cleveland           	19
+10/07/1962	Detroit             	 7	Green Bay           	 9
+10/07/1962	LA Rams             	14	Washington          	20
+10/07/1962	Chicago             	13	Minnesota           	 0
+10/07/1962	NY Giants           	31	St Louis            	14
+10/14/1962	San Francisco       	34	Chicago             	27
+10/14/1962	Baltimore           	36	Cleveland           	14
+10/14/1962	LA Rams             	10	Detroit             	13
+10/14/1962	Green Bay           	48	Minnesota           	21
+10/14/1962	Pittsburgh          	20	NY Giants           	17
+10/14/1962	Philadelphia        	19	Dallas              	41
+10/14/1962	Washington          	17	St Louis            	17
+10/21/1962	Baltimore           	15	Chicago             	35
+10/21/1962	Detroit             	14	NY Giants           	17
+10/21/1962	Minnesota           	38	LA Rams             	14
+10/21/1962	Washington          	27	Philadelphia        	21
+10/21/1962	Dallas              	42	Pittsburgh          	27
+10/21/1962	Cleveland           	34	St Louis            	 7
+10/21/1962	San Francisco       	13	Green Bay           	31
+10/28/1962	Green Bay           	17	Baltimore           	 6
+10/28/1962	Chicago             	 3	Detroit             	11
+10/28/1962	St Louis            	28	Dallas              	24
+10/28/1962	Philadelphia        	21	Minnesota           	31
+10/28/1962	Cleveland           	41	Pittsburgh          	14
+10/28/1962	LA Rams             	28	San Francisco       	14
+10/28/1962	Washington          	34	NY Giants           	49
+11/04/1962	Green Bay           	38	Chicago             	 7
+11/04/1962	Philadelphia        	14	Cleveland           	14
+11/04/1962	Detroit             	12	LA Rams             	 3
+11/04/1962	Minnesota           	31	Pittsburgh          	39
+11/04/1962	St Louis            	28	NY Giants           	31
+11/04/1962	Baltimore           	22	San Francisco       	 3
+11/04/1962	Dallas              	38	Washington          	10
+11/11/1962	Cleveland           	 9	Washington          	17
+11/11/1962	NY Giants           	41	Dallas              	10
+11/11/1962	Baltimore           	14	LA Rams             	 2
+11/11/1962	Minnesota           	30	Chicago             	31
+11/11/1962	Green Bay           	49	Philadelphia        	 0
+11/11/1962	Pittsburgh          	26	St Louis            	17
+11/11/1962	Detroit             	38	San Francisco       	24
+11/18/1962	Baltimore           	13	Green Bay           	17
+11/18/1962	Chicago             	34	Dallas              	33
+11/18/1962	San Francisco       	24	LA Rams             	17
+11/18/1962	Detroit             	17	Minnesota           	 6
+11/18/1962	Philadelphia        	14	NY Giants           	19
+11/18/1962	St Louis            	14	Cleveland           	38
+11/18/1962	Washington          	21	Pittsburgh          	23
+11/22/1962	Green Bay           	14	Detroit             	26
+11/25/1962	Chicago             	57	Baltimore           	 0
+11/25/1962	Dallas              	14	Philadelphia        	28
+11/25/1962	LA Rams             	24	Minnesota           	24
+11/25/1962	Pittsburgh          	14	Cleveland           	35
+11/25/1962	San Francisco       	24	St Louis            	17
+11/25/1962	NY Giants           	42	Washington          	24
+12/02/1962	Baltimore           	14	Detroit             	21
+12/02/1962	NY Giants           	26	Chicago             	24
+12/02/1962	Cleveland           	21	Dallas              	45
+12/02/1962	LA Rams             	10	Green Bay           	41
+12/02/1962	San Francisco       	35	Minnesota           	12
+12/02/1962	St Louis            	 7	Pittsburgh          	19
+12/02/1962	Philadelphia        	37	Washington          	14
+12/08/1962	Washington          	21	Baltimore           	34
+12/09/1962	Cleveland           	13	NY Giants           	17
+12/09/1962	Dallas              	20	St Louis            	52
+12/09/1962	LA Rams             	14	Chicago             	30
+12/09/1962	Minnesota           	23	Detroit             	37
+12/09/1962	Pittsburgh          	26	Philadelphia        	17
+12/09/1962	Green Bay           	31	San Francisco       	21
+12/15/1962	Cleveland           	13	San Francisco       	10
+12/16/1962	Dallas              	31	NY Giants           	41
+12/16/1962	Detroit             	 0	Chicago             	 3
+12/16/1962	Green Bay           	20	LA Rams             	17
+12/16/1962	Minnesota           	17	Baltimore           	42
+12/16/1962	Philadelphia        	35	St Louis            	45
+12/16/1962	Pittsburgh          	27	Washington          	24
+12/30/1962	Green Bay           	16	NY Giants           	 7

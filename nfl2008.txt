@@ -1,0 +1,267 @@
+09/04/2008  Washington           7  New York Giants     16
+09/07/2008  Carolina            26  San Diego           24
+09/07/2008  Arizona             23  San Francisco       13
+09/07/2008  Dallas              28  Cleveland           10
+09/07/2008  Houston             17  Pittsburgh          38
+09/07/2008  St. Louis            3  Philadelphia        38
+09/07/2008  Seattle             10  Buffalo             34
+09/07/2008  Cincinnati          10  Baltimore           17
+09/07/2008  Kansas City         10  New England         17
+09/07/2008  Tampa Bay           20  New Orleans         24
+09/07/2008  Jacksonville        10  Tennessee           17
+09/07/2008  Detroit             21  Atlanta             34
+09/07/2008  New York Jets       20  Miami               14
+09/07/2008  Chicago             29  Indianapolis        13
+09/08/2008  Minnesota           19  Green Bay           24
+09/08/2008  Denver              41  Oakland             14
+09/14/2008  Chicago             17  Carolina            20
+09/14/2008  Tennessee           24  Cincinnati           7
+09/14/2008  Green Bay           48  Detroit             25
+09/14/2008  Buffalo             20  Jacksonville        16
+09/14/2008  Oakland             23  Kansas City          8
+09/14/2008  Indianapolis        18  Minnesota           15
+09/14/2008  New York Giants     41  St. Louis           13
+09/14/2008  New Orleans         24  Washington          29
+09/14/2008  Atlanta              9  Tampa Bay           24
+09/14/2008  New England         19  New York Jets       10
+09/14/2008  Miami               10  Arizona             31
+09/14/2008  Pittsburgh          10  Cleveland            6
+09/14/2008  San Francisco       33  Seattle             30
+09/14/2008  San Diego           38  Denver              39
+09/15/2008  Philadelphia        37  Dallas              41
+09/21/2008  Kansas City         14  Atlanta             38
+09/21/2008  Oakland             23  Buffalo             24
+09/21/2008  Tampa Bay           27  Chicago             24
+09/21/2008  Carolina            10  Minnesota           20
+09/21/2008  Miami               38  New England         13
+09/21/2008  Cincinnati          23  New York Giants     26
+09/21/2008  Houston             12  Tennessee           31
+09/21/2008  Arizona             17  Washington          24
+09/21/2008  New Orleans         32  Denver              34
+09/21/2008  Detroit             13  San Francisco       31
+09/21/2008  St. Louis           13  Seattle             37
+09/21/2008  Cleveland           10  Baltimore           28
+09/21/2008  Jacksonville        23  Indianapolis        21
+09/21/2008  Pittsburgh           6  Philadelphia        15
+09/21/2008  Dallas              27  Green Bay           16
+09/22/2008  New York Jets       29  San Diego           48
+09/28/2008  Atlanta              9  Carolina            24
+09/28/2008  Cleveland           20  Cincinnati          12
+09/28/2008  Houston             27  Jacksonville        30
+09/28/2008  Denver              19  Kansas City         33
+09/28/2008  San Francisco       17  New Orleans         31
+09/28/2008  Arizona             35  New York Jets       56
+09/28/2008  Green Bay           21  Tampa Bay           30
+09/28/2008  Minnesota           17  Tennessee           30
+09/28/2008  San Diego           28  Oakland             18
+09/28/2008  Buffalo             31  St. Louis           14
+09/28/2008  Washington          26  Dallas              24
+09/28/2008  Philadelphia        20  Chicago             24
+09/29/2008  Baltimore           20  Pittsburgh          23
+10/05/2008  Tennessee           13  Baltimore           10
+10/05/2008  Indianapolis        31  Houston             27
+10/05/2008  Seattle              6  New York Giants     44
+10/05/2008  Washington          23  Philadelphia        17
+10/05/2008  San Diego           10  Miami               17
+10/05/2008  Kansas City          0  Carolina            34
+10/05/2008  Atlanta             27  Green Bay           24
+10/05/2008  Chicago             34  Detroit              7
+10/05/2008  Buffalo             17  Arizona             41
+10/05/2008  New England         30  San Francisco       21
+10/05/2008  Tampa Bay           13  Denver              16
+10/05/2008  Cincinnati          22  Dallas              31
+10/05/2008  Pittsburgh          26  Jacksonville        21
+10/06/2008  Minnesota           30  New Orleans         27
+10/12/2008  Chicago             20  Atlanta             22
+10/12/2008  Miami               28  Houston             29
+10/12/2008  Baltimore            3  Indianapolis        31
+10/12/2008  Detroit             10  Minnesota           13
+10/12/2008  Oakland              3  New Orleans         34
+10/12/2008  Cincinnati          14  New York Jets       26
+10/12/2008  Carolina             3  Tampa Bay           27
+10/12/2008  St. Louis           19  Washington          17
+10/12/2008  Jacksonville        24  Denver              17
+10/12/2008  Dallas              24  Arizona             30
+10/12/2008  Philadelphia        40  San Francisco       26
+10/12/2008  Green Bay           27  Seattle             17
+10/12/2008  New England         10  San Diego           30
+10/13/2008  New York Giants     14  Cleveland           35
+10/19/2008  San Diego           14  Buffalo             23
+10/19/2008  New Orleans          7  Carolina            30
+10/19/2008  Minnesota           41  Chicago             48
+10/19/2008  Pittsburgh          38  Cincinnati          10
+10/19/2008  Tennessee           34  Kansas City         10
+10/19/2008  Baltimore           27  Miami               13
+10/19/2008  San Francisco       17  New York Giants     29
+10/19/2008  Dallas              14  St. Louis           34
+10/19/2008  Detroit             21  Houston             28
+10/19/2008  Indianapolis        14  Green Bay           34
+10/19/2008  New York Jets       13  Oakland             16
+10/19/2008  Cleveland           11  Washington          14
+10/19/2008  Seattle             10  Tampa Bay           20
+10/20/2008  Denver               7  New England         41
+10/26/2008  Oakland             10  Baltimore           29
+10/26/2008  Arizona             23  Carolina            27
+10/26/2008  Tampa Bay            9  Dallas              13
+10/26/2008  Washington          25  Detroit             17
+10/26/2008  Buffalo             16  Miami               25
+10/26/2008  St. Louis           16  New England         23
+10/26/2008  San Diego           32  New Orleans         37
+10/26/2008  Kansas City         24  New York Jets       28
+10/26/2008  Atlanta             14  Philadelphia        27
+10/26/2008  Cleveland           23  Jacksonville        17
+10/26/2008  Cincinnati           6  Houston             35
+10/26/2008  New York Giants     21  Pittsburgh          14
+10/26/2008  Seattle             34  San Francisco       13
+10/27/2008  Indianapolis        21  Tennessee           31
+11/02/2008  New York Jets       26  Buffalo             17
+11/02/2008  Detroit             23  Chicago             27
+11/02/2008  Jacksonville        19  Cincinnati          21
+11/02/2008  Baltimore           37  Cleveland           27
+11/02/2008  Tampa Bay           30  Kansas City         27
+11/02/2008  Houston             21  Minnesota           28
+11/02/2008  Arizona             34  St. Louis           13
+11/02/2008  Green Bay           16  Tennessee           19
+11/02/2008  Miami               26  Denver              17
+11/02/2008  Dallas              14  New York Giants     35
+11/02/2008  Atlanta             24  Oakland              0
+11/02/2008  Philadelphia        26  Seattle              7
+11/02/2008  New England         15  Indianapolis        18
+11/03/2008  Pittsburgh          23  Washington           6
+11/06/2008  Denver              34  Cleveland           30
+11/09/2008  New Orleans         20  Atlanta             34
+11/09/2008  Tennessee           21  Chicago             14
+11/09/2008  Jacksonville        38  Detroit             14
+11/09/2008  Baltimore           41  Houston             13
+11/09/2008  Seattle             19  Miami               21
+11/09/2008  Green Bay           27  Minnesota           28
+11/09/2008  Buffalo             10  New England         20
+11/09/2008  St. Louis            3  New York Jets       47
+11/09/2008  Carolina            17  Oakland              6
+11/09/2008  Indianapolis        24  Pittsburgh          20
+11/09/2008  Kansas City         19  San Diego           20
+11/09/2008  New York Giants     36  Philadelphia        31
+11/10/2008  San Francisco       24  Arizona             29
+11/13/2008  New York Jets       34  New England         31
+11/16/2008  Denver              24  Atlanta             20
+11/16/2008  Detroit             22  Carolina            31
+11/16/2008  Philadelphia        13  Cincinnati          13
+11/16/2008  New Orleans         30  Kansas City         20
+11/16/2008  Baltimore           10  New York Giants     30
+11/16/2008  Minnesota           13  Tampa Bay           19
+11/16/2008  Oakland             15  Miami               17
+11/16/2008  Chicago              3  Green Bay           37
+11/16/2008  Houston             27  Indianapolis        33
+11/16/2008  San Diego           10  Pittsburgh          11
+11/16/2008  Arizona             26  Seattle             20
+11/16/2008  Tennessee           24  Jacksonville        14
+11/16/2008  St. Louis           16  San Francisco       35
+11/16/2008  Dallas              14  Washington          10
+11/17/2008  Cleveland           29  Buffalo             27
+11/20/2008  Cincinnati          10  Pittsburgh          27
+11/23/2008  Philadelphia         7  Baltimore           36
+11/23/2008  Houston             16  Cleveland            6
+11/23/2008  Tampa Bay           38  Detroit             20
+11/23/2008  Buffalo             54  Kansas City         31
+11/23/2008  Chicago             27  St. Louis            3
+11/23/2008  New York Jets       34  Tennessee           13
+11/23/2008  New England         48  Miami               28
+11/23/2008  Minnesota           30  Jacksonville        12
+11/23/2008  San Francisco       22  Dallas              35
+11/23/2008  Oakland             31  Denver              10
+11/23/2008  Carolina            28  Atlanta             45
+11/23/2008  New York Giants     37  Arizona             29
+11/23/2008  Washington          20  Seattle             17
+11/23/2008  Indianapolis        23  San Diego           20
+11/24/2008  Green Bay           29  New Orleans         51
+11/27/2008  Tennessee           47  Detroit             10
+11/27/2008  Seattle              9  Dallas              34
+11/27/2008  Arizona             20  Philadelphia        48
+11/30/2008  San Francisco       10  Buffalo              3
+11/30/2008  Baltimore           34  Cincinnati           3
+11/30/2008  New Orleans         20  Tampa Bay           23
+11/30/2008  New York Giants     23  Washington           7
+11/30/2008  Miami               16  St. Louis           12
+11/30/2008  Indianapolis        10  Cleveland            6
+11/30/2008  Carolina            35  Green Bay           31
+11/30/2008  Atlanta             22  San Diego           16
+11/30/2008  Denver              34  New York Jets       17
+11/30/2008  Pittsburgh          33  New England         10
+11/30/2008  Kansas City         20  Oakland             13
+11/30/2008  Chicago             14  Minnesota           34
+12/01/2008  Jacksonville        17  Houston             30
+12/04/2008  Oakland              7  San Diego           34
+12/07/2008  Jacksonville        10  Chicago             23
+12/07/2008  Minnesota           20  Detroit             16
+12/07/2008  Cincinnati           3  Indianapolis        35
+12/07/2008  Philadelphia        20  New York Giants     14
+12/07/2008  Cleveland            9  Tennessee           28
+12/07/2008  Atlanta             25  New Orleans         29
+12/07/2008  Houston             24  Green Bay           21
+12/07/2008  Miami               16  Buffalo              3
+12/07/2008  New York Jets       14  San Francisco       24
+12/07/2008  New England         24  Seattle             21
+12/07/2008  Kansas City         17  Denver              24
+12/07/2008  St. Louis           10  Arizona             34
+12/07/2008  Dallas              13  Pittsburgh          20
+12/07/2008  Washington          10  Baltimore           24
+12/08/2008  Tampa Bay           23  Carolina            38
+12/11/2008  New Orleans         24  Chicago             27
+12/14/2008  Tampa Bay           10  Atlanta             13
+12/14/2008  Washington          13  Cincinnati          20
+12/14/2008  Green Bay           16  Jacksonville        20
+12/14/2008  San Francisco        9  Miami               14
+12/14/2008  Seattle             23  St. Louis           20
+12/14/2008  Buffalo             27  New York Jets       31
+12/14/2008  Detroit             21  Indianapolis        31
+12/14/2008  Tennessee           12  Houston             13
+12/14/2008  Pittsburgh          13  Baltimore            9
+12/14/2008  San Diego           22  Kansas City         21
+12/14/2008  Minnesota           35  Arizona             14
+12/14/2008  New England         49  Oakland             26
+12/14/2008  Denver              10  Carolina            30
+12/14/2008  New York Giants      8  Dallas              20
+12/15/2008  Cleveland           10  Philadelphia        30
+12/18/2008  Indianapolis        31  Jacksonville        24
+12/20/2008  Baltimore           33  Dallas              24
+12/21/2008  Cincinnati          14  Cleveland            0
+12/21/2008  New Orleans         42  Detroit              7
+12/21/2008  Arizona              7  New England         47
+12/21/2008  Pittsburgh          14  Tennessee           31
+12/21/2008  San Francisco       17  St. Louis           16
+12/21/2008  Miami               38  Kansas City         31
+12/21/2008  San Diego           41  Tampa Bay           24
+12/21/2008  Buffalo             30  Denver              23
+12/21/2008  New York Jets        3  Seattle             13
+12/21/2008  Houston             16  Oakland             27
+12/21/2008  Atlanta             24  Minnesota           17
+12/21/2008  Philadelphia         3  Washington          10
+12/21/2008  Carolina            28  New York Giants     34
+12/22/2008  Green Bay           17  Chicago             20
+12/28/2008  Tennessee            0  Indianapolis        23
+12/28/2008  New York Giants     19  Minnesota           20
+12/28/2008  Carolina            33  New Orleans         31
+12/28/2008  New England         13  Buffalo              0
+12/28/2008  Kansas City          6  Cincinnati          16
+12/28/2008  St. Louis           27  Atlanta             31
+12/28/2008  Chicago             24  Houston             31
+12/28/2008  Detroit             21  Green Bay           31
+12/28/2008  Cleveland            0  Pittsburgh          31
+12/28/2008  Oakland             31  Tampa Bay           24
+12/28/2008  Jacksonville         7  Baltimore           27
+12/28/2008  Seattle             21  Arizona             34
+12/28/2008  Washington          24  San Francisco       27
+12/28/2008  Miami               24  New York Jets       17
+12/28/2008  Dallas               6  Philadelphia        44
+12/28/2008  Denver              21  San Diego           52
+01/03/2009  Indianapolis        17  San Diego           23
+01/03/2009  Atlanta             24  Arizona             30
+01/04/2009  Philadelphia        26  Minnesota           14
+01/04/2009  Baltimore           27  Miami                9
+01/10/2009  Baltimore           13  Tennessee           10
+01/10/2009  Arizona             33  Carolina            13
+01/11/2009  San Diego           24  Pittsburgh          35
+01/11/2009  Philadelphia        23  New York Giants     11
+01/18/2009  Philadelphia        25  Arizona             32
+01/18/2009  Baltimore           14  Pittsburgh          23
+02/01/2009  Pittsburgh          27  Arizona             23 1

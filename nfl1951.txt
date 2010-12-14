@@ -1,0 +1,73 @@
+09/28/1951	NY Yanks            	14	LA Rams             	54
+09/30/1951	Philadelphia        	17	Chicago Cardinals   	14
+09/30/1951	Cleveland           	10	San Francisco       	24
+09/30/1951	Chicago             	31	Green Bay           	20
+09/30/1951	Washington          	17	Detroit             	35
+10/01/1951	NY Giants           	13	Pittsburgh          	13
+10/06/1951	San Francisco       	14	Philadelphia        	21
+10/07/1951	Chicago             	14	Chicago Cardinals   	28
+10/07/1951	Cleveland           	38	LA Rams             	23
+10/07/1951	Pittsburgh          	33	Green Bay           	35
+10/07/1951	NY Giants           	35	Washington          	14
+10/08/1951	NY Yanks            	10	Detroit             	37
+10/14/1951	Chicago Cardinals   	17	NY Giants           	28
+10/14/1951	LA Rams             	27	Detroit             	21
+10/14/1951	NY Yanks            	21	Chicago             	24
+10/14/1951	Philadelphia        	24	Green Bay           	37
+10/14/1951	San Francisco       	28	Pittsburgh          	24
+10/14/1951	Washington          	 0	Cleveland           	45
+10/21/1951	Chicago Cardinals   	 3	Washington          	 7
+10/21/1951	NY Yanks            	24	Detroit             	24
+10/21/1951	LA Rams             	28	Green Bay           	 0
+10/21/1951	Philadelphia        	24	NY Giants           	26
+10/21/1951	Pittsburgh          	 0	Cleveland           	17
+10/21/1951	San Francisco       	 7	Chicago             	13
+10/28/1951	Pittsburgh          	28	Chicago Cardinals   	14
+10/28/1951	Chicago             	28	Detroit             	23
+10/28/1951	LA Rams             	17	San Francisco       	44
+10/28/1951	NY Giants           	13	Cleveland           	14
+10/28/1951	Green Bay           	29	NY Yanks            	27
+10/28/1951	Washington          	27	Philadelphia        	23
+11/04/1951	Cleveland           	34	Chicago Cardinals   	17
+11/04/1951	Detroit             	24	Green Bay           	17
+11/04/1951	NY Yanks            	31	NY Giants           	37
+11/04/1951	Philadelphia        	34	Pittsburgh          	13
+11/04/1951	San Francisco       	16	LA Rams             	23
+11/04/1951	Chicago             	27	Washington          	 0
+11/11/1951	Detroit             	41	Chicago             	28
+11/11/1951	Chicago Cardinals   	21	LA Rams             	45
+11/11/1951	Green Bay           	 7	Pittsburgh          	28
+11/11/1951	NY Yanks            	14	San Francisco       	19
+11/11/1951	Philadelphia        	17	Cleveland           	20
+11/11/1951	Washington          	14	NY Giants           	28
+11/18/1951	Green Bay           	13	Chicago             	24
+11/18/1951	Cleveland           	10	NY Giants           	 0
+11/18/1951	NY Yanks            	21	LA Rams             	48
+11/18/1951	Detroit             	28	Philadelphia        	10
+11/18/1951	Washington          	22	Pittsburgh          	 7
+11/18/1951	Chicago Cardinals   	27	San Francisco       	21
+11/22/1951	Green Bay           	35	Detroit             	52
+11/25/1951	Chicago             	21	Cleveland           	42
+11/25/1951	NY Giants           	10	Chicago Cardinals   	 0
+11/25/1951	LA Rams             	21	Washington          	31
+11/25/1951	San Francisco       	10	NY Yanks            	10
+11/25/1951	Pittsburgh          	17	Philadelphia        	13
+12/02/1951	LA Rams             	42	Chicago             	17
+12/02/1951	Chicago Cardinals   	28	Cleveland           	49
+12/02/1951	San Francisco       	20	Detroit             	10
+12/02/1951	NY Yanks            	31	Green Bay           	28
+12/02/1951	Pittsburgh          	 0	NY Giants           	14
+12/02/1951	Philadelphia        	35	Washington          	21
+12/09/1951	Washington          	20	Chicago Cardinals   	17
+12/09/1951	Green Bay           	19	San Francisco       	31
+12/09/1951	Detroit             	24	LA Rams             	22
+12/09/1951	Chicago             	45	NY Yanks            	21
+12/09/1951	NY Giants           	23	Philadelphia        	 7
+12/09/1951	Cleveland           	28	Pittsburgh          	 0
+12/16/1951	Chicago Cardinals   	24	Chicago             	14
+12/16/1951	Detroit             	17	San Francisco       	21
+12/16/1951	Green Bay           	14	LA Rams             	42
+12/16/1951	NY Giants           	27	NY Yanks            	17
+12/16/1951	Cleveland           	24	Philadelphia        	 9
+12/16/1951	Pittsburgh          	20	Washington          	10
+12/23/1951	Cleveland           	17	LA Rams             	24

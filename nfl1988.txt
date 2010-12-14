@@ -1,0 +1,233 @@
+09/04/1988	Minnesota           	10	Buffalo             	13
+09/04/1988	Miami               	 7	Chicago             	34
+09/04/1988	Phoenix             	14	Cincinnati          	21
+09/04/1988	Cleveland           	 6	Kansas City         	 3
+09/04/1988	Atlanta             	17	Detroit             	31
+09/04/1988	Houston             	17	Indianapolis        	14
+09/04/1988	San Diego           	13	LA Raiders          	24
+09/04/1988	LA Rams             	34	Green Bay           	 7
+09/04/1988	NY Jets             	 3	New England         	28
+09/04/1988	Philadelphia        	41	Tampa Bay           	14
+09/04/1988	Dallas              	21	Pittsburgh          	24
+09/04/1988	San Francisco       	34	New Orleans         	33
+09/04/1988	Seattle             	21	Denver              	14
+09/05/1988	Washington          	20	NY Giants           	27
+09/11/1988	Miami               	 6	Buffalo             	 9
+09/11/1988	Chicago             	17	Indianapolis        	13
+09/11/1988	Cincinnati          	28	Philadelphia        	24
+09/11/1988	San Diego           	 3	Denver              	34
+09/11/1988	LA Raiders          	35	Houston             	38
+09/11/1988	Detroit             	10	LA Rams             	17
+09/11/1988	New England         	 6	Minnesota           	36
+09/11/1988	New Orleans         	29	Atlanta             	21
+09/11/1988	NY Jets             	23	Cleveland           	 3
+09/11/1988	San Francisco       	20	NY Giants           	17
+09/11/1988	Kansas City         	10	Seattle             	31
+09/11/1988	Tampa Bay           	13	Green Bay           	10
+09/11/1988	Pittsburgh          	29	Washington          	30
+09/12/1988	Dallas              	17	Phoenix             	14
+09/18/1988	Atlanta             	34	San Francisco       	17
+09/18/1988	Buffalo             	16	New England         	14
+09/18/1988	Cincinnati          	17	Pittsburgh          	12
+09/18/1988	Denver              	13	Kansas City         	20
+09/18/1988	LA Rams             	22	LA Raiders          	17
+09/18/1988	Green Bay           	17	Miami               	24
+09/18/1988	Minnesota           	31	Chicago             	 7
+09/18/1988	New Orleans         	22	Detroit             	14
+09/18/1988	NY Giants           	12	Dallas              	10
+09/18/1988	Houston             	 3	NY Jets             	45
+09/18/1988	Phoenix             	30	Tampa Bay           	24
+09/18/1988	Seattle             	 6	San Diego           	17
+09/18/1988	Philadelphia        	10	Washington          	17
+09/19/1988	Indianapolis        	17	Cleveland           	23
+09/25/1988	Pittsburgh          	28	Buffalo             	36
+09/25/1988	Chicago             	24	Green Bay           	 6
+09/25/1988	Cleveland           	17	Cincinnati          	24
+09/25/1988	Atlanta             	20	Dallas              	26
+09/25/1988	New England         	 6	Houston             	31
+09/25/1988	Miami               	13	Indianapolis        	15
+09/25/1988	LA Rams             	45	NY Giants           	31
+09/25/1988	Philadelphia        	21	Minnesota           	23
+09/25/1988	Tampa Bay           	 9	New Orleans         	13
+09/25/1988	NY Jets             	17	Detroit             	10
+09/25/1988	Washington          	21	Phoenix             	30
+09/25/1988	San Diego           	24	Kansas City         	23
+09/25/1988	San Francisco       	38	Seattle             	 7
+09/26/1988	LA Raiders          	30	Denver              	27
+10/02/1988	Buffalo             	 3	Chicago             	24
+10/02/1988	Cincinnati          	45	LA Raiders          	21
+10/02/1988	Cleveland           	23	Pittsburgh          	 9
+10/02/1988	Denver              	12	San Diego           	 0
+10/02/1988	Kansas City         	17	NY Jets             	17
+10/02/1988	Minnesota           	 7	Miami               	24
+10/02/1988	Indianapolis        	17	New England         	21
+10/02/1988	NY Giants           	24	Washington          	23
+10/02/1988	Houston             	23	Philadelphia        	32
+10/02/1988	Phoenix             	41	LA Rams             	27
+10/02/1988	Detroit             	13	San Francisco       	20
+10/02/1988	Seattle             	31	Atlanta             	20
+10/02/1988	Green Bay           	24	Tampa Bay           	27
+10/03/1988	Dallas              	17	New Orleans         	20
+10/09/1988	Indianapolis        	23	Buffalo             	34
+10/09/1988	Chicago             	24	Detroit             	 7
+10/09/1988	NY Jets             	19	Cincinnati          	36
+10/09/1988	Denver              	16	San Francisco       	13
+10/09/1988	New England         	 3	Green Bay           	45
+10/09/1988	Kansas City         	 6	Houston             	 7
+10/09/1988	LA Rams             	33	Atlanta             	 0
+10/09/1988	Miami               	24	LA Raiders          	14
+10/09/1988	Tampa Bay           	13	Minnesota           	14
+10/09/1988	New Orleans         	23	San Diego           	17
+10/09/1988	Pittsburgh          	14	Phoenix             	31
+10/09/1988	Seattle             	16	Cleveland           	10
+10/09/1988	Washington          	35	Dallas              	17
+10/10/1988	NY Giants           	13	Philadelphia        	24
+10/16/1988	Dallas              	 7	Chicago             	17
+10/16/1988	Philadelphia        	 3	Cleveland           	19
+10/16/1988	Atlanta             	14	Denver              	30
+10/16/1988	Green Bay           	34	Minnesota           	14
+10/16/1988	Houston             	34	Pittsburgh          	14
+10/16/1988	Tampa Bay           	31	Indianapolis        	35
+10/16/1988	LA Raiders          	27	Kansas City         	17
+10/16/1988	San Diego           	28	Miami               	31
+10/16/1988	Cincinnati          	21	New England         	27
+10/16/1988	New Orleans         	20	Seattle             	19
+10/16/1988	Detroit             	10	NY Giants           	30
+10/16/1988	San Francisco       	24	LA Rams             	21
+10/16/1988	Phoenix             	17	Washington          	33
+10/17/1988	Buffalo             	37	NY Jets             	14
+10/23/1988	New England         	20	Buffalo             	23
+10/23/1988	Houston             	21	Cincinnati          	44
+10/23/1988	Cleveland           	29	Phoenix             	21
+10/23/1988	Detroit             	 7	Kansas City         	 6
+10/23/1988	Indianapolis        	16	San Diego           	 0
+10/23/1988	Seattle             	10	LA Rams             	31
+10/23/1988	Minnesota           	49	Tampa Bay           	20
+10/23/1988	LA Raiders          	 6	New Orleans         	20
+10/23/1988	NY Giants           	23	Atlanta             	16
+10/23/1988	NY Jets             	44	Miami               	30
+10/23/1988	Dallas              	23	Philadelphia        	24
+10/23/1988	Denver              	21	Pittsburgh          	39
+10/23/1988	Washington          	20	Green Bay           	17
+10/24/1988	San Francisco       	 9	Chicago             	10
+10/30/1988	Atlanta             	27	Philadelphia        	24
+10/30/1988	Green Bay           	 0	Buffalo             	28
+10/30/1988	Cincinnati          	16	Cleveland           	23
+10/30/1988	Washington          	17	Houston             	41
+10/30/1988	Kansas City         	10	LA Raiders          	17
+10/30/1988	LA Rams             	12	New Orleans         	10
+10/30/1988	Miami               	17	Tampa Bay           	14
+10/30/1988	Chicago             	 7	New England         	30
+10/30/1988	NY Giants           	13	Detroit             	10
+10/30/1988	Pittsburgh          	20	NY Jets             	24
+10/30/1988	Phoenix             	16	Dallas              	10
+10/30/1988	Minnesota           	21	San Francisco       	24
+10/30/1988	San Diego           	14	Seattle             	17
+10/31/1988	Denver              	23	Indianapolis        	55
+11/06/1988	Green Bay           	 0	Atlanta             	20
+11/06/1988	Buffalo             	13	Seattle             	 3
+11/06/1988	Tampa Bay           	10	Chicago             	28
+11/06/1988	Pittsburgh          	 7	Cincinnati          	42
+11/06/1988	Kansas City         	11	Denver              	17
+11/06/1988	NY Jets             	14	Indianapolis        	38
+11/06/1988	LA Raiders          	13	San Diego           	 3
+11/06/1988	Detroit             	17	Minnesota           	44
+11/06/1988	Miami               	10	New England         	21
+11/06/1988	Dallas              	21	NY Giants           	29
+11/06/1988	LA Rams             	24	Philadelphia        	30
+11/06/1988	San Francisco       	23	Phoenix             	24
+11/06/1988	New Orleans         	24	Washington          	27
+11/07/1988	Cleveland           	17	Houston             	24
+11/13/1988	Chicago             	34	Washington          	14
+11/13/1988	Cleveland           	 7	Denver              	30
+11/13/1988	Indianapolis        	20	Green Bay           	13
+11/13/1988	Cincinnati          	28	Kansas City         	31
+11/13/1988	LA Raiders          	 9	San Francisco       	 3
+11/13/1988	Minnesota           	43	Dallas              	 3
+11/13/1988	New England         	14	NY Jets             	13
+11/13/1988	New Orleans         	14	LA Rams             	10
+11/13/1988	Philadelphia        	27	Pittsburgh          	26
+11/13/1988	NY Giants           	17	Phoenix             	24
+11/13/1988	San Diego           	10	Atlanta             	 7
+11/13/1988	Houston             	24	Seattle             	27
+11/13/1988	Tampa Bay           	23	Detroit             	20
+11/14/1988	Buffalo             	31	Miami               	 6
+11/20/1988	Atlanta             	12	LA Raiders          	 6
+11/20/1988	NY Jets             	 6	Buffalo             	 9
+11/20/1988	Chicago             	27	Tampa Bay           	15
+11/20/1988	Cincinnati          	38	Dallas              	24
+11/20/1988	Pittsburgh          	 7	Cleveland           	27
+11/20/1988	Detroit             	19	Green Bay           	 9
+11/20/1988	Phoenix             	20	Houston             	38
+11/20/1988	Seattle             	24	Kansas City         	27
+11/20/1988	Indianapolis        	 3	Minnesota           	12
+11/20/1988	New England         	 6	Miami               	 3
+11/20/1988	Denver              	 0	New Orleans         	42
+11/20/1988	Philadelphia        	23	NY Giants           	17
+11/20/1988	San Diego           	38	LA Rams             	24
+11/21/1988	Washington          	21	San Francisco       	37
+11/24/1988	Houston             	25	Dallas              	17
+11/24/1988	Minnesota           	23	Detroit             	 0
+11/27/1988	Tampa Bay           	10	Atlanta             	17
+11/27/1988	Green Bay           	 0	Chicago             	16
+11/27/1988	Buffalo             	21	Cincinnati          	35
+11/27/1988	Cleveland           	17	Washington          	13
+11/27/1988	LA Rams             	24	Denver              	35
+11/27/1988	New England         	21	Indianapolis        	24
+11/27/1988	NY Giants           	13	New Orleans         	12
+11/27/1988	Miami               	34	NY Jets             	38
+11/27/1988	Phoenix             	21	Philadelphia        	31
+11/27/1988	Kansas City         	10	Pittsburgh          	16
+11/27/1988	San Francisco       	48	San Diego           	10
+11/28/1988	LA Raiders          	27	Seattle             	35
+12/04/1988	San Diego           	10	Cincinnati          	27
+12/04/1988	Dallas              	21	Cleveland           	24
+12/04/1988	Green Bay           	14	Detroit             	30
+12/04/1988	Indianapolis        	31	Miami               	28
+12/04/1988	NY Jets             	34	Kansas City         	38
+12/04/1988	Denver              	20	LA Raiders          	21
+12/04/1988	New Orleans         	 3	Minnesota           	45
+12/04/1988	Seattle             	 7	New England         	13
+12/04/1988	Phoenix             	 7	NY Giants           	44
+12/04/1988	Pittsburgh          	37	Houston             	34
+12/04/1988	San Francisco       	13	Atlanta             	 3
+12/04/1988	Buffalo             	 5	Tampa Bay           	10
+12/04/1988	Washington          	20	Philadelphia        	19
+12/05/1988	Chicago             	 3	LA Rams             	23
+12/10/1988	Indianapolis        	16	NY Jets             	34
+12/10/1988	Philadelphia        	23	Phoenix             	17
+12/11/1988	LA Raiders          	21	Buffalo             	37
+12/11/1988	Detroit             	12	Chicago             	13
+12/11/1988	Dallas              	24	Washington          	17
+12/11/1988	Minnesota           	 6	Green Bay           	18
+12/11/1988	Cincinnati          	 6	Houston             	41
+12/11/1988	Atlanta             	 7	LA Rams             	22
+12/11/1988	Tampa Bay           	 7	New England         	10
+12/11/1988	Kansas City         	12	NY Giants           	28
+12/11/1988	Pittsburgh          	14	San Diego           	20
+12/11/1988	New Orleans         	17	San Francisco       	30
+12/11/1988	Denver              	14	Seattle             	42
+12/12/1988	Cleveland           	31	Miami               	38
+12/17/1988	Washington          	17	Cincinnati          	20
+12/17/1988	New England         	10	Denver              	21
+12/18/1988	Houston             	23	Cleveland           	28
+12/18/1988	Green Bay           	26	Phoenix             	17
+12/18/1988	Buffalo             	14	Indianapolis        	17
+12/18/1988	LA Rams             	38	San Francisco       	16
+12/18/1988	Atlanta             	 9	New Orleans         	10
+12/18/1988	NY Giants           	21	NY Jets             	27
+12/18/1988	Philadelphia        	23	Dallas              	 7
+12/18/1988	Miami               	24	Pittsburgh          	40
+12/18/1988	Kansas City         	13	San Diego           	24
+12/18/1988	Seattle             	43	LA Raiders          	37
+12/18/1988	Detroit             	10	Tampa Bay           	21
+12/19/1988	Chicago             	27	Minnesota           	28
+12/24/1988	Houston             	24	Cleveland           	23
+12/26/1988	LA Rams             	17	Minnesota           	28
+12/31/1988	Philadelphia        	12	Chicago             	20
+12/31/1988	Seattle             	13	Cincinnati          	21
+01/01/1989	Houston             	10	Buffalo             	17
+01/01/1989	Minnesota           	 9	San Francisco       	34
+01/08/1989	Buffalo             	10	Cincinnati          	21
+01/08/1989	San Francisco       	28	Chicago             	 3
+01/22/1989	San Francisco       	20	Cincinnati          	16	0

@@ -1,0 +1,81 @@
+09/16/1950	Cleveland           	35	Philadelphia        	10
+09/17/1950	Washington          	38	Baltimore           	14
+09/17/1950	Detroit             	45	Green Bay           	 7
+09/17/1950	Chicago             	24	LA Rams             	20
+09/17/1950	NY Giants           	18	Pittsburgh          	 7
+09/17/1950	NY Yanks            	21	San Francisco       	17
+09/22/1950	NY Yanks            	28	LA Rams             	45
+09/24/1950	Cleveland           	31	Baltimore           	 0
+09/24/1950	Philadelphia        	45	Chicago Cardinals   	 7
+09/24/1950	Pittsburgh          	 7	Detroit             	10
+09/24/1950	Chicago             	32	San Francisco       	20
+09/24/1950	Washington          	21	Green Bay           	35
+09/29/1950	Detroit             	21	NY Yanks            	44
+10/01/1950	Chicago             	21	Green Bay           	31
+10/01/1950	NY Giants           	 6	Cleveland           	 0
+10/01/1950	LA Rams             	35	San Francisco       	14
+10/01/1950	Pittsburgh          	26	Washington          	 7
+10/02/1950	Baltimore           	13	Chicago Cardinals   	55
+10/07/1950	LA Rams             	20	Philadelphia        	56
+10/07/1950	Cleveland           	30	Pittsburgh          	17
+10/08/1950	Chicago Cardinals   	 6	Chicago             	27
+10/08/1950	NY Yanks            	44	Green Bay           	31
+10/08/1950	San Francisco       	 7	Detroit             	24
+10/08/1950	NY Giants           	21	Washington          	17
+10/12/1950	San Francisco       	24	NY Yanks            	29
+10/15/1950	Philadelphia        	24	Baltimore           	14
+10/15/1950	Chicago Cardinals   	24	Cleveland           	34
+10/15/1950	LA Rams             	30	Detroit             	28
+10/15/1950	Green Bay           	14	Chicago             	28
+10/15/1950	Pittsburgh          	17	NY Giants           	 6
+10/19/1950	Green Bay           	17	NY Yanks            	35
+10/22/1950	Baltimore           	27	LA Rams             	70
+10/22/1950	Cleveland           	13	NY Giants           	17
+10/22/1950	Detroit             	27	San Francisco       	28
+10/22/1950	Philadelphia        	17	Pittsburgh          	10
+10/22/1950	Chicago Cardinals   	38	Washington          	28
+10/29/1950	Baltimore           	14	San Francisco       	17
+10/29/1950	Chicago             	27	NY Yanks            	38
+10/29/1950	Detroit             	24	LA Rams             	65
+10/29/1950	NY Giants           	 3	Chicago Cardinals   	17
+10/29/1950	Pittsburgh          	 7	Cleveland           	45
+10/29/1950	Washington          	 3	Philadelphia        	35
+11/05/1950	Cleveland           	10	Chicago Cardinals   	 7
+11/05/1950	Chicago             	35	Detroit             	21
+11/05/1950	Green Bay           	21	Baltimore           	41
+11/05/1950	Pittsburgh          	 9	Philadelphia        	 7
+11/05/1950	San Francisco       	21	LA Rams             	28
+11/05/1950	Washington          	21	NY Giants           	24
+11/12/1950	Baltimore           	 7	Pittsburgh          	17
+11/12/1950	Chicago Cardinals   	21	NY Giants           	51
+11/12/1950	LA Rams             	45	Green Bay           	14
+11/12/1950	NY Yanks            	20	Chicago             	28
+11/12/1950	San Francisco       	14	Cleveland           	34
+11/12/1950	Philadelphia        	33	Washington          	 0
+11/19/1950	NY Giants           	55	Baltimore           	20
+11/19/1950	Green Bay           	21	Detroit             	24
+11/19/1950	LA Rams             	43	NY Yanks            	35
+11/19/1950	Chicago Cardinals   	14	Philadelphia        	10
+11/19/1950	San Francisco       	 0	Chicago             	17
+11/19/1950	Washington          	14	Cleveland           	20
+11/23/1950	Pittsburgh          	28	Chicago Cardinals   	17
+11/23/1950	NY Yanks            	14	Detroit             	49
+11/26/1950	Baltimore           	28	Washington          	38
+11/26/1950	LA Rams             	14	Chicago             	24
+11/26/1950	Philadelphia        	 3	NY Giants           	 7
+11/26/1950	San Francisco       	21	Green Bay           	25
+12/03/1950	Detroit             	45	Baltimore           	21
+12/03/1950	Chicago             	10	Chicago Cardinals   	20
+12/03/1950	Green Bay           	14	LA Rams             	51
+12/03/1950	NY Yanks            	 7	NY Giants           	51
+12/03/1950	Philadelphia        	 7	Cleveland           	13
+12/03/1950	Washington          	24	Pittsburgh          	 7
+12/10/1950	Baltimore           	14	NY Yanks            	51
+12/10/1950	Chicago Cardinals   	 7	Pittsburgh          	28
+12/10/1950	Detroit             	 3	Chicago             	 6
+12/10/1950	Green Bay           	14	San Francisco       	30
+12/10/1950	NY Giants           	 9	Philadelphia        	 7
+12/10/1950	Cleveland           	45	Washington          	21
+12/17/1950	Chicago             	20	LA Rams             	24
+12/17/1950	NY Giants           	 3	Cleveland           	 8
+12/24/1950	LA Rams             	28	Cleveland           	30

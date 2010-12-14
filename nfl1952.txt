@@ -1,0 +1,74 @@
+09/28/1952	Washington          	23	Chicago Cardinals   	 7
+09/28/1952	NY Giants           	24	Dallas              	 6
+09/28/1952	Detroit             	 3	San Francisco       	17
+09/28/1952	Chicago             	24	Green Bay           	14
+09/28/1952	LA Rams             	 7	Cleveland           	37
+09/28/1952	Philadelphia        	31	Pittsburgh          	25
+10/03/1952	Detroit             	17	LA Rams             	14
+10/04/1952	NY Giants           	31	Philadelphia        	 7
+10/04/1952	Cleveland           	21	Pittsburgh          	20
+10/05/1952	Chicago             	10	Chicago Cardinals   	21
+10/05/1952	San Francisco       	37	Dallas              	14
+10/05/1952	Washington          	20	Green Bay           	35
+10/12/1952	NY Giants           	17	Cleveland           	 9
+10/12/1952	Dallas              	20	Chicago             	38
+10/12/1952	San Francisco       	28	Detroit             	 0
+10/12/1952	LA Rams             	30	Green Bay           	28
+10/12/1952	Pittsburgh          	21	Philadelphia        	26
+10/12/1952	Chicago Cardinals   	17	Washington          	 6
+10/18/1952	Green Bay           	24	Dallas              	14
+10/19/1952	San Francisco       	40	Chicago             	16
+10/19/1952	LA Rams             	16	Detroit             	24
+10/19/1952	Chicago Cardinals   	24	NY Giants           	23
+10/19/1952	Cleveland           	49	Philadelphia        	 7
+10/19/1952	Washington          	28	Pittsburgh          	24
+10/26/1952	Chicago             	 7	LA Rams             	31
+10/26/1952	Pittsburgh          	34	Chicago Cardinals   	28
+10/26/1952	Dallas              	21	San Francisco       	48
+10/26/1952	Detroit             	52	Green Bay           	17
+10/26/1952	Philadelphia        	14	NY Giants           	10
+10/26/1952	Washington          	15	Cleveland           	19
+11/02/1952	NY Giants           	28	Chicago Cardinals   	 6
+11/02/1952	Cleveland           	 6	Detroit             	17
+11/02/1952	Dallas              	20	LA Rams             	42
+11/02/1952	Philadelphia        	10	Green Bay           	12
+11/02/1952	Chicago             	20	San Francisco       	17
+11/02/1952	Pittsburgh          	24	Washington          	23
+11/09/1952	Green Bay           	41	Chicago             	28
+11/09/1952	Chicago Cardinals   	13	Cleveland           	28
+11/09/1952	LA Rams             	27	Dallas              	 6
+11/09/1952	Detroit             	31	Pittsburgh          	 6
+11/09/1952	San Francisco       	14	NY Giants           	23
+11/09/1952	Washington          	20	Philadelphia        	38
+11/16/1952	LA Rams             	40	Chicago             	24
+11/16/1952	Chicago Cardinals   	 7	Philadelphia        	10
+11/16/1952	Dallas              	13	Detroit             	43
+11/16/1952	Green Bay           	17	NY Giants           	 3
+11/16/1952	Pittsburgh          	28	Cleveland           	29
+11/16/1952	San Francisco       	23	Washington          	17
+11/23/1952	Chicago Cardinals   	14	Pittsburgh          	17
+11/23/1952	Philadelphia        	28	Cleveland           	20
+11/23/1952	Dallas              	14	Green Bay           	42
+11/23/1952	Detroit             	23	Chicago             	24
+11/23/1952	San Francisco       	 9	LA Rams             	35
+11/23/1952	NY Giants           	14	Washington          	10
+11/27/1952	Dallas              	27	Chicago             	23	neutral
+11/27/1952	Green Bay           	24	Detroit             	48
+11/30/1952	NY Giants           	 7	Pittsburgh          	63
+11/30/1952	Philadelphia        	22	Chicago Cardinals   	28
+11/30/1952	LA Rams             	34	San Francisco       	21
+11/30/1952	Cleveland           	48	Washington          	24
+12/07/1952	Chicago             	21	Detroit             	45
+12/07/1952	Cleveland           	10	Chicago Cardinals   	 0
+12/07/1952	Dallas              	21	Philadelphia        	38
+12/07/1952	Green Bay           	27	LA Rams             	45
+12/07/1952	Washington          	27	NY Giants           	17
+12/07/1952	Pittsburgh          	24	San Francisco       	 7
+12/13/1952	Dallas              	 6	Detroit             	41
+12/14/1952	Chicago Cardinals   	 7	Chicago             	10
+12/14/1952	Cleveland           	34	NY Giants           	37
+12/14/1952	Green Bay           	14	San Francisco       	24
+12/14/1952	Philadelphia        	21	Washington          	27
+12/14/1952	Pittsburgh          	14	LA Rams             	28
+12/21/1952	LA Rams             	21	Detroit             	31
+12/28/1952	Detroit             	17	Cleveland           	 7

@@ -1,0 +1,234 @@
+09/01/1979	Detroit             	16	Tampa Bay           	31
+09/02/1979	Atlanta             	40	New Orleans         	34
+09/02/1979	Green Bay           	 3	Chicago             	 6
+09/02/1979	Cleveland           	25	NY Jets             	22
+09/02/1979	Dallas              	22	St Louis            	21
+09/02/1979	Cincinnati          	 0	Denver              	10
+09/02/1979	Houston             	29	Washington          	27
+09/02/1979	Baltimore           	 0	Kansas City         	14
+09/02/1979	Miami               	 9	Buffalo             	 7
+09/02/1979	San Francisco       	22	Minnesota           	28
+09/02/1979	Oakland             	24	LA Rams             	17
+09/02/1979	NY Giants           	17	Philadelphia        	23
+09/02/1979	San Diego           	33	Seattle             	16
+09/03/1979	Pittsburgh          	16	New England         	13
+09/06/1979	LA Rams             	13	Denver              	 9
+09/09/1979	Cincinnati          	24	Buffalo             	51
+09/09/1979	Minnesota           	 7	Chicago             	26
+09/09/1979	Cleveland           	27	Kansas City         	24
+09/09/1979	Dallas              	21	San Francisco       	13
+09/09/1979	New Orleans         	19	Green Bay           	28
+09/09/1979	Seattle             	10	Miami               	19
+09/09/1979	NY Jets             	 3	New England         	56
+09/09/1979	Houston             	 7	Pittsburgh          	38
+09/09/1979	Oakland             	10	San Diego           	30
+09/09/1979	St Louis            	27	NY Giants           	14
+09/09/1979	Tampa Bay           	29	Baltimore           	26
+09/09/1979	Washington          	27	Detroit             	24
+09/10/1979	Atlanta             	14	Philadelphia        	10
+09/16/1979	Baltimore           	10	Cleveland           	13
+09/16/1979	Chicago             	20	Dallas              	24
+09/16/1979	Denver              	20	Atlanta             	17
+09/16/1979	Kansas City         	 6	Houston             	20
+09/16/1979	San Francisco       	24	LA Rams             	27
+09/16/1979	Miami               	27	Minnesota           	12
+09/16/1979	New England         	20	Cincinnati          	14
+09/16/1979	Detroit             	10	NY Jets             	31
+09/16/1979	Philadelphia        	26	New Orleans         	14
+09/16/1979	Pittsburgh          	24	St Louis            	21
+09/16/1979	Buffalo             	19	San Diego           	27
+09/16/1979	Oakland             	10	Seattle             	27
+09/16/1979	Tampa Bay           	21	Green Bay           	10
+09/17/1979	NY Giants           	 0	Washington          	27
+09/23/1979	NY Jets             	31	Buffalo             	46
+09/23/1979	Seattle             	34	Denver              	37
+09/23/1979	Atlanta             	23	Detroit             	24
+09/23/1979	Houston             	30	Cincinnati          	27
+09/23/1979	Oakland             	 7	Kansas City         	35
+09/23/1979	Chicago             	16	Miami               	31
+09/23/1979	Green Bay           	21	Minnesota           	27
+09/23/1979	San Diego           	21	New England         	27
+09/23/1979	New Orleans         	30	San Francisco       	21
+09/23/1979	Philadelphia        	17	NY Giants           	13
+09/23/1979	Baltimore           	13	Pittsburgh          	17
+09/23/1979	LA Rams             	 6	Tampa Bay           	21
+09/23/1979	Washington          	17	St Louis            	 7
+09/24/1979	Dallas              	 7	Cleveland           	26
+09/30/1979	Buffalo             	31	Baltimore           	13
+09/30/1979	Cincinnati          	13	Dallas              	38
+09/30/1979	Cleveland           	10	Houston             	31
+09/30/1979	Kansas City         	24	Seattle             	 6
+09/30/1979	St Louis            	 0	LA Rams             	21
+09/30/1979	Minnesota           	13	Detroit             	10
+09/30/1979	NY Giants           	14	New Orleans         	24
+09/30/1979	Miami               	27	NY Jets             	33
+09/30/1979	Denver              	 3	Oakland             	27
+09/30/1979	Pittsburgh          	14	Philadelphia        	17
+09/30/1979	San Francisco       	 9	San Diego           	31
+09/30/1979	Tampa Bay           	17	Chicago             	13
+09/30/1979	Washington          	16	Atlanta             	 7
+10/01/1979	New England         	14	Green Bay           	27
+10/07/1979	Green Bay           	 7	Atlanta             	25
+10/07/1979	NY Jets             	 8	Baltimore           	10
+10/07/1979	Chicago             	 7	Buffalo             	 0
+10/07/1979	Dallas              	36	Minnesota           	20
+10/07/1979	San Diego           	 0	Denver              	 7
+10/07/1979	Kansas City         	10	Cincinnati          	 7
+10/07/1979	LA Rams             	35	New Orleans         	17
+10/07/1979	Detroit             	17	New England         	24
+10/07/1979	Tampa Bay           	14	NY Giants           	17
+10/07/1979	Philadelphia        	28	Washington          	17
+10/07/1979	Pittsburgh          	51	Cleveland           	35
+10/07/1979	Seattle             	35	San Francisco       	24
+10/07/1979	St Louis            	24	Houston             	17
+10/08/1979	Miami               	 3	Oakland             	13
+10/14/1979	Pittsburgh          	10	Cincinnati          	34
+10/14/1979	LA Rams             	 6	Dallas              	30
+10/14/1979	Denver              	24	Kansas City         	10
+10/14/1979	Detroit             	16	Green Bay           	24
+10/14/1979	Houston             	28	Baltimore           	16
+10/14/1979	Buffalo             	 7	Miami               	17
+10/14/1979	New England         	27	Chicago             	 7
+10/14/1979	New Orleans         	42	Tampa Bay           	14
+10/14/1979	San Francisco       	16	NY Giants           	32
+10/14/1979	Atlanta             	19	Oakland             	50
+10/14/1979	Philadelphia        	24	St Louis            	20
+10/14/1979	Seattle             	10	San Diego           	20
+10/14/1979	Washington          	13	Cleveland           	 9
+10/15/1979	Minnesota           	 7	NY Jets             	14
+10/21/1979	Baltimore           	14	Buffalo             	13
+10/21/1979	Cincinnati          	27	Cleveland           	28
+10/21/1979	St Louis            	13	Dallas              	22
+10/21/1979	Chicago             	27	Minnesota           	30
+10/21/1979	Miami               	13	New England         	28
+10/21/1979	Detroit             	 7	New Orleans         	17
+10/21/1979	NY Giants           	21	Kansas City         	17
+10/21/1979	Oakland             	19	NY Jets             	28
+10/21/1979	San Diego           	40	LA Rams             	16
+10/21/1979	Atlanta             	15	San Francisco       	20
+10/21/1979	Houston             	14	Seattle             	34
+10/21/1979	Green Bay           	 3	Tampa Bay           	21
+10/21/1979	Washington          	17	Philadelphia        	 7
+10/22/1979	Denver              	 7	Pittsburgh          	42
+10/25/1979	San Diego           	22	Oakland             	45
+10/28/1979	New England         	26	Baltimore           	31
+10/28/1979	Buffalo             	20	Detroit             	17
+10/28/1979	Chicago             	28	San Francisco       	27
+10/28/1979	Philadelphia        	13	Cincinnati          	37
+10/28/1979	Cleveland           	38	St Louis            	20
+10/28/1979	Kansas City         	 3	Denver              	20
+10/28/1979	NY Jets             	24	Houston             	27
+10/28/1979	Green Bay           	 7	Miami               	27
+10/28/1979	New Orleans         	14	Washington          	10
+10/28/1979	NY Giants           	20	LA Rams             	14
+10/28/1979	Dallas              	 3	Pittsburgh          	14
+10/28/1979	Tampa Bay           	12	Minnesota           	10
+10/29/1979	Seattle             	31	Atlanta             	28
+11/04/1979	Tampa Bay           	14	Atlanta             	17
+11/04/1979	Cincinnati          	28	Baltimore           	38
+11/04/1979	Detroit             	 7	Chicago             	35
+11/04/1979	Cleveland           	24	Philadelphia        	19
+11/04/1979	Dallas              	16	NY Giants           	14
+11/04/1979	New Orleans         	 3	Denver              	10
+11/04/1979	LA Rams             	24	Seattle             	 0
+11/04/1979	New England         	26	Buffalo             	 6
+11/04/1979	NY Jets             	27	Green Bay           	22
+11/04/1979	San Francisco       	10	Oakland             	23
+11/04/1979	Washington          	 7	Pittsburgh          	38
+11/04/1979	San Diego           	20	Kansas City         	14
+11/04/1979	Minnesota           	 7	St Louis            	37
+11/05/1979	Houston             	 9	Miami               	 6
+11/11/1979	Buffalo             	14	NY Jets             	12
+11/11/1979	LA Rams             	23	Chicago             	27
+11/11/1979	New England         	10	Denver              	45
+11/11/1979	Minnesota           	 7	Green Bay           	19
+11/11/1979	Oakland             	17	Houston             	31
+11/11/1979	Baltimore           	 0	Miami               	19
+11/11/1979	San Francisco       	20	New Orleans         	31
+11/11/1979	Atlanta             	 3	NY Giants           	24
+11/11/1979	Pittsburgh          	30	Kansas City         	 3
+11/11/1979	San Diego           	26	Cincinnati          	24
+11/11/1979	Seattle             	29	Cleveland           	24
+11/11/1979	Tampa Bay           	16	Detroit             	14
+11/11/1979	St Louis            	28	Washington          	30
+11/12/1979	Philadelphia        	31	Dallas              	21
+11/18/1979	Green Bay           	12	Buffalo             	19
+11/18/1979	NY Jets             	13	Chicago             	23
+11/18/1979	Miami               	24	Cleveland           	30
+11/18/1979	Denver              	38	San Francisco       	28
+11/18/1979	Cincinnati          	21	Houston             	42
+11/18/1979	Kansas City         	24	Oakland             	21
+11/18/1979	Detroit             	 7	Minnesota           	14
+11/18/1979	Baltimore           	21	New England         	50
+11/18/1979	St Louis            	13	Philadelphia        	16
+11/18/1979	Pittsburgh          	 7	San Diego           	35
+11/18/1979	New Orleans         	24	Seattle             	38
+11/18/1979	NY Giants           	 3	Tampa Bay           	31
+11/18/1979	Dallas              	20	Washington          	34
+11/19/1979	Atlanta             	14	LA Rams             	20
+11/22/1979	Chicago             	 0	Detroit             	20
+11/22/1979	Houston             	30	Dallas              	24
+11/25/1979	Buffalo             	16	New England         	13
+11/25/1979	St Louis            	28	Cincinnati          	34
+11/25/1979	LA Rams             	26	San Francisco       	20
+11/25/1979	Miami               	28	Baltimore           	24
+11/25/1979	Minnesota           	23	Tampa Bay           	22
+11/25/1979	New Orleans         	37	Atlanta             	 6
+11/25/1979	Washington          	 6	NY Giants           	14
+11/25/1979	Oakland             	14	Denver              	10
+11/25/1979	Philadelphia        	21	Green Bay           	10
+11/25/1979	Cleveland           	30	Pittsburgh          	33
+11/25/1979	Kansas City         	 7	San Diego           	28
+11/26/1979	NY Jets             	 7	Seattle             	30
+11/29/1979	New England         	24	Miami               	39
+12/02/1979	Atlanta             	28	San Diego           	26
+12/02/1979	Chicago             	14	Tampa Bay           	 0
+12/02/1979	Houston             	 7	Cleveland           	14
+12/02/1979	NY Giants           	 7	Dallas              	28
+12/02/1979	Denver              	19	Buffalo             	16
+12/02/1979	Seattle             	21	Kansas City         	37
+12/02/1979	Minnesota           	21	LA Rams             	27
+12/02/1979	Baltimore           	17	NY Jets             	30
+12/02/1979	Detroit             	 7	Philadelphia        	44
+12/02/1979	Cincinnati          	17	Pittsburgh          	37
+12/02/1979	San Francisco       	10	St Louis            	13
+12/02/1979	Green Bay           	21	Washington          	38
+12/03/1979	Oakland             	42	New Orleans         	35
+12/08/1979	Dallas              	24	Philadelphia        	17
+12/08/1979	Denver              	23	Seattle             	28
+12/09/1979	Chicago             	15	Green Bay           	14
+12/09/1979	Kansas City         	10	Baltimore           	 7
+12/09/1979	LA Rams             	34	Atlanta             	13
+12/09/1979	Miami               	28	Detroit             	10
+12/09/1979	Buffalo             	 3	Minnesota           	10
+12/09/1979	New England         	26	NY Jets             	27
+12/09/1979	Cleveland           	14	Oakland             	19
+12/09/1979	San Diego           	35	New Orleans         	 0
+12/09/1979	Tampa Bay           	 7	San Francisco       	23
+12/09/1979	NY Giants           	20	St Louis            	29
+12/09/1979	Cincinnati          	14	Washington          	28
+12/10/1979	Pittsburgh          	17	Houston             	20
+12/15/1979	Green Bay           	18	Detroit             	13
+12/15/1979	NY Jets             	27	Miami               	24
+12/16/1979	San Francisco       	21	Atlanta             	31
+12/16/1979	Baltimore           	31	NY Giants           	 7
+12/16/1979	St Louis            	 6	Chicago             	42
+12/16/1979	Cleveland           	12	Cincinnati          	16
+12/16/1979	Washington          	34	Dallas              	35
+12/16/1979	Minnesota           	23	New England         	27
+12/16/1979	New Orleans         	29	LA Rams             	14
+12/16/1979	Philadelphia        	26	Houston             	20
+12/16/1979	Buffalo             	 0	Pittsburgh          	28
+12/16/1979	Seattle             	29	Oakland             	24
+12/16/1979	Kansas City         	 0	Tampa Bay           	 3
+12/17/1979	Denver              	 7	San Diego           	17
+12/23/1979	Denver              	 7	Houston             	13
+12/23/1979	Chicago             	17	Philadelphia        	27
+12/29/1979	Houston             	17	San Diego           	14
+12/29/1979	Philadelphia        	17	Tampa Bay           	24
+12/30/1979	LA Rams             	21	Dallas              	19
+12/30/1979	Miami               	14	Pittsburgh          	34
+01/06/1980	LA Rams             	 9	Tampa Bay           	 0
+01/06/1980	Houston             	13	Pittsburgh          	27
+01/20/1980	Pittsburgh          	31	LA Rams             	19	n
+

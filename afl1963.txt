@@ -1,0 +1,58 @@
+09/06/1963	Kansas City    	59	Denver         	7	1
+09/07/1963	Oakland        	24	Houston        	13	1
+09/08/1963	Buffalo        	10	San Diego      	14	1
+09/08/1963	NY Jets        	14	Boston         	38	1
+09/14/1963	Boston         	13	San Diego      	17	1
+09/14/1963	Denver         	14	Houston        	20	1
+09/15/1963	Buffalo        	17	Oakland        	35	1
+09/22/1963	Kansas City    	27	Buffalo        	27	1
+09/22/1963	Houston        	17	NY Jets        	24	1
+09/22/1963	Boston         	20	Oakland        	14	1
+09/28/1963	Houston        	31	Buffalo        	20	1
+09/28/1963	Oakland        	7	NY Jets        	10	1
+09/29/1963	Boston         	10	Denver         	14	1
+09/29/1963	Kansas City    	10	San Diego      	24	1
+10/05/1963	Boston         	24	NY Jets        	31	1
+10/05/1963	Oakland        	0	Buffalo        	12	1
+10/06/1963	Houston        	7	Kansas City    	28	1
+10/06/1963	San Diego      	34	Denver         	50	1
+10/11/1963	Oakland        	14	Boston         	20	1
+10/13/1963	Houston        	33	Denver         	24	1
+10/13/1963	Buffalo        	35	Kansas City    	26	1
+10/13/1963	NY Jets        	20	San Diego      	24	1
+10/18/1963	Denver         	21	Boston         	40	1
+10/20/1963	Buffalo        	14	Houston        	28	1
+10/20/1963	San Diego      	38	Kansas City    	17	1
+10/20/1963	NY Jets        	26	Oakland        	49	1
+10/26/1963	Boston         	21	Buffalo        	28	1
+10/26/1963	Denver         	35	NY Jets        	35	1
+10/27/1963	Kansas City    	7	Houston        	28	1
+10/27/1963	Oakland        	34	San Diego      	33	1
+11/01/1963	Houston        	3	Boston         	45	1
+11/02/1963	San Diego      	53	NY Jets        	7	1
+11/03/1963	Buffalo        	30	Denver         	28	1
+11/03/1963	Kansas City    	7	Oakland        	10	1
+11/10/1963	San Diego      	7	Boston         	6	1
+11/10/1963	Denver         	17	Buffalo        	27	1
+11/10/1963	Oakland        	22	Kansas City    	7	1
+11/10/1963	NY Jets        	27	Houston        	31	1
+11/17/1963	Kansas City    	24	Boston         	24	1
+11/17/1963	San Diego      	23	Buffalo        	13	1
+11/17/1963	NY Jets        	14	Denver         	9	1
+11/24/1963	Buffalo        	7	Boston         	17	1
+11/24/1963	Oakland        	26	Denver         	10	1
+11/24/1963	Houston        	0	San Diego      	27	1
+11/24/1963	Kansas City    	0	NY Jets        	17	1
+11/28/1963	Denver         	21	Kansas City    	52	1
+12/01/1963	Boston         	46	Houston        	28	1
+12/01/1963	Buffalo        	45	NY Jets        	14	1
+12/01/1963	San Diego      	27	Oakland        	41	1
+12/08/1963	Boston         	3	Kansas City    	35	1
+12/08/1963	Denver         	31	Oakland        	35	1
+12/08/1963	San Diego      	20	Houston        	14	1
+12/08/1963	NY Jets        	10	Buffalo        	19	1
+12/14/1963	NY Jets        	0	Kansas City    	48	1
+12/15/1963	Denver         	20	San Diego      	58	1
+12/15/1963	Houston        	49	Oakland        	52	1
+12/22/1963	Boston         	26	Buffalo        	8	1
+01/05/1964	Boston         	10	San Diego      	51	1

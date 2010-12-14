@@ -1,0 +1,251 @@
+08/31/1997	Indianapolis        	10	Miami               	16
+08/31/1997	San Diego           	 7	New England         	41
+08/31/1997	NY Jets             	41	Seattle             	 3
+08/31/1997	Arizona             	21	Cincinnati          	24
+08/31/1997	Oakland             	21	Tennessee           	24
+08/31/1997	Jacksonville        	28	Baltimore           	27
+08/31/1997	Kansas City         	 3	Denver              	19
+08/31/1997	Dallas              	37	Pittsburgh          	 7
+08/31/1997	Philadelphia        	17	NY Giants           	31
+08/31/1997	Washington          	24	Carolina            	10
+08/31/1997	Atlanta             	17	Detroit             	28
+08/31/1997	Minnesota           	34	Buffalo             	13
+08/31/1997	San Francisco       	 6	Tampa Bay           	13
+08/31/1997	New Orleans         	24	St Louis            	38
+09/01/1997	Chicago             	24	Green Bay           	38
+09/07/1997	Buffalo             	28	NY Jets             	22
+09/07/1997	Tennessee           	13	Miami               	16
+09/07/1997	New England         	31	Indianapolis        	 6
+09/07/1997	Cincinnati          	10	Baltimore           	23
+09/07/1997	NY Giants           	13	Jacksonville        	40
+09/07/1997	Washington          	13	Pittsburgh          	14
+09/07/1997	Denver              	35	Seattle             	14
+09/07/1997	San Diego           	20	New Orleans         	 6
+09/07/1997	Dallas              	22	Arizona             	25
+09/07/1997	Green Bay           	 9	Philadelphia        	10
+09/07/1997	Minnesota           	27	Chicago             	24
+09/07/1997	Tampa Bay           	24	Detroit             	17
+09/07/1997	Carolina            	 9	Atlanta             	 6
+09/07/1997	San Francisco       	15	St Louis            	12
+09/08/1997	Kansas City         	28	Oakland             	27
+09/14/1997	NY Jets             	24	New England         	27
+09/14/1997	Baltimore           	24	NY Giants           	23
+09/14/1997	St Louis            	14	Denver              	35
+09/14/1997	Buffalo             	16	Kansas City         	22
+09/14/1997	Oakland             	36	Atlanta             	31
+09/14/1997	Seattle             	31	Indianapolis        	 3
+09/14/1997	Arizona             	13	Washington          	19
+09/14/1997	Detroit             	32	Chicago             	 7
+09/14/1997	Miami               	18	Green Bay           	23
+09/14/1997	Tampa Bay           	28	Minnesota           	14
+09/14/1997	Carolina            	26	San Diego           	 7
+09/14/1997	New Orleans         	 7	San Francisco       	33
+09/15/1997	Philadelphia        	20	Dallas              	21
+09/21/1997	Indianapolis        	35	Buffalo             	37
+09/21/1997	Chicago             	 3	New England         	31
+09/21/1997	Oakland             	22	NY Jets             	23
+09/21/1997	Baltimore           	36	Tennessee           	10
+09/21/1997	Cincinnati          	20	Denver              	38
+09/21/1997	Kansas City         	35	Carolina            	14
+09/21/1997	San Diego           	22	Seattle             	26
+09/21/1997	Minnesota           	32	Green Bay           	38
+09/21/1997	Miami               	21	Tampa Bay           	31
+09/21/1997	Detroit             	17	New Orleans         	35
+09/21/1997	NY Giants           	 3	St Louis            	13
+09/21/1997	Atlanta             	 7	San Francisco       	34
+09/22/1997	Pittsburgh          	21	Jacksonville        	30
+09/28/1997	NY Jets             	31	Cincinnati          	14
+09/28/1997	Tennessee           	24	Pittsburgh          	37
+09/28/1997	Denver              	29	Atlanta             	21
+09/28/1997	Seattle             	17	Kansas City         	20
+09/28/1997	St Louis            	17	Oakland             	35
+09/28/1997	Baltimore           	17	San Diego           	21
+09/28/1997	Chicago             	 3	Dallas              	27
+09/28/1997	New Orleans         	 9	NY Giants           	14
+09/28/1997	Jacksonville        	12	Washington          	24
+09/28/1997	Green Bay           	15	Detroit             	26
+09/28/1997	Philadelphia        	19	Minnesota           	28
+09/28/1997	Arizona             	18	Tampa Bay           	19
+09/29/1997	San Francisco       	34	Carolina            	21
+10/05/1997	Detroit             	13	Buffalo             	22
+10/05/1997	Kansas City         	14	Miami               	17
+10/05/1997	NY Jets             	16	Indianapolis        	12
+10/05/1997	Cincinnati          	13	Jacksonville        	21
+10/05/1997	Pittsburgh          	42	Baltimore           	34
+10/05/1997	San Diego           	25	Oakland             	10
+10/05/1997	Tennessee           	13	Seattle             	16
+10/05/1997	Dallas              	17	NY Giants           	20
+10/05/1997	Washington          	10	Philadelphia        	24
+10/05/1997	Tampa Bay           	16	Green Bay           	21
+10/05/1997	Minnesota           	20	Arizona             	19
+10/05/1997	New Orleans         	20	Chicago             	17
+10/06/1997	New England         	13	Denver              	34
+10/12/1997	Miami               	31	NY Jets             	20
+10/12/1997	Buffalo             	 6	New England         	33
+10/12/1997	Cincinnati          	 7	Tennessee           	30
+10/12/1997	Philadelphia        	21	Jacksonville        	38
+10/12/1997	Indianapolis        	22	Pittsburgh          	24
+10/12/1997	NY Giants           	27	Arizona             	13
+10/12/1997	Detroit             	27	Tampa Bay           	 9
+10/12/1997	Green Bay           	24	Chicago             	23
+10/12/1997	Carolina            	14	Minnesota           	21
+10/12/1997	Atlanta             	23	New Orleans         	17
+10/12/1997	St Louis            	10	San Francisco       	30
+10/13/1997	Dallas              	16	Washington          	21
+10/16/1997	San Diego           	 3	Kansas City         	31
+10/19/1997	Miami               	24	Baltimore           	13
+10/19/1997	New England         	19	NY Jets             	24
+10/19/1997	Washington          	14	Tennessee           	28
+10/19/1997	Pittsburgh          	26	Cincinnati          	10
+10/19/1997	Denver              	25	Oakland             	28
+10/19/1997	Seattle             	17	St Louis            	 9
+10/19/1997	Jacksonville        	22	Dallas              	26
+10/19/1997	NY Giants           	26	Detroit             	20
+10/19/1997	Arizona             	10	Philadelphia        	13
+10/19/1997	Carolina            	13	New Orleans         	 0
+10/19/1997	San Francisco       	35	Atlanta             	28
+10/20/1997	Buffalo             	 9	Indianapolis        	 6
+10/26/1997	Baltimore           	20	Washington          	17
+10/26/1997	Tennessee           	41	Arizona             	14
+10/26/1997	Jacksonville        	17	Pittsburgh          	23
+10/26/1997	Denver              	23	Buffalo             	20
+10/26/1997	Kansas City         	28	St Louis            	20
+10/26/1997	Indianapolis        	19	San Diego           	35
+10/26/1997	Oakland             	34	Seattle             	45
+10/26/1997	Cincinnati          	27	NY Giants           	29
+10/26/1997	Dallas              	12	Philadelphia        	13
+10/26/1997	Minnesota           	10	Tampa Bay           	 6
+10/26/1997	Atlanta             	12	Carolina            	21
+10/26/1997	San Francisco       	23	New Orleans         	 0
+10/27/1997	Chicago             	36	Miami               	33
+10/27/1997	Green Bay           	28	New England         	10
+11/02/1997	Miami               	 6	Buffalo             	 9
+11/02/1997	Baltimore           	16	NY Jets             	19
+11/02/1997	San Diego           	31	Cincinnati          	38
+11/02/1997	Jacksonville        	30	Tennessee           	24
+11/02/1997	Seattle             	27	Denver              	30
+11/02/1997	Philadelphia        	21	Arizona             	31
+11/02/1997	Washington          	31	Chicago             	 8
+11/02/1997	Detroit             	10	Green Bay           	20
+11/02/1997	New England         	18	Minnesota           	23
+11/02/1997	Tampa Bay           	31	Indianapolis        	28
+11/02/1997	St Louis            	31	Atlanta             	34
+11/02/1997	Oakland             	14	Carolina            	38
+11/02/1997	Dallas              	10	San Francisco       	17
+11/03/1997	Pittsburgh          	10	Kansas City         	13
+11/09/1997	NY Jets             	17	Miami               	24
+11/09/1997	New England         	31	Buffalo             	10
+11/09/1997	Cincinnati          	28	Indianapolis        	13
+11/09/1997	NY Giants           	 6	Tennessee           	10
+11/09/1997	Kansas City         	10	Jacksonville        	24
+11/09/1997	Baltimore           	 0	Pittsburgh          	37
+11/09/1997	Carolina            	 0	Denver              	34
+11/09/1997	Seattle             	37	San Diego           	31
+11/09/1997	Arizona             	 6	Dallas              	24
+11/09/1997	Detroit             	 7	Washington          	30
+11/09/1997	St Louis            	 7	Green Bay           	17
+11/09/1997	Chicago             	22	Minnesota           	29
+11/09/1997	Tampa Bay           	31	Atlanta             	10
+11/09/1997	New Orleans         	13	Oakland             	10
+11/10/1997	San Francisco       	24	Philadelphia        	12
+11/16/1997	Green Bay           	38	Indianapolis        	41
+11/16/1997	NY Jets             	23	Chicago             	15
+11/16/1997	Tennessee           	 9	Jacksonville        	17
+11/16/1997	Cincinnati          	 3	Pittsburgh          	20
+11/16/1997	Denver              	22	Kansas City         	24
+11/16/1997	Oakland             	38	San Diego           	13
+11/16/1997	Washington          	14	Dallas              	17
+11/16/1997	Arizona             	10	NY Giants           	19
+11/16/1997	Philadelphia        	10	Baltimore           	10
+11/16/1997	Minnesota           	15	Detroit             	38
+11/16/1997	New England         	 7	Tampa Bay           	27
+11/16/1997	Atlanta             	27	St Louis            	21
+11/16/1997	Seattle             	17	New Orleans         	20
+11/16/1997	Carolina            	19	San Francisco       	27
+11/17/1997	Buffalo             	13	Miami               	30
+11/23/1997	Miami               	24	New England         	27
+11/23/1997	Minnesota           	21	NY Jets             	23
+11/23/1997	Jacksonville        	26	Cincinnati          	31
+11/23/1997	Buffalo             	14	Tennessee           	31
+11/23/1997	Kansas City         	19	Seattle             	14
+11/23/1997	Arizona             	16	Baltimore           	13
+11/23/1997	Pittsburgh          	20	Philadelphia        	23
+11/23/1997	NY Giants           	 7	Washington          	 7
+11/23/1997	Tampa Bay           	 7	Chicago             	13
+11/23/1997	Indianapolis        	10	Detroit             	32
+11/23/1997	Dallas              	17	Green Bay           	45
+11/23/1997	New Orleans         	 3	Atlanta             	20
+11/23/1997	Carolina            	16	St Louis            	10
+11/23/1997	San Diego           	10	San Francisco       	17
+11/24/1997	Oakland             	 3	Denver              	31
+11/27/1997	Tennessee           	27	Dallas              	14
+11/27/1997	Chicago             	20	Detroit             	55
+11/30/1997	NY Jets             	10	Buffalo             	20
+11/30/1997	Miami               	34	Oakland             	16
+11/30/1997	Indianapolis        	17	New England         	20
+11/30/1997	Baltimore           	27	Jacksonville        	29
+11/30/1997	Pittsburgh          	26	Arizona             	20
+11/30/1997	Denver              	38	San Diego           	28
+11/30/1997	San Francisco       	 9	Kansas City         	44
+11/30/1997	Cincinnati          	42	Philadelphia        	44
+11/30/1997	Tampa Bay           	20	NY Giants           	 8
+11/30/1997	Atlanta             	24	Seattle             	17
+11/30/1997	New Orleans         	16	Carolina            	13
+11/30/1997	St Louis            	23	Washington          	20
+12/01/1997	Green Bay           	27	Minnesota           	11
+12/04/1997	Tennessee           	14	Cincinnati          	41
+12/07/1997	Indianapolis        	22	NY Jets             	14
+12/07/1997	Detroit             	30	Miami               	33
+12/07/1997	New England         	26	Jacksonville        	20
+12/07/1997	Seattle             	24	Baltimore           	31
+12/07/1997	Denver              	24	Pittsburgh          	35
+12/07/1997	Oakland             	 0	Kansas City         	30
+12/07/1997	NY Giants           	31	Philadelphia        	21
+12/07/1997	Washington          	38	Arizona             	28
+12/07/1997	Buffalo             	 3	Chicago             	20
+12/07/1997	Green Bay           	17	Tampa Bay           	 6
+12/07/1997	Atlanta             	14	San Diego           	 3
+12/07/1997	St Louis            	34	New Orleans         	27
+12/07/1997	Minnesota           	17	San Francisco       	28
+12/08/1997	Carolina            	23	Dallas              	13
+12/13/1997	Pittsburgh          	24	New England         	21
+12/13/1997	Washington          	10	NY Giants           	30
+12/14/1997	Miami               	 0	Indianapolis        	41
+12/14/1997	Tampa Bay           	 0	NY Jets             	31
+12/14/1997	Tennessee           	19	Baltimore           	21
+12/14/1997	Dallas              	24	Cincinnati          	31
+12/14/1997	Jacksonville        	20	Buffalo             	14
+12/14/1997	Kansas City         	29	San Diego           	 7
+12/14/1997	Seattle             	22	Oakland             	21
+12/14/1997	Chicago             	13	St Louis            	10
+12/14/1997	Detroit             	14	Minnesota           	13
+12/14/1997	Green Bay           	31	Carolina            	10
+12/14/1997	Philadelphia        	17	Atlanta             	20
+12/14/1997	Arizona             	10	New Orleans         	27
+12/15/1997	Denver              	17	San Francisco       	34
+12/20/1997	Buffalo             	21	Green Bay           	31
+12/20/1997	St Louis            	30	Carolina            	18
+12/21/1997	Baltimore           	14	Cincinnati          	16
+12/21/1997	Pittsburgh          	 6	Tennessee           	16
+12/21/1997	Jacksonville        	20	Oakland             	 9
+12/21/1997	San Diego           	 3	Denver              	38
+12/21/1997	New Orleans         	13	Kansas City         	25
+12/21/1997	San Francisco       	 9	Seattle             	38
+12/21/1997	Atlanta             	26	Arizona             	29
+12/21/1997	NY Giants           	20	Dallas              	 7
+12/21/1997	Philadelphia        	32	Washington          	35
+12/21/1997	NY Jets             	10	Detroit             	13
+12/21/1997	Indianapolis        	28	Minnesota           	39
+12/21/1997	Chicago             	15	Tampa Bay           	31
+12/22/1997	New England         	14	Miami               	12
+12/27/1997	Jacksonville        	17	Denver              	42
+12/27/1997	Minnesota           	23	NY Giants           	22
+12/28/1997	Miami               	 3	New England         	17
+12/28/1997	Detroit             	10	Tampa Bay           	20
+01/03/1998	New England         	 6	Pittsburgh          	 7
+01/03/1998	Minnesota           	22	San Francisco       	38
+01/04/1998	Denver              	14	Kansas City         	10
+01/04/1998	Tampa Bay           	 7	Green Bay           	21
+01/11/1998	Denver              	24	Pittsburgh          	21
+01/11/1998	Green Bay           	23	San Francisco       	10
+01/25/1998	Denver              	31	Green Bay           	24	0

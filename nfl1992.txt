@@ -1,0 +1,235 @@
+09/06/1992	NY Jets             	17	Atlanta             	20
+09/06/1992	LA Rams             	 7	Buffalo             	40
+09/06/1992	Detroit             	24	Chicago             	27
+09/06/1992	Cincinnati          	21	Seattle             	 3
+09/06/1992	LA Raiders          	13	Denver              	17
+09/06/1992	Cleveland           	 3	Indianapolis        	14
+09/06/1992	Kansas City         	24	San Diego           	10
+09/06/1992	Minnesota           	23	Green Bay           	20
+09/06/1992	New Orleans         	13	Philadelphia        	15
+09/06/1992	Pittsburgh          	29	Houston             	24
+09/06/1992	San Francisco       	31	NY Giants           	14
+09/06/1992	Phoenix             	 7	Tampa Bay           	23
+09/07/1992	Washington          	10	Dallas              	23
+09/13/1992	Buffalo             	34	San Francisco       	31
+09/13/1992	LA Raiders          	21	Cincinnati          	24
+09/13/1992	Dallas              	34	NY Giants           	28
+09/13/1992	San Diego           	13	Denver              	21
+09/13/1992	Minnesota           	17	Detroit             	31
+09/13/1992	Houston             	20	Indianapolis        	10
+09/13/1992	Seattle             	 7	Kansas City         	26
+09/13/1992	New England         	 0	LA Rams             	14
+09/13/1992	Chicago             	 6	New Orleans         	28
+09/13/1992	Philadelphia        	31	Phoenix             	14
+09/13/1992	NY Jets             	10	Pittsburgh          	27
+09/13/1992	Green Bay           	 3	Tampa Bay           	31
+09/13/1992	Atlanta             	17	Washington          	24
+09/14/1992	Miami               	27	Cleveland           	23
+09/20/1992	Indianapolis        	 0	Buffalo             	38
+09/20/1992	Cleveland           	28	LA Raiders          	16
+09/20/1992	Phoenix             	20	Dallas              	31
+09/20/1992	Cincinnati          	23	Green Bay           	24
+09/20/1992	Kansas City         	20	Houston             	23
+09/20/1992	LA Rams             	10	Miami               	26
+09/20/1992	Tampa Bay           	20	Minnesota           	26
+09/20/1992	New Orleans         	10	Atlanta             	 7
+09/20/1992	Denver              	 0	Philadelphia        	30
+09/20/1992	Pittsburgh          	23	San Diego           	 6
+09/20/1992	San Francisco       	31	NY Jets             	14
+09/20/1992	Seattle             	10	New England         	 6
+09/20/1992	Detroit             	10	Washington          	13
+09/21/1992	NY Giants           	27	Chicago             	14
+09/27/1992	Buffalo             	41	New England         	 7
+09/27/1992	Atlanta             	31	Chicago             	41
+09/27/1992	Denver              	12	Cleveland           	 0
+09/27/1992	Pittsburgh          	 3	Green Bay           	17
+09/27/1992	San Diego           	 0	Houston             	27
+09/27/1992	NY Jets             	10	LA Rams             	18
+09/27/1992	Miami               	19	Seattle             	17
+09/27/1992	Minnesota           	42	Cincinnati          	 7
+09/27/1992	San Francisco       	16	New Orleans         	10
+09/27/1992	Tampa Bay           	27	Detroit             	23
+09/28/1992	LA Raiders          	 7	Kansas City         	27
+10/04/1992	Green Bay           	10	Atlanta             	24
+10/04/1992	Kansas City         	19	Denver              	20
+10/04/1992	Indianapolis        	24	Tampa Bay           	14
+10/04/1992	NY Giants           	10	LA Raiders          	13
+10/04/1992	Miami               	37	Buffalo             	10
+10/04/1992	Chicago             	20	Minnesota           	21
+10/04/1992	New Orleans         	13	Detroit             	 7
+10/04/1992	New England         	21	NY Jets             	30
+10/04/1992	Washington          	24	Phoenix             	27
+10/04/1992	Seattle             	 6	San Diego           	17
+10/04/1992	LA Rams             	24	San Francisco       	27
+10/05/1992	Dallas              	 7	Philadelphia        	31
+10/11/1992	Pittsburgh          	 9	Cleveland           	17
+10/11/1992	Seattle             	 0	Dallas              	27
+10/11/1992	Houston             	38	Cincinnati          	24
+10/11/1992	NY Jets             	 3	Indianapolis        	 6
+10/11/1992	Philadelphia        	17	Kansas City         	24
+10/11/1992	Buffalo             	 3	LA Raiders          	20
+10/11/1992	Atlanta             	17	Miami               	21
+10/11/1992	LA Rams             	10	New Orleans         	13
+10/11/1992	Phoenix             	21	NY Giants           	31
+10/11/1992	San Francisco       	24	New England         	12
+10/12/1992	Denver              	 3	Washington          	34
+10/15/1992	Detroit             	14	Minnesota           	31
+10/18/1992	Tampa Bay           	14	Chicago             	31
+10/18/1992	Green Bay           	 6	Cleveland           	17
+10/18/1992	Kansas City         	10	Dallas              	17
+10/18/1992	Houston             	21	Denver              	27
+10/18/1992	LA Raiders          	19	Seattle             	 0
+10/18/1992	NY Giants           	17	LA Rams             	38
+10/18/1992	New England         	17	Miami               	38
+10/18/1992	New Orleans         	30	Phoenix             	21
+10/18/1992	San Diego           	34	Indianapolis        	14
+10/18/1992	Atlanta             	17	San Francisco       	56
+10/18/1992	Philadelphia        	12	Washington          	16
+10/19/1992	Cincinnati          	 0	Pittsburgh          	20
+10/25/1992	Chicago             	30	Green Bay           	10
+10/25/1992	Cleveland           	19	New England         	17
+10/25/1992	Dallas              	28	LA Raiders          	13
+10/25/1992	Detroit             	38	Tampa Bay           	 7
+10/25/1992	Cincinnati          	10	Houston             	26
+10/25/1992	Indianapolis        	31	Miami               	20
+10/25/1992	Seattle             	10	NY Giants           	23
+10/25/1992	Phoenix             	 3	Philadelphia        	 7
+10/25/1992	Pittsburgh          	27	Kansas City         	 3
+10/25/1992	Denver              	21	San Diego           	24
+10/25/1992	Washington          	15	Minnesota           	13
+10/26/1992	Buffalo             	24	NY Jets             	20
+11/01/1992	LA Rams             	28	Atlanta             	30
+11/01/1992	New England         	 7	Buffalo             	16
+11/01/1992	Cleveland           	10	Cincinnati          	30
+11/01/1992	Philadelphia        	10	Dallas              	20
+11/01/1992	Green Bay           	27	Detroit             	13
+11/01/1992	Tampa Bay           	21	New Orleans         	23
+11/01/1992	NY Giants           	24	Washington          	 7
+11/01/1992	Miami               	14	NY Jets             	26
+11/01/1992	San Francisco       	14	Phoenix             	24
+11/01/1992	Houston             	20	Pittsburgh          	21
+11/01/1992	Indianapolis        	 0	San Diego           	26
+11/02/1992	Minnesota           	38	Chicago             	10
+11/08/1992	Pittsburgh          	20	Buffalo             	28
+11/08/1992	Cincinnati          	31	Chicago             	28
+11/08/1992	Cleveland           	24	Houston             	14
+11/08/1992	Dallas              	37	Detroit             	 3
+11/08/1992	NY Jets             	16	Denver              	27
+11/08/1992	San Diego           	14	Kansas City         	16
+11/08/1992	Miami               	28	Indianapolis        	 0
+11/08/1992	Minnesota           	35	Tampa Bay           	 7
+11/08/1992	New Orleans         	31	New England         	14
+11/08/1992	Green Bay           	 7	NY Giants           	27
+11/08/1992	LA Raiders          	10	Philadelphia        	31
+11/08/1992	Phoenix             	20	LA Rams             	14
+11/08/1992	Washington          	16	Seattle             	 3
+11/09/1992	San Francisco       	41	Atlanta             	 3
+11/15/1992	Phoenix             	17	Atlanta             	20
+11/15/1992	NY Giants           	13	Denver              	27
+11/15/1992	Philadelphia        	24	Green Bay           	27
+11/15/1992	Houston             	17	Minnesota           	13
+11/15/1992	Washington          	16	Kansas City         	35
+11/15/1992	Seattle             	 3	LA Raiders          	20
+11/15/1992	LA Rams             	27	Dallas              	23
+11/15/1992	New England         	37	Indianapolis        	34
+11/15/1992	Cincinnati          	14	NY Jets             	17
+11/15/1992	Detroit             	14	Pittsburgh          	17
+11/15/1992	San Diego           	14	Cleveland           	13
+11/15/1992	New Orleans         	20	San Francisco       	21
+11/15/1992	Chicago             	17	Tampa Bay           	20
+11/16/1992	Buffalo             	26	Miami               	20
+11/22/1992	Atlanta             	14	Buffalo             	41
+11/22/1992	Dallas              	16	Phoenix             	10
+11/22/1992	Detroit             	19	Cincinnati          	13
+11/22/1992	Green Bay           	17	Chicago             	 3
+11/22/1992	Kansas City         	24	Seattle             	14
+11/22/1992	Denver              	 0	LA Raiders          	24
+11/22/1992	Houston             	16	Miami               	19
+11/22/1992	Cleveland           	13	Minnesota           	17
+11/22/1992	NY Jets             	 3	New England         	24
+11/22/1992	Philadelphia        	47	NY Giants           	34
+11/22/1992	Indianapolis        	14	Pittsburgh          	30
+11/22/1992	Tampa Bay           	14	San Diego           	29
+11/22/1992	San Francisco       	27	LA Rams             	10
+11/23/1992	Washington          	 3	New Orleans         	20
+11/26/1992	NY Giants           	 3	Dallas              	30
+11/26/1992	Houston             	24	Detroit             	21
+11/29/1992	New England         	 0	Atlanta             	34
+11/29/1992	Chicago             	14	Cleveland           	27
+11/29/1992	Tampa Bay           	14	Green Bay           	19
+11/29/1992	Buffalo             	13	Indianapolis        	16
+11/29/1992	Kansas City         	23	NY Jets             	 7
+11/29/1992	Minnesota           	31	LA Rams             	17
+11/29/1992	Miami               	13	New Orleans         	24
+11/29/1992	Pittsburgh          	21	Cincinnati          	 9
+11/29/1992	LA Raiders          	 3	San Diego           	27
+11/29/1992	Philadelphia        	14	San Francisco       	20
+11/29/1992	Phoenix             	 3	Washington          	41
+11/30/1992	Denver              	13	Seattle             	16
+12/03/1992	Atlanta             	14	New Orleans         	22
+12/06/1992	Cincinnati          	21	Cleveland           	37
+12/06/1992	Dallas              	31	Denver              	27
+12/06/1992	Detroit             	10	Green Bay           	38
+12/06/1992	Indianapolis        	 6	New England         	 0
+12/06/1992	Kansas City         	 7	LA Raiders          	28
+12/06/1992	LA Rams             	31	Tampa Bay           	27
+12/06/1992	NY Jets             	24	Buffalo             	17
+12/06/1992	Minnesota           	17	Philadelphia        	28
+12/06/1992	Seattle             	14	Pittsburgh          	20
+12/06/1992	San Diego           	27	Phoenix             	21
+12/06/1992	Miami               	 3	San Francisco       	27
+12/06/1992	Washington          	28	NY Giants           	10
+12/07/1992	Chicago             	 7	Houston             	24
+12/12/1992	Denver              	17	Buffalo             	27
+12/12/1992	NY Giants           	 0	Phoenix             	19
+12/13/1992	Atlanta             	35	Tampa Bay           	 7
+12/13/1992	Pittsburgh          	 6	Chicago             	30
+12/13/1992	Cleveland           	14	Detroit             	24
+12/13/1992	Green Bay           	16	Houston             	14
+12/13/1992	Indianapolis        	10	NY Jets             	 6
+12/13/1992	New England         	20	Kansas City         	27
+12/13/1992	New Orleans         	37	LA Rams             	14
+12/13/1992	Philadelphia        	20	Seattle             	17
+12/13/1992	Cincinnati          	10	San Diego           	27
+12/13/1992	San Francisco       	20	Minnesota           	17
+12/13/1992	Dallas              	17	Washington          	20
+12/14/1992	LA Raiders          	 7	Miami               	20
+12/19/1992	Kansas City         	21	NY Giants           	35
+12/19/1992	Tampa Bay           	14	San Francisco       	21
+12/20/1992	Buffalo             	20	New Orleans         	16
+12/20/1992	New England         	10	Cincinnati          	20
+12/20/1992	Seattle             	 6	Denver              	10
+12/20/1992	Chicago             	 3	Detroit             	16
+12/20/1992	LA Rams             	13	Green Bay           	28
+12/20/1992	Houston             	17	Cleveland           	14
+12/20/1992	Phoenix             	13	Indianapolis        	16
+12/20/1992	NY Jets             	17	Miami               	19
+12/20/1992	Minnesota           	 6	Pittsburgh          	 3
+12/20/1992	Washington          	13	Philadelphia        	17
+12/20/1992	San Diego           	36	LA Raiders          	14
+12/21/1992	Dallas              	41	Atlanta             	17
+12/26/1992	LA Raiders          	21	Washington          	20
+12/26/1992	New Orleans         	20	NY Jets             	 0
+12/27/1992	Chicago             	14	Dallas              	27
+12/27/1992	Buffalo             	 3	Houston             	27
+12/27/1992	Indianapolis        	21	Cincinnati          	17
+12/27/1992	Denver              	20	Kansas City         	42
+12/27/1992	Atlanta             	27	LA Rams             	38
+12/27/1992	Miami               	16	New England         	13
+12/27/1992	Green Bay           	 7	Minnesota           	27
+12/27/1992	NY Giants           	10	Philadelphia        	20
+12/27/1992	Cleveland           	13	Pittsburgh          	23
+12/27/1992	San Diego           	31	Seattle             	14
+12/27/1992	Tampa Bay           	 7	Phoenix             	 3
+12/28/1992	Detroit             	 6	San Francisco       	24
+01/02/1993	Kansas City         	 0	San Diego           	17
+01/02/1993	Washington          	24	Minnesota           	 7
+01/03/1993	Houston             	38	Buffalo             	41
+01/03/1993	Philadelphia        	36	New Orleans         	20
+01/09/1993	Buffalo             	24	Pittsburgh          	 3
+01/09/1993	San Diego           	 0	Miami               	31
+01/09/1993	Washington          	13	San Francisco       	20
+01/10/1993	Philadelphia        	10	Dallas              	34
+01/17/1993	Buffalo             	29	Miami               	10
+01/17/1993	Dallas              	30	San Francisco       	20
+01/31/1993	Dallas              	52	Buffalo             	17	0

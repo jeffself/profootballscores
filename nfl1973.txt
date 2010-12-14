@@ -1,0 +1,189 @@
+09/16/1973	Atlanta             	62	New Orleans         	 7
+09/16/1973	Buffalo             	31	New England         	13
+09/16/1973	Baltimore           	14	Cleveland           	24
+09/16/1973	Dallas              	20	Chicago             	17
+09/16/1973	Cincinnati          	10	Denver              	28
+09/16/1973	LA Rams             	23	Kansas City         	13
+09/16/1973	San Francisco       	13	Miami               	21
+09/16/1973	Oakland             	16	Minnesota           	24
+09/16/1973	Houston             	14	NY Giants           	34
+09/16/1973	Detroit             	10	Pittsburgh          	24
+09/16/1973	St Louis            	34	Philadelphia        	23
+09/16/1973	San Diego           	 0	Washington          	38
+09/17/1973	NY Jets             	 7	Green Bay           	23
+09/23/1973	Houston             	10	Cincinnati          	24
+09/23/1973	Detroit             	13	Green Bay           	13
+09/23/1973	Kansas City         	10	New England         	 7
+09/23/1973	Atlanta             	 0	LA Rams             	31
+09/23/1973	Minnesota           	22	Chicago             	13
+09/23/1973	NY Jets             	34	Baltimore           	10
+09/23/1973	Miami               	 7	Oakland             	12
+09/23/1973	Philadelphia        	23	NY Giants           	23
+09/23/1973	Cleveland           	 6	Pittsburgh          	33
+09/23/1973	Buffalo             	 7	San Diego           	34
+09/23/1973	San Francisco       	36	Denver              	34
+09/23/1973	Washington          	27	St Louis            	34
+09/24/1973	New Orleans         	 3	Dallas              	40
+09/30/1973	New Orleans         	10	Baltimore           	14
+09/30/1973	NY Jets             	 7	Buffalo             	 9
+09/30/1973	Chicago             	33	Denver              	14
+09/30/1973	Cincinnati          	20	San Diego           	13
+09/30/1973	NY Giants           	10	Cleveland           	12
+09/30/1973	St Louis            	10	Dallas              	45
+09/30/1973	Oakland             	 3	Kansas City         	16
+09/30/1973	LA Rams             	40	San Francisco       	20
+09/30/1973	New England         	23	Miami               	44
+09/30/1973	Green Bay           	 3	Minnesota           	11
+09/30/1973	Pittsburgh          	36	Houston             	 7
+09/30/1973	Washington          	28	Philadelphia        	 7
+10/01/1973	Atlanta             	 6	Detroit             	31
+10/07/1973	Philadelphia        	26	Buffalo             	27
+10/07/1973	Cleveland           	17	Cincinnati          	10
+10/07/1973	Green Bay           	16	NY Giants           	14
+10/07/1973	Denver              	14	Kansas City         	16
+10/07/1973	LA Rams             	31	Houston             	26
+10/07/1973	Miami               	31	NY Jets             	 3
+10/07/1973	Minnesota           	23	Detroit             	 9
+10/07/1973	Baltimore           	16	New England         	24
+10/07/1973	Chicago             	16	New Orleans         	21
+10/07/1973	Oakland             	17	St Louis            	10
+10/07/1973	San Diego           	21	Pittsburgh          	38
+10/07/1973	San Francisco       	13	Atlanta             	 9
+10/08/1973	Dallas              	 7	Washington          	14
+10/14/1973	Chicago             	 6	Atlanta             	46
+10/14/1973	Baltimore           	13	Buffalo             	31
+10/14/1973	Pittsburgh          	 7	Cincinnati          	 9
+10/14/1973	Denver              	48	Houston             	20
+10/14/1973	Kansas City         	10	Green Bay           	10
+10/14/1973	Dallas              	31	LA Rams             	37
+10/14/1973	Minnesota           	17	San Francisco       	13
+10/14/1973	Detroit             	13	New Orleans         	20
+10/14/1973	New England         	 7	NY Jets             	 9
+10/14/1973	San Diego           	17	Oakland             	27
+10/14/1973	Philadelphia        	27	St Louis            	24
+10/14/1973	Washington          	21	NY Giants           	 3
+10/15/1973	Miami               	17	Cleveland           	 9
+10/21/1973	Atlanta             	41	San Diego           	 0
+10/21/1973	Baltimore           	29	Detroit             	27
+10/21/1973	Kansas City         	 6	Cincinnati          	14
+10/21/1973	Houston             	13	Cleveland           	42
+10/21/1973	NY Giants           	28	Dallas              	45
+10/21/1973	Green Bay           	 7	LA Rams             	24
+10/21/1973	Buffalo             	 6	Miami               	27
+10/21/1973	Philadelphia        	21	Minnesota           	28
+10/21/1973	New England         	13	Chicago             	10
+10/21/1973	Pittsburgh          	26	NY Jets             	14
+10/21/1973	New Orleans         	 0	San Francisco       	40
+10/21/1973	St Louis            	13	Washington          	31
+10/22/1973	Oakland             	23	Denver              	23
+10/28/1973	Atlanta             	17	San Francisco       	 3
+10/28/1973	Houston             	14	Chicago             	35
+10/28/1973	Denver              	40	NY Jets             	28
+10/28/1973	Green Bay           	 0	Detroit             	34
+10/28/1973	Miami               	30	New England         	14
+10/28/1973	LA Rams             	 9	Minnesota           	10
+10/28/1973	Washington          	 3	New Orleans         	19
+10/28/1973	Oakland             	34	Baltimore           	21
+10/28/1973	Dallas              	16	Philadelphia        	30
+10/28/1973	Cincinnati          	13	Pittsburgh          	20
+10/28/1973	San Diego           	16	Cleveland           	16
+10/28/1973	NY Giants           	27	St Louis            	35
+10/29/1973	Kansas City         	14	Buffalo             	23
+11/04/1973	LA Rams             	13	Atlanta             	15
+11/04/1973	Chicago             	31	Green Bay           	17
+11/04/1973	Cincinnati          	10	Dallas              	38
+11/04/1973	Denver              	17	St Louis            	17
+11/04/1973	San Francisco       	20	Detroit             	30
+11/04/1973	Houston             	31	Baltimore           	27
+11/04/1973	Kansas City         	19	San Diego           	 0
+11/04/1973	NY Jets             	14	Miami               	24
+11/04/1973	Cleveland           	 3	Minnesota           	26
+11/04/1973	Buffalo             	 0	New Orleans         	13
+11/04/1973	NY Giants           	 0	Oakland             	42
+11/04/1973	New England         	23	Philadelphia        	24
+11/05/1973	Washington          	16	Pittsburgh          	21
+11/11/1973	Atlanta             	44	Philadelphia        	27
+11/11/1973	Cincinnati          	16	Buffalo             	13
+11/11/1973	Cleveland           	23	Houston             	13
+11/11/1973	Dallas              	23	NY Giants           	10
+11/11/1973	San Diego           	19	Denver              	30
+11/11/1973	St Louis            	21	Green Bay           	25
+11/11/1973	New Orleans         	 7	LA Rams             	29
+11/11/1973	Baltimore           	 0	Miami               	44
+11/11/1973	Detroit             	 7	Minnesota           	28
+11/11/1973	NY Jets             	33	New England         	13
+11/11/1973	Pittsburgh          	17	Oakland             	 9
+11/11/1973	San Francisco       	 9	Washington          	33
+11/12/1973	Chicago             	 7	Kansas City         	19
+11/18/1973	NY Jets             	14	Cincinnati          	20
+11/18/1973	Cleveland           	 7	Oakland             	 3
+11/18/1973	Philadelphia        	10	Dallas              	31
+11/18/1973	Denver              	23	Pittsburgh          	13
+11/18/1973	Detroit             	30	Chicago             	 7
+11/18/1973	Houston             	14	Kansas City         	38
+11/18/1973	San Francisco       	13	LA Rams             	31
+11/18/1973	Miami               	17	Buffalo             	 0
+11/18/1973	Green Bay           	24	New England         	33
+11/18/1973	St Louis            	13	NY Giants           	24
+11/18/1973	New Orleans         	14	San Diego           	17
+11/18/1973	Baltimore           	14	Washington          	22
+11/19/1973	Minnesota           	14	Atlanta             	20
+11/22/1973	Miami               	14	Dallas              	 7
+11/22/1973	Washington          	20	Detroit             	 0
+11/23/1973	Kansas City         	10	Denver              	14
+11/25/1973	Atlanta             	28	NY Jets             	20
+11/25/1973	Buffalo             	24	Baltimore           	17
+11/25/1973	St Louis            	24	Cincinnati          	42
+11/25/1973	Pittsburgh          	16	Cleveland           	21
+11/25/1973	LA Rams             	24	New Orleans         	13
+11/25/1973	Chicago             	13	Minnesota           	31
+11/25/1973	New England         	32	Houston             	 0
+11/25/1973	Oakland             	31	San Diego           	 3
+11/25/1973	NY Giants           	16	Philadelphia        	20
+11/26/1973	Green Bay           	 6	San Francisco       	20
+12/02/1973	Buffalo             	17	Atlanta             	 6
+12/02/1973	Minnesota           	 0	Cincinnati          	27
+12/02/1973	Cleveland           	20	Kansas City         	20
+12/02/1973	Dallas              	22	Denver              	10
+12/02/1973	Detroit             	20	St Louis            	16
+12/02/1973	New Orleans         	10	Green Bay           	30
+12/02/1973	LA Rams             	26	Chicago             	 0
+12/02/1973	San Diego           	14	New England         	30
+12/02/1973	Baltimore           	17	NY Jets             	20
+12/02/1973	Oakland             	17	Houston             	 6
+12/02/1973	Philadelphia        	28	San Francisco       	38
+12/02/1973	NY Giants           	24	Washington          	27
+12/03/1973	Pittsburgh          	26	Miami               	30
+12/08/1973	Minnesota           	31	Green Bay           	 7
+12/08/1973	Kansas City         	 7	Oakland             	37
+12/09/1973	Miami               	 3	Baltimore           	16
+12/09/1973	New England         	13	Buffalo             	37
+12/09/1973	Cincinnati          	34	Cleveland           	17
+12/09/1973	Washington          	 7	Dallas              	27
+12/09/1973	Denver              	42	San Diego           	28
+12/09/1973	Chicago             	 7	Detroit             	40
+12/09/1973	San Francisco       	10	New Orleans         	16
+12/09/1973	NY Jets             	23	Philadelphia        	24
+12/09/1973	Houston             	 7	Pittsburgh          	33
+12/09/1973	St Louis            	32	Atlanta             	10
+12/10/1973	NY Giants           	 6	LA Rams             	40
+12/15/1973	Detroit             	 7	Miami               	34
+12/15/1973	Pittsburgh          	37	San Francisco       	14
+12/16/1973	New Orleans         	10	Atlanta             	14
+12/16/1973	New England         	13	Baltimore           	18
+12/16/1973	Buffalo             	34	NY Jets             	14
+12/16/1973	Cincinnati          	27	Houston             	24
+12/16/1973	Dallas              	30	St Louis            	 3
+12/16/1973	Green Bay           	21	Chicago             	 0
+12/16/1973	San Diego           	 6	Kansas City         	33
+12/16/1973	Cleveland           	17	LA Rams             	30
+12/16/1973	Minnesota           	31	NY Giants           	 7
+12/16/1973	Denver              	 7	Oakland             	21
+12/16/1973	Philadelphia        	20	Washington          	38
+12/22/1973	Washington          	20	Minnesota           	27
+12/22/1973	Pittsburgh          	14	Oakland             	33
+12/23/1973	LA Rams             	16	Dallas              	27
+12/23/1973	Cincinnati          	16	Miami               	34
+12/30/1973	Oakland             	10	Miami               	27
+12/30/1973	Minnesota           	27	Dallas              	10
+01/13/1974	Miami               	24	Minnesota           	 7	n

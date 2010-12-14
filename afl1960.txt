@@ -1,0 +1,57 @@
+09/09/1960	Denver         	13	Boston         	10	1
+09/10/1960	Dallas         	20	LA Chargers    	21	1
+09/11/1960	Buffalo        	3	NY Titans      	27	1
+09/11/1960	Houston        	37	Oakland        	22	1
+09/16/1960	Boston         	28	NY Titans      	24	1
+09/16/1960	Dallas         	34	Oakland        	16	1
+09/18/1960	Denver         	27	Buffalo        	21	1
+09/18/1960	LA Chargers    	28	Houston        	38	1
+09/23/1960	Buffalo        	13	Boston         	0	1
+09/23/1960	Denver         	24	NY Titans      	28	1
+09/25/1960	Oakland        	14	Houston        	13	1
+09/25/1960	LA Chargers    	0	Dallas         	17	1
+10/02/1960	LA Chargers    	24	Buffalo        	10	1
+10/02/1960	NY Titans      	37	Dallas         	35	1
+10/03/1960	Oakland        	14	Denver         	31	1
+10/08/1960	Boston         	35	LA Chargers    	0	1
+10/09/1960	Oakland        	20	Dallas         	19	1
+10/09/1960	NY Titans      	21	Houston        	27	1
+10/16/1960	Boston         	14	Oakland        	27	1
+10/16/1960	NY Titans      	17	Buffalo        	13	1
+10/16/1960	Dallas         	10	Houston        	20	1
+10/16/1960	LA Chargers    	23	Denver         	19	1
+10/23/1960	Boston         	24	Denver         	31	1
+10/23/1960	Houston        	42	NY Titans      	28	1
+10/23/1960	Oakland        	9	Buffalo        	38	1
+10/28/1960	LA Chargers    	45	Boston         	16	1
+10/28/1960	Oakland        	28	NY Titans      	27	1
+10/30/1960	Dallas         	17	Denver         	14	1
+10/30/1960	Houston        	24	Buffalo        	25	1
+11/04/1960	LA Chargers    	21	NY Titans      	7	1
+11/04/1960	Oakland        	28	Boston         	34	1
+11/06/1960	Dallas         	45	Buffalo        	28	1
+11/06/1960	Houston        	45	Denver         	25	1
+11/11/1960	NY Titans      	21	Boston         	38	1
+11/13/1960	Buffalo        	7	Oakland        	20	1
+11/13/1960	Denver         	7	Dallas         	34	1
+11/13/1960	Houston        	21	LA Chargers    	24	1
+11/18/1960	Dallas         	14	Boston         	42	1
+11/20/1960	Denver         	10	Houston        	20	1
+11/20/1960	Buffalo        	32	LA Chargers    	3	1
+11/24/1960	Dallas         	35	NY Titans      	41	1
+11/25/1960	Houston        	24	Boston         	10	1
+11/27/1960	Buffalo        	38	Denver         	38	1
+11/27/1960	Oakland        	28	LA Chargers    	52	1
+12/04/1960	Boston         	14	Buffalo        	38	1
+12/04/1960	NY Titans      	30	Denver         	27	1
+12/04/1960	Houston        	0	Dallas         	24	1
+12/04/1960	LA Chargers    	41	Oakland        	17	1
+12/10/1960	Denver         	33	LA Chargers    	41	1
+12/11/1960	Boston         	0	Dallas         	34	1
+12/11/1960	Buffalo        	23	Houston        	31	1
+12/11/1960	NY Titans      	31	Oakland        	28	1
+12/17/1960	Denver         	10	Oakland        	48	1
+12/18/1960	Boston         	21	Houston        	37	1
+12/18/1960	Buffalo        	7	Dallas         	24	1
+12/18/1960	NY Titans      	43	LA Chargers    	50	1
+01/01/1961	LA Chargers    	16	Houston        	24	1

@@ -1,0 +1,233 @@
+09/10/1989	Buffalo             	27	Miami               	24
+09/10/1989	Cincinnati          	14	Chicago             	17
+09/10/1989	Cleveland           	51	Pittsburgh          	 0
+09/10/1989	Kansas City         	20	Denver              	34
+09/10/1989	LA Rams             	31	Atlanta             	21
+09/10/1989	Houston             	 7	Minnesota           	38
+09/10/1989	New England         	27	NY Jets             	24
+09/10/1989	Dallas              	 0	New Orleans         	28
+09/10/1989	Phoenix             	16	Detroit             	13
+09/10/1989	San Diego           	40	LA Raiders          	14
+09/10/1989	San Francisco       	30	Indianapolis        	24
+09/10/1989	Seattle             	31	Philadelphia        	 7
+09/10/1989	Tampa Bay           	23	Green Bay           	21
+09/12/1989	NY Giants           	27	Washington          	24
+09/18/1989	Dallas              	21	Atlanta             	27
+09/18/1989	Minnesota           	 7	Chicago             	38
+09/18/1989	Pittsburgh          	10	Cincinnati          	41
+09/18/1989	NY Jets             	24	Cleveland           	38
+09/18/1989	New Orleans         	34	Green Bay           	35
+09/18/1989	Houston             	34	San Diego           	27
+09/18/1989	LA Raiders          	19	Kansas City         	24
+09/18/1989	Indianapolis        	17	LA Rams             	31
+09/18/1989	Miami               	24	New England         	10
+09/18/1989	Detroit             	14	NY Giants           	24
+09/18/1989	Philadelphia        	42	Washington          	37
+09/18/1989	Phoenix             	34	Seattle             	24
+09/18/1989	San Francisco       	20	Tampa Bay           	16
+09/19/1989	Denver              	28	Buffalo             	14
+09/25/1989	Buffalo             	47	Houston             	41
+09/25/1989	Chicago             	47	Detroit             	27
+09/25/1989	LA Raiders          	21	Denver              	31
+09/25/1989	Atlanta             	 9	Indianapolis        	13
+09/25/1989	Green Bay           	38	LA Rams             	41
+09/25/1989	Phoenix             	 7	NY Giants           	35
+09/25/1989	NY Jets             	40	Miami               	33
+09/25/1989	Minnesota           	14	Pittsburgh          	27
+09/25/1989	Kansas City         	 6	San Diego           	21
+09/25/1989	San Francisco       	38	Philadelphia        	28
+09/25/1989	Seattle             	24	New England         	 3
+09/25/1989	New Orleans         	10	Tampa Bay           	20
+09/25/1989	Washington          	30	Dallas              	 7
+09/26/1989	Cleveland           	14	Cincinnati          	21
+10/02/1989	New England         	10	Buffalo             	31
+10/02/1989	Cincinnati          	21	Kansas City         	17
+10/02/1989	Denver              	13	Cleveland           	16
+10/02/1989	Atlanta             	21	Green Bay           	23
+10/02/1989	Miami               	 7	Houston             	39
+10/02/1989	Indianapolis        	17	NY Jets             	10
+10/02/1989	LA Rams             	13	San Francisco       	12
+10/02/1989	Tampa Bay           	 3	Minnesota           	17
+10/02/1989	NY Giants           	30	Dallas              	13
+10/02/1989	Pittsburgh          	23	Detroit             	 3
+10/02/1989	San Diego           	24	Phoenix             	13
+10/02/1989	Seattle             	24	LA Raiders          	20
+10/02/1989	Washington          	16	New Orleans         	14
+10/03/1989	Philadelphia        	13	Chicago             	27
+10/09/1989	Cincinnati          	26	Pittsburgh          	16
+10/09/1989	San Diego           	10	Denver              	16
+10/09/1989	Dallas              	13	Green Bay           	31
+10/09/1989	Buffalo             	14	Indianapolis        	37
+10/09/1989	Kansas City         	20	Seattle             	16
+10/09/1989	Atlanta             	14	LA Rams             	26
+10/09/1989	Cleveland           	10	Miami               	13
+10/09/1989	Detroit             	17	Minnesota           	24
+10/09/1989	Houston             	13	New England         	23
+10/09/1989	NY Giants           	19	Philadelphia        	21
+10/09/1989	San Francisco       	24	New Orleans         	20
+10/09/1989	Chicago             	35	Tampa Bay           	42
+10/09/1989	Phoenix             	28	Washington          	30
+10/10/1989	LA Raiders          	14	NY Jets             	 7
+10/16/1989	New England         	15	Atlanta             	16
+10/16/1989	Indianapolis        	 3	Denver              	14
+10/16/1989	Detroit             	17	Tampa Bay           	16
+10/16/1989	Houston             	33	Chicago             	28
+10/16/1989	Kansas City         	14	LA Raiders          	20
+10/16/1989	Miami               	20	Cincinnati          	13
+10/16/1989	Green Bay           	14	Minnesota           	26
+10/16/1989	NY Jets             	14	New Orleans         	29
+10/16/1989	Washington          	17	NY Giants           	20
+10/16/1989	Philadelphia        	17	Phoenix             	 5
+10/16/1989	Pittsburgh          	17	Cleveland           	 7
+10/16/1989	San Francisco       	31	Dallas              	14
+10/16/1989	Seattle             	17	San Diego           	16
+10/17/1989	LA Rams             	20	Buffalo             	23
+10/22/1989	LA Raiders          	 7	Philadelphia        	10
+10/23/1989	NY Jets             	 3	Buffalo             	34
+10/23/1989	Denver              	24	Seattle             	21
+10/23/1989	Pittsburgh          	 0	Houston             	27
+10/23/1989	Indianapolis        	23	Cincinnati          	12
+10/23/1989	Dallas              	28	Kansas City         	36
+10/23/1989	Green Bay           	20	Miami               	23
+10/23/1989	Minnesota           	20	Detroit             	 7
+10/23/1989	New Orleans         	40	LA Rams             	21
+10/23/1989	NY Giants           	20	San Diego           	13
+10/23/1989	Atlanta             	20	Phoenix             	34
+10/23/1989	New England         	20	San Francisco       	37
+10/23/1989	Tampa Bay           	28	Washington          	32
+10/24/1989	Chicago             	 7	Cleveland           	27
+10/30/1989	Miami               	17	Buffalo             	31
+10/30/1989	LA Rams             	10	Chicago             	20
+10/30/1989	Tampa Bay           	23	Cincinnati          	56
+10/30/1989	Houston             	17	Cleveland           	28
+10/30/1989	Detroit             	20	Green Bay           	23
+10/30/1989	Washington          	24	LA Raiders          	37
+10/30/1989	New England         	23	Indianapolis        	20
+10/30/1989	Atlanta             	13	New Orleans         	20
+10/30/1989	Philadelphia        	28	Denver              	24
+10/30/1989	Phoenix             	19	Dallas              	10
+10/30/1989	Kansas City         	17	Pittsburgh          	23
+10/30/1989	San Francisco       	23	NY Jets             	10
+10/30/1989	San Diego           	 7	Seattle             	10
+10/31/1989	Minnesota           	14	NY Giants           	24
+11/05/1989	Buffalo             	28	Atlanta             	30
+11/05/1989	Cleveland           	42	Tampa Bay           	31
+11/05/1989	Dallas              	13	Washington          	 3
+11/05/1989	Pittsburgh          	 7	Denver              	34
+11/05/1989	Chicago             	13	Green Bay           	14
+11/05/1989	Detroit             	31	Houston             	35
+11/05/1989	Seattle             	10	Kansas City         	20
+11/05/1989	Cincinnati          	 7	LA Raiders          	28
+11/05/1989	Indianapolis        	13	Miami               	19
+11/05/1989	LA Rams             	21	Minnesota           	23
+11/05/1989	NY Giants           	20	Phoenix             	13
+11/05/1989	NY Jets             	27	New England         	26
+11/05/1989	Philadelphia        	17	San Diego           	20
+11/06/1989	New Orleans         	13	San Francisco       	31
+11/12/1989	Indianapolis        	 7	Buffalo             	30
+11/12/1989	Chicago             	20	Pittsburgh          	 0
+11/12/1989	Cleveland           	17	Seattle             	 7
+11/12/1989	Denver              	16	Kansas City         	13
+11/12/1989	Green Bay           	22	Detroit             	31
+11/12/1989	NY Giants           	10	LA Rams             	31
+11/12/1989	Miami               	31	NY Jets             	23
+11/12/1989	Minnesota           	24	Tampa Bay           	10
+11/12/1989	New Orleans         	28	New England         	24
+11/12/1989	Dallas              	20	Phoenix             	24
+11/12/1989	San Diego           	14	LA Raiders          	12
+11/12/1989	Atlanta             	 3	San Francisco       	45
+11/12/1989	Washington          	10	Philadelphia        	 3
+11/13/1989	Cincinnati          	24	Houston             	26
+11/19/1989	Detroit             	 7	Cincinnati          	42
+11/19/1989	Green Bay           	21	San Francisco       	17
+11/19/1989	LA Raiders          	 7	Houston             	23
+11/19/1989	NY Jets             	10	Indianapolis        	27
+11/19/1989	Kansas City         	10	Cleveland           	10
+11/19/1989	Phoenix             	14	LA Rams             	37
+11/19/1989	Miami               	17	Dallas              	14
+11/19/1989	Buffalo             	24	New England         	33
+11/19/1989	New Orleans         	26	Atlanta             	17
+11/19/1989	Seattle             	 3	NY Giants           	15
+11/19/1989	Minnesota           	 9	Philadelphia        	10
+11/19/1989	San Diego           	17	Pittsburgh          	20
+11/19/1989	Tampa Bay           	32	Chicago             	31
+11/20/1989	Denver              	14	Washington          	10
+11/23/1989	Cleveland           	10	Detroit             	13
+11/23/1989	Philadelphia        	27	Dallas              	 0
+11/26/1989	Cincinnati          	 7	Buffalo             	24
+11/26/1989	Seattle             	14	Denver              	41
+11/26/1989	Minnesota           	19	Green Bay           	20
+11/26/1989	San Diego           	 6	Indianapolis        	10
+11/26/1989	Houston             	 0	Kansas City         	34
+11/26/1989	New England         	21	LA Raiders          	24
+11/26/1989	LA Rams             	20	New Orleans         	17
+11/26/1989	Atlanta             	 7	NY Jets             	27
+11/26/1989	Pittsburgh          	34	Miami               	14
+11/26/1989	Tampa Bay           	14	Phoenix             	13
+11/26/1989	Chicago             	14	Washington          	38
+11/27/1989	NY Giants           	24	San Francisco       	34
+12/03/1989	Cincinnati          	21	Cleveland           	 0
+12/03/1989	New Orleans         	14	Detroit             	21
+12/03/1989	Green Bay           	17	Tampa Bay           	16
+12/03/1989	Houston             	23	Pittsburgh          	16
+12/03/1989	Miami               	21	Kansas City         	26
+12/03/1989	Denver              	13	LA Raiders          	16
+12/03/1989	LA Rams             	35	Dallas              	31
+12/03/1989	Chicago             	16	Minnesota           	27
+12/03/1989	Indianapolis        	16	New England         	22
+12/03/1989	NY Jets             	20	San Diego           	17
+12/03/1989	Philadelphia        	24	NY Giants           	17
+12/03/1989	San Francisco       	23	Atlanta             	10
+12/03/1989	Washington          	29	Phoenix             	10
+12/04/1989	Buffalo             	16	Seattle             	17
+12/10/1989	Detroit             	27	Chicago             	17
+12/10/1989	Tampa Bay           	17	Houston             	20
+12/10/1989	Cleveland           	17	Indianapolis        	23
+12/10/1989	Kansas City         	21	Green Bay           	 3
+12/10/1989	Phoenix             	14	LA Raiders          	16
+12/10/1989	New England         	10	Miami               	31
+12/10/1989	Atlanta             	17	Minnesota           	43
+12/10/1989	New Orleans         	22	Buffalo             	19
+12/10/1989	NY Giants           	14	Denver              	 7
+12/10/1989	Dallas              	10	Philadelphia        	20
+12/10/1989	Pittsburgh          	13	NY Jets             	 0
+12/10/1989	Seattle             	24	Cincinnati          	17
+12/10/1989	San Diego           	21	Washington          	26
+12/11/1989	San Francisco       	30	LA Rams             	27
+12/16/1989	Denver              	37	Phoenix             	 0
+12/16/1989	Dallas              	 0	NY Giants           	15
+12/17/1989	Houston             	 7	Cincinnati          	61
+12/17/1989	Minnesota           	17	Cleveland           	23
+12/17/1989	Tampa Bay           	 7	Detroit             	33
+12/17/1989	Green Bay           	40	Chicago             	28
+12/17/1989	Miami               	13	Indianapolis        	42
+12/17/1989	NY Jets             	14	LA Rams             	38
+12/17/1989	New England         	10	Pittsburgh          	28
+12/17/1989	San Diego           	20	Kansas City         	13
+12/17/1989	Buffalo             	10	San Francisco       	21
+12/17/1989	LA Raiders          	17	Seattle             	23
+12/17/1989	Washington          	31	Atlanta             	30
+12/18/1989	Philadelphia        	20	New Orleans         	30
+12/23/1989	Buffalo             	37	NY Jets             	 0
+12/23/1989	Cleveland           	24	Houston             	20
+12/23/1989	Washington          	29	Seattle             	 0
+12/24/1989	Detroit             	31	Atlanta             	24
+12/24/1989	Green Bay           	20	Dallas              	10
+12/24/1989	Kansas City         	27	Miami               	24
+12/24/1989	LA Rams             	24	New England         	20
+12/24/1989	New Orleans         	41	Indianapolis        	 6
+12/24/1989	LA Raiders          	17	NY Giants           	34
+12/24/1989	Phoenix             	14	Philadelphia        	31
+12/24/1989	Pittsburgh          	31	Tampa Bay           	22
+12/24/1989	Denver              	16	San Diego           	19
+12/24/1989	Chicago             	 0	San Francisco       	26
+12/25/1989	Cincinnati          	21	Minnesota           	29
+12/31/1989	LA Rams             	21	Philadelphia        	 7
+12/31/1989	Pittsburgh          	26	Houston             	23
+01/06/1990	Buffalo             	30	Cleveland           	34
+01/06/1990	Minnesota           	13	San Francisco       	41
+01/07/1990	Pittsburgh          	23	Denver              	24
+01/07/1990	LA Rams             	19	NY Giants           	13
+01/14/1990	Cleveland           	21	Denver              	37
+01/14/1990	LA Rams             	 3	San Francisco       	30
+01/28/1990	San Francisco       	55	Denver              	10	0

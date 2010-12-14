@@ -1,0 +1,73 @@
+09/24/1955	NY Giants           	17	Philadelphia        	27
+09/25/1955	Chicago             	17	Baltimore           	23
+09/25/1955	Washington          	27	Cleveland           	17
+09/25/1955	Detroit             	17	Green Bay           	20
+09/25/1955	LA Rams             	23	San Francisco       	14
+09/26/1955	Chicago Cardinals   	 7	Pittsburgh          	14
+10/01/1955	Detroit             	13	Baltimore           	28
+10/01/1955	Washington          	31	Philadelphia        	30
+10/02/1955	Chicago             	 3	Green Bay           	24
+10/02/1955	NY Giants           	17	Chicago Cardinals   	28
+10/02/1955	Pittsburgh          	26	LA Rams             	27
+10/02/1955	Cleveland           	38	San Francisco       	 3
+10/08/1955	Baltimore           	24	Green Bay           	20
+10/09/1955	San Francisco       	20	Chicago             	19
+10/09/1955	LA Rams             	17	Detroit             	10
+10/09/1955	NY Giants           	23	Pittsburgh          	30
+10/09/1955	Philadelphia        	17	Cleveland           	21
+10/09/1955	Chicago Cardinals   	24	Washington          	10
+10/15/1955	Philadelphia        	 7	Pittsburgh          	13
+10/16/1955	Baltimore           	10	Chicago             	38
+10/16/1955	Chicago Cardinals   	 0	NY Giants           	10
+10/16/1955	San Francisco       	27	Detroit             	24
+10/16/1955	LA Rams             	28	Green Bay           	30
+10/16/1955	Cleveland           	24	Washington          	14
+10/23/1955	Washington          	14	Baltimore           	13
+10/23/1955	Philadelphia        	24	Chicago Cardinals   	24
+10/23/1955	Detroit             	13	LA Rams             	24
+10/23/1955	Green Bay           	10	Cleveland           	41
+10/23/1955	Pittsburgh          	19	NY Giants           	17
+10/23/1955	Chicago             	34	San Francisco       	23
+10/29/1955	Green Bay           	10	Baltimore           	14
+10/30/1955	Cleveland           	26	Chicago Cardinals   	20
+10/30/1955	Detroit             	21	San Francisco       	38
+10/30/1955	Chicago             	31	LA Rams             	20
+10/30/1955	Pittsburgh          	 0	Philadelphia        	24
+10/30/1955	Washington          	 7	NY Giants           	35
+11/05/1955	Baltimore           	14	Detroit             	24
+11/05/1955	Pittsburgh          	13	Chicago Cardinals   	27
+11/06/1955	Green Bay           	31	Chicago             	52
+11/06/1955	NY Giants           	14	Cleveland           	24
+11/06/1955	Philadelphia        	21	Washington          	34
+11/06/1955	San Francisco       	14	LA Rams             	27
+11/13/1955	Baltimore           	 7	NY Giants           	17
+11/13/1955	Chicago Cardinals   	14	Green Bay           	31
+11/13/1955	Cleveland           	17	Philadelphia        	33
+11/13/1955	LA Rams             	 3	Chicago             	24
+11/13/1955	Detroit             	31	Pittsburgh          	28
+11/13/1955	San Francisco       	 0	Washington          	 7
+11/20/1955	LA Rams             	17	Baltimore           	17
+11/20/1955	Washington          	31	Chicago Cardinals   	 0
+11/20/1955	Chicago             	24	Detroit             	14
+11/20/1955	Philadelphia        	 7	NY Giants           	31
+11/20/1955	Pittsburgh          	14	Cleveland           	41
+11/20/1955	San Francisco       	21	Green Bay           	27
+11/24/1955	Green Bay           	10	Detroit             	24
+11/27/1955	Chicago             	14	Chicago Cardinals   	53
+11/27/1955	Cleveland           	35	NY Giants           	35
+11/27/1955	LA Rams             	23	Philadelphia        	21
+11/27/1955	Washington          	23	Pittsburgh          	14
+11/27/1955	San Francisco       	14	Baltimore           	26
+12/04/1955	Baltimore           	14	LA Rams             	20
+12/04/1955	Chicago Cardinals   	 3	Philadelphia        	27
+12/04/1955	Detroit             	20	Chicago             	21
+12/04/1955	Cleveland           	30	Pittsburgh          	 7
+12/04/1955	Green Bay           	28	San Francisco       	 7
+12/04/1955	NY Giants           	27	Washington          	20
+12/11/1955	Baltimore           	24	San Francisco       	35
+12/11/1955	Chicago Cardinals   	24	Cleveland           	35
+12/11/1955	NY Giants           	24	Detroit             	19
+12/11/1955	Green Bay           	17	LA Rams             	31
+12/11/1955	Philadelphia        	10	Chicago             	17
+12/11/1955	Pittsburgh          	17	Washington          	28
+12/26/1955	Cleveland           	38	LA Rams             	14

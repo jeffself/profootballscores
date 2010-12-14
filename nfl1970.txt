@@ -1,0 +1,189 @@
+09/18/1970	St Louis            	13	LA Rams             	34
+09/19/1970	Chicago             	24	NY Giants           	16
+09/20/1970	Atlanta             	14	New Orleans         	 3
+09/20/1970	Baltimore           	16	San Diego           	14
+09/20/1970	Miami               	14	Boston              	27
+09/20/1970	Oakland             	21	Cincinnati          	31
+09/20/1970	Dallas              	17	Philadelphia        	 7
+09/20/1970	Denver              	25	Buffalo             	10
+09/20/1970	Detroit             	40	Green Bay           	 0
+09/20/1970	Houston             	19	Pittsburgh          	 7
+09/20/1970	Kansas City         	10	Minnesota           	27
+09/20/1970	Washington          	17	San Francisco       	26
+09/21/1970	NY Jets             	21	Cleveland           	31
+09/27/1970	Philadelphia        	16	Chicago             	20
+09/27/1970	NY Giants           	10	Dallas              	28
+09/27/1970	Pittsburgh          	13	Denver              	16
+09/27/1970	Cincinnati          	 3	Detroit             	38
+09/27/1970	Atlanta             	24	Green Bay           	27
+09/27/1970	LA Rams             	19	Buffalo             	 0
+09/27/1970	Miami               	20	Houston             	10
+09/27/1970	New Orleans         	 0	Minnesota           	26
+09/27/1970	NY Jets             	31	Boston              	21
+09/27/1970	Oakland             	27	San Diego           	27
+09/27/1970	Cleveland           	31	San Francisco       	34
+09/27/1970	Washington          	17	St Louis            	27
+09/28/1970	Kansas City         	44	Baltimore           	24
+10/03/1970	Pittsburgh          	 7	Cleveland           	15
+10/03/1970	Oakland             	13	Miami               	20
+10/04/1970	San Francisco       	20	Atlanta             	21
+10/04/1970	Baltimore           	14	Boston              	 6
+10/04/1970	NY Jets             	31	Buffalo             	34
+10/04/1970	Kansas City         	13	Denver              	26
+10/04/1970	Minnesota           	10	Green Bay           	13
+10/04/1970	Houston             	20	Cincinnati          	13
+10/04/1970	San Diego           	10	LA Rams             	37
+10/04/1970	NY Giants           	10	New Orleans         	14
+10/04/1970	Dallas              	 7	St Louis            	20
+10/04/1970	Washington          	33	Philadelphia        	21
+10/05/1970	Chicago             	14	Detroit             	28
+10/10/1970	Miami               	20	NY Jets             	 6
+10/11/1970	Baltimore           	24	Houston             	20
+10/11/1970	Cincinnati          	27	Cleveland           	30
+10/11/1970	Atlanta             	 0	Dallas              	13
+10/11/1970	Boston              	10	Kansas City         	23
+10/11/1970	Minnesota           	24	Chicago             	 0
+10/11/1970	Philadelphia        	23	NY Giants           	30
+10/11/1970	Denver              	23	Oakland             	35
+10/11/1970	Buffalo             	10	Pittsburgh          	23
+10/11/1970	San Francisco       	20	LA Rams             	 6
+10/11/1970	New Orleans         	17	St Louis            	24
+10/11/1970	Detroit             	10	Washington          	31
+10/12/1970	Green Bay           	22	San Diego           	20
+10/18/1970	Baltimore           	29	NY Jets             	22
+10/18/1970	Atlanta             	10	Denver              	24
+10/18/1970	Detroit             	41	Cleveland           	24
+10/18/1970	Kansas City         	27	Cincinnati          	19
+10/18/1970	LA Rams             	31	Green Bay           	21
+10/18/1970	Miami               	33	Buffalo             	14
+10/18/1970	Dallas              	13	Minnesota           	54
+10/18/1970	New Orleans         	20	San Francisco       	20
+10/18/1970	NY Giants           	16	Boston              	 0
+10/18/1970	Pittsburgh          	 7	Houston             	 3
+10/18/1970	San Diego           	20	Chicago             	 7
+10/18/1970	St Louis            	35	Philadelphia        	20
+10/19/1970	Washington          	20	Oakland             	34
+10/25/1970	New Orleans         	14	Atlanta             	32
+10/25/1970	Boston              	 3	Baltimore           	27
+10/25/1970	Buffalo             	10	NY Jets             	 6
+10/25/1970	Cleveland           	28	Miami               	 0
+10/25/1970	Dallas              	27	Kansas City         	16
+10/25/1970	Detroit             	16	Chicago             	10
+10/25/1970	Philadelphia        	17	Green Bay           	30
+10/25/1970	Houston             	31	San Diego           	31
+10/25/1970	St Louis            	17	NY Giants           	35
+10/25/1970	Pittsburgh          	14	Oakland             	31
+10/25/1970	Denver              	14	San Francisco       	19
+10/25/1970	Cincinnati          	 0	Washington          	20
+10/26/1970	LA Rams             	 3	Minnesota           	13
+11/01/1970	Miami               	 0	Baltimore           	35
+11/01/1970	Buffalo             	45	Boston              	10
+11/01/1970	Chicago             	23	Atlanta             	14
+11/01/1970	Philadelphia        	17	Dallas              	21
+11/01/1970	LA Rams             	30	New Orleans         	17
+11/01/1970	Minnesota           	30	Detroit             	17
+11/01/1970	NY Giants           	22	NY Jets             	10
+11/01/1970	Oakland             	17	Kansas City         	17
+11/01/1970	San Diego           	27	Cleveland           	10
+11/01/1970	Green Bay           	10	San Francisco       	26
+11/01/1970	Houston             	 0	St Louis            	44
+11/01/1970	Washington          	19	Denver              	 3
+11/02/1970	Cincinnati          	10	Pittsburgh          	21
+11/08/1970	Atlanta             	10	LA Rams             	10
+11/08/1970	Cincinnati          	43	Buffalo             	14
+11/08/1970	Houston             	 9	Kansas City         	24
+11/08/1970	Minnesota           	19	Washington          	10
+11/08/1970	Detroit             	17	New Orleans         	19
+11/08/1970	Dallas              	20	NY Giants           	23
+11/08/1970	Cleveland           	20	Oakland             	23
+11/08/1970	Miami               	17	Philadelphia        	24
+11/08/1970	NY Jets             	17	Pittsburgh          	21
+11/08/1970	Denver              	21	San Diego           	24
+11/08/1970	San Francisco       	37	Chicago             	16
+11/08/1970	Boston              	 0	St Louis            	31
+11/09/1970	Baltimore           	13	Green Bay           	10
+11/15/1970	Atlanta             	13	Philadelphia        	13
+11/15/1970	Buffalo             	17	Baltimore           	17
+11/15/1970	Cleveland           	10	Cincinnati          	14
+11/15/1970	Chicago             	19	Green Bay           	20
+11/15/1970	Kansas City         	31	Pittsburgh          	14
+11/15/1970	New Orleans         	10	Miami               	21
+11/15/1970	Detroit             	20	Minnesota           	24
+11/15/1970	Washington          	33	NY Giants           	35
+11/15/1970	NY Jets             	31	LA Rams             	20
+11/15/1970	Oakland             	24	Denver              	19
+11/15/1970	San Diego           	16	Boston              	14
+11/15/1970	San Francisco       	30	Houston             	20
+11/16/1970	St Louis            	38	Dallas              	 0
+11/22/1970	Buffalo             	13	Chicago             	31
+11/22/1970	Pittsburgh          	 7	Cincinnati          	34
+11/22/1970	Houston             	14	Cleveland           	28
+11/22/1970	Dallas              	45	Washington          	21
+11/22/1970	Denver              	31	New Orleans         	 6
+11/22/1970	San Francisco       	 7	Detroit             	28
+11/22/1970	LA Rams             	17	Atlanta             	 7
+11/22/1970	Baltimore           	17	Miami               	34
+11/22/1970	Green Bay           	 3	Minnesota           	10
+11/22/1970	Boston              	 3	NY Jets             	17
+11/22/1970	San Diego           	17	Oakland             	20
+11/22/1970	St Louis            	 6	Kansas City         	 6
+11/23/1970	NY Giants           	20	Philadelphia        	23
+11/26/1970	Green Bay           	 3	Dallas              	16
+11/26/1970	Oakland             	14	Detroit             	28
+11/29/1970	Chicago             	20	Baltimore           	21
+11/29/1970	Boston              	14	Buffalo             	10
+11/29/1970	New Orleans         	 6	Cincinnati          	26
+11/29/1970	Denver              	21	Houston             	31
+11/29/1970	San Diego           	14	Kansas City         	26
+11/29/1970	LA Rams             	30	San Francisco       	13
+11/29/1970	NY Giants           	27	Washington          	24
+11/29/1970	Minnesota           	10	NY Jets             	20
+11/29/1970	Cleveland           	 9	Pittsburgh          	28
+11/29/1970	Philadelphia        	14	St Louis            	23
+11/30/1970	Miami               	20	Atlanta             	 7
+12/05/1970	Chicago             	13	Minnesota           	16
+12/06/1970	Philadelphia        	10	Baltimore           	29
+12/06/1970	Cincinnati          	17	San Diego           	14
+12/06/1970	Washington          	 0	Dallas              	34
+12/06/1970	St Louis            	 3	Detroit             	16
+12/06/1970	Green Bay           	20	Pittsburgh          	12
+12/06/1970	Denver              	 0	Kansas City         	16
+12/06/1970	New Orleans         	16	LA Rams             	34
+12/06/1970	Boston              	20	Miami               	37
+12/06/1970	Buffalo             	 6	NY Giants           	20
+12/06/1970	Oakland             	14	NY Jets             	13
+12/06/1970	Atlanta             	20	San Francisco       	24
+12/07/1970	Cleveland           	21	Houston             	10
+12/12/1970	Dallas              	 6	Cleveland           	 2
+12/13/1970	Pittsburgh          	16	Atlanta             	27
+12/13/1970	Baltimore           	20	Buffalo             	14
+12/13/1970	Green Bay           	17	Chicago             	35
+12/13/1970	Cincinnati          	30	Houston             	20
+12/13/1970	NY Jets             	10	Miami               	16
+12/13/1970	Minnesota           	35	Boston              	14
+12/13/1970	NY Giants           	34	St Louis            	17
+12/13/1970	Kansas City         	 6	Oakland             	20
+12/13/1970	San Diego           	17	Denver              	17
+12/13/1970	San Francisco       	38	New Orleans         	27
+12/13/1970	Philadelphia        	 6	Washington          	24
+12/14/1970	Detroit             	28	LA Rams             	23
+12/19/1970	NY Jets             	20	Baltimore           	35
+12/20/1970	Chicago             	24	New Orleans         	 3
+12/20/1970	Boston              	 7	Cincinnati          	45
+12/20/1970	Cleveland           	27	Denver              	13
+12/20/1970	Houston             	10	Dallas              	52
+12/20/1970	Green Bay           	 0	Detroit             	20
+12/20/1970	LA Rams             	31	NY Giants           	 3
+12/20/1970	Buffalo             	 7	Miami               	45
+12/20/1970	Minnesota           	37	Atlanta             	 7
+12/20/1970	Pittsburgh          	20	Philadelphia        	30
+12/20/1970	Kansas City         	13	San Diego           	31
+12/20/1970	San Francisco       	38	Oakland             	 7
+12/20/1970	St Louis            	27	Washington          	28
+12/26/1970	Cincinnati          	 0	Baltimore           	17
+12/26/1970	Detroit             	 0	Dallas              	 5
+12/27/1970	Miami               	14	Oakland             	21
+12/27/1970	San Francisco       	17	Minnesota           	14
+01/03/1971	Oakland             	17	Baltimore           	27
+01/03/1971	Dallas              	17	San Francisco       	10
+01/17/1971	Baltimore           	16	Dallas              	13	n

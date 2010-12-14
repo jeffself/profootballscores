@@ -1,0 +1,189 @@
+09/19/1971	San Francisco       	17	Atlanta             	20
+09/19/1971	NY Jets             	 0	Baltimore           	22
+09/19/1971	Pittsburgh          	15	Chicago             	17
+09/19/1971	Philadelphia        	14	Cincinnati          	37
+09/19/1971	Houston             	13	Cleveland           	14
+09/19/1971	Dallas              	49	Buffalo             	37
+09/19/1971	Miami               	10	Denver              	10
+09/19/1971	Oakland             	 6	New England         	20
+09/19/1971	LA Rams             	20	New Orleans         	24
+09/19/1971	NY Giants           	42	Green Bay           	40
+09/19/1971	Kansas City         	14	San Diego           	21
+09/19/1971	Washington          	24	St Louis            	17
+09/20/1971	Minnesota           	16	Detroit             	13
+09/26/1971	Atlanta             	20	LA Rams             	20
+09/26/1971	Chicago             	20	Minnesota           	17
+09/26/1971	Cleveland           	14	Baltimore           	13
+09/26/1971	Dallas              	42	Philadelphia        	 7
+09/26/1971	Detroit             	34	New England         	 7
+09/26/1971	Denver              	13	Green Bay           	34
+09/26/1971	Kansas City         	20	Houston             	16
+09/26/1971	Miami               	29	Buffalo             	14
+09/26/1971	Oakland             	34	San Diego           	 0
+09/26/1971	Cincinnati          	10	Pittsburgh          	21
+09/26/1971	San Francisco       	38	New Orleans         	20
+09/26/1971	Washington          	30	NY Giants           	 3
+09/27/1971	NY Jets             	10	St Louis            	17
+10/03/1971	Baltimore           	23	New England         	 3
+10/03/1971	Atlanta             	38	Detroit             	41
+10/03/1971	Cincinnati          	17	Green Bay           	20
+10/03/1971	Kansas City         	16	Denver              	 3
+10/03/1971	Chicago             	 3	LA Rams             	17
+10/03/1971	Buffalo             	 0	Minnesota           	19
+10/03/1971	New Orleans         	13	Houston             	13
+10/03/1971	NY Giants           	21	St Louis            	20
+10/03/1971	NY Jets             	14	Miami               	10
+10/03/1971	San Diego           	17	Pittsburgh          	21
+10/03/1971	San Francisco       	31	Philadelphia        	 3
+10/03/1971	Washington          	20	Dallas              	16
+10/04/1971	Oakland             	34	Cleveland           	20
+10/10/1971	Baltimore           	43	Buffalo             	 0
+10/10/1971	New Orleans         	14	Chicago             	35
+10/10/1971	Pittsburgh          	17	Cleveland           	27
+10/10/1971	Green Bay           	28	Detroit             	31
+10/10/1971	San Diego           	10	Kansas City         	31
+10/10/1971	LA Rams             	20	San Francisco       	13
+10/10/1971	Miami               	23	Cincinnati          	13
+10/10/1971	Minnesota           	13	Philadelphia        	 0
+10/10/1971	NY Jets             	 0	New England         	20
+10/10/1971	Denver              	16	Oakland             	27
+10/10/1971	St Louis            	26	Atlanta             	 9
+10/10/1971	Houston             	13	Washington          	22
+10/11/1971	NY Giants           	13	Dallas              	20
+10/17/1971	Baltimore           	31	NY Giants           	 7
+10/17/1971	Cleveland           	27	Cincinnati          	24
+10/17/1971	San Diego           	16	Denver              	20
+10/17/1971	Detroit             	31	Houston             	 7
+10/17/1971	LA Rams             	24	Atlanta             	16
+10/17/1971	New England         	 3	Miami               	41
+10/17/1971	Minnesota           	24	Green Bay           	13
+10/17/1971	Dallas              	14	New Orleans         	24
+10/17/1971	Buffalo             	17	NY Jets             	28
+10/17/1971	Philadelphia        	10	Oakland             	34
+10/17/1971	Chicago             	 0	San Francisco       	13
+10/17/1971	St Louis            	 0	Washington          	20
+10/18/1971	Pittsburgh          	16	Kansas City         	38
+10/23/1971	Buffalo             	 3	San Diego           	20
+10/24/1971	New Orleans         	 6	Atlanta             	28
+10/24/1971	Chicago             	28	Detroit             	23
+10/24/1971	New England         	21	Dallas              	44
+10/24/1971	Denver              	27	Cleveland           	 0
+10/24/1971	Washington          	20	Kansas City         	27
+10/24/1971	Green Bay           	13	LA Rams             	30
+10/24/1971	Miami               	30	NY Jets             	14
+10/24/1971	Cincinnati          	27	Oakland             	31
+10/24/1971	NY Giants           	 7	Philadelphia        	23
+10/24/1971	Houston             	16	Pittsburgh          	23
+10/24/1971	San Francisco       	26	St Louis            	14
+10/25/1971	Baltimore           	 3	Minnesota           	10
+10/31/1971	Atlanta             	31	Cleveland           	14
+10/31/1971	Pittsburgh          	21	Baltimore           	34
+10/31/1971	Dallas              	19	Chicago             	23
+10/31/1971	Cincinnati          	 6	Houston             	10
+10/31/1971	Kansas City         	20	Oakland             	20
+10/31/1971	Miami               	20	LA Rams             	14
+10/31/1971	Minnesota           	17	NY Giants           	10
+10/31/1971	Denver              	16	Philadelphia        	17
+10/31/1971	NY Jets             	21	San Diego           	49
+10/31/1971	New England         	10	San Francisco       	27
+10/31/1971	St Louis            	28	Buffalo             	23
+10/31/1971	New Orleans         	14	Washington          	24
+11/01/1971	Detroit             	14	Green Bay           	14
+11/07/1971	Atlanta             	 9	Cincinnati          	 6
+11/07/1971	Dallas              	16	St Louis            	13
+11/07/1971	Detroit             	24	Denver              	20
+11/07/1971	Green Bay           	17	Chicago             	14
+11/07/1971	Buffalo             	 0	Miami               	34
+11/07/1971	Houston             	20	New England         	28
+11/07/1971	San Diego           	17	NY Giants           	35
+11/07/1971	Kansas City         	10	NY Jets             	13
+11/07/1971	Oakland             	21	New Orleans         	21
+11/07/1971	Philadelphia        	 7	Washington          	 7
+11/07/1971	Cleveland           	 9	Pittsburgh          	26
+11/07/1971	San Francisco       	13	Minnesota           	 9
+11/08/1971	LA Rams             	17	Baltimore           	24
+11/14/1971	Baltimore           	14	NY Jets             	13
+11/14/1971	Washington          	15	Chicago             	16
+11/14/1971	Cincinnati          	24	Denver              	10
+11/14/1971	Philadelphia        	 7	Dallas              	20
+11/14/1971	Cleveland           	 7	Kansas City         	13
+11/14/1971	LA Rams             	21	Detroit             	13
+11/14/1971	Pittsburgh          	21	Miami               	24
+11/14/1971	Green Bay           	 0	Minnesota           	 3
+11/14/1971	Buffalo             	33	New England         	38
+11/14/1971	New Orleans         	26	San Francisco       	20
+11/14/1971	NY Giants           	21	Atlanta             	17
+11/14/1971	Houston             	21	Oakland             	41
+11/15/1971	St Louis            	17	San Diego           	20
+11/21/1971	Houston             	13	Cincinnati          	28
+11/21/1971	New England         	 7	Cleveland           	27
+11/21/1971	Dallas              	13	Washington          	 0
+11/21/1971	Detroit             	28	Chicago             	 3
+11/21/1971	Denver              	10	Kansas City         	28
+11/21/1971	San Francisco       	 6	LA Rams             	17
+11/21/1971	Miami               	17	Baltimore           	14
+11/21/1971	Minnesota           	23	New Orleans         	10
+11/21/1971	NY Jets             	20	Buffalo             	 7
+11/21/1971	San Diego           	33	Oakland             	34
+11/21/1971	Philadelphia        	37	St Louis            	20
+11/21/1971	NY Giants           	13	Pittsburgh          	17
+11/22/1971	Green Bay           	21	Atlanta             	28
+11/25/1971	LA Rams             	21	Dallas              	28
+11/25/1971	Kansas City         	21	Detroit             	32
+11/28/1971	Baltimore           	37	Oakland             	14
+11/28/1971	New England         	20	Buffalo             	27
+11/28/1971	San Diego           	 0	Cincinnati          	31
+11/28/1971	Cleveland           	37	Houston             	24
+11/28/1971	Denver              	22	Pittsburgh          	10
+11/28/1971	Atlanta             	 7	Minnesota           	24
+11/28/1971	New Orleans         	29	Green Bay           	21
+11/28/1971	San Francisco       	24	NY Jets             	21
+11/28/1971	St Louis            	24	NY Giants           	 7
+11/28/1971	Washington          	20	Philadelphia        	13
+11/29/1971	Chicago             	 3	Miami               	34
+12/04/1971	NY Jets             	10	Dallas              	52
+12/05/1971	Oakland             	13	Atlanta             	24
+12/05/1971	Buffalo             	 0	Baltimore           	24
+12/05/1971	Cincinnati          	27	Cleveland           	31
+12/05/1971	Chicago             	 3	Denver              	 6
+12/05/1971	Green Bay           	16	St Louis            	16
+12/05/1971	Pittsburgh          	 3	Houston             	29
+12/05/1971	New Orleans         	28	LA Rams             	45
+12/05/1971	Miami               	13	New England         	34
+12/05/1971	Philadelphia        	23	Detroit             	20
+12/05/1971	Minnesota           	14	San Diego           	30
+12/05/1971	NY Giants           	 7	Washington          	23
+12/06/1971	Kansas City         	26	San Francisco       	17
+12/11/1971	Baltimore           	14	Miami               	 3
+12/11/1971	Detroit             	10	Minnesota           	29
+12/12/1971	Cleveland           	21	New Orleans         	17
+12/12/1971	Dallas              	42	NY Giants           	14
+12/12/1971	Chicago             	10	Green Bay           	31
+12/12/1971	Houston             	20	Buffalo             	14
+12/12/1971	Oakland             	14	Kansas City         	16
+12/12/1971	New England         	 6	NY Jets             	13
+12/12/1971	St Louis            	 7	Philadelphia        	19
+12/12/1971	Pittsburgh          	21	Cincinnati          	13
+12/12/1971	Denver              	17	San Diego           	45
+12/12/1971	Atlanta             	 3	San Francisco       	24
+12/13/1971	Washington          	38	LA Rams             	24
+12/18/1971	St Louis            	12	Dallas              	31
+12/19/1971	Atlanta             	24	New Orleans         	20
+12/19/1971	Cleveland           	20	Washington          	13
+12/19/1971	San Diego           	33	Houston             	49
+12/19/1971	Buffalo             	 9	Kansas City         	22
+12/19/1971	LA Rams             	23	Pittsburgh          	14
+12/19/1971	Green Bay           	 6	Miami               	27
+12/19/1971	Minnesota           	27	Chicago             	10
+12/19/1971	New England         	21	Baltimore           	17
+12/19/1971	Cincinnati          	21	NY Jets             	35
+12/19/1971	Oakland             	21	Denver              	13
+12/19/1971	Philadelphia        	41	NY Giants           	28
+12/19/1971	Detroit             	27	San Francisco       	31
+12/25/1971	Dallas              	20	Minnesota           	12
+12/25/1971	Miami               	27	Kansas City         	24
+12/26/1971	Baltimore           	20	Cleveland           	 3
+12/26/1971	Washington          	20	San Francisco       	24
+01/02/1972	San Francisco       	 3	Dallas              	14
+01/02/1972	Baltimore           	 0	Miami               	21
+01/16/1972	Dallas              	24	Miami               	 3	n

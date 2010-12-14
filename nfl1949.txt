@@ -1,0 +1,61 @@
+09/22/1949	Philadelphia        	 7	NY Bulldogs         	 0
+09/23/1949	Detroit             	24	LA Rams             	27
+09/25/1949	Chicago             	17	Green Bay           	 0
+09/25/1949	NY Giants           	 7	Pittsburgh          	28
+09/26/1949	Washington          	 7	Chicago Cardinals   	38
+09/30/1949	NY Giants           	38	NY Bulldogs         	14
+10/02/1949	Chicago             	17	Chicago Cardinals   	 7
+10/02/1949	LA Rams             	48	Green Bay           	 7
+10/03/1949	Philadelphia        	22	Detroit             	14
+10/03/1949	Washington          	27	Pittsburgh          	14
+10/07/1949	Green Bay           	19	NY Bulldogs         	 0
+10/08/1949	Chicago Cardinals   	 3	Philadelphia        	28
+10/08/1949	Detroit             	 7	Pittsburgh          	14
+10/09/1949	LA Rams             	31	Chicago             	16
+10/09/1949	NY Giants           	45	Washington          	35
+10/16/1949	Philadelphia        	21	Chicago             	38
+10/16/1949	Chicago Cardinals   	39	Green Bay           	17
+10/16/1949	LA Rams             	21	Detroit             	10
+10/16/1949	Pittsburgh          	21	NY Giants           	17
+10/16/1949	NY Bulldogs         	14	Washington          	38
+10/23/1949	Detroit             	24	Chicago Cardinals   	 7
+10/23/1949	Green Bay           	 7	LA Rams             	35
+10/23/1949	Chicago             	28	NY Giants           	35
+10/23/1949	Washington          	14	Philadelphia        	49
+10/23/1949	NY Bulldogs         	13	Pittsburgh          	24
+10/30/1949	Detroit             	14	Green Bay           	16
+10/30/1949	Chicago             	24	LA Rams             	27
+10/30/1949	NY Giants           	41	Chicago Cardinals   	38
+10/30/1949	Philadelphia        	38	Pittsburgh          	 7
+10/30/1949	Washington          	14	NY Bulldogs         	14
+11/06/1949	Green Bay           	 3	Chicago             	24
+11/06/1949	Chicago Cardinals   	42	Detroit             	19
+11/06/1949	NY Bulldogs         	31	NY Giants           	24
+11/06/1949	LA Rams             	14	Philadelphia        	38
+11/06/1949	Pittsburgh          	14	Washington          	27
+11/13/1949	Detroit             	24	Chicago             	27
+11/13/1949	Chicago Cardinals   	65	NY Bulldogs         	20
+11/13/1949	LA Rams             	 7	Pittsburgh          	 7
+11/13/1949	NY Giants           	30	Green Bay           	10
+11/13/1949	Philadelphia        	44	Washington          	21
+11/20/1949	Chicago             	31	Washington          	21
+11/20/1949	Detroit             	45	NY Giants           	21
+11/20/1949	LA Rams             	28	Chicago Cardinals   	28
+11/20/1949	NY Bulldogs         	 0	Philadelphia        	42
+11/20/1949	Pittsburgh          	30	Green Bay           	 7
+11/24/1949	Chicago             	28	Detroit             	 7
+11/27/1949	Green Bay           	21	Chicago Cardinals   	41
+11/27/1949	NY Bulldogs         	20	LA Rams             	42
+11/27/1949	Washington          	 7	NY Giants           	23
+11/27/1949	Pittsburgh          	17	Philadelphia        	34
+12/04/1949	Pittsburgh          	21	Chicago             	30
+12/04/1949	Chicago Cardinals   	31	LA Rams             	27
+12/04/1949	NY Bulldogs         	27	Detroit             	28
+12/04/1949	Philadelphia        	24	NY Giants           	 3
+12/04/1949	Green Bay           	 0	Washington          	30
+12/11/1949	Chicago Cardinals   	21	Chicago             	52
+12/11/1949	Green Bay           	 7	Detroit             	21
+12/11/1949	Washington          	27	LA Rams             	53
+12/11/1949	NY Giants           	 3	Philadelphia        	17
+12/11/1949	Pittsburgh          	27	NY Bulldogs         	 0
+12/18/1949	Philadelphia        	14	LA Rams             	 0

@@ -1,0 +1,267 @@
+09/04/2003  Indianapolis        24  New England         27
+09/11/2004  Tennessee           17  Miami                7
+09/12/2004  Cincinnati          24  New York Jets       31
+09/12/2004  Detroit             20  Chicago             16
+09/12/2004  Dallas              17  Minnesota           35
+09/12/2004  Tampa Bay           10  Washington          16
+09/12/2004  Seattle             21  New Orleans          7
+09/12/2004  Jacksonville        13  Buffalo             10
+09/12/2004  Arizona             10  St. Louis           17
+09/12/2004  San Diego           27  Houston             20
+09/12/2004  Atlanta             21  San Francisco       19
+09/12/2004  Oakland             21  Pittsburgh          24
+09/12/2004  Baltimore            3  Cleveland           20
+09/12/2004  New York Giants     17  Philadelphia        31
+09/12/2004  Kansas City         24  Denver              34
+09/13/2004  Green Bay           24  Carolina            14
+09/19/2004  Indianapolis        31  Tennessee           17
+09/19/2004  Washington          14  New York Giants     20
+09/19/2004  St. Louis           17  Atlanta             34
+09/19/2004  Carolina            28  Kansas City         17
+09/19/2004  Denver               6  Jacksonville         7
+09/19/2004  Chicago             21  Green Bay           10
+09/19/2004  Pittsburgh          13  Baltimore           30
+09/19/2004  San Francisco       27  New Orleans         30
+09/19/2004  Houston             17  Detroit             28
+09/19/2004  Seattle             10  Tampa Bay            6
+09/19/2004  New York Jets       34  San Diego           28
+09/19/2004  Buffalo             10  Oakland             13
+09/19/2004  New England         23  Arizona             12
+09/19/2004  Cleveland           12  Dallas              19
+09/19/2004  Miami               13  Cincinnati          16
+09/20/2004  Minnesota           16  Philadelphia        27
+09/26/2004  Jacksonville        15  Tennessee           12
+09/26/2004  New Orleans         28  St. Louis           25
+09/26/2004  Cleveland           10  New York Giants     27
+09/26/2004  Chicago             22  Minnesota           27
+09/26/2004  Houston             24  Kansas City         21
+09/26/2004  Philadelphia        30  Detroit             13
+09/26/2004  Baltimore           23  Cincinnati           9
+09/26/2004  Arizona              3  Atlanta              6
+09/26/2004  San Diego           13  Denver              23
+09/26/2004  San Francisco        0  Seattle             34
+09/26/2004  Green Bay           31  Indianapolis        45
+09/26/2004  Pittsburgh          13  Miami                3
+09/26/2004  Tampa Bay           20  Oakland             30
+09/27/2004  Dallas              21  Washington          18
+10/03/2004  Cincinnati          17  Pittsburgh          28
+10/03/2004  Indianapolis        24  Jacksonville        17
+10/03/2004  Oakland             17  Houston             30
+10/03/2004  New York Giants     14  Green Bay            7
+10/03/2004  Washington          13  Cleveland           17
+10/03/2004  Philadelphia        19  Chicago              9
+10/03/2004  New England         31  Buffalo             17
+10/03/2004  Atlanta             27  Carolina            10
+10/03/2004  New Orleans         10  Arizona             34
+10/03/2004  Denver              16  Tampa Bay           13
+10/03/2004  Tennessee           17  San Diego           38
+10/03/2004  New York Jets       17  Miami                9
+10/03/2004  St. Louis           24  San Francisco       14
+10/04/2004  Kansas City         27  Baltimore           24
+10/10/2004  Miami               10  New England         24
+10/10/2004  Oakland             14  Indianapolis        35
+10/10/2004  Minnesota           34  Houston             28
+10/10/2004  New York Giants     26  Dallas              10
+10/10/2004  Detroit             17  Atlanta             10
+10/10/2004  Tampa Bay           20  New Orleans         17
+10/10/2004  Cleveland           23  Pittsburgh          34
+10/10/2004  Jacksonville        21  San Diego           34
+10/10/2004  Buffalo             14  New York Jets       16
+10/10/2004  St. Louis           33  Seattle             27
+10/10/2004  Arizona             28  San Francisco       31
+10/10/2004  Carolina            17  Denver              20
+10/10/2004  Baltimore           17  Washington          10
+10/11/2004  Tennessee           48  Green Bay           27
+10/17/2004  Houston             20  Tennessee           10
+10/17/2004  San Francisco       14  New York Jets       22
+10/17/2004  Carolina             8  Philadelphia        30
+10/17/2004  Seattle             20  New England         30
+10/17/2004  Kansas City         16  Jacksonville        22
+10/17/2004  Green Bay           38  Detroit             10
+10/17/2004  Cincinnati          17  Cleveland           34
+10/17/2004  Washington          13  Chicago             10
+10/17/2004  Miami               13  Buffalo             20
+10/17/2004  San Diego           20  Atlanta             21
+10/17/2004  Denver              31  Oakland              3
+10/17/2004  Pittsburgh          24  Dallas              20
+10/17/2004  Minnesota           38  New Orleans         31
+10/18/2004  Tampa Bay           21  St. Louis           28
+10/24/2004  Buffalo              6  Baltimore           20
+10/24/2004  San Diego           17  Carolina             6
+10/24/2004  Philadelphia        34  Cleveland           31
+10/24/2004  Jacksonville        27  Indianapolis        24
+10/24/2004  Atlanta             10  Kansas City         56
+10/24/2004  St. Louis           14  Miami               31
+10/24/2004  Tennessee            3  Minnesota           20
+10/24/2004  Detroit             28  New York Giants     13
+10/24/2004  Chicago              7  Tampa Bay           19
+10/24/2004  New York Jets        7  New England         13
+10/24/2004  Seattle             17  Arizona             25
+10/24/2004  Dallas              20  Green Bay           41
+10/24/2004  New Orleans         31  Oakland             26
+10/25/2004  Denver              10  Cincinnati          23
+10/31/2004  Green Bay           28  Washington          14
+10/31/2004  Cincinnati          20  Tennessee           27
+10/31/2004  New York Giants     34  Minnesota           13
+10/31/2004  Indianapolis        35  Kansas City         45
+10/31/2004  Jacksonville         6  Houston             20
+10/31/2004  Detroit             21  Dallas              31
+10/31/2004  Arizona             14  Buffalo             38
+10/31/2004  Baltimore           10  Philadelphia        15
+10/31/2004  Carolina            17  Seattle             23
+10/31/2004  Atlanta             41  Denver              28
+10/31/2004  Oakland             14  San Diego           42
+10/31/2004  New England         20  Pittsburgh          34
+10/31/2004  San Francisco       13  Chicago             23
+11/01/2004  Miami               14  New York Jets       41
+11/07/2004  New York Jets       17  Buffalo             22
+11/07/2004  Kansas City         31  Tampa Bay           34
+11/07/2004  Philadelphia         3  Pittsburgh          27
+11/07/2004  Arizona             24  Miami               23
+11/07/2004  Washington          17  Detroit             10
+11/07/2004  Dallas               3  Cincinnati          26
+11/07/2004  Oakland             27  Carolina            24
+11/07/2004  Seattle             42  San Francisco       27
+11/07/2004  New Orleans         17  San Diego           43
+11/07/2004  Chicago             28  New York Giants     21
+11/07/2004  New England         40  St. Louis           22
+11/07/2004  Houston             13  Denver              31
+11/07/2004  Cleveland           13  Baltimore           27
+11/08/2004  Minnesota           28  Indianapolis        31
+11/14/2004  Chicago             19  Tennessee           17
+11/14/2004  Seattle             12  St. Louis           23
+11/14/2004  Baltimore           20  New York Jets       17
+11/14/2004  Kansas City         20  New Orleans         27
+11/14/2004  Detroit             17  Jacksonville        23
+11/14/2004  Houston             14  Indianapolis        49
+11/14/2004  Pittsburgh          24  Cleveland           10
+11/14/2004  Tampa Bay           14  Atlanta             24
+11/14/2004  Cincinnati          17  Washington          10
+11/14/2004  Carolina            37  San Francisco       27
+11/14/2004  Minnesota           31  Green Bay           34
+11/14/2004  New York Giants     14  Arizona             17
+11/14/2004  Buffalo              6  New England         29
+11/15/2004  Philadelphia        49  Dallas              21
+11/21/2004  San Francisco        3  Tampa Bay           35
+11/21/2004  Denver              34  New Orleans         13
+11/21/2004  Detroit             19  Minnesota           22
+11/21/2004  Tennessee           18  Jacksonville        15
+11/21/2004  New York Jets       10  Cleveland            7
+11/21/2004  Pittsburgh          19  Cincinnati          14
+11/21/2004  Indianapolis        41  Chicago             10
+11/21/2004  Arizona             10  Carolina            35
+11/21/2004  St. Louis           17  Buffalo             37
+11/21/2004  Dallas              10  Baltimore           30
+11/21/2004  Miami               17  Seattle             24
+11/21/2004  San Diego           23  Oakland             17
+11/21/2004  Washington           6  Philadelphia        28
+11/21/2004  Atlanta             14  New York Giants     10
+11/21/2004  Green Bay           16  Houston             13
+11/22/2004  New England         27  Kansas City         19
+11/25/2004  Indianapolis        41  Detroit              9
+11/25/2004  Chicago              7  Dallas              21
+11/28/2004  Washington           7  Pittsburgh          16
+11/28/2004  Philadelphia        27  New York Giants      6
+11/28/2004  Jacksonville        16  Minnesota           27
+11/28/2004  San Diego           34  Kansas City         31
+11/28/2004  Tennessee           21  Houston             31
+11/28/2004  Cleveland           48  Cincinnati          58
+11/28/2004  Tampa Bay           14  Carolina            21
+11/28/2004  New Orleans         21  Atlanta             24
+11/28/2004  Buffalo             38  Seattle              9
+11/28/2004  Miami               24  San Francisco       17
+11/28/2004  New York Jets       13  Arizona              3
+11/28/2004  Baltimore            3  New England         24
+11/28/2004  Oakland             25  Denver              24
+11/29/2004  St. Louis           17  Green Bay           45
+12/05/2004  Atlanta              0  Tampa Bay           27
+12/05/2004  San Francisco        6  St. Louis           16
+12/05/2004  Houston              7  New York Jets       29
+12/05/2004  Carolina            32  New Orleans         21
+12/05/2004  Buffalo             42  Miami               32
+12/05/2004  Tennessee           24  Indianapolis        51
+12/05/2004  Arizona             12  Detroit             26
+12/05/2004  New England         42  Cleveland           15
+12/05/2004  Minnesota           14  Chicago             24
+12/05/2004  Cincinnati          27  Baltimore           26
+12/05/2004  Denver              17  San Diego           20
+12/05/2004  Kansas City         34  Oakland             27
+12/05/2004  New York Giants      7  Washington          31
+12/05/2004  Green Bay           17  Philadelphia        47
+12/05/2004  Pittsburgh          17  Jacksonville        16
+12/06/2004  Dallas              43  Seattle             39
+12/12/2004  Chicago              3  Jacksonville        22
+12/12/2004  Indianapolis        23  Houston             14
+12/12/2004  New Orleans         27  Dallas              13
+12/12/2004  Cleveland            7  Buffalo             37
+12/12/2004  New York Giants     14  Baltimore           37
+12/12/2004  Oakland             10  Atlanta             35
+12/12/2004  Cincinnati          28  New England         35
+12/12/2004  Seattle             27  Minnesota           23
+12/12/2004  Miami               17  Denver              20
+12/12/2004  New York Jets        6  Pittsburgh          17
+12/12/2004  Tampa Bay           24  San Diego           31
+12/12/2004  San Francisco       31  Arizona             28
+12/12/2004  St. Louis            7  Carolina            20
+12/12/2004  Detroit             13  Green Bay           16
+12/12/2004  Philadelphia        17  Washington          14
+12/13/2004  Kansas City         49  Tennessee           38
+12/18/2004  Pittsburgh          33  New York Giants     30
+12/18/2004  Washington          26  San Francisco       16
+12/18/2004  Carolina            31  Atlanta             34
+12/19/2004  Denver              17  Kansas City         45
+12/19/2004  Dallas               7  Philadelphia        12
+12/19/2004  Seattle             14  New York Jets       37
+12/19/2004  San Diego           21  Cleveland            0
+12/19/2004  Minnesota           28  Detroit             27
+12/19/2004  Buffalo             33  Cincinnati          17
+12/19/2004  Houston             24  Chicago              5
+12/19/2004  New Orleans         21  Tampa Bay           17
+12/19/2004  St. Louis            7  Arizona             31
+12/19/2004  Tennessee           35  Oakland             40
+12/19/2004  Jacksonville        28  Green Bay           25
+12/19/2004  Baltimore           10  Indianapolis        20
+12/20/2004  New England         28  Miami               29
+12/24/2004  Green Bay           34  Minnesota           31
+12/25/2004  Oakland             30  Kansas City         31
+12/25/2004  Denver              37  Tennessee           16
+12/26/2004  Baltimore            7  Pittsburgh          20
+12/26/2004  Atlanta             13  New Orleans         26
+12/26/2004  Houston             21  Jacksonville         0
+12/26/2004  San Diego           31  Indianapolis        34
+12/26/2004  Chicago             13  Detroit             19
+12/26/2004  New York Giants     22  Cincinnati          23
+12/26/2004  Buffalo             41  San Francisco        7
+12/26/2004  New England         23  New York Jets        7
+12/26/2004  Arizona             21  Seattle             24
+12/26/2004  Washington          10  Dallas              13
+12/26/2004  Carolina            37  Tampa Bay           20
+12/26/2004  Cleveland            7  Miami               10
+12/27/2004  Philadelphia         7  St. Louis           20
+01/02/2005  Cincinnati          38  Philadelphia        10
+01/02/2005  New Orleans         21  Carolina            18
+01/02/2005  Minnesota           18  Washington          21
+01/02/2005  San Francisco        7  New England         21
+01/02/2005  Pittsburgh          29  Buffalo             24
+01/02/2005  Detroit             19  Tennessee           24
+01/02/2005  Cleveland           22  Houston             14
+01/02/2005  Miami               23  Baltimore           30
+01/02/2005  New York Jets       29  St. Louis           32
+01/02/2005  Green Bay           31  Chicago             14
+01/02/2005  Atlanta             26  Seattle             28
+01/02/2005  Jacksonville        13  Oakland              6
+01/02/2005  Tampa Bay            7  Arizona             12
+01/02/2005  Kansas City         17  San Diego           24
+01/02/2005  Indianapolis        14  Denver              33
+01/02/2005  Dallas              24  New York Giants     28
+01/08/2005  St. Louis           27  Seattle             20
+01/08/2005  New York Jets       20  San Diego           17
+01/09/2005  Minnesota           31  Green Bay           17
+01/09/2005  Denver              24  Indianapolis        49
+01/15/2005  New York Jets       17  Pittsburgh          20
+01/15/2005  St. Louis           17  Atlanta             47
+01/16/2005  Minnesota           13  Philadelphia        27
+01/16/2005  Indianapolis         3  New England         20
+01/23/2005  Atlanta             10  Philadelphia        27
+01/23/2005  New England         41  Pittsburgh          27
+02/06/2005  New England         24  Philadelphia        21 0

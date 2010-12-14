@@ -1,0 +1,73 @@
+09/27/1953	Chicago             	 9	Baltimore           	13
+09/27/1953	Washington          	24	Chicago Cardinals   	13
+09/27/1953	Cleveland           	27	Green Bay           	 0
+09/27/1953	NY Giants           	 7	LA Rams             	21
+09/27/1953	Philadelphia        	21	San Francisco       	31
+09/27/1953	Pittsburgh          	21	Detroit             	38
+10/02/1953	Washington          	21	Philadelphia        	21
+10/03/1953	Detroit             	27	Baltimore           	17
+10/03/1953	NY Giants           	14	Pittsburgh          	24
+10/04/1953	Cleveland           	27	Chicago Cardinals   	 7
+10/04/1953	Chicago             	17	Green Bay           	13
+10/04/1953	LA Rams             	30	San Francisco       	31
+10/10/1953	Philadelphia        	13	Cleveland           	37
+10/11/1953	Baltimore           	16	Chicago             	14
+10/11/1953	Chicago Cardinals   	28	Pittsburgh          	31
+10/11/1953	LA Rams             	38	Green Bay           	20
+10/11/1953	NY Giants           	 9	Washington          	13
+10/11/1953	San Francisco       	21	Detroit             	24
+10/17/1953	Pittsburgh          	 7	Philadelphia        	23
+10/18/1953	Baltimore           	14	Green Bay           	37
+10/18/1953	San Francisco       	35	Chicago             	28
+10/18/1953	Chicago Cardinals   	 7	NY Giants           	21
+10/18/1953	LA Rams             	31	Detroit             	19
+10/18/1953	Cleveland           	30	Washington          	14
+10/24/1953	Green Bay           	14	Pittsburgh          	31
+10/25/1953	Chicago             	24	LA Rams             	38
+10/25/1953	Philadelphia        	56	Chicago Cardinals   	17
+10/25/1953	Cleveland           	 7	NY Giants           	 0
+10/25/1953	Detroit             	14	San Francisco       	10
+10/25/1953	Washington          	17	Baltimore           	27
+10/31/1953	Green Bay           	35	Baltimore           	24
+11/01/1953	Chicago             	14	San Francisco       	24
+11/01/1953	NY Giants           	23	Chicago Cardinals   	20
+11/01/1953	Detroit             	24	LA Rams             	37
+11/01/1953	Philadelphia        	35	Pittsburgh          	 7
+11/01/1953	Washington          	 3	Cleveland           	27
+11/07/1953	Baltimore           	 7	Detroit             	17
+11/08/1953	Green Bay           	21	Chicago             	21
+11/08/1953	Chicago Cardinals   	17	Washington          	28
+11/08/1953	San Francisco       	31	LA Rams             	27
+11/08/1953	NY Giants           	 7	Philadelphia        	30
+11/08/1953	Pittsburgh          	16	Cleveland           	34
+11/15/1953	Baltimore           	14	Philadelphia        	45
+11/15/1953	LA Rams             	24	Chicago Cardinals   	24
+11/15/1953	Detroit             	14	Green Bay           	 7
+11/15/1953	Pittsburgh          	14	NY Giants           	10
+11/15/1953	San Francisco       	21	Cleveland           	23
+11/15/1953	Chicago             	27	Washington          	24
+11/21/1953	Chicago Cardinals   	 0	Philadelphia        	38
+11/22/1953	LA Rams             	21	Baltimore           	13
+11/22/1953	Detroit             	20	Chicago             	16
+11/22/1953	San Francisco       	37	Green Bay           	 7
+11/22/1953	Washington          	24	NY Giants           	21
+11/22/1953	Cleveland           	20	Pittsburgh          	16
+11/26/1953	Green Bay           	15	Detroit             	34
+11/29/1953	San Francisco       	38	Baltimore           	21
+11/29/1953	Chicago Cardinals   	16	Cleveland           	27
+11/29/1953	LA Rams             	21	Chicago             	24
+11/29/1953	Philadelphia        	28	NY Giants           	37
+11/29/1953	Washington          	17	Pittsburgh          	 9
+12/05/1953	Baltimore           	 2	LA Rams             	45
+12/06/1953	Chicago             	 7	Detroit             	13
+12/06/1953	Pittsburgh          	21	Chicago Cardinals   	17
+12/06/1953	Green Bay           	14	San Francisco       	48
+12/06/1953	NY Giants           	14	Cleveland           	62
+12/06/1953	Philadelphia        	 0	Washington          	10
+12/12/1953	Green Bay           	17	LA Rams             	33
+12/13/1953	Baltimore           	14	San Francisco       	45
+12/13/1953	Chicago Cardinals   	24	Chicago             	17
+12/13/1953	Cleveland           	27	Philadelphia        	42
+12/13/1953	Detroit             	27	NY Giants           	16
+12/13/1953	Pittsburgh          	14	Washington          	13
+12/27/1953	Cleveland           	16	Detroit             	17

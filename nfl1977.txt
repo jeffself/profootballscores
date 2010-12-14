@@ -1,0 +1,203 @@
+09/18/1977	LA Rams             	 6	Atlanta             	17
+09/18/1977	Baltimore           	29	Seattle             	14
+09/18/1977	Detroit             	20	Chicago             	30
+09/18/1977	Cleveland           	13	Cincinnati          	 3
+09/18/1977	Dallas              	16	Minnesota           	10
+09/18/1977	St Louis            	 0	Denver              	 7
+09/18/1977	Green Bay           	24	New Orleans         	20
+09/18/1977	NY Jets             	 0	Houston             	20
+09/18/1977	Miami               	13	Buffalo             	 0
+09/18/1977	Kansas City         	17	New England         	21
+09/18/1977	Washington          	17	NY Giants           	20
+09/18/1977	San Diego           	 0	Oakland             	24
+09/18/1977	Tampa Bay           	 3	Philadelphia        	13
+09/19/1977	San Francisco       	 0	Pittsburgh          	27
+09/24/1977	Minnesota           	 9	Tampa Bay           	 3
+09/25/1977	Baltimore           	20	NY Jets             	12
+09/25/1977	Seattle             	20	Cincinnati          	42
+09/25/1977	NY Giants           	21	Dallas              	41
+09/25/1977	Buffalo             	 6	Denver              	26
+09/25/1977	New Orleans         	19	Detroit             	23
+09/25/1977	Houston             	16	Green Bay           	10
+09/25/1977	Philadelphia        	 0	LA Rams             	20
+09/25/1977	Miami               	19	San Francisco       	15
+09/25/1977	Oakland             	16	Pittsburgh          	 7
+09/25/1977	San Diego           	23	Kansas City         	 7
+09/25/1977	Chicago             	13	St Louis            	16
+09/25/1977	Atlanta             	 6	Washington          	10
+09/26/1977	New England         	27	Cleveland           	30
+10/02/1977	NY Giants           	 3	Atlanta             	17
+10/02/1977	Buffalo             	14	Baltimore           	17
+10/02/1977	Tampa Bay           	 7	Dallas              	23
+10/02/1977	Denver              	24	Seattle             	13
+10/02/1977	Philadelphia        	13	Detroit             	17
+10/02/1977	San Francisco       	14	LA Rams             	34
+10/02/1977	Houston             	 7	Miami               	27
+10/02/1977	Green Bay           	 7	Minnesota           	19
+10/02/1977	New Orleans         	42	Chicago             	24
+10/02/1977	New England         	27	NY Jets             	30
+10/02/1977	Pittsburgh          	28	Cleveland           	14
+10/02/1977	Cincinnati          	 3	San Diego           	24
+10/02/1977	St Louis            	14	Washington          	24
+10/03/1977	Oakland             	37	Kansas City         	28
+10/09/1977	Atlanta             	 7	San Francisco       	 0
+10/09/1977	Miami               	28	Baltimore           	45
+10/09/1977	Cincinnati          	17	Green Bay           	 7
+10/09/1977	Dallas              	30	St Louis            	24
+10/09/1977	Kansas City         	 7	Denver              	23
+10/09/1977	Pittsburgh          	10	Houston             	27
+10/09/1977	Detroit             	 7	Minnesota           	14
+10/09/1977	Seattle             	 0	New England         	31
+10/09/1977	NY Jets             	24	Buffalo             	19
+10/09/1977	Oakland             	26	Cleveland           	10
+10/09/1977	Philadelphia        	28	NY Giants           	10
+10/09/1977	San Diego           	14	New Orleans         	 0
+10/09/1977	Washington          	10	Tampa Bay           	 0
+10/10/1977	LA Rams             	23	Chicago             	24
+10/16/1977	Baltimore           	17	Kansas City         	 6
+10/16/1977	Atlanta             	 0	Buffalo             	 3
+10/16/1977	Cleveland           	24	Houston             	23
+10/16/1977	Washington          	16	Dallas              	34
+10/16/1977	Denver              	30	Oakland             	 7
+10/16/1977	Green Bay           	 6	Detroit             	10
+10/16/1977	New Orleans         	 7	LA Rams             	14
+10/16/1977	NY Jets             	17	Miami               	21
+10/16/1977	Chicago             	16	Minnesota           	22
+10/16/1977	New England         	24	San Diego           	20
+10/16/1977	San Francisco       	17	NY Giants           	20
+10/16/1977	Tampa Bay           	23	Seattle             	30
+10/16/1977	St Louis            	21	Philadelphia        	17
+10/17/1977	Cincinnati          	14	Pittsburgh          	20
+10/23/1977	Atlanta             	16	Chicago             	10
+10/23/1977	Cleveland           	27	Buffalo             	16
+10/23/1977	Dallas              	16	Philadelphia        	10
+10/23/1977	Denver              	24	Cincinnati          	13
+10/23/1977	Green Bay           	13	Tampa Bay           	 0
+10/23/1977	Kansas City         	21	San Diego           	16
+10/23/1977	Seattle             	13	Miami               	31
+10/23/1977	Baltimore           	 3	New England         	17
+10/23/1977	NY Giants           	17	Washington          	 6
+10/23/1977	Oakland             	28	NY Jets             	27
+10/23/1977	Houston             	10	Pittsburgh          	27
+10/23/1977	Detroit             	 7	San Francisco       	28
+10/23/1977	New Orleans         	31	St Louis            	49
+10/24/1977	Minnesota           	 3	LA Rams             	35
+10/30/1977	Pittsburgh          	21	Baltimore           	31
+10/30/1977	Chicago             	26	Green Bay           	 0
+10/30/1977	Houston             	10	Cincinnati          	13
+10/30/1977	Kansas City         	 7	Cleveland           	44
+10/30/1977	Detroit             	 0	Dallas              	37
+10/30/1977	Minnesota           	14	Atlanta             	 7
+10/30/1977	NY Jets             	13	New England         	24
+10/30/1977	LA Rams             	26	New Orleans         	27
+10/30/1977	Oakland             	24	Denver              	14
+10/30/1977	San Diego           	14	Miami               	13
+10/30/1977	Tampa Bay           	10	San Francisco       	20
+10/30/1977	Buffalo             	17	Seattle             	56
+10/30/1977	Philadelphia        	17	Washington          	23
+10/31/1977	NY Giants           	 0	St Louis            	28
+11/06/1977	Buffalo             	24	New England         	14
+11/06/1977	Cincinnati          	10	Cleveland           	 7
+11/06/1977	Dallas              	24	NY Giants           	10
+11/06/1977	Pittsburgh          	 7	Denver              	21
+11/06/1977	San Diego           	 0	Detroit             	20
+11/06/1977	Chicago             	 0	Houston             	47
+11/06/1977	Green Bay           	10	Kansas City         	20
+11/06/1977	Tampa Bay           	 0	LA Rams             	31
+11/06/1977	Miami               	14	NY Jets             	10
+11/06/1977	Seattle             	 7	Oakland             	44
+11/06/1977	New Orleans         	 7	Philadelphia        	28
+11/06/1977	San Francisco       	10	Atlanta             	 3
+11/06/1977	St Louis            	27	Minnesota           	 7
+11/07/1977	Washington          	 3	Baltimore           	10
+11/13/1977	Detroit             	 6	Atlanta             	17
+11/13/1977	Baltimore           	31	Buffalo             	13
+11/13/1977	Kansas City         	27	Chicago             	28
+11/13/1977	Denver              	17	San Diego           	14
+11/13/1977	LA Rams             	24	Green Bay           	 6
+11/13/1977	New England         	 5	Miami               	17
+11/13/1977	Cincinnati          	10	Minnesota           	42
+11/13/1977	NY Giants           	10	Tampa Bay           	 0
+11/13/1977	Houston             	29	Oakland             	34
+11/13/1977	Cleveland           	31	Pittsburgh          	35
+11/13/1977	San Francisco       	10	New Orleans         	 7
+11/13/1977	Seattle             	17	NY Jets             	 0
+11/13/1977	Washington          	17	Philadelphia        	14
+11/14/1977	St Louis            	24	Dallas              	17
+11/20/1977	NY Jets             	12	Baltimore           	33
+11/20/1977	Minnesota           	 7	Chicago             	10
+11/20/1977	Miami               	17	Cincinnati          	23
+11/20/1977	Cleveland           	21	NY Giants           	 7
+11/20/1977	Denver              	14	Kansas City         	 7
+11/20/1977	Tampa Bay           	 7	Detroit             	16
+11/20/1977	Houston             	22	Seattle             	10
+11/20/1977	LA Rams             	23	San Francisco       	10
+11/20/1977	New England         	20	Buffalo             	 7
+11/20/1977	Atlanta             	20	New Orleans         	21
+11/20/1977	Dallas              	13	Pittsburgh          	28
+11/20/1977	Oakland             	 7	San Diego           	12
+11/20/1977	Philadelphia        	16	St Louis            	21
+11/21/1977	Green Bay           	 9	Washington          	10
+11/24/1977	Chicago             	31	Detroit             	14
+11/24/1977	Miami               	55	St Louis            	14
+11/27/1977	Atlanta             	17	Tampa Bay           	 0
+11/27/1977	NY Giants           	13	Cincinnati          	30
+11/27/1977	Dallas              	14	Washington          	 7
+11/27/1977	Baltimore           	13	Denver              	27
+11/27/1977	Kansas City         	20	Houston             	34
+11/27/1977	LA Rams             	 9	Cleveland           	 0
+11/27/1977	Minnesota           	13	Green Bay           	 6
+11/27/1977	Philadelphia        	 6	New England         	14
+11/27/1977	Pittsburgh          	23	NY Jets             	20
+11/27/1977	San Diego           	30	Seattle             	28
+11/27/1977	New Orleans         	17	San Francisco       	20
+11/28/1977	Buffalo             	13	Oakland             	34
+12/04/1977	Chicago             	10	Tampa Bay           	 0
+12/04/1977	Cincinnati          	27	Kansas City         	 7
+12/04/1977	Philadelphia        	14	Dallas              	24
+12/04/1977	Denver              	24	Houston             	14
+12/04/1977	Detroit             	 9	Green Bay           	10
+12/04/1977	Oakland             	14	LA Rams             	20
+12/04/1977	San Francisco       	27	Minnesota           	28
+12/04/1977	New England         	16	Atlanta             	10
+12/04/1977	St Louis            	 7	NY Giants           	27
+12/04/1977	NY Jets             	16	New Orleans         	13
+12/04/1977	Seattle             	20	Pittsburgh          	30
+12/04/1977	Cleveland           	14	San Diego           	37
+12/04/1977	Washington          	10	Buffalo             	 0
+12/05/1977	Baltimore           	 6	Miami               	17
+12/10/1977	Pittsburgh          	10	Cincinnati          	17
+12/10/1977	Washington          	26	St Louis            	20
+12/11/1977	Buffalo             	14	NY Jets             	10
+12/11/1977	Green Bay           	10	Chicago             	21
+12/11/1977	San Diego           	 9	Denver              	17
+12/11/1977	Detroit             	13	Baltimore           	10
+12/11/1977	Houston             	19	Cleveland           	15
+12/11/1977	Atlanta             	 7	LA Rams             	23
+12/11/1977	Miami               	10	New England         	14
+12/11/1977	Minnesota           	13	Oakland             	35
+12/11/1977	NY Giants           	14	Philadelphia        	17
+12/11/1977	Seattle             	34	Kansas City         	31
+12/11/1977	Tampa Bay           	33	New Orleans         	14
+12/12/1977	Dallas              	42	San Francisco       	35
+12/17/1977	Buffalo             	14	Miami               	31
+12/17/1977	Minnesota           	30	Detroit             	21
+12/17/1977	LA Rams             	14	Washington          	17
+12/18/1977	New Orleans         	 7	Atlanta             	35
+12/18/1977	New England         	24	Baltimore           	30
+12/18/1977	Chicago             	12	NY Giants           	 9
+12/18/1977	Denver              	 6	Dallas              	14
+12/18/1977	San Francisco       	14	Green Bay           	16
+12/18/1977	Cincinnati          	16	Houston             	21
+12/18/1977	Kansas City         	20	Oakland             	21
+12/18/1977	NY Jets             	 0	Philadelphia        	27
+12/18/1977	Pittsburgh          	10	San Diego           	 9
+12/18/1977	Cleveland           	19	Seattle             	20
+12/18/1977	St Louis            	 7	Tampa Bay           	17
+12/24/1977	Pittsburgh          	21	Denver              	34
+12/24/1977	Oakland             	37	Baltimore           	31
+12/26/1977	Chicago             	 7	Dallas              	37
+12/26/1977	Minnesota           	14	LA Rams             	 7
+01/01/1978	Minnesota           	 6	Dallas              	23
+01/01/1978	Oakland             	17	Denver              	20
+01/15/1978	Dallas              	27	Denver              	10	n

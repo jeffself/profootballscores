@@ -1,0 +1,251 @@
+09/06/1998	Pittsburgh          	20	Baltimore           	13
+09/06/1998	Atlanta             	19	Carolina            	14
+09/06/1998	Jacksonville        	24	Chicago             	23
+09/06/1998	Tennessee           	23	Cincinnati          	14
+09/06/1998	Detroit             	19	Green Bay           	38
+09/06/1998	Tampa Bay           	 7	Minnesota           	31
+09/06/1998	Washington          	24	NY Giants           	31
+09/06/1998	Seattle             	38	Philadelphia        	 0
+09/06/1998	New Orleans         	24	St Louis            	17
+09/06/1998	Arizona             	10	Dallas              	38
+09/06/1998	Miami               	24	Indianapolis        	15
+09/06/1998	Buffalo             	14	San Diego           	16
+09/06/1998	NY Jets             	30	San Francisco       	36
+09/06/1998	Oakland             	 8	Kansas City         	28
+09/07/1998	New England         	21	Denver              	27
+09/13/1998	Philadelphia        	12	Atlanta             	17
+09/13/1998	Cincinnati          	34	Detroit             	28
+09/13/1998	Tampa Bay           	15	Green Bay           	23
+09/13/1998	Kansas City         	16	Jacksonville        	21
+09/13/1998	Buffalo             	 7	Miami               	13
+09/13/1998	Carolina            	14	New Orleans         	19
+09/13/1998	Baltimore           	24	NY Jets             	10
+09/13/1998	Chicago             	12	Pittsburgh          	17
+09/13/1998	Minnesota           	38	St Louis            	31
+09/13/1998	San Diego           	13	Tennessee           	 7
+09/13/1998	Dallas              	23	Denver              	42
+09/13/1998	NY Giants           	17	Oakland             	20
+09/13/1998	Arizona             	14	Seattle             	33
+09/13/1998	Indianapolis        	 6	New England         	29
+09/14/1998	San Francisco       	45	Washington          	10
+09/20/1998	St Louis            	34	Buffalo             	33
+09/20/1998	Green Bay           	13	Cincinnati          	 6
+09/20/1998	San Diego           	 7	Kansas City         	23
+09/20/1998	Pittsburgh          	 0	Miami               	21
+09/20/1998	Detroit             	 6	Minnesota           	29
+09/20/1998	Tennessee           	16	New England         	27
+09/20/1998	Indianapolis        	 6	NY Jets             	44
+09/20/1998	Washington          	14	Seattle             	24
+09/20/1998	Chicago             	15	Tampa Bay           	27
+09/20/1998	Baltimore           	10	Jacksonville        	24
+09/20/1998	Denver              	34	Oakland             	17
+09/20/1998	Philadelphia        	 3	Arizona             	17
+09/21/1998	Dallas              	31	NY Giants           	 7
+09/27/1998	Green Bay           	37	Carolina            	30
+09/27/1998	Oakland             	13	Dallas              	12
+09/27/1998	New Orleans         	19	Indianapolis        	13
+09/27/1998	Kansas City         	24	Philadelphia        	21
+09/27/1998	Arizona             	20	St Louis            	17
+09/27/1998	Jacksonville        	27	Tennessee           	22
+09/27/1998	Denver              	38	Washington          	16
+09/27/1998	Seattle             	10	Pittsburgh          	13
+09/27/1998	Minnesota           	31	Chicago             	28
+09/27/1998	NY Giants           	34	San Diego           	16
+09/27/1998	Atlanta             	20	San Francisco       	31
+09/27/1998	Cincinnati          	24	Baltimore           	31
+09/28/1998	Tampa Bay           	 6	Detroit             	27
+10/04/1998	Carolina            	23	Atlanta             	51
+10/04/1998	San Francisco       	21	Buffalo             	26
+10/04/1998	Detroit             	27	Chicago             	31
+10/04/1998	San Diego           	12	Indianapolis        	17
+10/04/1998	New England         	30	New Orleans         	27
+10/04/1998	Miami               	 9	NY Jets             	20
+10/04/1998	Dallas              	31	Washington          	10
+10/04/1998	Oakland             	23	Arizona             	20
+10/04/1998	Philadelphia        	16	Denver              	41
+10/04/1998	NY Giants           	 3	Tampa Bay           	20
+10/04/1998	Seattle             	 6	Kansas City         	17
+10/05/1998	Minnesota           	37	Green Bay           	24
+10/11/1998	Tennessee           	12	Baltimore           	 8
+10/11/1998	Pittsburgh          	20	Cincinnati          	25
+10/11/1998	Carolina            	20	Dallas              	27
+10/11/1998	Buffalo             	31	Indianapolis        	24
+10/11/1998	San Francisco       	31	New Orleans         	 0
+10/11/1998	Kansas City         	10	New England         	40
+10/11/1998	Washington          	12	Philadelphia        	17
+10/11/1998	Chicago             	 7	Arizona             	20
+10/11/1998	San Diego           	 6	Oakland             	 7
+10/11/1998	Denver              	21	Seattle             	16
+10/11/1998	NY Jets             	10	St Louis            	30
+10/11/1998	Atlanta             	34	NY Giants           	20
+10/12/1998	Miami               	21	Jacksonville        	28
+10/15/1998	Green Bay           	20	Detroit             	27
+10/18/1998	New Orleans         	23	Atlanta             	31
+10/18/1998	Jacksonville        	16	Buffalo             	17
+10/18/1998	Washington          	 7	Minnesota           	41
+10/18/1998	Arizona             	 7	NY Giants           	34
+10/18/1998	Baltimore           	 6	Pittsburgh          	16
+10/18/1998	Carolina            	13	Tampa Bay           	16
+10/18/1998	Cincinnati          	14	Tennessee           	44
+10/18/1998	Indianapolis        	31	San Francisco       	34
+10/18/1998	Dallas              	12	Chicago             	13
+10/18/1998	St Louis            	 0	Miami               	14
+10/18/1998	Philadelphia        	10	San Diego           	13
+10/19/1998	NY Jets             	24	New England         	14
+10/25/1998	Minnesota           	34	Detroit             	13
+10/25/1998	Baltimore           	10	Green Bay           	28
+10/25/1998	New England         	 9	Miami               	12
+10/25/1998	Tampa Bay           	 3	New Orleans         	 9
+10/25/1998	Atlanta             	 3	NY Jets             	28
+10/25/1998	San Francisco       	28	St Louis            	10
+10/25/1998	Chicago             	23	Tennessee           	20
+10/25/1998	Jacksonville        	24	Denver              	37
+10/25/1998	Cincinnati          	10	Oakland             	27
+10/25/1998	Seattle             	27	San Diego           	20
+10/25/1998	Buffalo             	30	Carolina            	14
+10/26/1998	Pittsburgh          	20	Kansas City         	13
+11/01/1998	St Louis            	15	Atlanta             	37
+11/01/1998	Jacksonville        	45	Baltimore           	19
+11/01/1998	Miami               	24	Buffalo             	30
+11/01/1998	New Orleans         	17	Carolina            	31
+11/01/1998	Denver              	33	Cincinnati          	26
+11/01/1998	Arizona             	17	Detroit             	15
+11/01/1998	New England         	21	Indianapolis        	16
+11/01/1998	Tennessee           	41	Pittsburgh          	31
+11/01/1998	Minnesota           	24	Tampa Bay           	27
+11/01/1998	NY Giants           	14	Washington          	21
+11/01/1998	NY Jets             	20	Kansas City         	17
+11/01/1998	San Francisco       	22	Green Bay           	36
+11/01/1998	Oakland             	31	Seattle             	18
+11/02/1998	Dallas              	34	Philadelphia        	 0
+11/08/1998	Oakland             	10	Baltimore           	13
+11/08/1998	St Louis            	20	Chicago             	12
+11/08/1998	NY Giants           	 6	Dallas              	16
+11/08/1998	Cincinnati          	11	Jacksonville        	24
+11/08/1998	Indianapolis        	14	Miami               	27
+11/08/1998	New Orleans         	24	Minnesota           	31
+11/08/1998	Atlanta             	41	New England         	10
+11/08/1998	Detroit             	 9	Philadelphia        	10
+11/08/1998	Washington          	27	Arizona             	29
+11/08/1998	Carolina            	23	San Francisco       	25
+11/08/1998	San Diego           	10	Denver              	27
+11/08/1998	Buffalo             	12	NY Jets             	34
+11/08/1998	Kansas City         	12	Seattle             	24
+11/08/1998	Tennessee           	31	Tampa Bay           	22
+11/09/1998	Green Bay           	20	Pittsburgh          	27
+11/15/1998	San Francisco       	19	Atlanta             	31
+11/15/1998	New England         	10	Buffalo             	13
+11/15/1998	Miami               	13	Carolina            	 9
+11/15/1998	NY Jets             	23	Indianapolis        	24
+11/15/1998	Cincinnati          	 3	Minnesota           	24
+11/15/1998	St Louis            	 3	New Orleans         	24
+11/15/1998	Pittsburgh          	14	Tennessee           	23
+11/15/1998	Philadelphia        	 3	Washington          	28
+11/15/1998	Seattle             	17	Oakland             	20
+11/15/1998	Baltimore           	13	San Diego           	14
+11/15/1998	Dallas              	35	Arizona             	28
+11/15/1998	Tampa Bay           	24	Jacksonville        	29
+11/15/1998	Green Bay           	37	NY Giants           	 3
+11/15/1998	Chicago             	 3	Detroit             	26
+11/16/1998	Denver              	30	Kansas City         	 7
+11/22/1998	Chicago             	13	Atlanta             	20
+11/22/1998	Indianapolis        	11	Buffalo             	34
+11/22/1998	Seattle             	22	Dallas              	30
+11/22/1998	Green Bay           	14	Minnesota           	28
+11/22/1998	Philadelphia        	 0	NY Giants           	20
+11/22/1998	Jacksonville        	15	Pittsburgh          	30
+11/22/1998	Detroit             	28	Tampa Bay           	25
+11/22/1998	Arizona             	45	Washington          	42
+11/22/1998	Carolina            	24	St Louis            	20
+11/22/1998	Baltimore           	20	Cincinnati          	13
+11/22/1998	Oakland             	14	Denver              	40
+11/22/1998	Kansas City         	37	San Diego           	38
+11/22/1998	NY Jets             	24	Tennessee           	 3
+11/22/1998	New Orleans         	20	San Francisco       	31
+11/23/1998	Miami               	23	New England         	26
+11/26/1998	Minnesota           	46	Dallas              	36
+11/26/1998	Pittsburgh          	16	Detroit             	19
+11/29/1998	Indianapolis        	31	Baltimore           	38
+11/29/1998	Tampa Bay           	31	Chicago             	17
+11/29/1998	Jacksonville        	34	Cincinnati          	17
+11/29/1998	Arizona             	24	Kansas City         	34
+11/29/1998	Carolina            	21	NY Jets             	48
+11/29/1998	Atlanta             	21	St Louis            	10
+11/29/1998	Buffalo             	21	New England         	25
+11/29/1998	Tennessee           	18	Seattle             	20
+11/29/1998	Philadelphia        	16	Green Bay           	24
+11/29/1998	New Orleans         	10	Miami               	30
+11/29/1998	Washington          	29	Oakland             	19
+11/29/1998	Denver              	31	San Diego           	16
+11/30/1998	NY Giants           	 7	San Francisco       	31
+12/03/1998	St Louis            	14	Philadelphia        	17
+12/06/1998	Indianapolis        	21	Atlanta             	28
+12/06/1998	San Francisco       	31	Carolina            	28
+12/06/1998	Buffalo             	33	Cincinnati          	20
+12/06/1998	Detroit             	22	Jacksonville        	37
+12/06/1998	Dallas              	 3	New Orleans         	22
+12/06/1998	Seattle             	31	NY Jets             	32
+12/06/1998	New England         	23	Pittsburgh          	 9
+12/06/1998	San Diego           	20	Washington          	24
+12/06/1998	NY Giants           	23	Arizona             	19
+12/06/1998	Kansas City         	31	Denver              	35
+12/06/1998	Miami               	27	Oakland             	17
+12/06/1998	Baltimore           	14	Tennessee           	16
+12/06/1998	Chicago             	22	Minnesota           	48
+12/07/1998	Green Bay           	22	Tampa Bay           	24
+12/13/1998	Oakland             	21	Buffalo             	44
+12/13/1998	Washington          	28	Carolina            	25
+12/13/1998	Chicago             	20	Green Bay           	26
+12/13/1998	Cincinnati          	26	Indianapolis        	39
+12/13/1998	Tennessee           	16	Jacksonville        	13
+12/13/1998	Atlanta             	27	New Orleans         	17
+12/13/1998	Denver              	16	NY Giants           	20
+12/13/1998	Arizona             	20	Philadelphia        	17
+12/13/1998	New England         	18	St Louis            	32
+12/13/1998	Pittsburgh          	 3	Tampa Bay           	16
+12/13/1998	San Diego           	17	Seattle             	38
+12/13/1998	Minnesota           	38	Baltimore           	28
+12/13/1998	Dallas              	17	Kansas City         	20
+12/13/1998	NY Jets             	21	Miami               	16
+12/14/1998	Detroit             	13	San Francisco       	35
+12/19/1998	Tampa Bay           	16	Washington          	20
+12/19/1998	NY Jets             	17	Buffalo             	10
+12/20/1998	St Louis            	13	Carolina            	20
+12/20/1998	Baltimore           	 3	Chicago             	24
+12/20/1998	Tennessee           	22	Green Bay           	30
+12/20/1998	San Francisco       	21	New England         	24
+12/20/1998	Kansas City         	 7	NY Giants           	28
+12/20/1998	Cincinnati          	25	Pittsburgh          	24
+12/20/1998	Atlanta             	24	Detroit             	17
+12/20/1998	Oakland             	17	San Diego           	10
+12/20/1998	Indianapolis        	23	Seattle             	27
+12/20/1998	New Orleans         	17	Arizona             	19
+12/20/1998	Philadelphia        	 9	Dallas              	13
+12/20/1998	Jacksonville        	10	Minnesota           	50
+12/21/1998	Denver              	21	Miami               	31
+12/26/1998	Kansas City         	31	Oakland             	24
+12/26/1998	Minnesota           	26	Tennessee           	16
+12/27/1998	Miami               	16	Atlanta             	38
+12/27/1998	Detroit             	10	Baltimore           	19
+12/27/1998	Green Bay           	16	Chicago             	13
+12/27/1998	Tampa Bay           	35	Cincinnati          	 0
+12/27/1998	Carolina            	27	Indianapolis        	19
+12/27/1998	Buffalo             	45	New Orleans         	33
+12/27/1998	New England         	10	NY Jets             	31
+12/27/1998	NY Giants           	20	Philadelphia        	10
+12/27/1998	St Louis            	19	San Francisco       	38
+12/27/1998	San Diego           	13	Arizona             	16
+12/27/1998	Seattle             	21	Denver              	28
+12/27/1998	Washington          	 7	Dallas              	23
+12/28/1998	Pittsburgh          	 3	Jacksonville        	21
+01/02/1999	Arizona             	20	Dallas              	 7
+01/02/1999	Buffalo             	17	Miami               	24
+01/03/1999	Green Bay           	27	San Francisco       	30
+01/03/1999	New England         	10	Jacksonville        	25
+01/09/1999	Miami               	 3	Denver              	38
+01/09/1999	San Francisco       	18	Atlanta             	20
+01/10/1999	Jacksonville        	24	NY Jets             	34
+01/10/1999	Arizona             	21	Minnesota           	41
+01/17/1999	Atlanta             	30	Minnesota           	27
+01/17/1999	NY Jets             	10	Denver              	23
+01/31/1999	Denver              	34	Atlanta             	19	0

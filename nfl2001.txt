@@ -1,0 +1,259 @@
+09/09/2001      Chicago          6  Baltimore       17  1
+09/09/2001      New Orleans     24  Buffalo          6  1
+09/09/2001      New England     17  Cincinnati      23  1
+09/09/2001      Seattle          9  Cleveland        6  1
+09/09/2001      Tampa Bay       10  Dallas           6  1
+09/09/2001      Detroit          6  Green Bay       28  1
+09/09/2001      Pittsburgh       3  Jacksonville    21  1
+09/09/2001      Oakland         27  Kansas City     24  1
+09/09/2001      Carolina        24  Minnesota       13  1
+09/09/2001      Indianapolis    45  New York Jets   24  1
+09/09/2001      St. Louis       20  Philadelphia    17  1
+09/09/2001      Washington       3  San Diego       30  1
+09/09/2001      Atlanta         13  San Francisco   16  1
+09/09/2001      Miami           31  Tennessee       23  1
+09/10/2001      New York Giants 20  Denver          31  1
+09/23/2001      New York Giants 13  Kansas City      3  1
+09/23/2001      Oakland         15  Miami           18  1
+09/23/2001      Carolina        16  Atlanta         24  1
+09/23/2001      Minnesota       10  Chicago         17  1
+09/23/2001      Tennessee        6  Jacksonville    13  1
+09/23/2001      San Diego       32  Dallas          21  1
+09/23/2001      Detroit         14  Cleveland       24  1
+09/23/2001      Buffalo         26  Indianapolis    42  1
+09/23/2001      Baltimore       10  Cincinnati      21  1
+09/23/2001      St. Louis       30  San Francisco   26  1
+09/23/2001      New York Jets   10  New England      3  1
+09/23/2001      Philadelphia    27  Seattle          3  1
+09/23/2001      Denver          38  Arizona         17  1
+09/24/2001      Washington       0  Green Bay       37  1
+09/30/2001      Green Bay       28  Carolina         7  1
+09/30/2001      Tampa Bay       16  Minnesota       20  1
+09/30/2001      Miami           10  St. Louis       42  1
+09/30/2001      New Orleans     13  New York Giants 21  1
+09/30/2001      Pittsburgh      20  Buffalo          3  1
+09/30/2001      Indianapolis    13  New England     44  1
+09/30/2001      Kansas City     45  Washington      13  1
+09/30/2001      Atlanta         34  Arizona         14  1
+09/30/2001      Baltimore       20  Denver          13  1
+09/30/2001      Cincinnati      14  San Diego       28  1
+09/30/2001      Seattle         14  Oakland         38  1
+09/30/2001      Cleveland       23  Jacksonville    14  1
+09/30/2001      Dallas          18  Philadelphia    40  1
+10/01/2001      San Francisco   19  New York Jets   17  1
+10/07/2001      Cincinnati       7  Pittsburgh      16  1
+10/07/2001      Minnesota       15  New Orleans     28  1
+10/07/2001      Chicago         31  Atlanta          3  1
+10/07/2001      Arizona         21  Philadelphia    20  1
+10/07/2001      New England     10  Miami           30  1
+10/07/2001      San Diego       16  Cleveland       20  1
+10/07/2001      Washington       9  New York Giants 23  1
+10/07/2001      Tennessee        7  Baltimore       26  1
+10/07/2001      Green Bay       10  Tampa Bay       14  1
+10/07/2001      New York Jets   42  Buffalo         36  1
+10/07/2001      Kansas City      6  Denver          20  1
+10/07/2001      Dallas          21  Oakland         28  1
+10/07/2001      Jacksonville    15  Seattle         24  1
+10/07/2001      Carolina        14  San Francisco   24  1
+10/08/2001      St. Louis       35  Detroit          0  1
+10/14/2001      Arizona         13  Chicago         20  1
+10/14/2001      Tampa Bay       28  Tennessee       31  1
+10/14/2001      New York Giants 14  St. Louis       15  1
+10/14/2001      San Diego       26  New England     29  1
+10/14/2001      Detroit         26  Minnesota       31  1
+10/14/2001      Pittsburgh      20  Kansas City     17  1
+10/14/2001      Baltimore       23  Green Bay       31  1
+10/14/2001      Cleveland       14  Cincinnati      24  1
+10/14/2001      New Orleans     27  Carolina        25  1
+10/14/2001      San Francisco   37  Atlanta         31  1
+10/14/2001      Denver          21  Seattle         34  1
+10/14/2001      Miami           17  New York Jets   21  1
+10/14/2001      Oakland         23  Indianapolis    18  1
+10/15/2001      Washington       7  Dallas           9  1
+10/18/2001      Buffalo         13  Jacksonville    10  1 
+10/21/2001      Tennessee       27  Detroit         24  1
+10/21/2001      Baltimore       14  Cleveland       24  1
+10/21/2001      Carolina        14  Washington      17  1
+10/21/2001      Pittsburgh      17  Tampa Bay       10  1
+10/21/2001      St. Louis       34  New York Jets   14  1
+10/21/2001      Atlanta         20  New Orleans     13  1
+10/21/2001      New England     38  Indianapolis    17  1
+10/21/2001      Chicago         24  Cincinnati       0  1
+10/21/2001      Denver          10  San Diego       27  1
+10/21/2001      Kansas City     16  Arizona         24  1
+10/21/2001      Green Bay       13  Minnesota       35  1
+10/22/2001      Philadelphia    10  New York Giants  9  1
+10/25/2001      Indianapolis    35  Kansas City     28  1
+10/27/2001      New Orleans     34  St. Louis       31  1
+10/27/2001      Jacksonville    17  Baltimore       18  1
+10/27/2001      San Francisco   31  Chicago         37  1
+10/27/2001      Cincinnati      31  Detroit         27  1
+10/27/2001      New York Jets   13  Carolina        12  1
+10/27/2001      Minnesota       14  Tampa Bay       41  1
+10/27/2001      New York Giants 21  Washington      35  1
+10/27/2001      Oakland         20  Philadelphia    10  1
+10/27/2001      Arizona          3  Dallas          17  1
+10/27/2001      Miami           24  Seattle         20  1
+10/27/2001      New England     20  Denver          31  1
+10/27/2001      Buffalo         24  San Diego       27  1
+10/28/2001      Tennessee        7  Pittsburgh      34  1
+11/04/2001      Dallas          24  New York Giants 27  1
+11/04/2001      Jacksonville    24  Tennessee       28  1
+11/04/2001      New England     24  Atlanta         10  1
+11/04/2001      Carolina         6  Miami           23  1
+11/04/2001      Tampa Bay       20  Green Bay       21  1
+11/04/2001      Indianapolis    30  Buffalo         14  1
+11/04/2001      Baltimore       13  Pittsburgh      10  1
+11/04/2001      Seattle         14  Washington      27  1
+11/04/2001      Cleveland       21  Chicago         27  1
+11/04/2001      Detroit         13  San Francisco   21  1
+11/04/2001      Philadelphia    21  Arizona          7  1
+11/04/2001      Kansas City     25  San Diego       20  1
+11/04/2001      New York Jets   16  New Orleans      9  1
+11/05/2001      Denver          28  Oakland         38  1
+11/11/2001      Pittsburgh      15  Cleveland       12  1
+11/11/2001      Carolina        14  St. Louis       48  1
+11/11/2001      Kansas City      7  New York Jets   27  1
+11/11/2001      Buffalo         11  New England     21  1
+11/11/2001      Cincinnati      13  Jacksonville    30  1
+11/11/2001      Miami           27  Indianapolis    24  1
+11/11/2001      Tampa Bay       20  Detroit         17  1
+11/11/2001      Green Bay       20  Chicago         12  1
+11/11/2001      Dallas          13  Atlanta         20  1
+11/11/2001      San Diego       16  Denver          26  1
+11/11/2001      New Orleans     27  San Francisco   28  1
+11/11/2001      Minnesota       17  Philadelphia    48  1
+11/11/2001      New York Giants 17  Arizona         10  1
+11/11/2001      Oakland         27  Seattle         34  1
+11/12/2001      Baltimore       16  Tennessee       10  1
+11/18/2001      Indianapolis    20  New Orleans     34  1
+11/18/2001      New York Jets   24  Miami            0  1
+11/18/2001      Atlanta         23  Green Bay       20  1
+11/18/2001      Philadelphia    36  Dallas           3  1
+11/18/2001      Tennessee       20  Cincinnati       7  1
+11/18/2001      San Francisco   25  Carolina        22  1
+11/18/2001      Seattle         23  Buffalo         20  1
+11/18/2001      Cleveland       27  Baltimore       17  1
+11/18/2001      Jacksonville     7  Pittsburgh      20  1
+11/18/2001      San Diego       24  Oakland         34  1
+11/18/2001      Washington      17  Denver          10  1
+11/18/2001      Detroit         38  Arizona         45  1
+11/18/2001      Chicago         27  Tampa Bay       24  1
+11/18/2001      St. Louis       24  New England     17  1
+11/19/2001      New York Giants 16  Minnesota       28  1
+11/22/2001      Green Bay       29  Detroit         27  1
+11/22/2001      Denver          26  Dallas          24  1
+11/25/2001      Cincinnati       0  Cleveland       18  1
+11/25/2001      Pittsburgh      34  Tennessee       24  1
+11/25/2001      Washington      13  Philadelphia     3  1
+11/25/2001      Seattle          7  Kansas City     19  1
+11/25/2001      San Francisco   40  Indianapolis    21  1
+11/25/2001      Atlanta         10  Carolina         7  1
+11/25/2001      Miami           34  Buffalo         27  1
+11/25/2001      Arizona         20  San Diego       17  1
+11/25/2001      New Orleans     17  New England     34  1
+11/25/2001      Oakland         28  New York Giants 10  1
+11/25/2001      Baltimore       24  Jacksonville    21  1
+11/25/2001      Chicago         13  Minnesota        6  1
+11/26/2001      Tampa Bay       24  St. Louis       17  1
+11/29/2001      Philadelphia    23  Kansas City     10  1
+12/02/2001      Indianapolis    27  Baltimore       39  1
+12/02/2001      Detroit         10  Chicago         13  1
+12/02/2001      Tampa Bay       16  Cincinnati      13  1
+12/02/2001      Tennessee       31  Cleveland       15  1
+12/02/2001      Denver          10  Miami           21  1
+12/02/2001      Carolina        23  New Orleans     27  1
+12/02/2001      New England     17  New York Jets   16  1
+12/02/2001      Minnesota       16  Pittsburgh      21  1
+12/02/2001      San Diego       10  Seattle         13  1
+12/02/2001      St. Louis       35  Atlanta          6  1
+12/02/2001      Arizona         34  Oakland         31  1
+12/02/2001      Dallas          20  Washington      14  1
+12/02/2001      Buffalo          0  San Francisco   35  1
+12/03/2001      Green Bay       28  Jacksonville    21  1
+12/09/2001      Detroit         12  Tampa Bay       15  1
+12/09/2001      San Francisco   14  St. Louis       27  1
+12/09/2001      San Diego       14  Philadelphia    24  1
+12/09/2001      Cleveland       16  New England     27  1
+12/09/2001      Tennessee       24  Minnesota       42  1
+12/09/2001      Chicago          7  Green Bay       17  1
+12/09/2001      New York Giants 13  Dallas          20  1
+12/09/2001      Jacksonville    14  Cincinnati      10  1
+12/09/2001      Carolina        24  Buffalo         25  1
+12/09/2001      New Orleans     28  Atlanta         10  1
+12/09/2001      Washington      20  Arizona         10  1
+12/09/2001      New York Jets    7  Pittsburgh      18  1
+12/09/2001      Kansas City     26  Oakland         28  1
+12/09/2001      Seattle          7  Denver          20  1
+12/10/2001      Indianapolis     6  Miami           41  1
+12/15/2001      Arizona         13  New York Giants 17  1
+12/15/2001      Oakland         13  San Diego        6  1
+12/16/2001      Jacksonville    15  Cleveland       10  1
+12/16/2001      Cincinnati      14  New York Jets   15  1
+12/16/2001      Denver          23  Kansas City     26  1
+12/16/2001      Atlanta         27  Indianapolis    41  1
+12/16/2001      Minnesota       24  Detroit         27  1
+12/16/2001      Tampa Bay        3  Chicago         27  1
+12/16/2001      New England     12  Buffalo          9  1
+12/16/2001      Miami            0  San Francisco   21  1
+12/16/2001      Green Bay       20  Tennessee       26  1
+12/16/2001      Dallas           3  Seattle         29  1
+12/16/2001      Philadelphia    20  Washington       6  1
+12/16/2001      Pittsburgh      26  Baltimore       21  1
+12/17/2001      St. Louis       34  New Orleans     21  1
+12/22/2001      Miami           13  New England     20  1
+12/22/2001      Philadelphia     3  San Francisco   13  1
+12/22/2001      Tennessee       13  Oakland         10  1
+12/23/2001      Detroit         14  Pittsburgh      47  1
+12/23/2001      Jacksonville    33  Minnesota        3  1
+12/23/2001      Chicago         20  Washington      15  1
+12/23/2001      New Orleans     21  Tampa Bay       48  1
+12/23/2001      Seattle         24  New York Giants 27  1
+12/23/2001      San Diego       17  Kansas City     20  1
+12/23/2001      St. Louis       38  Carolina        32  1
+12/23/2001      Cincinnati       0  Baltimore       16  1
+12/23/2001      Buffalo         30  Atlanta         33  1
+12/23/2001      Dallas          10  Arizona         17  1
+12/23/2001      Cleveland        7  Green Bay       30  1
+12/23/2001      New York Jets   29  Indianapolis    28  1
+12/29/2001      Baltimore       10  Tampa Bay       22  1
+12/30/2001      Kansas City     30  Jacksonville    26  1
+12/30/2001      Cleveland       41  Tennessee       38  1
+12/30/2001      Indianapolis    17  St. Louis       42  1
+12/30/2001      Buffalo         14  New York Jets    9  1
+12/30/2001      Atlanta         14  Miami           21  1
+12/30/2001      Minnesota       13  Green Bay       24  1
+12/30/2001      Chicago         24  Detroit          0  1
+12/30/2001      San Francisco   21  Dallas          27  1
+12/30/2001      Pittsburgh      23  Cincinnati      26  1
+12/30/2001      Arizona         30  Carolina         7  1
+12/30/2001      New York Giants 21  Philadelphia    24  1
+12/30/2001      Seattle         25  San Diego       22  1
+12/30/2001      Oakland         17  Denver          23  1
+12/30/2001      Washington      40  New Orleans     10  1
+01/06/2002      New York Jets   24  Oakland         22  1
+01/06/2002      Kansas City     18  Seattle         21  1
+01/06/2002      Philadelphia    17  Tampa Bay       13  1
+01/06/2002      New England     38  Carolina         6  1
+01/06/2002      Buffalo          7  Miami           34  1
+01/06/2002      Jacksonville    13  Chicago         33  1
+01/06/2002      Dallas          10  Detroit         15  1
+01/06/2002      San Francisco   38  New Orleans      0  1
+01/06/2002      Atlanta         13  St. Louis       31  1
+01/06/2002      Green Bay       34  New York Giants 25  1
+01/06/2002      Arizona         17  Washington      20  1
+01/06/2002      Cleveland        7  Pittsburgh      28  1
+01/06/2002      Denver          10  Indianapolis    29  1
+01/06/2002      Cincinnati      23  Tennessee       21  1
+01/07/2002      Minnesota        3  Baltimore       19  1
+01/12/2002      Tampa Bay        9  Philadelphia    31  1
+01/12/2002      New York Jets   24  Oakland         38  1
+01/13/2002      Baltimore       20  Miami            3  1
+01/13/2002      San Francisco   15  Green Bay       25  1
+01/19/2002      Philadelphia    33  Chicago         19  1
+01/19/2002      Oakland         13  New England     16  1
+01/20/2002      Baltimore       10  Pittsburgh      27  1
+01/20/2002      Green Bay       17  St. Louis       45  1
+01/27/2002      New England     24  Pittsburgh      17  1
+01/27/2002      Philadelphia    24  St. Louis       29  1
+02/03/2002      New England     20  St. Louis       17  0

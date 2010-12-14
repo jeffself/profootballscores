@@ -1,0 +1,189 @@
+09/17/1972	Atlanta             	37	Chicago             	21
+09/17/1972	Cincinnati          	31	New England         	 7
+09/17/1972	Philadelphia        	 6	Dallas              	28
+09/17/1972	Houston             	17	Denver              	30
+09/17/1972	NY Giants           	16	Detroit             	30
+09/17/1972	Green Bay           	26	Cleveland           	10
+09/17/1972	New Orleans         	14	LA Rams             	34
+09/17/1972	Miami               	20	Kansas City         	10
+09/17/1972	NY Jets             	41	Buffalo             	24
+09/17/1972	Oakland             	28	Pittsburgh          	34
+09/17/1972	San Diego           	 3	San Francisco       	34
+09/17/1972	St Louis            	10	Baltimore           	 3
+09/18/1972	Washington          	24	Minnesota           	21
+09/24/1972	San Francisco       	20	Buffalo             	27
+09/24/1972	Pittsburgh          	10	Cincinnati          	15
+09/24/1972	Cleveland           	27	Philadelphia        	17
+09/24/1972	Dallas              	23	NY Giants           	14
+09/24/1972	LA Rams             	13	Chicago             	13
+09/24/1972	Houston             	13	Miami               	34
+09/24/1972	Minnesota           	34	Detroit             	10
+09/24/1972	Atlanta             	20	New England         	21
+09/24/1972	NY Jets             	44	Baltimore           	34
+09/24/1972	Oakland             	20	Green Bay           	14
+09/24/1972	Denver              	14	San Diego           	37
+09/24/1972	St Louis            	10	Washington          	24
+09/25/1972	Kansas City         	20	New Orleans         	17
+10/01/1972	LA Rams             	 3	Atlanta             	31
+10/01/1972	Baltimore           	17	Buffalo             	 0
+10/01/1972	Cincinnati          	 6	Cleveland           	27
+10/01/1972	Detroit             	38	Chicago             	24
+10/01/1972	Dallas              	13	Green Bay           	16
+10/01/1972	NY Jets             	20	Houston             	26
+10/01/1972	Kansas City         	45	Denver              	24
+10/01/1972	Miami               	16	Minnesota           	14
+10/01/1972	Washington          	23	New England         	24
+10/01/1972	Pittsburgh          	25	St Louis            	19
+10/01/1972	San Diego           	17	Oakland             	17
+10/01/1972	San Francisco       	37	New Orleans         	 2
+10/02/1972	NY Giants           	27	Philadelphia        	12
+10/08/1972	New England         	14	Buffalo             	38
+10/08/1972	Denver              	10	Cincinnati          	21
+10/08/1972	Pittsburgh          	13	Dallas              	17
+10/08/1972	Detroit             	26	Atlanta             	23
+10/08/1972	Chicago             	17	Green Bay           	20
+10/08/1972	Kansas City         	31	Cleveland           	 7
+10/08/1972	San Francisco       	 7	LA Rams             	31
+10/08/1972	Miami               	27	NY Jets             	17
+10/08/1972	New Orleans         	21	NY Giants           	45
+10/08/1972	San Diego           	23	Baltimore           	20
+10/08/1972	St Louis            	19	Minnesota           	17
+10/08/1972	Philadelphia        	 0	Washington          	14
+10/09/1972	Oakland             	34	Houston             	 0
+10/15/1972	Atlanta             	21	New Orleans         	14
+10/15/1972	Chicago             	17	Cleveland           	 0
+10/15/1972	Cincinnati          	23	Kansas City         	16
+10/15/1972	Dallas              	21	Baltimore           	 0
+10/15/1972	LA Rams             	34	Philadelphia        	 3
+10/15/1972	San Diego           	10	Miami               	24
+10/15/1972	Minnesota           	23	Denver              	20
+10/15/1972	NY Giants           	23	San Francisco       	17
+10/15/1972	NY Jets             	41	New England         	13
+10/15/1972	Buffalo             	16	Oakland             	28
+10/15/1972	Houston             	 7	Pittsburgh          	24
+10/15/1972	Washington          	33	St Louis            	 3
+10/16/1972	Green Bay           	24	Detroit             	23
+10/22/1972	Atlanta             	10	Green Bay           	 9
+10/22/1972	Cleveland           	23	Houston             	17
+10/22/1972	Denver              	30	Oakland             	23
+10/22/1972	San Diego           	20	Detroit             	34
+10/22/1972	Cincinnati          	12	LA Rams             	15
+10/22/1972	Buffalo             	23	Miami               	24
+10/22/1972	New Orleans         	20	San Francisco       	20
+10/22/1972	St Louis            	21	NY Giants           	27
+10/22/1972	Baltimore           	20	NY Jets             	24
+10/22/1972	Philadelphia        	21	Kansas City         	20
+10/22/1972	New England         	 3	Pittsburgh          	33
+10/22/1972	Dallas              	20	Washington          	24
+10/23/1972	Minnesota           	10	Chicago             	13
+10/29/1972	Chicago             	27	St Louis            	10
+10/29/1972	Houston             	 7	Cincinnati          	30
+10/29/1972	Cleveland           	27	Denver              	20
+10/29/1972	Kansas City         	26	San Diego           	14
+10/29/1972	Miami               	23	Baltimore           	 0
+10/29/1972	Minnesota           	27	Green Bay           	13
+10/29/1972	Philadelphia        	 3	New Orleans         	21
+10/29/1972	New England         	10	NY Jets             	34
+10/29/1972	LA Rams             	17	Oakland             	45
+10/29/1972	Pittsburgh          	38	Buffalo             	21
+10/29/1972	San Francisco       	49	Atlanta             	14
+10/29/1972	Washington          	23	NY Giants           	16
+10/30/1972	Detroit             	24	Dallas              	28
+11/05/1972	Houston             	 0	Cleveland           	20
+11/05/1972	Dallas              	34	San Diego           	28
+11/05/1972	Chicago             	 0	Detroit             	14
+11/05/1972	San Francisco       	24	Green Bay           	34
+11/05/1972	Oakland             	14	Kansas City         	27
+11/05/1972	Atlanta             	 7	LA Rams             	20
+11/05/1972	Miami               	30	Buffalo             	16
+11/05/1972	New Orleans         	 6	Minnesota           	37
+11/05/1972	Denver              	17	NY Giants           	29
+11/05/1972	Cincinnati          	17	Pittsburgh          	40
+11/05/1972	St Louis            	 6	Philadelphia        	 6
+11/05/1972	Washington          	35	NY Jets             	17
+11/06/1972	Baltimore           	24	New England         	17
+11/12/1972	New Orleans         	20	Atlanta             	36
+11/12/1972	St Louis            	24	Dallas              	33
+11/12/1972	Denver              	16	LA Rams             	10
+11/12/1972	Green Bay           	23	Chicago             	17
+11/12/1972	New England         	 0	Miami               	52
+11/12/1972	Detroit             	14	Minnesota           	16
+11/12/1972	Buffalo             	 3	NY Jets             	41
+11/12/1972	Oakland             	20	Cincinnati          	14
+11/12/1972	Philadelphia        	18	Houston             	17
+11/12/1972	Kansas City         	 7	Pittsburgh          	16
+11/12/1972	Baltimore           	21	San Francisco       	24
+11/12/1972	NY Giants           	13	Washington          	27
+11/13/1972	Cleveland           	21	San Diego           	17
+11/19/1972	Baltimore           	20	Cincinnati          	19
+11/19/1972	Buffalo             	27	New England         	24
+11/19/1972	Pittsburgh          	24	Cleveland           	26
+11/19/1972	Dallas              	28	Philadelphia        	 7
+11/19/1972	New Orleans         	 6	Detroit             	37
+11/19/1972	Green Bay           	23	Houston             	10
+11/19/1972	NY Jets             	24	Miami               	28
+11/19/1972	Minnesota           	45	LA Rams             	41
+11/19/1972	NY Giants           	13	St Louis            	 7
+11/19/1972	Oakland             	37	Denver              	20
+11/19/1972	San Diego           	27	Kansas City         	17
+11/19/1972	San Francisco       	34	Chicago             	21
+11/20/1972	Atlanta             	13	Washington          	24
+11/23/1972	NY Jets             	20	Detroit             	37
+11/23/1972	San Francisco       	31	Dallas              	10
+11/26/1972	Denver              	20	Atlanta             	23
+11/26/1972	New England         	 0	Baltimore           	31
+11/26/1972	Cincinnati          	13	Chicago             	 3
+11/26/1972	Buffalo             	10	Cleveland           	27
+11/26/1972	LA Rams             	16	New Orleans         	19
+11/26/1972	Philadelphia        	10	NY Giants           	62
+11/26/1972	Kansas City         	 3	Oakland             	26
+11/26/1972	Minnesota           	10	Pittsburgh          	23
+11/26/1972	Houston             	20	San Diego           	34
+11/26/1972	Green Bay           	16	Washington          	21
+11/27/1972	St Louis            	10	Miami               	31
+12/03/1972	Houston             	10	Atlanta             	20
+12/03/1972	Buffalo             	 7	Baltimore           	35
+12/03/1972	NY Giants           	10	Cincinnati          	13
+12/03/1972	Dallas              	27	St Louis            	 6
+12/03/1972	Detroit             	 7	Green Bay           	33
+12/03/1972	Denver              	21	Kansas City         	24
+12/03/1972	Miami               	37	New England         	21
+12/03/1972	Chicago             	10	Minnesota           	23
+12/03/1972	New Orleans         	17	NY Jets             	18
+12/03/1972	Oakland             	21	San Diego           	19
+12/03/1972	Cleveland           	 0	Pittsburgh          	30
+12/03/1972	Washington          	23	Philadelphia        	 7
+12/04/1972	LA Rams             	26	San Francisco       	16
+12/09/1972	Cleveland           	27	Cincinnati          	24
+12/09/1972	Washington          	24	Dallas              	34
+12/10/1972	Chicago             	21	Philadelphia        	12
+12/10/1972	San Diego           	13	Denver              	38
+12/10/1972	Detroit             	21	Buffalo             	21
+12/10/1972	Green Bay           	23	Minnesota           	 7
+12/10/1972	Baltimore           	10	Kansas City         	24
+12/10/1972	Miami               	23	NY Giants           	13
+12/10/1972	New England         	17	New Orleans         	10
+12/10/1972	Pittsburgh          	 9	Houston             	 3
+12/10/1972	Atlanta             	 0	San Francisco       	20
+12/10/1972	LA Rams             	14	St Louis            	24
+12/11/1972	NY Jets             	16	Oakland             	24
+12/16/1972	Baltimore           	 0	Miami               	16
+12/16/1972	Minnesota           	17	San Francisco       	20
+12/17/1972	Buffalo             	24	Washington          	17
+12/17/1972	Cincinnati          	61	Houston             	17
+12/17/1972	Cleveland           	26	NY Jets             	10
+12/17/1972	New England         	21	Denver              	45
+12/17/1972	Detroit             	34	LA Rams             	17
+12/17/1972	Green Bay           	30	New Orleans         	20
+12/17/1972	Kansas City         	17	Atlanta             	14
+12/17/1972	NY Giants           	23	Dallas              	 3
+12/17/1972	Chicago             	21	Oakland             	28
+12/17/1972	Pittsburgh          	24	San Diego           	 2
+12/17/1972	Philadelphia        	23	St Louis            	24
+12/23/1972	Dallas              	30	San Francisco       	28
+12/23/1972	Oakland             	 7	Pittsburgh          	13
+12/24/1972	Cleveland           	14	Miami               	20
+12/24/1972	Green Bay           	 3	Washington          	16
+12/31/1972	Miami               	21	Pittsburgh          	17
+12/31/1972	Dallas              	 3	Washington          	26
+01/14/1973	Miami               	14	Washington          	 7	n

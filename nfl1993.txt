@@ -1,0 +1,235 @@
+09/05/1993	NY Giants           	26	Chicago             	20
+09/05/1993	Phoenix             	17	Philadelphia        	23
+09/05/1993	Atlanta             	13	Detroit             	30
+09/05/1993	LA Rams             	 6	Green Bay           	36
+09/05/1993	Houston             	21	New Orleans         	33
+09/05/1993	San Francisco       	24	Pittsburgh          	13
+09/05/1993	New England         	14	Buffalo             	38
+09/05/1993	Miami               	24	Indianapolis        	20
+09/05/1993	Cincinnati          	14	Cleveland           	27
+09/05/1993	Denver              	26	NY Jets             	20
+09/05/1993	Kansas City         	27	Tampa Bay           	 3
+09/05/1993	Minnesota           	 7	LA Raiders          	24
+09/05/1993	Seattle             	12	San Diego           	18
+09/06/1993	Dallas              	16	Washington          	35
+09/12/1993	Phoenix             	17	Washington          	10
+09/12/1993	Tampa Bay           	 7	NY Giants           	23
+09/12/1993	Philadelphia        	20	Green Bay           	17
+09/12/1993	Detroit             	19	New England         	16
+09/12/1993	Chicago             	 7	Minnesota           	10
+09/12/1993	New Orleans         	34	Atlanta             	31
+09/12/1993	Pittsburgh          	 0	LA Rams             	27
+09/12/1993	Buffalo             	13	Dallas              	10
+09/12/1993	Indianapolis        	 9	Cincinnati          	 6
+09/12/1993	NY Jets             	24	Miami               	14
+09/12/1993	Kansas City         	 0	Houston             	30
+09/12/1993	San Diego           	17	Denver              	34
+09/12/1993	LA Raiders          	17	Seattle             	13
+09/13/1993	San Francisco       	13	Cleveland           	23
+09/19/1993	Dallas              	17	Phoenix             	10
+09/19/1993	LA Rams             	10	NY Giants           	20
+09/19/1993	Washington          	31	Philadelphia        	34
+09/19/1993	Detroit             	 3	New Orleans         	14
+09/19/1993	Atlanta             	30	San Francisco       	37
+09/19/1993	Cleveland           	19	LA Raiders          	16
+09/19/1993	Cincinnati          	 7	Pittsburgh          	34
+09/19/1993	Houston             	17	San Diego           	18
+09/19/1993	Seattle             	17	New England         	14
+09/20/1993	Denver              	 7	Kansas City         	15
+09/26/1993	Tampa Bay           	17	Chicago             	47
+09/26/1993	Phoenix             	20	Detroit             	26
+09/26/1993	Green Bay           	13	Minnesota           	15
+09/26/1993	San Francisco       	13	New Orleans         	16
+09/26/1993	LA Rams             	28	Houston             	13
+09/26/1993	Cleveland           	10	Indianapolis        	23
+09/26/1993	Miami               	22	Buffalo             	13
+09/26/1993	New England         	 7	NY Jets             	45
+09/26/1993	Seattle             	19	Cincinnati          	10
+09/27/1993	Pittsburgh          	45	Atlanta             	17
+10/03/1993	Green Bay           	14	Dallas              	36
+10/03/1993	Philadelphia        	35	NY Jets             	30
+10/03/1993	Atlanta             	 0	Chicago             	 6
+10/03/1993	Detroit             	10	Tampa Bay           	27
+10/03/1993	New Orleans         	37	LA Rams             	 6
+10/03/1993	Minnesota           	19	San Francisco       	38
+10/03/1993	NY Giants           	14	Buffalo             	17
+10/03/1993	Indianapolis        	13	Denver              	35
+10/03/1993	LA Raiders          	 9	Kansas City         	24
+10/03/1993	San Diego           	14	Seattle             	31
+10/04/1993	Washington          	10	Miami               	17
+10/10/1993	Dallas              	27	Indianapolis        	 3
+10/10/1993	NY Giants           	41	Washington          	 7
+10/10/1993	Chicago             	17	Philadelphia        	 6
+10/10/1993	Denver              	27	Green Bay           	30
+10/10/1993	Tampa Bay           	 0	Minnesota           	15
+10/10/1993	Miami               	24	Cleveland           	14
+10/10/1993	New England         	23	Phoenix             	21
+10/10/1993	San Diego           	 3	Pittsburgh          	16
+10/10/1993	Cincinnati          	15	Kansas City         	17
+10/10/1993	NY Jets             	20	LA Raiders          	24
+10/11/1993	Houston             	 7	Buffalo             	35
+10/14/1993	LA Rams             	24	Atlanta             	30
+10/17/1993	Washington          	 6	Phoenix             	36
+10/17/1993	San Francisco       	17	Dallas              	26
+10/17/1993	Philadelphia        	10	NY Giants           	21
+10/17/1993	Seattle             	10	Detroit             	30
+10/17/1993	Cleveland           	28	Cincinnati          	17
+10/17/1993	Houston             	28	New England         	14
+10/17/1993	New Orleans         	14	Pittsburgh          	37
+10/17/1993	Kansas City         	17	San Diego           	14
+10/18/1993	LA Raiders          	23	Denver              	20
+10/24/1993	Detroit             	16	LA Rams             	13
+10/24/1993	Green Bay           	37	Tampa Bay           	14
+10/24/1993	Atlanta             	26	New Orleans         	15
+10/24/1993	Phoenix             	14	San Francisco       	28
+10/24/1993	Buffalo             	19	NY Jets             	10
+10/24/1993	Indianapolis        	27	Miami               	41
+10/24/1993	Pittsburgh          	23	Cleveland           	28
+10/24/1993	Cincinnati          	12	Houston             	28
+10/24/1993	New England         	 9	Seattle             	10
+10/25/1993	Minnesota           	19	Chicago             	12
+10/31/1993	Dallas              	23	Philadelphia        	10
+10/31/1993	Detroit             	30	Minnesota           	27
+10/31/1993	Chicago             	 3	Green Bay           	17
+10/31/1993	Tampa Bay           	31	Atlanta             	24
+10/31/1993	New Orleans         	20	Phoenix             	17
+10/31/1993	LA Rams             	17	San Francisco       	40
+10/31/1993	New England         	 6	Indianapolis        	 9
+10/31/1993	Kansas City         	10	Miami               	30
+10/31/1993	NY Jets             	10	NY Giants           	 6
+10/31/1993	Seattle             	17	Denver              	28
+10/31/1993	San Diego           	30	LA Raiders          	23
+11/01/1993	Washington          	10	Buffalo             	24
+11/07/1993	Philadelphia        	 3	Phoenix             	16
+11/07/1993	NY Giants           	 9	Dallas              	31
+11/07/1993	Indianapolis        	24	Washington          	30
+11/07/1993	Tampa Bay           	 0	Detroit             	23
+11/07/1993	Buffalo             	13	New England         	10
+11/07/1993	Miami               	10	NY Jets             	27
+11/07/1993	Seattle             	14	Houston             	24
+11/07/1993	Pittsburgh          	24	Cincinnati          	16
+11/07/1993	Denver              	29	Cleveland           	14
+11/07/1993	LA Raiders          	16	Chicago             	14
+11/07/1993	San Diego           	30	Minnesota           	17
+11/08/1993	Green Bay           	16	Kansas City         	23
+11/14/1993	Phoenix             	15	Dallas              	20
+11/14/1993	Washington          	 6	NY Giants           	20
+11/14/1993	Chicago             	16	San Diego           	13
+11/14/1993	Green Bay           	19	New Orleans         	17
+11/14/1993	Minnesota           	26	Denver              	23
+11/14/1993	Atlanta             	13	LA Rams             	 0
+11/14/1993	San Francisco       	45	Tampa Bay           	21
+11/14/1993	Miami               	19	Philadelphia        	14
+11/14/1993	NY Jets             	31	Indianapolis        	17
+11/14/1993	Houston             	38	Cincinnati          	 3
+11/14/1993	Kansas City         	31	LA Raiders          	20
+11/14/1993	Cleveland           	 5	Seattle             	22
+11/15/1993	Buffalo             	 0	Pittsburgh          	23
+11/21/1993	NY Giants           	 7	Philadelphia        	 3
+11/21/1993	Chicago             	19	Kansas City         	17
+11/21/1993	Detroit             	17	Green Bay           	26
+11/21/1993	Minnesota           	10	Tampa Bay           	23
+11/21/1993	Dallas              	14	Atlanta             	27
+11/21/1993	Washington          	 6	LA Rams             	10
+11/21/1993	Indianapolis        	 9	Buffalo             	23
+11/21/1993	New England         	13	Miami               	17
+11/21/1993	Cincinnati          	12	NY Jets             	17
+11/21/1993	Houston             	27	Cleveland           	20
+11/21/1993	Pittsburgh          	13	Denver              	37
+11/21/1993	LA Raiders          	12	San Diego           	 7
+11/22/1993	New Orleans         	 7	San Francisco       	42
+11/25/1993	Chicago             	10	Detroit             	 6
+11/25/1993	Miami               	16	Dallas              	14
+11/28/1993	Phoenix             	17	NY Giants           	19
+11/28/1993	Philadelphia        	17	Washington          	14
+11/28/1993	Tampa Bay           	10	Green Bay           	13
+11/28/1993	Cleveland           	14	Atlanta             	17
+11/28/1993	New Orleans         	17	Minnesota           	14
+11/28/1993	San Francisco       	35	LA Rams             	10
+11/28/1993	NY Jets             	 6	New England         	 0
+11/28/1993	LA Raiders          	10	Cincinnati          	16
+11/28/1993	Pittsburgh          	 3	Houston             	23
+11/28/1993	Denver              	17	Seattle             	 9
+11/28/1993	Buffalo             	 7	Kansas City         	23
+11/29/1993	San Diego           	31	Indianapolis        	 0
+12/05/1993	LA Rams             	10	Phoenix             	38
+12/05/1993	NY Giants           	19	Miami               	14
+12/05/1993	Washington          	23	Tampa Bay           	17
+12/05/1993	Green Bay           	17	Chicago             	30
+12/05/1993	Minnesota           	13	Detroit             	 0
+12/05/1993	Cincinnati          	 8	San Francisco       	21
+12/05/1993	Indianapolis        	 9	NY Jets             	 6
+12/05/1993	New Orleans         	13	Cleveland           	17
+12/05/1993	Atlanta             	17	Houston             	33
+12/05/1993	New England         	14	Pittsburgh          	17
+12/05/1993	Kansas City         	31	Seattle             	16
+12/05/1993	LA Raiders          	25	Buffalo             	24
+12/05/1993	Denver              	10	San Diego           	13
+12/06/1993	Philadelphia        	17	Dallas              	23
+12/11/1993	San Francisco       	24	Atlanta             	27
+12/11/1993	NY Jets             	 3	Washington          	 0
+12/12/1993	Dallas              	37	Minnesota           	20
+12/12/1993	Indianapolis        	 6	NY Giants           	20
+12/12/1993	Detroit             	21	Phoenix             	14
+12/12/1993	Green Bay           	20	San Diego           	13
+12/12/1993	Chicago             	10	Tampa Bay           	13
+12/12/1993	LA Rams             	23	New Orleans         	20
+12/12/1993	Buffalo             	10	Philadelphia        	 7
+12/12/1993	Cincinnati          	 2	New England         	 7
+12/12/1993	Cleveland           	17	Houston             	19
+12/12/1993	Kansas City         	21	Denver              	27
+12/12/1993	Seattle             	23	LA Raiders          	27
+12/13/1993	Pittsburgh          	21	Miami               	20
+12/18/1993	Dallas              	28	NY Jets             	 7
+12/18/1993	Denver              	13	Chicago             	 3
+12/19/1993	Phoenix             	30	Seattle             	27
+12/19/1993	Philadelphia        	20	Indianapolis        	10
+12/19/1993	Atlanta             	17	Washington          	30
+12/19/1993	Minnesota           	21	Green Bay           	17
+12/19/1993	San Francisco       	55	Detroit             	17
+12/19/1993	Buffalo             	47	Miami               	34
+12/19/1993	New England         	20	Cleveland           	17
+12/19/1993	LA Rams             	 3	Cincinnati          	15
+12/19/1993	Houston             	26	Pittsburgh          	17
+12/19/1993	San Diego           	24	Kansas City         	28
+12/19/1993	Tampa Bay           	20	LA Raiders          	27
+12/20/1993	NY Giants           	24	New Orleans         	14
+12/25/1993	Houston             	10	San Francisco       	 7
+12/26/1993	NY Giants           	 6	Phoenix             	17
+12/26/1993	Washington          	 3	Dallas              	38
+12/26/1993	New Orleans         	26	Philadelphia        	37
+12/26/1993	Detroit             	20	Chicago             	14
+12/26/1993	LA Raiders          	 0	Green Bay           	28
+12/26/1993	Kansas City         	10	Minnesota           	30
+12/26/1993	Tampa Bay           	17	Denver              	10
+12/26/1993	NY Jets             	14	Buffalo             	16
+12/26/1993	Indianapolis        	 0	New England         	38
+12/26/1993	Atlanta             	17	Cincinnati          	21
+12/26/1993	Cleveland           	42	LA Rams             	14
+12/26/1993	Pittsburgh          	 6	Seattle             	16
+12/27/1993	Miami               	20	San Diego           	45
+12/31/1993	Minnesota           	14	Washington          	 9
+01/02/1994	Phoenix             	27	Atlanta             	10
+01/02/1994	Dallas              	16	NY Giants           	13
+01/02/1994	Green Bay           	20	Detroit             	30
+01/02/1994	Cincinnati          	13	New Orleans         	20
+01/02/1994	Chicago             	 6	LA Rams             	20
+01/02/1994	Buffalo             	30	Indianapolis        	10
+01/02/1994	Miami               	27	New England         	33
+01/02/1994	NY Jets             	 0	Houston             	24
+01/02/1994	Cleveland           	 9	Pittsburgh          	16
+01/02/1994	Seattle             	24	Kansas City         	34
+01/02/1994	Denver              	30	LA Raiders          	33
+01/02/1994	San Diego           	32	Tampa Bay           	17
+01/03/1994	Philadelphia        	37	San Francisco       	34
+01/08/1994	Green Bay           	28	Detroit             	24
+01/08/1994	Pittsburgh          	24	Kansas City         	27
+01/09/1994	Minnesota           	10	NY Giants           	17
+01/09/1994	Denver              	24	LA Raiders          	42
+01/15/1994	NY Giants           	 3	San Francisco       	44
+01/15/1994	LA Raiders          	23	Buffalo             	29
+01/16/1994	Green Bay           	17	Dallas              	27
+01/16/1994	Kansas City         	28	Houston             	20
+01/23/1994	San Francisco       	21	Dallas              	38
+01/23/1994	Kansas City         	13	Buffalo             	30
+01/30/1994	Dallas              	30	Buffalo             	13	0

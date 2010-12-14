@@ -1,0 +1,259 @@
+09/03/2000	San Francisco  	28	Atlanta        	36	1
+09/03/2000	Baltimore      	16	Pittsburgh     	0	1
+09/03/2000	Tennessee      	13	Buffalo        	16	1
+09/03/2000	Detroit        	14	New Orleans    	10	1
+09/03/2000	Indianapolis   	27	Kansas City    	14	1
+09/03/2000	Jacksonville   	27	Cleveland      	7	1
+09/03/2000	Seattle        	0	Miami          	23	1
+09/03/2000	Chicago        	27	Minnesota      	30	1
+09/03/2000	Arizona        	16	NY Giants      	21	1
+09/03/2000	NY Jets        	20	Green Bay      	16	1
+09/03/2000	San Diego      	6	Oakland        	9	1
+09/03/2000	Philadelphia   	41	Dallas         	14	1
+09/03/2000	Tampa Bay      	21	New England    	16	1
+09/03/2000	Carolina       	17	Washington     	20	1
+09/04/2000	Denver         	36	St Louis       	41	1
+09/10/2000	Dallas         	31	Arizona        	32	1
+09/10/2000	Jacksonville   	36	Baltimore      	39	1
+09/10/2000	Green Bay      	18	Buffalo        	27	1
+09/10/2000	Carolina       	38	San Francisco  	22	1
+09/10/2000	Cleveland      	24	Cincinnati     	7	1
+09/10/2000	Atlanta        	14	Denver         	42	1
+09/10/2000	Washington     	10	Detroit        	15	1
+09/10/2000	Miami          	7	Minnesota      	13	1
+09/10/2000	New Orleans    	28	San Diego      	27	1
+09/10/2000	NY Giants      	33	Philadelphia   	18	1
+09/10/2000	Oakland        	38	Indianapolis   	31	1
+09/10/2000	St Louis       	37	Seattle        	34	1
+09/10/2000	Chicago        	0	Tampa Bay      	41	1
+09/10/2000	Kansas City    	14	Tennessee      	17	1
+09/11/2000	New England    	19	NY Jets        	20	1
+09/17/2000	Atlanta        	15	Carolina       	10	1
+09/17/2000	Pittsburgh     	20	Cleveland      	23	1
+09/17/2000	Denver         	33	Oakland        	24	1
+09/17/2000	Philadelphia   	3	Green Bay      	6	1
+09/17/2000	Cincinnati     	0	Jacksonville   	13	1
+09/17/2000	San Diego      	10	Kansas City    	42	1
+09/17/2000	Baltimore      	6	Miami          	19	1
+09/17/2000	Minnesota      	21	New England    	13	1
+09/17/2000	NY Giants      	14	Chicago        	7	1
+09/17/2000	Buffalo        	14	NY Jets        	27	1
+09/17/2000	San Francisco  	24	St Louis       	41	1
+09/17/2000	New Orleans    	10	Seattle        	20	1
+09/17/2000	Tampa Bay      	31	Detroit        	10	1
+09/18/2000	Dallas         	27	Washington     	21	1
+09/24/2000	Cincinnati     	0	Baltimore      	37	1
+09/24/2000	Detroit        	21	Chicago        	14	1
+09/24/2000	Green Bay      	29	Arizona        	3	1
+09/24/2000	Kansas City    	23	Denver         	22	1
+09/24/2000	New England    	3	Miami          	10	1
+09/24/2000	NY Jets        	21	Tampa Bay      	17	1
+09/24/2000	Cleveland      	10	Oakland        	36	1
+09/24/2000	Philadelphia   	21	New Orleans    	7	1
+09/24/2000	St Louis       	41	Atlanta        	20	1
+09/24/2000	San Francisco  	41	Dallas         	24	1
+09/24/2000	Seattle        	20	San Diego      	12	1
+09/24/2000	Tennessee      	23	Pittsburgh     	20	1
+09/24/2000	Washington     	16	NY Giants      	6	1
+09/25/2000	Jacksonville   	14	Indianapolis   	43	1
+10/01/2000	Baltimore      	12	Cleveland      	0	1
+10/01/2000	Chicago        	27	Green Bay      	24	1
+10/01/2000	Dallas         	16	Carolina       	13	1
+10/01/2000	Indianapolis   	18	Buffalo        	16	1
+10/01/2000	Miami          	31	Cincinnati     	16	1
+10/01/2000	Minnesota      	31	Detroit        	24	1
+10/01/2000	New England    	28	Denver         	19	1
+10/01/2000	Atlanta        	10	Philadelphia   	38	1
+10/01/2000	Pittsburgh     	24	Jacksonville   	13	1
+10/01/2000	San Diego      	31	St Louis       	57	1
+10/01/2000	Arizona        	20	San Francisco  	27	1
+10/01/2000	NY Giants      	14	Tennessee      	28	1
+10/01/2000	Tampa Bay      	17	Washington     	20	1
+10/02/2000	Seattle        	17	Kansas City    	24	1
+10/08/2000	Cleveland      	21	Arizona        	29	1
+10/08/2000	Baltimore      	15	Jacksonville   	10	1
+10/08/2000	Seattle        	3	Carolina       	26	1
+10/08/2000	Denver         	21	San Diego      	7	1
+10/08/2000	Green Bay      	24	Detroit        	31	1
+10/08/2000	Buffalo        	13	Miami          	22	1
+10/08/2000	Indianapolis   	16	New England    	24	1
+10/08/2000	New Orleans    	31	Chicago        	10	1
+10/08/2000	NY Giants      	13	Atlanta        	6	1
+10/08/2000	Oakland        	34	San Francisco  	28	1
+10/08/2000	Pittsburgh     	20	NY Jets        	3	1
+10/08/2000	Tennessee      	23	Cincinnati     	14	1
+10/08/2000	Washington     	17	Philadelphia   	14	1
+10/09/2000	Tampa Bay      	23	Minnesota      	30	1
+10/15/2000	San Diego      	24	Buffalo        	27	1
+10/15/2000	Cleveland      	10	Denver         	44	1
+10/15/2000	San Francisco  	28	Green Bay      	31	1
+10/15/2000	Indianapolis   	37	Seattle        	24	1
+10/15/2000	Minnesota      	28	Chicago        	16	1
+10/15/2000	Carolina       	6	New Orleans    	24	1
+10/15/2000	Dallas         	14	NY Giants      	19	1
+10/15/2000	NY Jets        	34	New England    	17	1
+10/15/2000	Oakland        	20	Kansas City    	17	1
+10/15/2000	Philadelphia   	33	Arizona        	14	1
+10/15/2000	Cincinnati     	0	Pittsburgh     	15	1
+10/15/2000	Atlanta        	29	St Louis       	45	1
+10/15/2000	Baltimore      	3	Washington     	10	1
+10/16/2000	Jacksonville   	13	Tennessee      	27	1
+10/19/2000	Detroit        	28	Tampa Bay      	14	1
+10/22/2000	San Francisco  	16	Carolina       	34	1
+10/22/2000	Denver         	21	Cincinnati     	31	1
+10/22/2000	Arizona        	7	Dallas         	48	1
+10/22/2000	New England    	23	Indianapolis   	30	1
+10/22/2000	St Louis       	34	Kansas City    	54	1
+10/22/2000	Buffalo        	27	Minnesota      	31	1
+10/22/2000	New Orleans    	21	Atlanta        	19	1
+10/22/2000	Seattle        	3	Oakland        	31	1
+10/22/2000	Chicago        	9	Philadelphia   	13	1
+10/22/2000	Cleveland      	0	Pittsburgh     	22	1
+10/22/2000	Tennessee      	14	Baltimore      	6	1
+10/22/2000	Washington     	35	Jacksonville   	16	1
+10/23/2000	Miami          	37	NY Jets        	40	1
+10/29/2000	Carolina       	12	Atlanta        	13	1
+10/29/2000	NY Jets        	20	Buffalo        	23	1
+10/29/2000	Cincinnati     	12	Cleveland      	3	1
+10/29/2000	Detroit        	18	Indianapolis   	30	1
+10/29/2000	Jacksonville   	23	Dallas         	17	1
+10/29/2000	Kansas City    	24	Seattle        	19	1
+10/29/2000	Green Bay      	20	Miami          	28	1
+10/29/2000	New Orleans    	21	Arizona        	10	1
+10/29/2000	Philadelphia   	7	NY Giants      	24	1
+10/29/2000	Oakland        	15	San Diego      	13	1
+10/29/2000	Pittsburgh     	9	Baltimore      	6	1
+10/29/2000	St Louis       	34	San Francisco  	24	1
+10/29/2000	Minnesota      	13	Tampa Bay      	41	1
+10/30/2000	Tennessee      	27	Washington     	21	1
+11/05/2000	Washington     	15	Arizona        	16	1
+11/05/2000	Baltimore      	27	Cincinnati     	7	1
+11/05/2000	Buffalo        	16	New England    	13	1
+11/05/2000	Carolina       	27	St Louis       	24	1
+11/05/2000	Indianapolis   	24	Chicago        	27	1
+11/05/2000	Denver         	30	NY Jets        	23	1
+11/05/2000	Miami          	23	Detroit        	8	1
+11/05/2000	San Francisco  	15	New Orleans    	31	1
+11/05/2000	NY Giants      	24	Cleveland      	3	1
+11/05/2000	Kansas City    	31	Oakland        	49	1
+11/05/2000	Dallas         	13	Philadelphia   	16	1
+11/05/2000	San Diego      	15	Seattle        	17	1
+11/05/2000	Tampa Bay      	27	Atlanta        	14	1
+11/05/2000	Pittsburgh     	7	Tennessee      	9	1
+11/06/2000	Minnesota      	20	Green Bay      	26	1
+11/12/2000	Baltimore      	24	Tennessee      	23	1
+11/12/2000	Chicago        	3	Buffalo        	20	1
+11/12/2000	New England    	11	Cleveland      	19	1
+11/12/2000	Cincinnati     	6	Dallas         	23	1
+11/12/2000	Atlanta        	10	Detroit        	13	1
+11/12/2000	NY Jets        	15	Indianapolis   	23	1
+11/12/2000	Miami          	17	San Diego      	7	1
+11/12/2000	Arizona        	14	Minnesota      	31	1
+11/12/2000	New Orleans    	20	Carolina       	10	1
+11/12/2000	Philadelphia   	26	Pittsburgh     	23	1
+11/12/2000	St Louis       	38	NY Giants      	24	1
+11/12/2000	Kansas City    	7	San Francisco  	21	1
+11/12/2000	Seattle        	28	Jacksonville   	21	1
+11/12/2000	Green Bay      	15	Tampa Bay      	20	1
+11/13/2000	Oakland        	24	Denver         	27	1
+11/19/2000	Dallas         	0	Baltimore      	27	1
+11/19/2000	Buffalo        	21	Kansas City    	17	1
+11/19/2000	Tampa Bay      	10	Chicago        	13	1
+11/19/2000	San Diego      	37	Denver         	38	1
+11/19/2000	Detroit        	31	NY Giants      	21	1
+11/19/2000	Indianapolis   	24	Green Bay      	26	1
+11/19/2000	Jacksonville   	34	Pittsburgh     	24	1
+11/19/2000	Carolina       	17	Minnesota      	31	1
+11/19/2000	Cincinnati     	13	New England    	16	1
+11/19/2000	NY Jets        	20	Miami          	3	1
+11/19/2000	Oakland        	31	New Orleans    	22	1
+11/19/2000	Arizona        	9	Philadelphia   	34	1
+11/19/2000	Atlanta        	6	San Francisco  	16	1
+11/19/2000	Cleveland      	10	Tennessee      	24	1
+11/20/2000	Washington     	33	St Louis       	20	1
+11/23/2000	New England    	9	Detroit        	34	1
+11/23/2000	Minnesota      	27	Dallas         	15	1
+11/26/2000	Cleveland      	7	Baltimore      	44	1
+11/26/2000	Denver         	38	Seattle        	31	1
+11/26/2000	Tennessee      	13	Jacksonville   	16	1
+11/26/2000	Miami          	17	Indianapolis   	14	1
+11/26/2000	New Orleans    	31	St Louis       	24	1
+11/26/2000	NY Giants      	31	Arizona        	7	1
+11/26/2000	Chicago        	10	NY Jets        	17	1
+11/26/2000	Atlanta        	14	Oakland        	41	1
+11/26/2000	Philadelphia   	23	Washington     	20	1
+11/26/2000	Pittsburgh     	48	Cincinnati     	28	1
+11/26/2000	Kansas City    	16	San Diego      	17	1
+11/26/2000	Buffalo        	17	Tampa Bay      	31	1
+11/27/2000	Green Bay      	14	Carolina       	31	1
+11/30/2000	Detroit        	17	Minnesota      	24	1
+12/03/2000	St Louis       	3	Carolina       	16	1
+12/03/2000	Arizona        	13	Cincinnati     	24	1
+12/03/2000	Denver         	38	New Orleans    	23	1
+12/03/2000	Green Bay      	28	Chicago        	6	1
+12/03/2000	Cleveland      	0	Jacksonville   	48	1
+12/03/2000	Miami          	33	Buffalo        	6	1
+12/03/2000	NY Giants      	9	Washington     	7	1
+12/03/2000	Indianapolis   	17	NY Jets        	27	1
+12/03/2000	Oakland        	20	Pittsburgh     	21	1
+12/03/2000	San Francisco  	45	San Diego      	17	1
+12/03/2000	Seattle        	30	Atlanta        	10	1
+12/03/2000	Dallas         	7	Tampa Bay      	27	1
+12/03/2000	Tennessee      	15	Philadelphia   	13	1
+12/04/2000	Kansas City    	24	New England    	30	1
+12/10/2000	San Diego      	3	Baltimore      	24	1
+12/10/2000	New England    	17	Chicago        	24	1
+12/10/2000	Washington     	13	Dallas         	32	1
+12/10/2000	Seattle        	24	Denver         	31	1
+12/10/2000	Detroit        	13	Green Bay      	26	1
+12/10/2000	Arizona        	10	Jacksonville   	44	1
+12/10/2000	Carolina       	14	Kansas City    	15	1
+12/10/2000	New Orleans    	31	San Francisco  	27	1
+12/10/2000	Pittsburgh     	10	NY Giants      	30	1
+12/10/2000	NY Jets        	7	Oakland        	31	1
+12/10/2000	Philadelphia   	35	Cleveland      	24	1
+12/10/2000	Minnesota      	29	St Louis       	40	1
+12/10/2000	Tampa Bay      	16	Miami          	13	1
+12/10/2000	Cincinnati     	3	Tennessee      	35	1
+12/11/2000	Buffalo        	20	Indianapolis   	44	1
+12/16/2000	Washington     	3	Pittsburgh     	24	1
+12/16/2000	Oakland        	24	Seattle        	27	1
+12/17/2000	Baltimore      	13	Arizona        	 7	1
+12/17/2000	San Diego      	22	Carolina       	30	1
+12/17/2000	Jacksonville   	14	Cincinnati     	17	1
+12/17/2000	Detroit        	10	NY Jets        	 7	1
+12/17/2000	Green Bay      	33	Minnesota      	28	1
+12/17/2000	Indianapolis   	20	Miami          	13	1
+12/17/2000	Denver         	7	Kansas City    	20	1
+12/17/2000	New England    	13	Buffalo        	10	1
+12/17/2000	Atlanta        	7	New Orleans    	23	1
+12/17/2000	NY Giants      	17	Dallas         	13	1
+12/17/2000	Chicago        	0	San Francisco  	17	1
+12/17/2000	Tennessee      	24	Cleveland      	 0	1
+12/18/2000	St Louis       	35	Tampa Bay      	38	1
+12/23/2000	Buffalo        	42	Seattle        	23	1
+12/23/2000	San Francisco  	9	Denver         	38	1
+12/23/2000	Jacksonville   	25	NY Giants      	28	1
+12/24/2000	Kansas City    	13	Atlanta        	29	1
+12/24/2000	NY Jets        	20	Baltimore      	34	1
+12/24/2000	Chicago        	23	Detroit        	20	1
+12/24/2000	Tampa Bay      	14	Green Bay      	17	1
+12/24/2000	Minnesota      	10	Indianapolis   	32	1
+12/24/2000	Miami          	27	New England    	24	1
+12/24/2000	Carolina       	9	Oakland        	52	1
+12/24/2000	Cincinnati     	7	Philadelphia   	16	1
+12/24/2000	Pittsburgh     	34	San Diego      	21	1
+12/24/2000	St Louis       	26	New Orleans    	21	1
+12/24/2000	Arizona        	3	Washington     	20	1
+12/25/2000	Dallas         	0	Tennessee      	31	1
+12/30/2000	Indianapolis   	17	Miami          	23	1
+12/30/2000	St Louis       	28	New Orleans    	31	1
+12/31/2000	Denver         	3	Baltimore      	21	1
+12/31/2000	Tampa Bay      	3	Philadelphia   	21	1
+01/06/2001	New Orleans    	16	Minnesota      	34	1
+01/06/2001	Miami          	0	Oakland        	27	1
+01/07/2001	Baltimore      	24	Tennessee      	10	1
+01/07/2001	Philadelphia   	10	NY Giants      	20	1
+01/14/2001	Minnesota      	0	NY Giants      	41	1
+01/14/2001	Baltimore      	16	Oakland        	 3	1
+01/28/2001	Baltimore      	34	NY Giants      	 7 0

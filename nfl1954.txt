@@ -1,0 +1,73 @@
+09/26/1954	LA Rams             	48	Baltimore           	 0
+09/26/1954	Chicago             	23	Detroit             	48
+09/26/1954	NY Giants           	41	Chicago Cardinals   	10
+09/26/1954	Cleveland           	10	Philadelphia        	28
+09/26/1954	Pittsburgh          	21	Green Bay           	20
+09/26/1954	Washington          	 7	San Francisco       	41
+10/02/1954	NY Giants           	14	Baltimore           	20
+10/02/1954	Washington          	 7	Pittsburgh          	37
+10/03/1954	Philadelphia        	35	Chicago Cardinals   	16
+10/03/1954	Chicago             	10	Green Bay           	 3
+10/03/1954	San Francisco       	24	LA Rams             	24
+10/09/1954	Pittsburgh          	22	Philadelphia        	24
+10/10/1954	Baltimore           	 9	Chicago             	28
+10/10/1954	Chicago Cardinals   	 7	Cleveland           	31
+10/10/1954	San Francisco       	23	Green Bay           	17
+10/10/1954	LA Rams             	 3	Detroit             	21
+10/10/1954	NY Giants           	51	Washington          	21
+10/16/1954	Baltimore           	 0	Detroit             	35
+10/17/1954	San Francisco       	31	Chicago             	24
+10/17/1954	Chicago Cardinals   	17	NY Giants           	31
+10/17/1954	Cleveland           	27	Pittsburgh          	55
+10/17/1954	LA Rams             	17	Green Bay           	35
+10/17/1954	Philadelphia        	49	Washington          	21
+10/23/1954	Philadelphia        	 7	Pittsburgh          	17
+10/24/1954	Green Bay           	 7	Baltimore           	 6
+10/24/1954	Chicago             	38	LA Rams             	42
+10/24/1954	Cleveland           	35	Chicago Cardinals   	 3
+10/24/1954	Detroit             	31	San Francisco       	37
+10/24/1954	Washington          	 7	NY Giants           	24
+10/30/1954	Green Bay           	37	Philadelphia        	14
+10/31/1954	Baltimore           	21	Washington          	24
+10/31/1954	Detroit             	27	LA Rams             	24
+10/31/1954	NY Giants           	14	Cleveland           	24
+10/31/1954	Pittsburgh          	14	Chicago Cardinals   	17
+10/31/1954	Chicago             	31	San Francisco       	27
+11/06/1954	Detroit             	27	Baltimore           	 3
+11/07/1954	Chicago Cardinals   	14	Philadelphia        	30
+11/07/1954	Green Bay           	23	Chicago             	28
+11/07/1954	NY Giants           	30	Pittsburgh          	 6
+11/07/1954	LA Rams             	42	San Francisco       	34
+11/07/1954	Washington          	 3	Cleveland           	62
+11/13/1954	Baltimore           	13	Green Bay           	24
+11/14/1954	Cleveland           	39	Chicago             	10
+11/14/1954	Chicago Cardinals   	17	LA Rams             	28
+11/14/1954	Philadelphia        	14	NY Giants           	27
+11/14/1954	Pittsburgh          	14	Washington          	17
+11/14/1954	San Francisco       	 7	Detroit             	48
+11/20/1954	San Francisco       	31	Pittsburgh          	 3
+11/21/1954	Chicago             	28	Baltimore           	13
+11/21/1954	Detroit             	21	Green Bay           	17
+11/21/1954	LA Rams             	17	NY Giants           	16
+11/21/1954	Philadelphia        	 0	Cleveland           	 6
+11/21/1954	Washington          	16	Chicago Cardinals   	38
+11/25/1954	Green Bay           	24	Detroit             	28
+11/28/1954	Chicago Cardinals   	17	Pittsburgh          	20
+11/28/1954	LA Rams             	13	Chicago             	24
+11/28/1954	Cleveland           	16	NY Giants           	 7
+11/28/1954	San Francisco       	13	Baltimore           	17
+11/28/1954	Washington          	33	Philadelphia        	41
+12/04/1954	Baltimore           	22	LA Rams             	21
+12/05/1954	Chicago             	29	Chicago Cardinals   	 7
+12/05/1954	Philadelphia        	13	Detroit             	13
+12/05/1954	Green Bay           	 0	San Francisco       	35
+12/05/1954	Pittsburgh          	 3	NY Giants           	24
+12/05/1954	Cleveland           	34	Washington          	14
+12/11/1954	Baltimore           	 7	San Francisco       	10
+12/12/1954	Chicago Cardinals   	20	Washington          	37
+12/12/1954	Detroit             	24	Chicago             	28
+12/12/1954	Green Bay           	27	LA Rams             	35
+12/12/1954	NY Giants           	14	Philadelphia        	29
+12/12/1954	Pittsburgh          	 7	Cleveland           	42
+12/19/1954	Detroit             	14	Cleveland           	10
+12/26/1954	Detroit             	10	Cleveland           	56

@@ -1,0 +1,251 @@
+09/01/1996	Buffalo             	23	NY Giants           	20
+09/01/1996	Arizona             	13	Indianapolis        	20
+09/01/1996	New England         	10	Miami               	24
+09/01/1996	Oakland             	14	Baltimore           	19
+09/01/1996	Pittsburgh          	 9	Jacksonville        	24
+09/01/1996	NY Jets             	 6	Denver              	31
+09/01/1996	Kansas City         	20	Houston             	19
+09/01/1996	Seattle             	 7	San Diego           	29
+09/01/1996	Philadelphia        	17	Washington          	14
+09/01/1996	Green Bay           	34	Tampa Bay           	 3
+09/01/1996	Detroit             	13	Minnesota           	17
+09/01/1996	Atlanta             	 6	Carolina            	29
+09/01/1996	Cincinnati          	16	St Louis            	26
+09/01/1996	New Orleans         	11	San Francisco       	27
+09/02/1996	Dallas              	 6	Chicago             	22
+09/08/1996	New England         	10	Buffalo             	17
+09/08/1996	Indianapolis        	21	NY Jets             	 7
+09/08/1996	Miami               	38	Arizona             	10
+09/08/1996	Houston             	34	Jacksonville        	27
+09/08/1996	Baltimore           	17	Pittsburgh          	31
+09/08/1996	Denver              	30	Seattle             	20
+09/08/1996	Oakland             	 3	Kansas City         	19
+09/08/1996	Cincinnati          	14	San Diego           	27
+09/08/1996	NY Giants           	 0	Dallas              	27
+09/08/1996	Chicago             	 3	Washington          	10
+09/08/1996	Tampa Bay           	 6	Detroit             	21
+09/08/1996	Minnesota           	23	Atlanta             	17
+09/08/1996	Carolina            	22	New Orleans         	20
+09/08/1996	St Louis            	 0	San Francisco       	34
+09/09/1996	Philadelphia        	13	Green Bay           	39
+09/15/1996	Indianapolis        	25	Dallas              	24
+09/15/1996	NY Jets             	27	Miami               	36
+09/15/1996	Arizona             	 0	New England         	31
+09/15/1996	New Orleans         	15	Cincinnati          	30
+09/15/1996	Baltimore           	13	Houston             	29
+09/15/1996	Tampa Bay           	23	Denver              	27
+09/15/1996	Kansas City         	35	Seattle             	17
+09/15/1996	Jacksonville        	 3	Oakland             	17
+09/15/1996	Detroit             	17	Philadelphia        	24
+09/15/1996	Washington          	31	NY Giants           	10
+09/15/1996	San Diego           	10	Green Bay           	42
+09/15/1996	Minnesota           	20	Chicago             	14
+09/16/1996	Buffalo             	 6	Pittsburgh          	24
+09/22/1996	Dallas              	 7	Buffalo             	10
+09/22/1996	Jacksonville        	25	New England         	28
+09/22/1996	Denver              	14	Kansas City         	17
+09/22/1996	San Diego           	40	Oakland             	34
+09/22/1996	Seattle             	17	Tampa Bay           	13
+09/22/1996	Arizona             	28	New Orleans         	14
+09/22/1996	NY Giants           	13	NY Jets             	 6
+09/22/1996	Philadelphia        	33	Atlanta             	18
+09/22/1996	Washington          	17	St Louis            	10
+09/22/1996	Chicago             	16	Detroit             	35
+09/22/1996	Green Bay           	21	Minnesota           	30
+09/22/1996	San Francisco       	 7	Carolina            	23
+09/23/1996	Miami               	 6	Indianapolis        	10
+09/29/1996	New Orleans         	10	Baltimore           	17
+09/29/1996	Carolina            	14	Jacksonville        	24
+09/29/1996	Houston             	16	Pittsburgh          	30
+09/29/1996	Denver              	14	Cincinnati          	10
+09/29/1996	Kansas City         	19	San Diego           	22
+09/29/1996	St Louis            	28	Arizona             	31
+09/29/1996	Minnesota           	10	NY Giants           	15
+09/29/1996	NY Jets             	16	Washington          	31
+09/29/1996	Oakland             	17	Chicago             	19
+09/29/1996	Detroit             	27	Tampa Bay           	 0
+09/29/1996	Green Bay           	31	Seattle             	10
+09/29/1996	Atlanta             	17	San Francisco       	39
+09/30/1996	Dallas              	23	Philadelphia        	19
+10/06/1996	Indianapolis        	13	Buffalo             	16
+10/06/1996	New England         	46	Baltimore           	38
+10/06/1996	Houston             	30	Cincinnati          	27
+10/06/1996	San Diego           	17	Denver              	28
+10/06/1996	Oakland             	34	NY Jets             	13
+10/06/1996	Seattle             	22	Miami               	15
+10/06/1996	Atlanta             	24	Detroit             	28
+10/06/1996	Green Bay           	37	Chicago             	 6
+10/06/1996	Carolina            	12	Minnesota           	14
+10/06/1996	Jacksonville        	13	New Orleans         	17
+10/06/1996	San Francisco       	28	St Louis            	11
+10/07/1996	Pittsburgh          	17	Kansas City         	 7
+10/13/1996	Baltimore           	21	Indianapolis        	26
+10/13/1996	Miami               	21	Buffalo             	 7
+10/13/1996	Houston             	23	Atlanta             	13
+10/13/1996	NY Jets             	17	Jacksonville        	21
+10/13/1996	Cincinnati          	10	Pittsburgh          	20
+10/13/1996	Detroit             	21	Oakland             	37
+10/13/1996	Arizona             	 3	Dallas              	17
+10/13/1996	Philadelphia        	19	NY Giants           	10
+10/13/1996	Washington          	27	New England         	22
+10/13/1996	Minnesota           	13	Tampa Bay           	24
+10/13/1996	St Louis            	13	Carolina            	45
+10/13/1996	Chicago             	24	New Orleans         	27
+10/14/1996	San Francisco       	20	Green Bay           	23
+10/17/1996	Seattle             	16	Kansas City         	34
+10/20/1996	Buffalo             	25	NY Jets             	22
+10/20/1996	New England         	27	Indianapolis        	 9
+10/20/1996	Pittsburgh          	13	Houston             	23
+10/20/1996	Baltimore           	34	Denver              	45
+10/20/1996	Tampa Bay           	 9	Arizona             	13
+10/20/1996	Atlanta             	28	Dallas              	32
+10/20/1996	Miami               	28	Philadelphia        	35
+10/20/1996	NY Giants           	21	Washington          	31
+10/20/1996	New Orleans         	 7	Carolina            	19
+10/20/1996	Jacksonville        	14	St Louis            	17
+10/20/1996	Cincinnati          	21	San Francisco       	28
+10/21/1996	Oakland             	23	San Diego           	14
+10/27/1996	Buffalo             	25	New England         	28
+10/27/1996	NY Jets             	31	Arizona             	21
+10/27/1996	St Louis            	31	Baltimore           	37
+10/27/1996	Jacksonville        	21	Cincinnati          	28
+10/27/1996	Pittsburgh          	20	Atlanta             	17
+10/27/1996	Kansas City         	 7	Denver              	34
+10/27/1996	San Diego           	13	Seattle             	32
+10/27/1996	Dallas              	29	Miami               	10
+10/27/1996	NY Giants           	35	Detroit             	 7
+10/27/1996	Carolina            	 9	Philadelphia        	20
+10/27/1996	Indianapolis        	16	Washington          	31
+10/27/1996	Tampa Bay           	 7	Green Bay           	13
+10/27/1996	San Francisco       	10	Houston             	 9
+10/28/1996	Chicago             	15	Minnesota           	13
+11/03/1996	Washington          	13	Buffalo             	38
+11/03/1996	Miami               	23	New England         	42
+11/03/1996	Cincinnati          	24	Baltimore           	21
+11/03/1996	St Louis            	 6	Pittsburgh          	42
+11/03/1996	Kansas City         	21	Minnesota           	 6
+11/03/1996	San Diego           	26	Indianapolis        	19
+11/03/1996	Houston             	16	Seattle             	23
+11/03/1996	Arizona             	 8	NY Giants           	16
+11/03/1996	Philadelphia        	31	Dallas              	21
+11/03/1996	Tampa Bay           	10	Chicago             	13
+11/03/1996	Detroit             	18	Green Bay           	28
+11/03/1996	Carolina            	17	Atlanta             	20
+11/03/1996	San Francisco       	24	New Orleans         	17
+11/04/1996	Denver              	22	Oakland             	21
+11/10/1996	Buffalo             	24	Philadelphia        	17
+11/10/1996	Indianapolis        	13	Miami               	37
+11/10/1996	New England         	31	NY Jets             	27
+11/10/1996	Pittsburgh          	24	Cincinnati          	34
+11/10/1996	Houston             	31	New Orleans         	14
+11/10/1996	Baltimore           	27	Jacksonville        	30
+11/10/1996	Chicago             	12	Denver              	17
+11/10/1996	Green Bay           	20	Kansas City         	27
+11/10/1996	Minnesota           	23	Seattle             	42
+11/10/1996	Arizona             	37	Washington          	34
+11/10/1996	Dallas              	20	San Francisco       	17
+11/10/1996	Oakland             	17	Tampa Bay           	20
+11/10/1996	NY Giants           	17	Carolina            	27
+11/10/1996	Atlanta             	16	St Louis            	59
+11/11/1996	Detroit             	21	San Diego           	27
+11/17/1996	Cincinnati          	17	Buffalo             	31
+11/17/1996	NY Jets             	29	Indianapolis        	34
+11/17/1996	Miami               	23	Houston             	20
+11/17/1996	Jacksonville        	 3	Pittsburgh          	28
+11/17/1996	Denver              	34	New England         	 8
+11/17/1996	Chicago             	10	Kansas City         	14
+11/17/1996	NY Giants           	23	Arizona             	31
+11/17/1996	Washington          	26	Philadelphia        	21
+11/17/1996	Seattle             	16	Detroit             	17
+11/17/1996	Minnesota           	16	Oakland             	13
+11/17/1996	Tampa Bay           	25	San Diego           	17
+11/17/1996	New Orleans         	15	Atlanta             	17
+11/17/1996	Carolina            	20	St Louis            	10
+11/17/1996	Baltimore           	20	San Francisco       	38
+11/18/1996	Green Bay           	 6	Dallas              	21
+11/24/1996	NY Jets             	10	Buffalo             	35
+11/24/1996	Indianapolis        	13	New England         	27
+11/24/1996	Atlanta             	31	Cincinnati          	41
+11/24/1996	Jacksonville        	28	Baltimore           	25
+11/24/1996	Denver              	21	Minnesota           	17
+11/24/1996	Oakland             	27	Seattle             	21
+11/24/1996	San Diego           	28	Kansas City         	14
+11/24/1996	Philadelphia        	30	Arizona             	36
+11/24/1996	Dallas              	 6	NY Giants           	20
+11/24/1996	Detroit             	14	Chicago             	31
+11/24/1996	Green Bay           	24	St Louis            	 9
+11/24/1996	New Orleans         	 7	Tampa Bay           	13
+11/24/1996	Carolina            	31	Houston             	 6
+11/24/1996	San Francisco       	19	Washington          	16
+11/25/1996	Pittsburgh          	24	Miami               	17
+11/28/1996	Kansas City         	28	Detroit             	24
+11/28/1996	Washington          	10	Dallas              	21
+12/01/1996	Buffalo             	10	Indianapolis        	13
+12/01/1996	New England         	45	San Diego           	 7
+12/01/1996	Pittsburgh          	17	Baltimore           	31
+12/01/1996	Houston             	35	NY Jets             	10
+12/01/1996	Cincinnati          	27	Jacksonville        	30
+12/01/1996	Seattle             	 7	Denver              	34
+12/01/1996	Miami               	 7	Oakland             	17
+12/01/1996	NY Giants           	 0	Philadelphia        	24
+12/01/1996	Chicago             	17	Green Bay           	28
+12/01/1996	Arizona             	17	Minnesota           	41
+12/01/1996	Tampa Bay           	 0	Carolina            	24
+12/01/1996	St Louis            	26	New Orleans         	10
+12/02/1996	San Francisco       	34	Atlanta             	10
+12/05/1996	Philadelphia        	10	Indianapolis        	37
+12/08/1996	NY Jets             	10	New England         	34
+12/08/1996	Baltimore           	14	Cincinnati          	21
+12/08/1996	Jacksonville        	23	Houston             	17
+12/08/1996	San Diego           	 3	Pittsburgh          	16
+12/08/1996	Buffalo             	18	Seattle             	26
+12/08/1996	Dallas              	10	Arizona             	 6
+12/08/1996	NY Giants           	17	Miami               	 7
+12/08/1996	St Louis            	 9	Chicago             	35
+12/08/1996	Denver              	 6	Green Bay           	41
+12/08/1996	Minnesota           	24	Detroit             	22
+12/08/1996	Washington          	10	Tampa Bay           	24
+12/08/1996	Atlanta             	31	New Orleans         	15
+12/08/1996	Carolina            	30	San Francisco       	24
+12/09/1996	Kansas City         	 7	Oakland             	26
+12/14/1996	Philadelphia        	21	NY Jets             	20
+12/14/1996	San Diego           	14	Chicago             	27
+12/15/1996	Indianapolis        	24	Kansas City         	19
+12/15/1996	Cincinnati          	21	Houston             	13
+12/15/1996	Seattle             	13	Jacksonville        	20
+12/15/1996	Oakland             	19	Denver              	24
+12/15/1996	Washington          	26	Arizona             	27
+12/15/1996	New England         	 6	Dallas              	12
+12/15/1996	Green Bay           	31	Detroit             	 3
+12/15/1996	Tampa Bay           	10	Minnesota           	21
+12/15/1996	Baltimore           	16	Carolina            	27
+12/15/1996	New Orleans         	17	NY Giants           	 3
+12/15/1996	St Louis            	34	Atlanta             	27
+12/15/1996	San Francisco       	25	Pittsburgh          	15
+12/16/1996	Buffalo             	14	Miami               	16
+12/21/1996	New England         	23	NY Giants           	22
+12/21/1996	New Orleans         	13	St Louis            	14
+12/22/1996	Kansas City         	 9	Buffalo             	20
+12/22/1996	Miami               	31	NY Jets             	28
+12/22/1996	Indianapolis        	24	Cincinnati          	31
+12/22/1996	Houston             	24	Baltimore           	21
+12/22/1996	Atlanta             	17	Jacksonville        	19
+12/22/1996	Denver              	10	San Diego           	16
+12/22/1996	Seattle             	28	Oakland             	21
+12/22/1996	Arizona             	19	Philadelphia        	29
+12/22/1996	Dallas              	10	Washington          	37
+12/22/1996	Minnesota           	10	Green Bay           	38
+12/22/1996	Chicago             	19	Tampa Bay           	34
+12/22/1996	Pittsburgh          	14	Carolina            	18
+12/23/1996	Detroit             	14	San Francisco       	24
+12/28/1996	Jacksonville        	30	Buffalo             	27
+12/28/1996	Minnesota           	15	Dallas              	40
+12/29/1996	Indianapolis        	14	Pittsburgh          	42
+12/29/1996	Philadelphia        	 0	San Francisco       	14
+01/04/1997	Jacksonville        	30	Denver              	27
+01/04/1997	San Francisco       	14	Green Bay           	35
+01/05/1997	Pittsburgh          	 3	New England         	28
+01/05/1997	Dallas              	17	Carolina            	26
+01/12/1997	Jacksonville        	 6	New England         	20
+01/12/1997	Carolina            	13	Green Bay           	30
+01/26/1997	Green Bay           	35	New England         	21	0

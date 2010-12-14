@@ -1,0 +1,106 @@
+09/10/1966	Baltimore           	 3	Green Bay           	24
+09/11/1966	LA Rams             	19	Atlanta             	14
+09/11/1966	Chicago             	 3	Detroit             	14
+09/11/1966	Philadelphia        	13	St Louis            	16
+09/11/1966	NY Giants           	34	Pittsburgh          	34
+09/11/1966	Minnesota           	20	San Francisco       	20
+09/11/1966	Cleveland           	38	Washington          	14
+09/16/1966	Chicago             	17	LA Rams             	31
+09/18/1966	Atlanta             	10	Philadelphia        	23
+09/18/1966	Green Bay           	21	Cleveland           	20
+09/18/1966	Detroit             	 3	Pittsburgh          	17
+09/18/1966	Baltimore           	38	Minnesota           	23
+09/18/1966	NY Giants           	 7	Dallas              	52
+09/18/1966	Washington          	 7	St Louis            	23
+09/25/1966	Atlanta             	10	Detroit             	28
+09/25/1966	St Louis            	34	Cleveland           	28
+09/25/1966	LA Rams             	13	Green Bay           	24
+09/25/1966	Minnesota           	17	Dallas              	28
+09/25/1966	NY Giants           	17	Philadelphia        	35
+09/25/1966	Washington          	33	Pittsburgh          	27
+09/25/1966	San Francisco       	14	Baltimore           	36
+09/30/1966	San Francisco       	 3	LA Rams             	34
+10/02/1966	Dallas              	47	Atlanta             	14
+10/02/1966	Detroit             	14	Green Bay           	23
+10/02/1966	Chicago             	13	Minnesota           	10
+10/02/1966	Cleveland           	28	NY Giants           	 7
+10/02/1966	St Louis            	41	Philadelphia        	10
+10/02/1966	Pittsburgh          	10	Washington          	24
+10/08/1966	Pittsburgh          	10	Cleveland           	41
+10/09/1966	Atlanta             	20	Washington          	33
+10/09/1966	Baltimore           	17	Chicago             	27
+10/09/1966	LA Rams             	14	Detroit             	 7
+10/09/1966	Green Bay           	20	San Francisco       	21
+10/09/1966	NY Giants           	19	St Louis            	24
+10/09/1966	Philadelphia        	 7	Dallas              	56
+10/16/1966	San Francisco       	44	Atlanta             	 7
+10/16/1966	Green Bay           	17	Chicago             	 0
+10/16/1966	Detroit             	14	Baltimore           	45
+10/16/1966	LA Rams             	 7	Minnesota           	35
+10/16/1966	Philadelphia        	31	Pittsburgh          	14
+10/16/1966	Dallas              	10	St Louis            	10
+10/16/1966	Washington          	10	NY Giants           	13
+10/23/1966	Atlanta             	 3	Green Bay           	56
+10/23/1966	Dallas              	21	Cleveland           	30
+10/23/1966	Detroit             	24	San Francisco       	27
+10/23/1966	LA Rams             	10	Chicago             	17
+10/23/1966	Minnesota           	17	Baltimore           	20
+10/23/1966	Philadelphia        	31	NY Giants           	 3
+10/23/1966	St Louis            	20	Washington          	26
+10/30/1966	Cleveland           	49	Atlanta             	17
+10/30/1966	Green Bay           	31	Detroit             	 7
+10/30/1966	Baltimore           	17	LA Rams             	 3
+10/30/1966	Washington          	27	Philadelphia        	13
+10/30/1966	Pittsburgh          	21	Dallas              	52
+10/30/1966	San Francisco       	 3	Minnesota           	28
+10/31/1966	Chicago             	17	St Louis            	24
+11/06/1966	Detroit             	10	Chicago             	10
+11/06/1966	Cleveland           	 6	Pittsburgh          	16
+11/06/1966	Dallas              	23	Philadelphia        	24
+11/06/1966	Minnesota           	20	Green Bay           	17
+11/06/1966	LA Rams             	13	San Francisco       	21
+11/06/1966	St Louis            	20	NY Giants           	17
+11/06/1966	Washington          	10	Baltimore           	37
+11/13/1966	Baltimore           	19	Atlanta             	 7
+11/13/1966	San Francisco       	30	Chicago             	30
+11/13/1966	Detroit             	32	Minnesota           	31
+11/13/1966	NY Giants           	14	LA Rams             	55
+11/13/1966	Philadelphia        	 7	Cleveland           	27
+11/13/1966	St Louis            	 9	Pittsburgh          	30
+11/13/1966	Dallas              	31	Washington          	30
+11/20/1966	Baltimore           	14	Detroit             	20
+11/20/1966	Chicago             	 6	Green Bay           	13
+11/20/1966	Minnesota           	 6	LA Rams             	21
+11/20/1966	Atlanta             	27	NY Giants           	16
+11/20/1966	Dallas              	20	Pittsburgh          	 7
+11/20/1966	Philadelphia        	35	San Francisco       	34
+11/20/1966	Washington          	 3	Cleveland           	14
+11/24/1966	Cleveland           	14	Dallas              	26
+11/24/1966	San Francisco       	41	Detroit             	14
+11/27/1966	Atlanta             	 6	Chicago             	23
+11/27/1966	LA Rams             	23	Baltimore           	 7
+11/27/1966	Green Bay           	28	Minnesota           	16
+11/27/1966	NY Giants           	41	Washington          	72
+11/27/1966	Pittsburgh          	 3	St Louis            	 6
+12/04/1966	Chicago             	16	Baltimore           	21
+12/04/1966	Detroit             	 3	LA Rams             	23
+12/04/1966	Atlanta             	20	Minnesota           	13
+12/04/1966	NY Giants           	40	Cleveland           	49
+12/04/1966	Pittsburgh          	23	Philadelphia        	27
+12/04/1966	St Louis            	17	Dallas              	31
+12/04/1966	San Francisco       	 7	Green Bay           	20
+12/10/1966	Green Bay           	14	Baltimore           	10
+12/11/1966	Chicago             	14	San Francisco       	41
+12/11/1966	Cleveland           	21	Philadelphia        	33
+12/11/1966	Washington          	34	Dallas              	31
+12/11/1966	Minnesota           	28	Detroit             	16
+12/11/1966	Pittsburgh          	47	NY Giants           	28
+12/11/1966	St Louis            	10	Atlanta             	16
+12/17/1966	Cleveland           	38	St Louis            	10
+12/18/1966	Pittsburgh          	57	Atlanta             	33
+12/18/1966	Green Bay           	27	LA Rams             	23
+12/18/1966	Minnesota           	28	Chicago             	41
+12/18/1966	Dallas              	17	NY Giants           	 7
+12/18/1966	Baltimore           	30	San Francisco       	14
+12/18/1966	Philadelphia        	37	Washington          	28
+01/01/1967	Green Bay           	34	Dallas              	27

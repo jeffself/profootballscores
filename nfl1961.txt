@@ -1,0 +1,99 @@
+09/17/1961	Chicago             	13	Minnesota           	37
+09/17/1961	Cleveland           	20	Philadelphia        	27
+09/17/1961	Detroit             	17	Green Bay           	13
+09/17/1961	LA Rams             	24	Baltimore           	27
+09/17/1961	St Louis            	21	NY Giants           	10
+09/17/1961	Pittsburgh          	24	Dallas              	27
+09/17/1961	Washington          	 3	San Francisco       	35
+09/23/1961	Chicago             	21	LA Rams             	17
+09/24/1961	Detroit             	16	Baltimore           	15
+09/24/1961	Minnesota           	 7	Dallas              	21
+09/24/1961	NY Giants           	17	Pittsburgh          	14
+09/24/1961	St Louis            	17	Cleveland           	20
+09/24/1961	San Francisco       	10	Green Bay           	30
+09/24/1961	Washington          	 7	Philadelphia        	14
+10/01/1961	Chicago             	 0	Green Bay           	24
+10/01/1961	Dallas              	 7	Cleveland           	25
+10/01/1961	San Francisco       	49	Detroit             	 0
+10/01/1961	Minnesota           	33	Baltimore           	34
+10/01/1961	St Louis            	30	Philadelphia        	27
+10/01/1961	Pittsburgh          	14	LA Rams             	24
+10/01/1961	NY Giants           	24	Washington          	21
+10/08/1961	Baltimore           	 7	Green Bay           	45
+10/08/1961	Chicago             	31	Detroit             	17
+10/08/1961	LA Rams             	 0	San Francisco       	35
+10/08/1961	Dallas              	28	Minnesota           	 0
+10/08/1961	Pittsburgh          	16	Philadelphia        	21
+10/08/1961	NY Giants           	24	St Louis            	 9
+10/08/1961	Washington          	 7	Cleveland           	31
+10/15/1961	Baltimore           	10	Chicago             	24
+10/15/1961	Green Bay           	49	Cleveland           	17
+10/15/1961	NY Giants           	31	Dallas              	10
+10/15/1961	LA Rams             	13	Detroit             	14
+10/15/1961	San Francisco       	38	Minnesota           	24
+10/15/1961	Philadelphia        	20	St Louis            	 7
+10/15/1961	Washington          	 0	Pittsburgh          	20
+10/22/1961	Philadelphia        	43	Dallas              	 7
+10/22/1961	Baltimore           	17	Detroit             	14
+10/22/1961	LA Rams             	14	NY Giants           	24
+10/22/1961	Green Bay           	33	Minnesota           	 7
+10/22/1961	Cleveland           	30	Pittsburgh          	28
+10/22/1961	San Francisco       	 0	Chicago             	31
+10/22/1961	St Louis            	24	Washington          	 0
+10/29/1961	Chicago             	21	Baltimore           	20
+10/29/1961	Detroit             	28	LA Rams             	10
+10/29/1961	Minnesota           	10	Green Bay           	28
+10/29/1961	Dallas              	17	NY Giants           	16
+10/29/1961	Cleveland           	21	St Louis            	10
+10/29/1961	San Francisco       	10	Pittsburgh          	20
+10/29/1961	Philadelphia        	27	Washington          	24
+11/05/1961	Chicago             	14	Philadelphia        	16
+11/05/1961	Pittsburgh          	17	Cleveland           	13
+11/05/1961	St Louis            	31	Dallas              	17
+11/05/1961	Green Bay           	21	Baltimore           	45
+11/05/1961	Minnesota           	17	LA Rams             	31
+11/05/1961	Detroit             	20	San Francisco       	20
+11/05/1961	Washington          	 0	NY Giants           	53
+11/12/1961	Baltimore           	20	Minnesota           	28
+11/12/1961	Green Bay           	31	Chicago             	28
+11/12/1961	Dallas              	 7	Pittsburgh          	37
+11/12/1961	Philadelphia        	21	NY Giants           	38
+11/12/1961	Detroit             	45	St Louis            	14
+11/12/1961	San Francisco       	 7	LA Rams             	17
+11/12/1961	Cleveland           	17	Washington          	 6
+11/19/1961	Chicago             	31	San Francisco       	41
+11/19/1961	Washington          	28	Dallas              	28
+11/19/1961	LA Rams             	17	Green Bay           	35
+11/19/1961	Detroit             	37	Minnesota           	10
+11/19/1961	Philadelphia        	24	Cleveland           	45
+11/19/1961	Pittsburgh          	21	NY Giants           	42
+11/19/1961	St Louis            	 0	Baltimore           	16
+11/23/1961	Green Bay           	17	Detroit             	 9
+11/26/1961	NY Giants           	37	Cleveland           	21
+11/26/1961	Dallas              	13	Philadelphia        	35
+11/26/1961	LA Rams             	24	Chicago             	28
+11/26/1961	Minnesota           	28	San Francisco       	38
+11/26/1961	St Louis            	27	Pittsburgh          	30
+11/26/1961	Baltimore           	27	Washington          	 6
+12/03/1961	Detroit             	16	Chicago             	15
+12/03/1961	Cleveland           	38	Dallas              	17
+12/03/1961	LA Rams             	21	Minnesota           	42
+12/03/1961	NY Giants           	17	Green Bay           	20
+12/03/1961	Philadelphia        	35	Pittsburgh          	24
+12/03/1961	San Francisco       	17	Baltimore           	20
+12/03/1961	Washington          	24	St Louis            	38
+12/09/1961	Baltimore           	17	LA Rams             	34
+12/10/1961	Cleveland           	14	Chicago             	17
+12/10/1961	Dallas              	13	St Louis            	31
+12/10/1961	Green Bay           	21	San Francisco       	22
+12/10/1961	Minnesota           	 7	Detroit             	13
+12/10/1961	NY Giants           	28	Philadelphia        	24
+12/10/1961	Pittsburgh          	30	Washington          	14
+12/16/1961	Baltimore           	27	San Francisco       	24
+12/17/1961	Dallas              	24	Washington          	34
+12/17/1961	Philadelphia        	27	Detroit             	24
+12/17/1961	Green Bay           	24	LA Rams             	17
+12/17/1961	Minnesota           	35	Chicago             	52
+12/17/1961	Cleveland           	 7	NY Giants           	 7
+12/17/1961	Pittsburgh          	 0	St Louis            	20
+12/31/1961	NY Giants           	 0	Green Bay           	37

@@ -1,0 +1,115 @@
+09/14/1968	Atlanta             	 7	Minnesota           	47
+09/15/1968	Washington          	38	Chicago             	28
+09/15/1968	Detroit             	13	Dallas              	59
+09/15/1968	Cleveland           	24	New Orleans         	10
+09/15/1968	Philadelphia        	13	Green Bay           	30
+09/15/1968	NY Giants           	34	Pittsburgh          	20
+09/15/1968	San Francisco       	10	Baltimore           	27
+09/16/1968	LA Rams             	24	St Louis            	13
+09/22/1968	Baltimore           	28	Atlanta             	20
+09/22/1968	Chicago             	 0	Detroit             	42
+09/22/1968	Cleveland           	 7	Dallas              	28
+09/22/1968	Minnesota           	26	Green Bay           	13
+09/22/1968	NY Giants           	34	Philadelphia        	25
+09/22/1968	Pittsburgh          	10	LA Rams             	45
+09/22/1968	St Louis            	17	San Francisco       	35
+09/22/1968	Washington          	17	New Orleans         	37
+09/29/1968	Atlanta             	13	San Francisco       	28
+09/29/1968	LA Rams             	24	Cleveland           	 6
+09/29/1968	Detroit             	23	Green Bay           	17
+09/29/1968	Chicago             	27	Minnesota           	17
+09/29/1968	St Louis            	21	New Orleans         	20
+09/29/1968	Dallas              	45	Philadelphia        	13
+09/29/1968	Baltimore           	41	Pittsburgh          	 7
+09/29/1968	Washington          	21	NY Giants           	48
+10/05/1968	Pittsburgh          	24	Cleveland           	31
+10/06/1968	Green Bay           	38	Atlanta             	 7
+10/06/1968	Chicago             	 7	Baltimore           	28
+10/06/1968	Minnesota           	24	Detroit             	10
+10/06/1968	New Orleans         	21	NY Giants           	33
+10/06/1968	Philadelphia        	14	Washington          	17
+10/06/1968	Dallas              	27	St Louis            	10
+10/06/1968	San Francisco       	10	LA Rams             	24
+10/13/1968	Detroit             	28	Chicago             	10
+10/13/1968	St Louis            	27	Cleveland           	21
+10/13/1968	LA Rams             	16	Green Bay           	14
+10/13/1968	Minnesota           	17	New Orleans         	20
+10/13/1968	NY Giants           	21	Atlanta             	24
+10/13/1968	Philadelphia        	14	Dallas              	34
+10/13/1968	Pittsburgh          	13	Washington          	16
+10/13/1968	Baltimore           	42	San Francisco       	14
+10/20/1968	Atlanta             	14	LA Rams             	27
+10/20/1968	Cleveland           	30	Baltimore           	20
+10/20/1968	Green Bay           	14	Detroit             	14
+10/20/1968	Dallas              	20	Minnesota           	 7
+10/20/1968	San Francisco       	26	NY Giants           	10
+10/20/1968	Chicago             	29	Philadelphia        	16
+10/20/1968	New Orleans         	16	Pittsburgh          	12
+10/20/1968	Washington          	14	St Louis            	41
+10/27/1968	Atlanta             	 7	Cleveland           	30
+10/27/1968	San Francisco       	14	Detroit             	 7
+10/27/1968	LA Rams             	10	Baltimore           	27
+10/27/1968	Minnesota           	24	Chicago             	26
+10/27/1968	New Orleans         	17	St Louis            	31
+10/27/1968	Philadelphia        	 3	Pittsburgh          	 6
+10/27/1968	NY Giants           	13	Washington          	10
+10/28/1968	Green Bay           	28	Dallas              	17
+11/03/1968	Pittsburgh          	41	Atlanta             	21
+11/03/1968	Detroit             	 7	LA Rams             	10
+11/03/1968	Chicago             	13	Green Bay           	10
+11/03/1968	Dallas              	17	New Orleans         	 3
+11/03/1968	Baltimore           	26	NY Giants           	 0
+11/03/1968	St Louis            	45	Philadelphia        	17
+11/03/1968	Cleveland           	33	San Francisco       	21
+11/03/1968	Washington          	14	Minnesota           	27
+11/10/1968	LA Rams             	17	Atlanta             	10
+11/10/1968	NY Giants           	27	Dallas              	21
+11/10/1968	Baltimore           	27	Detroit             	10
+11/10/1968	Green Bay           	10	Minnesota           	14
+11/10/1968	New Orleans         	17	Cleveland           	35
+11/10/1968	Washington          	16	Philadelphia        	10
+11/10/1968	Pittsburgh          	28	St Louis            	28
+11/10/1968	San Francisco       	19	Chicago             	27
+11/17/1968	Atlanta             	16	Chicago             	13
+11/17/1968	Detroit             	 6	Minnesota           	13
+11/17/1968	New Orleans         	 7	Green Bay           	29
+11/17/1968	Philadelphia        	 6	NY Giants           	 7
+11/17/1968	Cleveland           	45	Pittsburgh          	24
+11/17/1968	St Louis            	 0	Baltimore           	27
+11/17/1968	LA Rams             	20	San Francisco       	20
+11/17/1968	Dallas              	44	Washington          	24
+11/24/1968	Atlanta             	12	St Louis            	17
+11/24/1968	Dallas              	34	Chicago             	 3
+11/24/1968	New Orleans         	20	Detroit             	20
+11/24/1968	Minnesota           	 9	Baltimore           	21
+11/24/1968	NY Giants           	21	LA Rams             	24
+11/24/1968	Philadelphia        	13	Cleveland           	47
+11/24/1968	San Francisco       	45	Pittsburgh          	28
+11/24/1968	Green Bay           	27	Washington          	 7
+11/28/1968	Philadelphia        	12	Detroit             	 0
+11/28/1968	Washington          	20	Dallas              	29
+12/01/1968	Atlanta             	 0	Baltimore           	44
+12/01/1968	Green Bay           	20	San Francisco       	27
+12/01/1968	LA Rams             	31	Minnesota           	 3
+12/01/1968	Chicago             	23	New Orleans         	17
+12/01/1968	NY Giants           	10	Cleveland           	45
+12/01/1968	St Louis            	20	Pittsburgh          	10
+12/07/1968	Baltimore           	16	Green Bay           	 3
+12/08/1968	Detroit             	24	Atlanta             	 7
+12/08/1968	Chicago             	17	LA Rams             	16
+12/08/1968	New Orleans         	17	Philadelphia        	29
+12/08/1968	St Louis            	28	NY Giants           	21
+12/08/1968	Pittsburgh          	 7	Dallas              	28
+12/08/1968	Minnesota           	30	San Francisco       	20
+12/08/1968	Cleveland           	24	Washington          	21
+12/14/1968	Cleveland           	16	St Louis            	27
+12/15/1968	San Francisco       	14	Atlanta             	12
+12/15/1968	Green Bay           	28	Chicago             	27
+12/15/1968	Detroit             	 3	Washington          	14
+12/15/1968	Baltimore           	28	LA Rams             	24
+12/15/1968	Dallas              	28	NY Giants           	10
+12/15/1968	Minnesota           	24	Philadelphia        	17
+12/15/1968	Pittsburgh          	14	New Orleans         	24
+12/21/1968	Dallas              	20	Cleveland           	31
+12/22/1968	Minnesota           	14	Baltimore           	24
+12/29/1968	Baltimore           	34	Cleveland           	 0

@@ -1,0 +1,57 @@
+09/11/1965	Boston         	7	Buffalo        	24	1
+09/11/1965	Denver         	31	San Diego      	34	1
+09/12/1965	Kansas City    	10	Oakland        	37	1
+09/12/1965	NY Jets        	21	Houston        	27	1
+09/18/1965	Kansas City    	14	NY Jets        	10	1
+09/19/1965	Boston         	10	Houston        	31	1
+09/19/1965	Buffalo        	30	Denver         	15	1
+09/19/1965	San Diego      	17	Oakland        	6	1
+09/24/1965	Denver         	27	Boston         	10	1
+09/26/1965	Houston        	17	Oakland        	21	1
+09/26/1965	NY Jets        	21	Buffalo        	33	1
+09/26/1965	Kansas City    	10	San Diego      	10	1
+10/03/1965	Boston         	17	Kansas City    	27	1
+10/03/1965	Houston        	14	San Diego      	31	1
+10/03/1965	NY Jets        	13	Denver         	16	1
+10/03/1965	Oakland        	12	Buffalo        	17	1
+10/08/1965	Oakland        	24	Boston         	10	1
+10/10/1965	San Diego      	34	Buffalo        	3	1
+10/10/1965	Kansas City    	31	Denver         	23	1
+10/16/1965	Oakland        	24	NY Jets        	24	1
+10/17/1965	San Diego      	13	Boston         	13	1
+10/17/1965	Houston        	17	Denver         	28	1
+10/17/1965	Buffalo        	23	Kansas City    	7	1
+10/23/1965	San Diego      	34	NY Jets        	9	1
+10/24/1965	Boston         	21	Oakland        	30	1
+10/24/1965	Denver         	13	Buffalo        	31	1
+10/24/1965	Kansas City    	36	Houston        	38	1
+10/31/1965	Houston        	19	Buffalo        	17	1
+10/31/1965	Denver         	10	NY Jets        	45	1
+10/31/1965	Oakland        	7	Kansas City    	14	1
+10/31/1965	Boston         	22	San Diego      	6	1
+11/07/1965	Buffalo        	23	Boston         	7	1
+11/07/1965	San Diego      	35	Denver         	21	1
+11/07/1965	Oakland        	33	Houston        	21	1
+11/07/1965	NY Jets        	13	Kansas City    	10	1
+11/14/1965	NY Jets        	30	Boston         	20	1
+11/14/1965	Denver         	31	Houston        	21	1
+11/14/1965	Buffalo        	17	Oakland        	14	1
+11/14/1965	San Diego      	7	Kansas City    	31	1
+11/21/1965	Kansas City    	10	Boston         	10	1
+11/21/1965	Oakland        	28	Denver         	20	1
+11/21/1965	Houston        	14	NY Jets        	41	1
+11/25/1965	Buffalo        	20	San Diego      	20	1
+11/28/1965	Houston        	21	Kansas City    	52	1
+11/28/1965	Boston         	27	NY Jets        	23	1
+12/04/1965	NY Jets        	7	San Diego      	38	1
+12/05/1965	Denver         	13	Oakland        	24	1
+12/05/1965	Buffalo        	29	Houston        	18	1
+12/12/1965	Boston         	28	Denver         	20	1
+12/12/1965	San Diego      	37	Houston        	26	1
+12/12/1965	Kansas City    	25	Buffalo        	34	1
+12/12/1965	NY Jets        	14	Oakland        	24	1
+12/18/1965	Houston        	14	Boston         	42	1
+12/19/1965	Buffalo        	12	NY Jets        	14	1
+12/19/1965	Denver         	35	Kansas City    	45	1
+12/19/1965	Oakland        	14	San Diego      	24	1
+12/26/1965	Buffalo        	23	San Diego      	0	1

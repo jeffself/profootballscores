@@ -1,0 +1,115 @@
+09/17/1967	Atlanta             	31	Baltimore           	38
+09/17/1967	Chicago             	13	Pittsburgh          	41
+09/17/1967	Dallas              	21	Cleveland           	14
+09/17/1967	Detroit             	17	Green Bay           	17
+09/17/1967	San Francisco       	27	Minnesota           	21
+09/17/1967	LA Rams             	27	New Orleans         	13
+09/17/1967	NY Giants           	37	St Louis            	20
+09/17/1967	Washington          	24	Philadelphia        	35
+09/22/1967	Minnesota           	 3	LA Rams             	39
+09/24/1967	Atlanta             	 7	San Francisco       	38
+09/24/1967	Chicago             	10	Green Bay           	13
+09/24/1967	Cleveland           	14	Detroit             	31
+09/24/1967	Washington          	30	New Orleans         	10
+09/24/1967	NY Giants           	24	Dallas              	38
+09/24/1967	Baltimore           	38	Philadelphia        	 6
+09/24/1967	St Louis            	28	Pittsburgh          	14
+10/01/1967	Atlanta             	 0	Green Bay           	23
+10/01/1967	LA Rams             	35	Dallas              	13
+10/01/1967	Detroit             	28	St Louis            	38
+10/01/1967	Chicago             	17	Minnesota           	 7
+10/01/1967	Cleveland           	42	New Orleans         	 7
+10/01/1967	NY Giants           	34	Washington          	38
+10/01/1967	Pittsburgh          	24	Philadelphia        	34
+10/01/1967	San Francisco       	 7	Baltimore           	41
+10/07/1967	Pittsburgh          	10	Cleveland           	21
+10/08/1967	Philadelphia        	38	Atlanta             	 7
+10/08/1967	Baltimore           	24	Chicago             	 3
+10/08/1967	Green Bay           	27	Detroit             	17
+10/08/1967	San Francisco       	27	LA Rams             	24
+10/08/1967	St Louis            	34	Minnesota           	24
+10/08/1967	New Orleans         	21	NY Giants           	27
+10/08/1967	Dallas              	17	Washington          	14
+10/15/1967	Washington          	20	Atlanta             	20
+10/15/1967	LA Rams             	24	Baltimore           	24
+10/15/1967	Detroit             	 3	Chicago             	14
+10/15/1967	Minnesota           	10	Green Bay           	 7
+10/15/1967	New Orleans         	10	Dallas              	14
+10/15/1967	San Francisco       	28	Philadelphia        	27
+10/15/1967	NY Giants           	27	Pittsburgh          	24
+10/15/1967	St Louis            	16	Cleveland           	20
+10/22/1967	Atlanta             	 3	Detroit             	24
+10/22/1967	Chicago             	 0	Cleveland           	24
+10/22/1967	Washington          	28	LA Rams             	28
+10/22/1967	Baltimore           	20	Minnesota           	20
+10/22/1967	New Orleans         	13	San Francisco       	27
+10/22/1967	Green Bay           	48	NY Giants           	21
+10/22/1967	Philadelphia        	14	St Louis            	48
+10/22/1967	Dallas              	24	Pittsburgh          	21
+10/29/1967	LA Rams             	28	Chicago             	17
+10/29/1967	Cleveland           	34	NY Giants           	38
+10/29/1967	Dallas              	14	Philadelphia        	21
+10/29/1967	Minnesota           	20	Atlanta             	21
+10/29/1967	Pittsburgh          	14	New Orleans         	10
+10/29/1967	Detroit             	45	San Francisco       	 3
+10/29/1967	Baltimore           	17	Washington          	13
+10/30/1967	Green Bay           	31	St Louis            	23
+11/05/1967	Atlanta             	 7	Dallas              	37
+11/05/1967	Chicago             	27	Detroit             	13
+11/05/1967	Green Bay           	10	Baltimore           	13
+11/05/1967	NY Giants           	24	Minnesota           	27
+11/05/1967	Philadelphia        	24	New Orleans         	31
+11/05/1967	Cleveland           	34	Pittsburgh          	14
+11/05/1967	LA Rams             	17	San Francisco       	 7
+11/05/1967	St Louis            	27	Washington          	21
+11/12/1967	Baltimore           	49	Atlanta             	 7
+11/12/1967	Cleveland           	 7	Green Bay           	55
+11/12/1967	Detroit             	10	Minnesota           	10
+11/12/1967	Dallas              	27	New Orleans         	10
+11/12/1967	NY Giants           	 7	Chicago             	34
+11/12/1967	Philadelphia        	17	LA Rams             	33
+11/12/1967	Pittsburgh          	14	St Louis            	14
+11/12/1967	San Francisco       	28	Washington          	31
+11/19/1967	LA Rams             	31	Atlanta             	 3
+11/19/1967	Washington          	27	Dallas              	20
+11/19/1967	Detroit             	 7	Baltimore           	41
+11/19/1967	Minnesota           	10	Cleveland           	14
+11/19/1967	New Orleans         	21	Philadelphia        	48
+11/19/1967	Pittsburgh          	20	NY Giants           	28
+11/19/1967	St Louis            	 3	Chicago             	30
+11/19/1967	San Francisco       	 0	Green Bay           	13
+11/23/1967	LA Rams             	31	Detroit             	 7
+11/23/1967	St Louis            	21	Dallas              	46
+11/26/1967	Atlanta             	24	New Orleans         	27
+11/26/1967	Green Bay           	17	Chicago             	13
+11/26/1967	Philadelphia        	 7	NY Giants           	44
+11/26/1967	Minnesota           	41	Pittsburgh          	27
+11/26/1967	Baltimore           	26	San Francisco       	 9
+11/26/1967	Washington          	37	Cleveland           	42
+12/03/1967	Atlanta             	 3	LA Rams             	20
+12/03/1967	Dallas              	17	Baltimore           	23
+12/03/1967	Pittsburgh          	24	Detroit             	14
+12/03/1967	Green Bay           	30	Minnesota           	27
+12/03/1967	New Orleans         	20	St Louis            	31
+12/03/1967	NY Giants           	14	Cleveland           	24
+12/03/1967	Chicago             	28	San Francisco       	14
+12/03/1967	Philadelphia        	35	Washington          	35
+12/09/1967	Green Bay           	24	LA Rams             	27
+12/10/1967	San Francisco       	34	Atlanta             	28
+12/10/1967	Minnesota           	10	Chicago             	10
+12/10/1967	New Orleans         	10	Baltimore           	30
+12/10/1967	Detroit             	30	NY Giants           	 7
+12/10/1967	Philadelphia        	17	Dallas              	38
+12/10/1967	Washington          	15	Pittsburgh          	10
+12/10/1967	Cleveland           	20	St Louis            	16
+12/16/1967	Dallas              	16	San Francisco       	24
+12/17/1967	Chicago             	23	Atlanta             	14
+12/17/1967	Baltimore           	10	LA Rams             	34
+12/17/1967	Cleveland           	24	Philadelphia        	28
+12/17/1967	Pittsburgh          	24	Green Bay           	17
+12/17/1967	Minnesota           	 3	Detroit             	14
+12/17/1967	St Louis            	14	NY Giants           	37
+12/17/1967	New Orleans         	30	Washington          	14
+12/23/1967	LA Rams             	 7	Green Bay           	28
+12/24/1967	Cleveland           	14	Dallas              	52
+12/31/1967	Dallas              	17	Green Bay           	21

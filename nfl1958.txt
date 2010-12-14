@@ -1,0 +1,74 @@
+09/28/1958	Chicago Cardinals   	 7	NY Giants           	37
+09/28/1958	Detroit             	15	Baltimore           	28
+09/28/1958	Chicago             	34	Green Bay           	20
+09/28/1958	Cleveland           	30	LA Rams             	27
+09/28/1958	Washington          	24	Philadelphia        	14
+09/28/1958	Pittsburgh          	20	San Francisco       	23
+10/04/1958	Chicago             	38	Baltimore           	51
+10/04/1958	Washington          	10	Chicago Cardinals   	37
+10/05/1958	Detroit             	13	Green Bay           	13
+10/05/1958	NY Giants           	24	Philadelphia        	27
+10/05/1958	Cleveland           	45	Pittsburgh          	12
+10/05/1958	LA Rams             	33	San Francisco       	 3
+10/12/1958	Chicago Cardinals   	28	Cleveland           	35
+10/12/1958	LA Rams             	42	Detroit             	28
+10/12/1958	Baltimore           	24	Green Bay           	17
+10/12/1958	Philadelphia        	 3	Pittsburgh          	24
+10/12/1958	San Francisco       	 6	Chicago             	28
+10/12/1958	NY Giants           	21	Washington          	14
+10/19/1958	Baltimore           	40	Detroit             	14
+10/19/1958	Green Bay           	21	Washington          	37
+10/19/1958	LA Rams             	10	Chicago             	31
+10/19/1958	Chicago Cardinals   	23	NY Giants           	 6
+10/19/1958	San Francisco       	30	Philadelphia        	24
+10/19/1958	Pittsburgh          	10	Cleveland           	27
+10/26/1958	Cleveland           	38	Chicago Cardinals   	24
+10/26/1958	Detroit             	41	LA Rams             	24
+10/26/1958	Philadelphia        	35	Green Bay           	38
+10/26/1958	Pittsburgh          	 6	NY Giants           	17
+10/26/1958	Chicago             	27	San Francisco       	14
+10/26/1958	Washington          	10	Baltimore           	35
+11/02/1958	Chicago             	35	LA Rams             	41
+11/02/1958	Philadelphia        	21	Chicago Cardinals   	21
+11/02/1958	NY Giants           	21	Cleveland           	17
+11/02/1958	Detroit             	21	San Francisco       	24
+11/02/1958	Green Bay           	 0	Baltimore           	56
+11/02/1958	Washington          	16	Pittsburgh          	24
+11/09/1958	Baltimore           	21	NY Giants           	24
+11/09/1958	Chicago Cardinals   	31	Washington          	45
+11/09/1958	Detroit             	30	Cleveland           	10
+11/09/1958	Green Bay           	10	Chicago             	24
+11/09/1958	Pittsburgh          	31	Philadelphia        	24
+11/09/1958	San Francisco       	 7	LA Rams             	56
+11/16/1958	Baltimore           	17	Chicago             	 0
+11/16/1958	Chicago Cardinals   	21	Philadelphia        	49
+11/16/1958	LA Rams             	20	Green Bay           	 7
+11/16/1958	NY Giants           	10	Pittsburgh          	31
+11/16/1958	San Francisco       	21	Detroit             	35
+11/16/1958	Cleveland           	20	Washington          	10
+11/23/1958	Pittsburgh          	27	Chicago Cardinals   	20
+11/23/1958	Chicago             	20	Detroit             	 7
+11/23/1958	San Francisco       	33	Green Bay           	12
+11/23/1958	LA Rams             	 7	Baltimore           	34
+11/23/1958	Philadelphia        	14	Cleveland           	28
+11/23/1958	Washington          	 0	NY Giants           	30
+11/27/1958	Green Bay           	14	Detroit             	24
+11/30/1958	Chicago             	10	Pittsburgh          	24
+11/30/1958	LA Rams             	20	Chicago Cardinals   	14
+11/30/1958	Philadelphia        	10	NY Giants           	24
+11/30/1958	San Francisco       	27	Baltimore           	35
+11/30/1958	Washington          	14	Cleveland           	21
+12/06/1958	Baltimore           	28	LA Rams             	30
+12/07/1958	Chicago Cardinals   	14	Chicago             	30
+12/07/1958	NY Giants           	19	Detroit             	17
+12/07/1958	Green Bay           	21	San Francisco       	48
+12/07/1958	Cleveland           	21	Philadelphia        	14
+12/07/1958	Pittsburgh          	14	Washington          	14
+12/13/1958	Chicago Cardinals   	21	Pittsburgh          	38
+12/14/1958	Baltimore           	12	San Francisco       	21
+12/14/1958	Cleveland           	10	NY Giants           	13
+12/14/1958	Detroit             	16	Chicago             	21
+12/14/1958	Green Bay           	20	LA Rams             	34
+12/14/1958	Philadelphia        	 0	Washington          	20
+12/21/1958	Cleveland           	 0	NY Giants           	10
+12/28/1958	Baltimore           	23	NY Giants           	17

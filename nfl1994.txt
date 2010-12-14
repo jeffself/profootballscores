@@ -1,0 +1,236 @@
+09/04/1994	Dallas              	26	Pittsburgh          	 9
+09/04/1994	Philadelphia        	23	NY Giants           	28
+09/04/1994	Tampa Bay           	 9	Chicago             	21
+09/04/1994	Atlanta             	28	Detroit             	31
+09/04/1994	Minnesota           	10	Green Bay           	16
+09/04/1994	Arizona             	12	LA Rams             	14
+09/04/1994	Houston             	21	Indianapolis        	45
+09/04/1994	New England         	35	Miami               	39
+09/04/1994	NY Jets             	23	Buffalo             	 3
+09/04/1994	Cleveland           	28	Cincinnati          	20
+09/04/1994	Kansas City         	30	New Orleans         	17
+09/04/1994	San Diego           	37	Denver              	34
+09/04/1994	Seattle             	28	Washington          	 7
+09/05/1994	LA Raiders          	14	San Francisco       	44
+09/11/1994	Houston             	17	Dallas              	20
+09/11/1994	NY Giants           	20	Arizona             	17
+09/11/1994	Washington          	38	New Orleans         	24
+09/11/1994	Detroit             	 3	Minnesota           	10
+09/11/1994	Indianapolis        	10	Tampa Bay           	24
+09/11/1994	LA Rams             	13	Atlanta             	31
+09/11/1994	Buffalo             	38	New England         	35
+09/11/1994	Miami               	24	Green Bay           	14
+09/11/1994	Denver              	22	NY Jets             	25
+09/11/1994	Pittsburgh          	17	Cleveland           	10
+09/11/1994	San Francisco       	17	Kansas City         	24
+09/11/1994	Cincinnati          	10	San Diego           	27
+09/11/1994	Seattle             	38	LA Raiders          	 9
+09/12/1994	Chicago             	22	Philadelphia        	30
+09/18/1994	Washington          	23	NY Giants           	31
+09/18/1994	Green Bay           	 7	Philadelphia        	13
+09/18/1994	Minnesota           	42	Chicago             	14
+09/18/1994	New Orleans         	 9	Tampa Bay           	 7
+09/18/1994	San Francisco       	34	LA Rams             	19
+09/18/1994	Buffalo             	15	Houston             	 7
+09/18/1994	NY Jets             	14	Miami               	28
+09/18/1994	New England         	31	Cincinnati          	28
+09/18/1994	Arizona             	 0	Cleveland           	32
+09/18/1994	Indianapolis        	21	Pittsburgh          	31
+09/18/1994	Kansas City         	30	Atlanta             	10
+09/18/1994	LA Raiders          	48	Denver              	16
+09/18/1994	San Diego           	24	Seattle             	10
+09/19/1994	Detroit             	20	Dallas              	17
+09/25/1994	Chicago             	19	NY Jets             	 7
+09/25/1994	Tampa Bay           	 3	Green Bay           	30
+09/25/1994	Miami               	35	Minnesota           	38
+09/25/1994	Atlanta             	27	Washington          	20
+09/25/1994	LA Rams             	16	Kansas City         	 0
+09/25/1994	New Orleans         	13	San Francisco       	24
+09/25/1994	New England         	23	Detroit             	17
+09/25/1994	Cleveland           	21	Indianapolis        	14
+09/25/1994	Cincinnati          	13	Houston             	20
+09/25/1994	San Diego           	26	LA Raiders          	24
+09/25/1994	Pittsburgh          	13	Seattle             	30
+09/26/1994	Denver              	20	Buffalo             	27
+10/02/1994	Minnesota           	 7	Arizona             	17
+10/02/1994	Dallas              	34	Washington          	 7
+10/02/1994	Philadelphia        	40	San Francisco       	 8
+10/02/1994	Buffalo             	13	Chicago             	20
+10/02/1994	Detroit             	14	Tampa Bay           	24
+10/02/1994	Atlanta             	 8	LA Rams             	 5
+10/02/1994	NY Giants           	22	New Orleans         	27
+10/02/1994	Seattle             	15	Indianapolis        	17
+10/02/1994	Miami               	23	Cincinnati          	 7
+10/02/1994	Green Bay           	16	New England         	17
+10/02/1994	NY Jets             	 7	Cleveland           	27
+10/03/1994	Houston             	14	Pittsburgh          	30
+10/09/1994	Arizona             	 3	Dallas              	38
+10/09/1994	Washington          	17	Philadelphia        	21
+10/09/1994	New Orleans         	 7	Chicago             	17
+10/09/1994	LA Rams             	17	Green Bay           	24
+10/09/1994	Tampa Bay           	13	Atlanta             	34
+10/09/1994	San Francisco       	27	Detroit             	21
+10/09/1994	Miami               	11	Buffalo             	21
+10/09/1994	Indianapolis        	 6	NY Jets             	16
+10/09/1994	Denver              	16	Seattle             	 9
+10/09/1994	LA Raiders          	21	New England         	17
+10/09/1994	Kansas City         	 6	San Diego           	20
+10/10/1994	Minnesota           	27	NY Giants           	10
+10/13/1994	Cleveland           	11	Houston             	 8
+10/16/1994	Arizona             	19	Washington          	16
+10/16/1994	Philadelphia        	13	Dallas              	24
+10/16/1994	NY Giants           	10	LA Rams             	17
+10/16/1994	San Francisco       	42	Atlanta             	 3
+10/16/1994	Indianapolis        	27	Buffalo             	17
+10/16/1994	LA Raiders          	17	Miami               	20
+10/16/1994	New England         	17	NY Jets             	24
+10/16/1994	Cincinnati          	10	Pittsburgh          	14
+10/16/1994	San Diego           	36	New Orleans         	22
+10/17/1994	Kansas City         	31	Denver              	28
+10/20/1994	Green Bay           	10	Minnesota           	13
+10/23/1994	Dallas              	28	Arizona             	21
+10/23/1994	Washington          	41	Indianapolis        	27
+10/23/1994	Chicago             	16	Detroit             	21
+10/23/1994	LA Rams             	34	New Orleans         	37
+10/23/1994	Tampa Bay           	16	San Francisco       	41
+10/23/1994	Cincinnati          	13	Cleveland           	37
+10/23/1994	Pittsburgh          	10	NY Giants           	 6
+10/23/1994	Denver              	20	San Diego           	15
+10/23/1994	Seattle             	23	Kansas City         	38
+10/23/1994	Atlanta             	17	LA Raiders          	30
+10/24/1994	Houston             	 6	Philadelphia        	21
+10/30/1994	Pittsburgh          	17	Arizona             	20
+10/30/1994	Dallas              	23	Cincinnati          	20
+10/30/1994	Philadelphia        	31	Washington          	29
+10/30/1994	Detroit             	28	NY Giants           	25
+10/30/1994	Minnesota           	36	Tampa Bay           	13
+10/30/1994	Kansas City         	10	Buffalo             	44
+10/30/1994	NY Jets             	25	Indianapolis        	28
+10/30/1994	Miami               	23	New England         	 3
+10/30/1994	Cleveland           	14	Denver              	26
+10/30/1994	Houston             	14	LA Raiders          	17
+10/30/1994	Seattle             	15	San Diego           	35
+10/31/1994	Green Bay           	33	Chicago             	 6
+11/06/1994	Arizona             	 7	Philadelphia        	17
+11/06/1994	Chicago             	20	Tampa Bay           	 6
+11/06/1994	Detroit             	30	Green Bay           	38
+11/06/1994	New Orleans         	20	Minnesota           	21
+11/06/1994	San Diego           	 9	Atlanta             	10
+11/06/1994	Denver              	21	LA Rams             	27
+11/06/1994	San Francisco       	37	Washington          	22
+11/06/1994	Indianapolis        	21	Miami               	22
+11/06/1994	Buffalo             	17	NY Jets             	22
+11/06/1994	Cincinnati          	20	Seattle             	17
+11/06/1994	New England         	 6	Cleveland           	13
+11/06/1994	Pittsburgh          	12	Houston             	 9
+11/06/1994	LA Raiders          	 3	Kansas City         	13
+11/07/1994	NY Giants           	10	Dallas              	38
+11/13/1994	Arizona             	10	NY Giants           	 9
+11/13/1994	Chicago             	17	Miami               	14
+11/13/1994	Tampa Bay           	 9	Detroit             	14
+11/13/1994	NY Jets             	10	Green Bay           	17
+11/13/1994	Atlanta             	32	New Orleans         	33
+11/13/1994	Dallas              	14	San Francisco       	21
+11/13/1994	Minnesota           	20	New England         	26
+11/13/1994	Houston             	31	Cincinnati          	34
+11/13/1994	Cleveland           	26	Philadelphia        	 7
+11/13/1994	Seattle             	10	Denver              	17
+11/13/1994	LA Raiders          	20	LA Rams             	17
+11/13/1994	San Diego           	14	Kansas City         	13
+11/14/1994	Buffalo             	10	Pittsburgh          	23
+11/20/1994	Philadelphia        	 6	Arizona             	12
+11/20/1994	Washington          	 7	Dallas              	31
+11/20/1994	Detroit             	10	Chicago             	20
+11/20/1994	LA Rams             	27	San Francisco       	31
+11/20/1994	Green Bay           	20	Buffalo             	29
+11/20/1994	Indianapolis        	17	Cincinnati          	13
+11/20/1994	San Diego           	17	New England         	23
+11/20/1994	NY Jets             	31	Minnesota           	21
+11/20/1994	Miami               	13	Pittsburgh          	16
+11/20/1994	Atlanta             	28	Denver              	32
+11/20/1994	Cleveland           	13	Kansas City         	20
+11/20/1994	New Orleans         	19	LA Raiders          	24
+11/20/1994	Tampa Bay           	21	Seattle             	22
+11/21/1994	NY Giants           	13	Houston             	10
+11/24/1994	Green Bay           	31	Dallas              	42
+11/24/1994	Buffalo             	21	Detroit             	35
+11/27/1994	NY Giants           	21	Washington          	19
+11/27/1994	Chicago             	19	Arizona             	16
+11/27/1994	Tampa Bay           	20	Minnesota           	17
+11/27/1994	Philadelphia        	21	Atlanta             	28
+11/27/1994	Miami               	28	NY Jets             	24
+11/27/1994	New England         	12	Indianapolis        	10
+11/27/1994	Houston             	10	Cleveland           	34
+11/27/1994	Pittsburgh          	21	LA Raiders          	 3
+11/27/1994	Cincinnati          	13	Denver              	15
+11/27/1994	LA Rams             	17	San Diego           	31
+11/27/1994	Kansas City         	 9	Seattle             	10
+11/28/1994	San Francisco       	35	New Orleans         	14
+12/01/1994	Chicago             	27	Minnesota           	33
+12/04/1994	Arizona             	30	Houston             	12
+12/04/1994	Dallas              	31	Philadelphia        	19
+12/04/1994	NY Giants           	16	Cleveland           	13
+12/04/1994	Green Bay           	31	Detroit             	34
+12/04/1994	Washington          	21	Tampa Bay           	26
+12/04/1994	New Orleans         	31	LA Rams             	15
+12/04/1994	Atlanta             	14	San Francisco       	50
+12/04/1994	Buffalo             	42	Miami               	31
+12/04/1994	Indianapolis        	31	Seattle             	19
+12/04/1994	NY Jets             	13	New England         	24
+12/04/1994	Pittsburgh          	38	Cincinnati          	15
+12/04/1994	Denver              	20	Kansas City         	17
+12/05/1994	LA Raiders          	24	San Diego           	17
+12/10/1994	Detroit             	18	NY Jets             	 7
+12/10/1994	Cleveland           	19	Dallas              	14
+12/11/1994	Washington          	15	Arizona             	17
+12/11/1994	Cincinnati          	20	NY Giants           	27
+12/11/1994	Chicago             	 3	Green Bay           	40
+12/11/1994	Minnesota           	21	Buffalo             	17
+12/11/1994	LA Rams             	14	Tampa Bay           	24
+12/11/1994	New Orleans         	29	Atlanta             	20
+12/11/1994	San Francisco       	38	San Diego           	15
+12/11/1994	Indianapolis        	13	New England         	28
+12/11/1994	Philadelphia        	 3	Pittsburgh          	14
+12/11/1994	Denver              	13	LA Raiders          	23
+12/11/1994	Seattle             	16	Houston             	14
+12/12/1994	Kansas City         	28	Miami               	45
+12/17/1994	Minnesota           	19	Detroit             	41
+12/17/1994	Denver              	19	San Francisco       	42
+12/18/1994	Cincinnati          	 7	Arizona             	28
+12/18/1994	NY Giants           	16	Philadelphia        	13
+12/18/1994	LA Rams             	13	Chicago             	27
+12/18/1994	Atlanta             	17	Green Bay           	21
+12/18/1994	Tampa Bay           	17	Washington          	14
+12/18/1994	Miami               	 6	Indianapolis        	10
+12/18/1994	New England         	41	Buffalo             	17
+12/18/1994	Cleveland           	 7	Pittsburgh          	17
+12/18/1994	Houston             	 9	Kansas City         	31
+12/18/1994	LA Raiders          	17	Seattle             	16
+12/18/1994	San Diego           	21	NY Jets             	 6
+12/19/1994	Dallas              	24	New Orleans         	16
+12/24/1994	Dallas              	10	NY Giants           	15
+12/24/1994	Washington          	24	LA Rams             	21
+12/24/1994	Green Bay           	34	Tampa Bay           	19
+12/24/1994	Arizona             	 6	Atlanta             	10
+12/24/1994	New Orleans         	30	Denver              	28
+12/24/1994	Buffalo             	 9	Indianapolis        	10
+12/24/1994	New England         	13	Chicago             	 3
+12/24/1994	Philadelphia        	30	Cincinnati          	33
+12/24/1994	Seattle             	 9	Cleveland           	35
+12/24/1994	NY Jets             	10	Houston             	24
+12/24/1994	Kansas City         	19	LA Raiders          	 9
+12/24/1994	Pittsburgh          	34	San Diego           	37
+12/25/1994	Detroit             	20	Miami               	27
+12/26/1994	San Francisco       	14	Minnesota           	21
+12/31/1994	Detroit             	12	Green Bay           	16
+12/31/1994	Kansas City         	17	Miami               	27
+01/01/1995	Chicago             	35	Minnesota           	18
+01/01/1995	New England         	13	Cleveland           	20
+01/07/1995	Chicago             	15	San Francisco       	44
+01/07/1995	Cleveland           	 9	Pittsburgh          	29
+01/08/1995	Green Bay           	 9	Dallas              	35
+01/08/1995	Miami               	21	San Diego           	22
+01/15/1995	Dallas              	28	San Francisco       	38
+01/15/1995	San Diego           	17	Pittsburgh          	13
+01/29/1995	San Francisco       	49	San Diego           	26	0
+

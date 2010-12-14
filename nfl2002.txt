@@ -1,0 +1,267 @@
+09/05/2002  San Francisco       16  New York Giants     13
+09/08/2002  Philadelphia        24  Tennessee           27
+09/08/2002  Atlanta             34  Green Bay           37
+09/08/2002    New York Jets   37  Buffalo         31
+09/08/2002    St. Louis       16  Denver          23  1
+09/08/2002    Kansas City     40  Cleveland       39  1
+09/08/2002    Detroit         21  Miami           49  1
+09/08/2002    San Diego       34  Cincinnati       6  1
+09/08/2002    Minnesota       23  Chicago         27  1
+09/08/2002    Arizona         23  Washington      31  1
+09/08/2002    Indianapolis    28  Jacksonville    25  1
+09/08/2002    Baltimore        7  Carolina        10  1
+09/08/2002    Seattle         17  Oakland         31  1
+09/08/2002    New Orleans     26  Tampa Bay       20  1
+09/08/2002    Dallas          10  Houston         19  1
+09/09/2002    Pittsburgh      14  New England     30  1
+09/15/2002    Tampa Bay       25  Baltimore        0  1
+09/15/2002    Chicago         14  Atlanta         13  1
+09/15/2002    Tennessee       13  Dallas          21  1
+09/15/2002    Green Bay       20  New Orleans     35  1
+09/15/2002    Jacksonville    23  Kansas City     16  1
+09/15/2002    Miami           21  Indianapolis    13  1
+09/15/2002    New England     44  New York Jets    7  1
+09/15/2002    Cincinnati       7  Cleveland       20  1
+09/15/2002    Detroit          7  Carolina        31  1
+09/15/2002    Oakland         30  Pittsburgh      17  1
+09/15/2002    Denver          24  San Francisco   14  1
+09/15/2002    Arizona         24  Seattle         13  1
+09/15/2002    Buffalo         45  Minnesota       39  1
+09/15/2002    New York Giants 26  St. Louis       21  1
+09/15/2002    Houston          3  San Diego       24  1
+09/16/2002    Philadelphia    37  Washington       7  1
+09/22/2002    Carolina        21  Minnesota       14  1
+09/22/2002    New Orleans     29  Chicago         23  1
+09/22/2002    Indianapolis    23  Houston          3  1
+09/22/2002    New York Jets    3  Miami           30  1
+09/22/2002    Kansas City     38  New England     41  1
+09/22/2002    Dallas          13  Philadelphia    44  1
+09/22/2002    Cleveland       31  Tennessee       28  1
+09/22/2002    San Diego       23  Arizona         15  1
+09/22/2002    Buffalo         23  Denver          28  1
+09/22/2002    Seattle          6  New York Giants  9  1
+09/22/2002    Green Bay       37  Detroit         31  1
+09/22/2002    Washington      10  San Francisco   20  1
+09/22/2002    Cincinnati       3  Atlanta         30  1
+09/23/2002    St. Louis       14  Tampa Bay       26  1
+09/29/2002    Dallas          13  St. Louis       10  1
+09/29/2002    Houston         17  Philadelphia    35  1
+09/29/2002    New York Jets    3  Jacksonville    28  1
+09/29/2002    Carolina        14  Green Bay       17  1
+09/29/2002    New Orleans     21  Detroit         26  1
+09/29/2002    Cleveland       13  Pittsburgh      16  1
+09/29/2002    Chicago         27  Buffalo         33  1
+09/29/2002    Miami           30  Kansas City     48  1
+09/29/2002    Tampa Bay       35  Cincinnati       7  1
+09/29/2002    New York Giants  7  Arizona         21  1
+09/29/2002    Tennessee       25  Oakland         52  1
+09/29/2002    New England     14  San Diego       21  1
+09/29/2002    Minnesota       23  Seattle         48  1
+09/30/2002    Denver          23  Baltimore       34  1
+10/06/2002    Cincinnati      21  Indianapolis    28  1
+10/06/2002    New York Giants 21  Dallas          17  1
+10/06/2002    Arizona         16  Carolina        13  1
+10/06/2002    Oakland         49  Buffalo         31  1
+10/06/2002    Tampa Bay       20  Atlanta          6  1
+10/06/2002    Washington      31  Tennessee       14  1
+10/06/2002    Pittsburgh      29  New Orleans     32  1
+10/06/2002    New England     13  Miami           26  1
+10/06/2002    Kansas City     29  New York Jets   25  1
+10/06/2002    San Diego        9  Denver          26  1
+10/06/2002    St. Louis       13  San Francisco   37  1
+10/06/2002    Philadelphia    25  Jacksonville    28  1
+10/06/2002    Baltimore       26  Cleveland       21  1
+10/07/2002    Green Bay       34  Chicago         21  1
+10/13/2002    Green Bay       28  New England     10  1
+10/13/2002    Atlanta         17  New York Giants 10  1
+10/13/2002    Cleveland        3  Tampa Bay       17  1
+10/13/2002    New Orleans     43  Washington      27  1
+10/13/2002    Detroit         24  Minnesota       31  1
+10/13/2002    Pittsburgh      34  Cincinnati       7  1
+10/13/2002    Buffalo         31  Houston         24  1
+10/13/2002    Carolina        13  Dallas          14  1
+10/13/2002    Baltimore       20  Indianapolis    22  1
+10/13/2002    Kansas City     34  San Diego       35  1
+10/13/2002    Oakland         13  St. Louis       28  1
+10/13/2002    Jacksonville    14  Tennessee       23  1
+10/13/2002    Miami           24  Denver          22  1
+10/14/2002    San Francisco   28  Seattle         21  1
+10/20/2002    Washington       9  Green Bay       30  1
+10/20/2002    Seattle         20  St. Louis       37  1
+10/20/2002    Minnesota        7  New York Jets   20  1
+10/20/2002    San Francisco   27  New Orleans     35  1
+10/20/2002    Buffalo         23  Miami           10  1
+10/20/2002    Denver          37  Kansas City     34  1
+10/20/2002    Chicago         20  Detroit         23  1
+10/20/2002    Jacksonville    10  Baltimore       17  1
+10/20/2002    Carolina         0  Atlanta         30  1
+10/20/2002    Houston         17  Cleveland       34  1
+10/20/2002    San Diego       27  Oakland         21  1
+10/20/2002    Tampa Bay       10  Philadelphia    20  1
+10/20/2002    Dallas           6  Arizona          9  1
+10/21/2002    Indianapolis    10  Pittsburgh      28  1
+10/27/2002    Cleveland       24  New York Jets   21  1
+10/27/2002    Oakland         10  Kansas City     20  1
+10/27/2002    Tampa Bay       12  Carolina         9  1
+10/27/2002    Arizona         28  San Francisco   38  1
+10/27/2002    Atlanta         37  New Orleans     35  1
+10/27/2002    Seattle         17  Dallas          14  1
+10/27/2002    Detroit         17  Buffalo         24  1
+10/27/2002    Denver          24  New England     16  1
+10/27/2002    Chicago          7  Minnesota       25  1
+10/27/2002    Tennessee       30  Cincinnati      24  1
+10/27/2002    Pittsburgh      31  Baltimore       18  1
+10/27/2002    Houston         21  Jacksonville    19  1
+10/27/2002    Indianapolis    21  Washington      26  1
+10/28/2002    New York Giants  3  Philadelphia    17  1
+11/03/2002    Cincinnati      38  Houston          3  1
+11/03/2002    Pittsburgh      23  Cleveland       20  1
+11/03/2002    Minnesota       24  Tampa Bay       38  1
+11/03/2002    Tennessee       23  Indianapolis    15  1
+11/03/2002    Dallas           7  Detroit          9  1
+11/03/2002    New England     38  Buffalo          7  1
+11/03/2002    Baltimore       17  Atlanta         20  1
+11/03/2002    Philadelphia    19  Chicago         13  1
+11/03/2002    New York Jets   44  San Diego       13  1
+11/03/2002    Washington      14  Seattle          3  1
+11/03/2002    San Francisco   23  Oakland         20  1
+11/03/2002    St. Louis       27  Arizona         14  1
+11/03/2002    Jacksonville    17  New York Giants 24  1
+11/04/2002    Miami           10  Green Bay       24  1
+11/10/2002    San Diego       24  St. Louis       28  1
+11/10/2002    New York Giants 27  Minnesota       20  1
+11/10/2002    Cincinnati      27  Baltimore       38  1
+11/10/2002    Atlanta         34  Pittsburgh      34  1
+11/10/2002    Detroit         14  Green Bay       40  1
+11/10/2002    Houston         10  Tennessee       17  1
+11/10/2002    Indianapolis    35  Philadelphia    13  1
+11/10/2002    New Orleans     34  Carolina        24  1
+11/10/2002    Kansas City     13  San Francisco   17  1
+11/10/2002    Washington       7  Jacksonville    26  1
+11/10/2002    Seattle         27  Arizona          6  1
+11/10/2002    Miami           10  New York Jets   13  1
+11/10/2002    New England     33  Chicago         30  1
+11/11/2002    Oakland         34  Denver          10  1
+11/17/2002    Jacksonville    24  Houston         21  1
+11/17/2002    Washington      17  New York Giants 19  1
+11/17/2002    Dallas           3  Indianapolis    20  1
+11/17/2002    Carolina        10  Tampa Bay       23  1
+11/17/2002    Pittsburgh      23  Tennessee       31  1
+11/17/2002    Green Bay       21  Minnesota       31  1
+11/17/2002    Cleveland       27  Cincinnati      20  1
+11/17/2002    San Francisco   17  San Diego       20  1
+11/17/2002    Arizona         14  Philadelphia    38  1
+11/17/2002    Buffalo         16  Kansas City     17  1
+11/17/2002    New Orleans     17  Atlanta         24  1
+11/17/2002    Denver          31  Seattle          9  1
+11/17/2002    New York Jets   31  Detroit         14  1
+11/17/2002    Baltimore        7  Miami           26  1
+11/17/2002    New England     20  Oakland         27  1
+11/18/2002    Chicago         16  St. Louis       21  1
+11/24/2002    Buffalo         13  New York Jets   31  1
+11/24/2002    San Diego        3  Miami           30  1
+11/24/2002    St. Louis       17  Washington      20  1
+11/24/2002    Cleveland       24  New Orleans     15  1
+11/24/2002    Jacksonville    19  Dallas          21  1
+11/24/2002    Cincinnati      21  Pittsburgh      29  1
+11/24/2002    Minnesota       17  New England     24  1
+11/24/2002    Atlanta         41  Carolina         0  1
+11/24/2002    Tennessee       12  Baltimore       13  1
+11/24/2002    Detroit         17  Chicago         20  1
+11/24/2002    Kansas City     32  Seattle         39  1
+11/24/2002    Oakland         41  Arizona         20  1
+11/24/2002    New York Giants 14  Houston         16  1
+11/24/2002    Green Bay        7  Tampa Bay       21  1
+11/24/2002    Indianapolis    23  Denver          20  1
+11/25/2002    Philadelphia    38  San Francisco   17  1
+11/28/2002    New England     20  Detroit         12  1
+11/28/2002    Washington      20  Dallas          27  1
+12/01/2002    Carolina        13  Cleveland        6  1
+12/01/2002    Chicago         20  Green Bay       30  1
+12/01/2002    Arizona          0  Kansas City     49  1
+12/01/2002    Baltimore       27  Cincinnati      23  1
+12/01/2002    Pittsburgh      25  Jacksonville    23  1
+12/01/2002    Miami           21  Buffalo         38  1
+12/01/2002    Atlanta         30  Minnesota       24  1
+12/01/2002    Tennessee       32  New York Giants 29  1
+12/01/2002    Denver          27  San Diego       30  1
+12/01/2002    Seattle         24  San Francisco   31  1
+12/01/2002    Houston          3  Indianapolis    19  1
+12/01/2002    St. Louis        3  Philadelphia    10  1
+12/01/2002    Tampa Bay       20  New Orleans     23  1
+12/02/2002    New York Jets   20  Oakland         26  1
+12/08/2002    Atlanta         10  Tampa Bay       34  1
+12/08/2002    St. Louis       10  Kansas City     49  1
+12/08/2002    Cincinnati      31  Carolina        52  1
+12/08/2002    Detroit         20  Arizona         23  1
+12/08/2002    New York Giants 27  Washington      21  1
+12/08/2002    Houston         24  Pittsburgh       6  1
+12/08/2002    Cleveland       21  Jacksonville    20  1
+12/08/2002    Philadelphia    27  Seattle         20  1
+12/08/2002    Oakland         27  San Diego        7  1
+12/08/2002    Indianapolis    17  Tennessee       27  1
+12/08/2002    Buffalo         17  New England     27  1
+12/08/2002    San Francisco   31  Dallas          27  1
+12/08/2002    New Orleans     37  Baltimore       25  1
+12/08/2002    Denver          13  New York Jets   19  1
+12/08/2002    Minnesota       22  Green Bay       26  1
+12/08/2002    Chicago          9  Miami           27  1
+12/15/2002    Baltimore       23  Houston         19  1
+12/15/2002    Green Bay       20  San Francisco   14  1
+12/15/2002    Indianapolis    28  Cleveland       23  1
+12/15/2002    Carolina        14  Pittsburgh      30  1
+12/15/2002    Washington      21  Philadelphia    34  1
+12/15/2002    Minnesota       32  New Orleans     31  1
+12/15/2002    Oakland         17  Miami           23  1
+12/15/2002    Tampa Bay       23  Detroit         20  1
+12/15/2002    Jacksonville    29  Cincinnati      15  1
+12/15/2002    San Diego       13  Buffalo         20  1
+12/15/2002    Seattle         30  Atlanta         24  1
+12/15/2002    New York Jets   13  Chicago         20  1
+12/15/2002    Kansas City     24  Denver          31  1
+12/15/2002    Dallas           7  New York Giants 37  1
+12/15/2002    Arizona         28  St. Louis       30  1
+12/16/2002    New England      7  Tennessee       24  1
+12/21/2002    Miami           17  Minnesota       20  1
+12/21/2002    San Francisco   17  Arizona         14  1
+12/21/2002    Philadelphia    27  Dallas           3  1
+12/22/2002    Houston         10  Washington      26  1
+12/22/2002    New York Giants 44  Indianapolis    27  1
+12/22/2002    San Diego       22  Kansas City     24  1
+12/22/2002    Buffalo          0  Green Bay       10  1
+12/22/2002    Tennessee       28  Jacksonville    10  1
+12/22/2002    New Orleans     13  Cincinnati      20  1
+12/22/2002    Chicago         14  Carolina        24  1
+12/22/2002    Detroit         15  Atlanta         36  1
+12/22/2002    Cleveland       14  Baltimore       13  1
+12/22/2002    Denver          16  Oakland         28  1
+12/22/2002    St. Louis       10  Seattle         30  1
+12/22/2002    New York Jets   30  New England     17  1
+12/23/2002    Pittsburgh      17  Tampa Bay        7  1
+12/28/2002    Philadelphia     7  New York Giants 10  1
+12/28/2002    Kansas City      0  Oakland         24  1
+12/29/2002    Dallas          14  Washington      20  1
+12/29/2002    Tennessee       13  Houston          3  1
+12/29/2002    Baltimore       31  Pittsburgh      34  1
+12/29/2002    Atlanta         16  Cleveland       24  1
+12/29/2002    Carolina        10  New Orleans      6  1
+12/29/2002    Miami           24  New England     27  1
+12/29/2002    Minnesota       38  Detroit         36  1
+12/29/2002    Cincinnati       9  Buffalo         27  1
+12/29/2002    Green Bay       17  New York Jets   42  1
+12/29/2002    Arizona          7  Denver          37  1
+12/29/2002    Jacksonville    13  Indianapolis    20  1
+12/29/2002    Seattle         31  San Diego       28  1
+12/29/2002    Tampa Bay       15  Chicago          0  1
+12/30/2002    St. Louis       31  San Francisco   20  1
+01/04/2003    Indianapolis     0  New York Jets   41  1
+01/04/2003    Atlanta         27  Green Bay        7  1
+01/05/2003    Cleveland       33  Pittsburgh      36  1
+01/05/2003    New York Giants 38  San Francisco   39  1
+01/11/2003    Pittsburgh      31  Tennessee       34  1
+01/11/2003    Atlanta          6  Philadelphia    20  1
+01/12/2003    San Francisco    6  Tampa Bay       31  1
+01/12/2003    New York Jets   10  Oakland         30  1
+01/19/2003    Tampa Bay       27  Philadelphia    10  1
+01/19/2003    Tennessee       24  Oakland         41  1
+01/26/2003    Oakland         21  Tampa Bay       48  0

@@ -1,0 +1,233 @@
+09/06/1981	New Orleans         	 0	Atlanta             	27
+09/06/1981	Baltimore           	29	New England         	28
+09/06/1981	NY Jets             	 0	Buffalo             	31
+09/06/1981	Seattle             	21	Cincinnati          	27
+09/06/1981	Dallas              	26	Washington          	10
+09/06/1981	Oakland             	 7	Denver              	 9
+09/06/1981	San Francisco       	17	Detroit             	24
+09/06/1981	Green Bay           	16	Chicago             	 9
+09/06/1981	Houston             	27	LA Rams             	20
+09/06/1981	Kansas City         	37	Pittsburgh          	33
+09/06/1981	Miami               	20	St Louis            	 7
+09/06/1981	Philadelphia        	24	NY Giants           	10
+09/06/1981	Minnesota           	13	Tampa Bay           	21
+09/07/1981	San Diego           	44	Cleveland           	14
+09/10/1981	Pittsburgh          	10	Miami               	30
+09/13/1981	Atlanta             	31	Green Bay           	17
+09/13/1981	Buffalo             	35	Baltimore           	 3
+09/13/1981	Cincinnati          	31	NY Jets             	30
+09/13/1981	St Louis            	17	Dallas              	30
+09/13/1981	Houston             	 9	Cleveland           	 3
+09/13/1981	Tampa Bay           	10	Kansas City         	19
+09/13/1981	LA Rams             	17	New Orleans         	23
+09/13/1981	NY Giants           	17	Washington          	 7
+09/13/1981	New England         	 3	Philadelphia        	13
+09/13/1981	Detroit             	23	San Diego           	28
+09/13/1981	Chicago             	17	San Francisco       	28
+09/13/1981	Denver              	10	Seattle             	13
+09/14/1981	Oakland             	36	Minnesota           	10
+09/17/1981	Philadelphia        	20	Buffalo             	14
+09/20/1981	San Francisco       	17	Atlanta             	34
+09/20/1981	Tampa Bay           	17	Chicago             	28
+09/20/1981	Cleveland           	20	Cincinnati          	17
+09/20/1981	Baltimore           	10	Denver              	28
+09/20/1981	Green Bay           	23	LA Rams             	35
+09/20/1981	Miami               	16	Houston             	10
+09/20/1981	Detroit             	24	Minnesota           	26
+09/20/1981	New Orleans         	 7	NY Giants           	20
+09/20/1981	Seattle             	10	Oakland             	20
+09/20/1981	NY Jets             	10	Pittsburgh          	38
+09/20/1981	San Diego           	42	Kansas City         	31
+09/20/1981	Washington          	30	St Louis            	40
+09/21/1981	Dallas              	35	New England         	21
+09/27/1981	Buffalo             	24	Cincinnati          	27
+09/27/1981	Atlanta             	17	Cleveland           	28
+09/27/1981	NY Giants           	10	Dallas              	18
+09/27/1981	San Diego           	24	Denver              	42
+09/27/1981	Oakland             	 0	Detroit             	16
+09/27/1981	Kansas City         	20	Seattle             	14
+09/27/1981	Miami               	31	Baltimore           	28
+09/27/1981	Minnesota           	30	Green Bay           	13
+09/27/1981	Houston             	17	NY Jets             	33
+09/27/1981	Washington          	13	Philadelphia        	36
+09/27/1981	New England         	21	Pittsburgh          	27
+09/27/1981	New Orleans         	14	San Francisco       	21
+09/27/1981	St Louis            	10	Tampa Bay           	20
+09/28/1981	LA Rams             	24	Chicago             	 7
+10/04/1981	Baltimore           	17	Buffalo             	23
+10/04/1981	Denver              	17	Oakland             	 0
+10/04/1981	Green Bay           	27	NY Giants           	14
+10/04/1981	Cincinnati          	10	Houston             	17
+10/04/1981	Cleveland           	16	LA Rams             	27
+10/04/1981	Chicago             	21	Minnesota           	24
+10/04/1981	Kansas City         	17	New England         	33
+10/04/1981	NY Jets             	28	Miami               	28
+10/04/1981	Pittsburgh          	20	New Orleans         	 6
+10/04/1981	Seattle             	10	San Diego           	24
+10/04/1981	San Francisco       	30	Washington          	17
+10/04/1981	Dallas              	17	St Louis            	20
+10/04/1981	Detroit             	10	Tampa Bay           	28
+10/05/1981	Atlanta             	13	Philadelphia        	16
+10/11/1981	Cincinnati          	41	Baltimore           	19
+10/11/1981	Detroit             	21	Denver              	27
+10/11/1981	Seattle             	17	Houston             	35
+10/11/1981	Oakland             	 0	Kansas City         	27
+10/11/1981	LA Rams             	37	Atlanta             	35
+10/11/1981	Minnesota           	33	San Diego           	31
+10/11/1981	St Louis            	14	NY Giants           	34
+10/11/1981	New England         	24	NY Jets             	28
+10/11/1981	Philadelphia        	31	New Orleans         	14
+10/11/1981	Cleveland           	 7	Pittsburgh          	13
+10/11/1981	Dallas              	14	San Francisco       	45
+10/11/1981	Tampa Bay           	21	Green Bay           	10
+10/11/1981	Washington          	24	Chicago             	 7
+10/12/1981	Miami               	21	Buffalo             	31
+10/18/1981	St Louis            	20	Atlanta             	41
+10/18/1981	Pittsburgh          	 7	Cincinnati          	34
+10/18/1981	New Orleans         	17	Cleveland           	20
+10/18/1981	LA Rams             	17	Dallas              	29
+10/18/1981	Denver              	14	Kansas City         	28
+10/18/1981	Washington          	10	Miami               	13
+10/18/1981	Philadelphia        	23	Minnesota           	35
+10/18/1981	Houston             	10	New England         	38
+10/18/1981	NY Giants           	32	Seattle             	 0
+10/18/1981	Buffalo             	14	NY Jets             	33
+10/18/1981	Tampa Bay           	16	Oakland             	18
+10/18/1981	San Diego           	43	Baltimore           	14
+10/18/1981	San Francisco       	13	Green Bay           	 3
+10/19/1981	Chicago             	17	Detroit             	48
+10/25/1981	Denver              	 7	Buffalo             	 9
+10/25/1981	San Diego           	17	Chicago             	20
+10/25/1981	Baltimore           	28	Cleveland           	42
+10/25/1981	Miami               	27	Dallas              	28
+10/25/1981	Green Bay           	27	Detroit             	31
+10/25/1981	Kansas City         	28	Oakland             	17
+10/25/1981	Cincinnati          	 7	New Orleans         	17
+10/25/1981	NY Giants           	27	Atlanta             	24
+10/25/1981	Tampa Bay           	10	Philadelphia        	20
+10/25/1981	LA Rams             	17	San Francisco       	20
+10/25/1981	Seattle             	19	NY Jets             	 3
+10/25/1981	Minnesota           	17	St Louis            	30
+10/25/1981	New England         	22	Washington          	24
+10/26/1981	Houston             	13	Pittsburgh          	26
+11/01/1981	Atlanta             	41	New Orleans         	10
+11/01/1981	Cleveland           	13	Buffalo             	22
+11/01/1981	Houston             	21	Cincinnati          	34
+11/01/1981	Dallas              	17	Philadelphia        	14
+11/01/1981	Seattle             	24	Green Bay           	34
+11/01/1981	Detroit             	13	LA Rams             	20
+11/01/1981	Baltimore           	10	Miami               	27
+11/01/1981	NY Jets             	26	NY Giants           	 7
+11/01/1981	New England         	17	Oakland             	27
+11/01/1981	Kansas City         	20	San Diego           	22
+11/01/1981	San Francisco       	17	Pittsburgh          	14
+11/01/1981	Chicago             	10	Tampa Bay           	20
+11/01/1981	St Louis            	21	Washington          	42
+11/02/1981	Minnesota           	17	Denver              	19
+11/08/1981	Chicago             	16	Kansas City         	13
+11/08/1981	Cincinnati          	40	San Diego           	17
+11/08/1981	Cleveland           	20	Denver              	23
+11/08/1981	NY Giants           	24	Green Bay           	26
+11/08/1981	Oakland             	16	Houston             	17
+11/08/1981	Miami               	30	New England         	27
+11/08/1981	Tampa Bay           	10	Minnesota           	25
+11/08/1981	New Orleans         	21	LA Rams             	13
+11/08/1981	NY Jets             	41	Baltimore           	14
+11/08/1981	Philadelphia        	52	St Louis            	10
+11/08/1981	Atlanta             	14	San Francisco       	17
+11/08/1981	Pittsburgh          	21	Seattle             	24
+11/08/1981	Detroit             	31	Washington          	33
+11/09/1981	Buffalo             	14	Dallas              	27
+11/15/1981	LA Rams             	10	Cincinnati          	24
+11/15/1981	Cleveland           	15	San Francisco       	12
+11/15/1981	Denver              	24	Tampa Bay           	 7
+11/15/1981	Dallas              	24	Detroit             	27
+11/15/1981	Chicago             	17	Green Bay           	21
+11/15/1981	Houston             	10	Kansas City         	23
+11/15/1981	New Orleans         	10	Minnesota           	20
+11/15/1981	NY Jets             	17	New England         	 6
+11/15/1981	Oakland             	33	Miami               	17
+11/15/1981	Baltimore           	13	Philadelphia        	38
+11/15/1981	Pittsburgh          	34	Atlanta             	20
+11/15/1981	Buffalo             	 0	St Louis            	24
+11/15/1981	Washington          	30	NY Giants           	27
+11/16/1981	San Diego           	23	Seattle             	44
+11/22/1981	New England         	17	Buffalo             	20
+11/22/1981	Denver              	21	Cincinnati          	38
+11/22/1981	Washington          	10	Dallas              	24
+11/22/1981	Detroit             	23	Chicago             	 7
+11/22/1981	Seattle             	13	Kansas City         	40
+11/22/1981	New Orleans         	27	Houston             	24
+11/22/1981	NY Giants           	20	Philadelphia        	10
+11/22/1981	Miami               	15	NY Jets             	16
+11/22/1981	Pittsburgh          	32	Cleveland           	10
+11/22/1981	San Diego           	55	Oakland             	21
+11/22/1981	San Francisco       	33	LA Rams             	31
+11/22/1981	St Louis            	35	Baltimore           	24
+11/22/1981	Green Bay           	 3	Tampa Bay           	37
+11/23/1981	Minnesota           	30	Atlanta             	31
+11/26/1981	Chicago             	 9	Dallas              	10
+11/26/1981	Kansas City         	10	Detroit             	27
+11/29/1981	Atlanta             	31	Houston             	27
+11/29/1981	Washington          	14	Buffalo             	21
+11/29/1981	Cincinnati          	41	Cleveland           	21
+11/29/1981	Green Bay           	35	Minnesota           	23
+11/29/1981	Baltimore           	 0	NY Jets             	25
+11/29/1981	Oakland             	32	Seattle             	31
+11/29/1981	LA Rams             	 0	Pittsburgh          	24
+11/29/1981	Denver              	17	San Diego           	34
+11/29/1981	NY Giants           	10	San Francisco       	17
+11/29/1981	St Louis            	27	New England         	20
+11/29/1981	Tampa Bay           	31	New Orleans         	14
+11/30/1981	Philadelphia        	10	Miami               	13
+12/03/1981	Cleveland           	13	Houston             	17
+12/06/1981	Buffalo             	28	San Diego           	27
+12/06/1981	Minnesota           	 9	Chicago             	10
+12/06/1981	Dallas              	37	Baltimore           	13
+12/06/1981	Kansas City         	13	Denver              	16
+12/06/1981	Detroit             	17	Green Bay           	31
+12/06/1981	New England         	14	Miami               	24
+12/06/1981	LA Rams             	 7	NY Giants           	10
+12/06/1981	San Francisco       	21	Cincinnati          	 3
+12/06/1981	NY Jets             	23	Seattle             	27
+12/06/1981	New Orleans         	 3	St Louis            	30
+12/06/1981	Atlanta             	23	Tampa Bay           	24
+12/06/1981	Philadelphia        	13	Washington          	15
+12/07/1981	Pittsburgh          	27	Oakland             	30
+12/12/1981	Minnesota           	 7	Detroit             	45
+12/12/1981	NY Jets             	14	Cleveland           	13
+12/13/1981	Buffalo             	19	New England         	10
+12/13/1981	Chicago             	23	Oakland             	 6
+12/13/1981	Cincinnati          	17	Pittsburgh          	10
+12/13/1981	Philadelphia        	10	Dallas              	21
+12/13/1981	Seattle             	13	Denver              	23
+12/13/1981	Green Bay           	35	New Orleans         	 7
+12/13/1981	Miami               	17	Kansas City         	 7
+12/13/1981	NY Giants           	20	St Louis            	10
+12/13/1981	San Diego           	24	Tampa Bay           	23
+12/13/1981	Houston             	 6	San Francisco       	28
+12/13/1981	Baltimore           	14	Washington          	38
+12/14/1981	Atlanta             	16	LA Rams             	21
+12/19/1981	Buffalo             	 6	Miami               	16
+12/19/1981	Dallas              	10	NY Giants           	13
+12/20/1981	New England         	21	Baltimore           	23
+12/20/1981	Denver              	24	Chicago             	35
+12/20/1981	Cincinnati          	30	Atlanta             	28
+12/20/1981	Pittsburgh          	20	Houston             	21
+12/20/1981	Kansas City         	10	Minnesota           	 6
+12/20/1981	Green Bay           	 3	NY Jets             	28
+12/20/1981	St Louis            	 0	Philadelphia        	38
+12/20/1981	San Francisco       	21	New Orleans         	17
+12/20/1981	Cleveland           	21	Seattle             	42
+12/20/1981	Tampa Bay           	20	Detroit             	17
+12/20/1981	Washington          	30	LA Rams             	 7
+12/21/1981	Oakland             	10	San Diego           	23
+12/27/1981	Buffalo             	31	NY Jets             	27
+12/27/1981	NY Giants           	27	Philadelphia        	21
+01/02/1982	Tampa Bay           	 0	Dallas              	38
+01/02/1982	San Diego           	41	Miami               	38
+01/03/1982	Buffalo             	21	Cincinnati          	28
+01/03/1982	NY Giants           	24	San Francisco       	38
+01/10/1982	San Diego           	 7	Cincinnati          	27
+01/10/1982	Dallas              	27	San Francisco       	28
+01/24/1982	San Francisco       	26	Cincinnati          	21	0

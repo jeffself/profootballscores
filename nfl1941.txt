@@ -1,0 +1,57 @@
+09/04/1941	Detroit             	 0	Green Bay           	23
+09/07/1941	Pittsburgh          	14	Cleveland           	17
+09/13/1941	NY Giants           	24	Philadelphia        	 0
+09/16/1941	Cleveland           	10	Chicago Cardinals   	 6
+09/21/1941	Detroit             	 7	Brooklyn            	14
+09/21/1941	Cleveland           	 7	Green Bay           	24
+09/21/1941	Philadelphia        	10	Pittsburgh          	 7
+09/27/1941	Brooklyn            	24	Philadelphia        	13
+09/27/1941	Detroit             	14	Chicago Cardinals   	14
+09/28/1941	Chicago             	25	Green Bay           	17
+09/28/1941	NY Giants           	17	Washington          	10
+10/05/1941	Chicago             	48	Cleveland           	21
+10/05/1941	Chicago Cardinals   	13	Green Bay           	14
+10/05/1941	NY Giants           	37	Pittsburgh          	10
+10/05/1941	Brooklyn            	 0	Washington          	 3
+10/12/1941	Chicago Cardinals   	 7	Chicago             	53
+10/12/1941	Cleveland           	 7	Detroit             	17
+10/12/1941	Brooklyn            	 7	Green Bay           	30
+10/12/1941	Philadelphia        	 0	NY Giants           	16
+10/12/1941	Washington          	24	Pittsburgh          	20
+10/19/1941	Detroit             	 0	Chicago             	49
+10/19/1941	Chicago Cardinals   	20	Brooklyn            	 6
+10/19/1941	Green Bay           	17	Cleveland           	14
+10/19/1941	Pittsburgh          	 7	NY Giants           	28
+10/19/1941	Washington          	21	Philadelphia        	17
+10/26/1941	NY Giants           	13	Brooklyn            	16
+10/26/1941	Pittsburgh          	 7	Chicago             	34
+10/26/1941	Green Bay           	24	Detroit             	 7
+10/26/1941	Chicago Cardinals   	14	Philadelphia        	21
+10/26/1941	Cleveland           	13	Washington          	17
+11/02/1941	Philadelphia        	 6	Brooklyn            	15
+11/02/1941	Chicago Cardinals   	10	NY Giants           	 7
+11/02/1941	Detroit             	14	Cleveland           	 0
+11/02/1941	Green Bay           	16	Chicago             	14
+11/02/1941	Pittsburgh          	 3	Washington          	23
+11/09/1941	Washington          	 7	Brooklyn            	13
+11/09/1941	Cleveland           	13	Chicago             	31
+11/09/1941	Detroit             	13	NY Giants           	20
+11/09/1941	Pittsburgh          	 7	Philadelphia        	 7
+11/16/1941	Washington          	21	Chicago             	35
+11/16/1941	Philadelphia        	17	Detroit             	21
+11/16/1941	Chicago Cardinals   	 9	Green Bay           	17
+11/16/1941	Cleveland           	14	NY Giants           	49
+11/16/1941	Brooklyn            	 7	Pittsburgh          	14
+11/23/1941	Chicago             	24	Detroit             	 7
+11/23/1941	Chicago Cardinals   	 7	Cleveland           	 0
+11/23/1941	Green Bay           	54	Pittsburgh          	 7
+11/23/1941	Washington          	13	NY Giants           	20
+11/30/1941	Pittsburgh          	 7	Brooklyn            	35
+11/30/1941	Chicago             	49	Philadelphia        	14
+11/30/1941	Chicago Cardinals   	 3	Detroit             	21
+11/30/1941	Green Bay           	22	Washington          	17
+12/07/1941	Brooklyn            	21	NY Giants           	 7
+12/07/1941	Chicago             	34	Chicago Cardinals   	24
+12/07/1941	Philadelphia        	14	Washington          	20
+12/14/1941	Green Bay           	14	Chicago             	33
+12/21/1941	NY Giants           	 9	Chicago             	37

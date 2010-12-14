@@ -1,0 +1,233 @@
+09/07/1986	Atlanta             	31	New Orleans         	10
+09/07/1986	Cleveland           	31	Chicago             	41
+09/07/1986	LA Raiders          	36	Denver              	38
+09/07/1986	Detroit             	13	Minnesota           	10
+09/07/1986	Houston             	31	Green Bay           	 3
+09/07/1986	Cincinnati          	14	Kansas City         	24
+09/07/1986	LA Rams             	16	St Louis            	10
+09/07/1986	Indianapolis        	 3	New England         	33
+09/07/1986	NY Jets             	28	Buffalo             	24
+09/07/1986	Miami               	28	San Diego           	50
+09/07/1986	San Francisco       	31	Tampa Bay           	 7
+09/07/1986	Pittsburgh          	 0	Seattle             	30
+09/07/1986	Philadelphia        	14	Washington          	41
+09/08/1986	NY Giants           	28	Dallas              	31
+09/11/1986	New England         	20	NY Jets             	 6
+09/14/1986	St Louis            	13	Atlanta             	33
+09/14/1986	Philadelphia        	10	Chicago             	13
+09/14/1986	Buffalo             	33	Cincinnati          	36
+09/14/1986	Cleveland           	23	Houston             	20
+09/14/1986	Dallas              	31	Detroit             	 7
+09/14/1986	San Francisco       	13	LA Rams             	16
+09/14/1986	Indianapolis        	10	Miami               	30
+09/14/1986	Minnesota           	23	Tampa Bay           	10
+09/14/1986	Green Bay           	10	New Orleans         	24
+09/14/1986	San Diego           	 7	NY Giants           	20
+09/14/1986	Kansas City         	17	Seattle             	23
+09/14/1986	LA Raiders          	 6	Washington          	10
+09/15/1986	Denver              	21	Pittsburgh          	10
+09/18/1986	Cincinnati          	30	Cleveland           	13
+09/21/1986	Atlanta             	37	Dallas              	35
+09/21/1986	St Louis            	10	Buffalo             	17
+09/21/1986	Denver              	33	Philadelphia        	 7
+09/21/1986	Houston             	13	Kansas City         	27
+09/21/1986	LA Rams             	24	Indianapolis        	 7
+09/21/1986	Pittsburgh          	 7	Minnesota           	31
+09/21/1986	NY Giants           	14	LA Raiders          	 9
+09/21/1986	Miami               	45	NY Jets             	51
+09/21/1986	New Orleans         	17	San Francisco       	26
+09/21/1986	Seattle             	38	New England         	31
+09/21/1986	Tampa Bay           	24	Detroit             	20
+09/21/1986	Washington          	30	San Diego           	27
+09/22/1986	Chicago             	25	Green Bay           	12
+09/28/1986	Atlanta             	23	Tampa Bay           	20
+09/28/1986	Chicago             	44	Cincinnati          	 7
+09/28/1986	Detroit             	21	Cleveland           	24
+09/28/1986	New England         	20	Denver              	27
+09/28/1986	Kansas City         	20	Buffalo             	17
+09/28/1986	San Diego           	13	LA Raiders          	17
+09/28/1986	Green Bay           	 7	Minnesota           	42
+09/28/1986	New Orleans         	17	NY Giants           	20
+09/28/1986	NY Jets             	26	Indianapolis        	 7
+09/28/1986	LA Rams             	20	Philadelphia        	34
+09/28/1986	Pittsburgh          	22	Houston             	16
+09/28/1986	San Francisco       	31	Miami               	16
+09/28/1986	Seattle             	14	Washington          	19
+09/29/1986	Dallas              	31	St Louis            	 7
+10/05/1986	Minnesota           	 0	Chicago             	23
+10/05/1986	Cincinnati          	34	Green Bay           	28
+10/05/1986	Cleveland           	27	Pittsburgh          	24
+10/05/1986	Dallas              	14	Denver              	29
+10/05/1986	Houston             	13	Detroit             	24
+10/05/1986	LA Raiders          	24	Kansas City         	17
+10/05/1986	Tampa Bay           	20	LA Rams             	26
+10/05/1986	Miami               	 7	New England         	34
+10/05/1986	NY Giants           	13	St Louis            	 6
+10/05/1986	Buffalo             	13	NY Jets             	14
+10/05/1986	Philadelphia        	16	Atlanta             	 0
+10/05/1986	Indianapolis        	14	San Francisco       	35
+10/05/1986	Washington          	14	New Orleans         	 6
+10/06/1986	San Diego           	 7	Seattle             	33
+10/12/1986	LA Rams             	14	Atlanta             	26
+10/12/1986	Chicago             	20	Houston             	 7
+10/12/1986	Kansas City         	 7	Cleveland           	20
+10/12/1986	Washington          	 6	Dallas              	30
+10/12/1986	Denver              	31	San Diego           	14
+10/12/1986	Detroit             	21	Green Bay           	14
+10/12/1986	Seattle             	10	LA Raiders          	14
+10/12/1986	Buffalo             	14	Miami               	27
+10/12/1986	Minnesota           	27	San Francisco       	24
+10/12/1986	New Orleans         	17	Indianapolis        	14
+10/12/1986	Philadelphia        	 3	NY Giants           	35
+10/12/1986	NY Jets             	31	New England         	24
+10/12/1986	St Louis            	30	Tampa Bay           	19
+10/13/1986	Pittsburgh          	22	Cincinnati          	24
+10/19/1986	Indianapolis        	13	Buffalo             	24
+10/19/1986	Houston             	28	Cincinnati          	31
+10/19/1986	Dallas              	17	Philadelphia        	14
+10/19/1986	Green Bay           	17	Cleveland           	14
+10/19/1986	San Diego           	41	Kansas City         	42
+10/19/1986	LA Raiders          	30	Miami               	28
+10/19/1986	Detroit             	10	LA Rams             	14
+10/19/1986	Chicago             	 7	Minnesota           	23
+10/19/1986	New England         	34	Pittsburgh          	 0
+10/19/1986	Tampa Bay           	 7	New Orleans         	38
+10/19/1986	San Francisco       	10	Atlanta             	10
+10/19/1986	NY Giants           	12	Seattle             	17
+10/19/1986	St Louis            	21	Washington          	28
+10/20/1986	Denver              	10	NY Jets             	22
+10/26/1986	Detroit             	 7	Chicago             	13
+10/26/1986	Cleveland           	23	Minnesota           	20
+10/26/1986	St Louis            	 6	Dallas              	37
+10/26/1986	Seattle             	13	Denver              	20
+10/26/1986	Tampa Bay           	20	Kansas City         	27
+10/26/1986	LA Raiders          	28	Houston             	17
+10/26/1986	Atlanta             	 7	LA Rams             	14
+10/26/1986	Miami               	17	Indianapolis        	13
+10/26/1986	New England         	23	Buffalo             	 3
+10/26/1986	New Orleans         	23	NY Jets             	28
+10/26/1986	San Diego           	 7	Philadelphia        	23
+10/26/1986	Cincinnati          	 9	Pittsburgh          	30
+10/26/1986	San Francisco       	31	Green Bay           	17
+10/27/1986	Washington          	20	NY Giants           	27
+11/02/1986	Cincinnati          	24	Detroit             	17
+11/02/1986	Cleveland           	24	Indianapolis        	 9
+11/02/1986	Denver              	21	LA Raiders          	10
+11/02/1986	Kansas City         	24	San Diego           	23
+11/02/1986	Houston             	 7	Miami               	28
+11/02/1986	Atlanta             	17	New England         	25
+11/02/1986	San Francisco       	10	New Orleans         	23
+11/02/1986	Dallas              	14	NY Giants           	17
+11/02/1986	NY Jets             	38	Seattle             	 7
+11/02/1986	Green Bay           	 3	Pittsburgh          	27
+11/02/1986	Philadelphia        	10	St Louis            	13
+11/02/1986	Buffalo             	28	Tampa Bay           	34
+11/02/1986	Minnesota           	38	Washington          	44
+11/03/1986	LA Rams             	20	Chicago             	17
+11/09/1986	Pittsburgh          	12	Buffalo             	16
+11/09/1986	Chicago             	23	Tampa Bay           	 3
+11/09/1986	Cincinnati          	28	Houston             	32
+11/09/1986	Seattle             	 7	Kansas City         	27
+11/09/1986	LA Raiders          	17	Dallas              	13
+11/09/1986	Minnesota           	24	Detroit             	10
+11/09/1986	New England         	30	Indianapolis        	21
+11/09/1986	LA Rams             	 0	New Orleans         	 6
+11/09/1986	NY Giants           	17	Philadelphia        	14
+11/09/1986	NY Jets             	28	Atlanta             	14
+11/09/1986	San Diego           	 9	Denver              	 3
+11/09/1986	St Louis            	17	San Francisco       	43
+11/09/1986	Washington          	16	Green Bay           	 7
+11/10/1986	Miami               	16	Cleveland           	26
+11/16/1986	Chicago             	13	Atlanta             	10
+11/16/1986	Seattle             	 7	Cincinnati          	34
+11/16/1986	Dallas              	24	San Diego           	21
+11/16/1986	Kansas City         	17	Denver              	38
+11/16/1986	Detroit             	13	Philadelphia        	11
+11/16/1986	Tampa Bay           	 7	Green Bay           	31
+11/16/1986	Cleveland           	14	LA Raiders          	27
+11/16/1986	Miami               	34	Buffalo             	24
+11/16/1986	New England         	30	LA Rams             	28
+11/16/1986	New Orleans         	16	St Louis            	 7
+11/16/1986	NY Giants           	22	Minnesota           	20
+11/16/1986	Indianapolis        	16	NY Jets             	31
+11/16/1986	Houston             	10	Pittsburgh          	21
+11/17/1986	San Francisco       	 6	Washington          	14
+11/20/1986	LA Raiders          	37	San Diego           	31
+11/23/1986	Green Bay           	10	Chicago             	12
+11/23/1986	Minnesota           	20	Cincinnati          	24
+11/23/1986	Pittsburgh          	31	Cleveland           	37
+11/23/1986	Detroit             	38	Tampa Bay           	17
+11/23/1986	Indianapolis        	17	Houston             	31
+11/23/1986	New Orleans         	13	LA Rams             	26
+11/23/1986	Buffalo             	19	New England         	22
+11/23/1986	Denver              	16	NY Giants           	19
+11/23/1986	Kansas City         	14	St Louis            	23
+11/23/1986	Atlanta             	 0	San Francisco       	20
+11/23/1986	Philadelphia        	20	Seattle             	24
+11/23/1986	Dallas              	14	Washington          	41
+11/24/1986	NY Jets             	 3	Miami               	45
+11/27/1986	Green Bay           	44	Detroit             	40
+11/27/1986	Seattle             	31	Dallas              	14
+11/30/1986	Atlanta             	20	Miami               	14
+11/30/1986	Buffalo             	17	Kansas City         	14
+11/30/1986	Pittsburgh          	10	Chicago             	13
+11/30/1986	Houston             	10	Cleveland           	13
+11/30/1986	Cincinnati          	28	Denver              	34
+11/30/1986	LA Rams             	17	NY Jets             	 3
+11/30/1986	Tampa Bay           	13	Minnesota           	45
+11/30/1986	New England         	21	New Orleans         	20
+11/30/1986	Philadelphia        	33	LA Raiders          	27
+11/30/1986	San Diego           	17	Indianapolis        	 3
+11/30/1986	Washington          	20	St Louis            	17
+12/01/1986	NY Giants           	21	San Francisco       	17
+12/07/1986	Tampa Bay           	14	Chicago             	48
+12/07/1986	Cincinnati          	31	New England         	 7
+12/07/1986	Cleveland           	21	Buffalo             	17
+12/07/1986	Indianapolis        	28	Atlanta             	23
+12/07/1986	Denver              	10	Kansas City         	37
+12/07/1986	Dallas              	10	LA Rams             	29
+12/07/1986	Miami               	31	New Orleans         	27
+12/07/1986	Minnesota           	32	Green Bay           	 6
+12/07/1986	NY Giants           	24	Washington          	14
+12/07/1986	Detroit             	17	Pittsburgh          	27
+12/07/1986	St Louis            	10	Philadelphia        	10
+12/07/1986	Houston             	 0	San Diego           	27
+12/07/1986	NY Jets             	10	San Francisco       	24
+12/08/1986	LA Raiders          	 0	Seattle             	37
+12/13/1986	Washington          	30	Denver              	31
+12/13/1986	Pittsburgh          	45	NY Jets             	24
+12/14/1986	Cleveland           	34	Cincinnati          	 3
+12/14/1986	Green Bay           	21	Tampa Bay           	 7
+12/14/1986	Minnesota           	10	Houston             	23
+12/14/1986	Buffalo             	14	Indianapolis        	24
+12/14/1986	Kansas City         	20	LA Raiders          	17
+12/14/1986	Miami               	37	LA Rams             	31
+12/14/1986	New Orleans         	14	Atlanta             	 9
+12/14/1986	St Louis            	 7	NY Giants           	27
+12/14/1986	Philadelphia        	23	Dallas              	21
+12/14/1986	San Francisco       	29	New England         	24
+12/14/1986	Seattle             	34	San Diego           	24
+12/15/1986	Chicago             	16	Detroit             	13
+12/19/1986	LA Rams             	14	San Francisco       	24
+12/20/1986	Green Bay           	24	NY Giants           	55
+12/20/1986	Denver              	16	Seattle             	41
+12/21/1986	Atlanta             	20	Detroit             	 6
+12/21/1986	Chicago             	24	Dallas              	10
+12/21/1986	NY Jets             	21	Cincinnati          	52
+12/21/1986	San Diego           	17	Cleveland           	47
+12/21/1986	Buffalo             	 7	Houston             	16
+12/21/1986	Indianapolis        	30	LA Raiders          	24
+12/21/1986	Kansas City         	24	Pittsburgh          	19
+12/21/1986	New Orleans         	17	Minnesota           	33
+12/21/1986	Tampa Bay           	17	St Louis            	21
+12/21/1986	Washington          	21	Philadelphia        	14
+12/22/1986	New England         	34	Miami               	27
+12/28/1986	Kansas City         	15	NY Jets             	35
+12/28/1986	LA Rams             	 7	Washington          	19
+01/03/1987	NY Jets             	17	Cleveland           	20
+01/03/1987	Washington          	27	Chicago             	13
+01/04/1987	New England         	17	Denver              	22
+01/04/1987	San Francisco       	 3	NY Giants           	49
+01/11/1987	Denver              	23	Cleveland           	20
+01/11/1987	Washington          	 0	NY Giants           	17
+01/25/1987	NY Giants           	39	Denver              	20	0

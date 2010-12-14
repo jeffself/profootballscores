@@ -1,0 +1,79 @@
+09/23/1960	St Louis            	43	LA Rams             	21
+09/24/1960	Pittsburgh          	35	Dallas              	28
+09/25/1960	Chicago             	17	Green Bay           	14
+09/25/1960	Cleveland           	41	Philadelphia        	24
+09/25/1960	NY Giants           	21	San Francisco       	19
+09/25/1960	Washington          	 0	Baltimore           	20
+09/30/1960	Philadelphia        	27	Dallas              	25
+10/02/1960	Chicago             	 7	Baltimore           	42
+10/02/1960	Detroit             	 9	Green Bay           	28
+10/02/1960	LA Rams             	 9	San Francisco       	13
+10/02/1960	Pittsburgh          	20	Cleveland           	28
+10/02/1960	NY Giants           	35	St Louis            	14
+10/09/1960	Baltimore           	21	Green Bay           	35
+10/09/1960	Dallas              	14	Washington          	26
+10/09/1960	San Francisco       	14	Detroit             	10
+10/09/1960	LA Rams             	27	Chicago             	34
+10/09/1960	NY Giants           	19	Pittsburgh          	17
+10/09/1960	St Louis            	27	Philadelphia        	31
+10/16/1960	Cleveland           	48	Dallas              	 7
+10/16/1960	Detroit             	10	Philadelphia        	28
+10/16/1960	LA Rams             	17	Baltimore           	31
+10/16/1960	Washington          	24	NY Giants           	24
+10/16/1960	St Louis            	14	Pittsburgh          	27
+10/16/1960	San Francisco       	10	Chicago             	27
+10/23/1960	Baltimore           	17	Detroit             	30
+10/23/1960	Philadelphia        	31	Cleveland           	29
+10/23/1960	Dallas              	10	St Louis            	12
+10/23/1960	Chicago             	24	LA Rams             	24
+10/23/1960	San Francisco       	14	Green Bay           	41
+10/23/1960	Pittsburgh          	27	Washington          	27
+10/30/1960	Chicago             	 7	San Francisco       	25
+10/30/1960	Baltimore           	45	Dallas              	 7
+10/30/1960	Detroit             	35	LA Rams             	48
+10/30/1960	St Louis            	20	NY Giants           	13
+10/30/1960	Green Bay           	19	Pittsburgh          	13
+10/30/1960	Cleveland           	31	Washington          	10
+11/06/1960	NY Giants           	17	Cleveland           	13
+11/06/1960	LA Rams             	38	Dallas              	13
+11/06/1960	Green Bay           	24	Baltimore           	38
+11/06/1960	Pittsburgh          	 7	Philadelphia        	34
+11/06/1960	Detroit             	24	San Francisco       	 0
+11/06/1960	Washington          	 7	St Louis            	44
+11/13/1960	Baltimore           	24	Chicago             	20
+11/13/1960	Dallas              	 7	Green Bay           	41
+11/13/1960	LA Rams             	10	Detroit             	12
+11/13/1960	Pittsburgh          	24	NY Giants           	27
+11/13/1960	St Louis            	27	Cleveland           	28
+11/13/1960	Washington          	13	Philadelphia        	19
+11/20/1960	Cleveland           	10	Pittsburgh          	14
+11/20/1960	San Francisco       	26	Dallas              	14
+11/20/1960	Detroit             	 7	Chicago             	28
+11/20/1960	LA Rams             	33	Green Bay           	31
+11/20/1960	Philadelphia        	17	NY Giants           	10
+11/20/1960	St Louis            	26	Washington          	14
+11/24/1960	Green Bay           	10	Detroit             	23
+11/27/1960	San Francisco       	30	Baltimore           	22
+11/27/1960	Dallas              	 7	Chicago             	17
+11/27/1960	NY Giants           	23	Philadelphia        	31
+11/27/1960	Cleveland           	17	St Louis            	17
+11/27/1960	Washington          	10	Pittsburgh          	22
+12/04/1960	Detroit             	20	Baltimore           	15
+12/04/1960	Green Bay           	41	Chicago             	13
+12/04/1960	San Francisco       	23	LA Rams             	 7
+12/04/1960	Dallas              	31	NY Giants           	31
+12/04/1960	Philadelphia        	20	St Louis            	 6
+12/04/1960	Washington          	16	Cleveland           	27
+12/10/1960	Green Bay           	13	San Francisco       	 0
+12/11/1960	Baltimore           	 3	LA Rams             	10
+12/11/1960	Chicago             	 0	Cleveland           	42
+12/11/1960	Dallas              	14	Detroit             	23
+12/11/1960	Philadelphia        	21	Pittsburgh          	27
+12/11/1960	NY Giants           	17	Washington          	 3
+12/17/1960	Green Bay           	35	LA Rams             	21
+12/18/1960	Baltimore           	10	San Francisco       	34
+12/18/1960	Chicago             	 0	Detroit             	36
+12/18/1960	Cleveland           	48	NY Giants           	34
+12/18/1960	Pittsburgh          	 7	St Louis            	38
+12/18/1960	Philadelphia        	38	Washington          	28
+12/26/1960	Green Bay           	13	Philadelphia        	17

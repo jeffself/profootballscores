@@ -1,0 +1,177 @@
+09/13/1987	Cincinnati          	23	Indianapolis        	21
+09/13/1987	Seattle             	17	Denver              	40
+09/13/1987	LA Rams             	16	Houston             	20
+09/13/1987	San Diego           	13	Kansas City         	20
+09/13/1987	LA Raiders          	20	Green Bay           	 0
+09/13/1987	Detroit             	19	Minnesota           	34
+09/13/1987	Miami               	21	New England         	28
+09/13/1987	Cleveland           	21	New Orleans         	28
+09/13/1987	NY Jets             	31	Buffalo             	28
+09/13/1987	San Francisco       	17	Pittsburgh          	30
+09/13/1987	Dallas              	13	St Louis            	24
+09/13/1987	Atlanta             	10	Tampa Bay           	48
+09/13/1987	Philadelphia        	24	Washington          	34
+09/14/1987	NY Giants           	19	Chicago             	34
+09/20/1987	Washington          	20	Atlanta             	21
+09/20/1987	Houston             	30	Buffalo             	34
+09/20/1987	Tampa Bay           	 3	Chicago             	20
+09/20/1987	Pittsburgh          	10	Cleveland           	34
+09/20/1987	Dallas              	16	NY Giants           	14
+09/20/1987	Denver              	17	Green Bay           	17
+09/20/1987	Detroit             	 7	LA Raiders          	27
+09/20/1987	Miami               	23	Indianapolis        	10
+09/20/1987	Minnesota           	21	LA Rams             	16
+09/20/1987	New Orleans         	17	Philadelphia        	27
+09/20/1987	St Louis            	24	San Diego           	28
+09/20/1987	San Francisco       	27	Cincinnati          	26
+09/20/1987	Kansas City         	14	Seattle             	43
+09/21/1987	New England         	24	NY Jets             	43
+10/25/1987	Buffalo             	34	Miami               	31
+10/25/1987	Chicago             	27	Tampa Bay           	26
+10/25/1987	Green Bay           	34	Detroit             	33
+10/25/1987	Atlanta             	33	Houston             	37
+10/25/1987	New England         	16	Indianapolis        	30
+10/25/1987	Denver              	27	Minnesota           	34
+10/25/1987	St Louis            	 7	NY Giants           	30
+10/25/1987	Dallas              	20	Philadelphia        	37
+10/25/1987	Cincinnati          	20	Pittsburgh          	23
+10/25/1987	Kansas City         	21	San Diego           	42
+10/25/1987	San Francisco       	24	New Orleans         	22
+10/25/1987	Seattle             	35	LA Raiders          	13
+10/25/1987	NY Jets             	16	Washington          	17
+10/26/1987	LA Rams             	17	Cleveland           	30
+11/01/1987	Kansas City         	28	Chicago             	31
+11/01/1987	Detroit             	 0	Denver              	34
+11/01/1987	Houston             	31	Cincinnati          	29
+11/01/1987	Indianapolis        	19	NY Jets             	14
+11/01/1987	Pittsburgh          	24	Miami               	35
+11/01/1987	LA Raiders          	23	New England         	26
+11/01/1987	New Orleans         	38	Atlanta             	 0
+11/01/1987	Philadelphia        	28	St Louis            	23
+11/01/1987	Cleveland           	24	San Diego           	27
+11/01/1987	San Francisco       	31	LA Rams             	10
+11/01/1987	Minnesota           	17	Seattle             	28
+11/01/1987	Tampa Bay           	23	Green Bay           	17
+11/01/1987	Washington          	27	Buffalo             	 7
+11/02/1987	NY Giants           	24	Dallas              	33
+11/08/1987	Denver              	14	Buffalo             	21
+11/08/1987	Chicago             	26	Green Bay           	24
+11/08/1987	Atlanta             	 3	Cleveland           	38
+11/08/1987	Dallas              	17	Detroit             	27
+11/08/1987	Miami               	20	Cincinnati          	14
+11/08/1987	LA Raiders          	20	Minnesota           	31
+11/08/1987	New Orleans         	31	LA Rams             	14
+11/08/1987	New England         	10	NY Giants           	17
+11/08/1987	Washington          	27	Philadelphia        	31
+11/08/1987	Pittsburgh          	17	Kansas City         	16
+11/08/1987	Tampa Bay           	28	St Louis            	31
+11/08/1987	San Diego           	16	Indianapolis        	13
+11/08/1987	Houston             	20	San Francisco       	27
+11/09/1987	Seattle             	14	NY Jets             	30
+11/15/1987	Cincinnati          	16	Atlanta             	10
+11/15/1987	Buffalo             	21	Cleveland           	27
+11/15/1987	Dallas              	23	New England         	17
+11/15/1987	Houston             	23	Pittsburgh          	 3
+11/15/1987	Indianapolis        	40	Miami               	21
+11/15/1987	LA Rams             	27	St Louis            	24
+11/15/1987	Tampa Bay           	17	Minnesota           	23
+11/15/1987	New Orleans         	26	San Francisco       	24
+11/15/1987	NY Giants           	20	Philadelphia        	17
+11/15/1987	NY Jets             	16	Kansas City         	 9
+11/15/1987	LA Raiders          	14	San Diego           	16
+11/15/1987	Green Bay           	13	Seattle             	24
+11/15/1987	Detroit             	13	Washington          	20
+11/16/1987	Chicago             	29	Denver              	31
+11/22/1987	Buffalo             	17	NY Jets             	14
+11/22/1987	Detroit             	10	Chicago             	30
+11/22/1987	Cleveland           	40	Houston             	 7
+11/22/1987	Denver              	23	LA Raiders          	17
+11/22/1987	Green Bay           	23	Kansas City         	 3
+11/22/1987	Miami               	20	Dallas              	14
+11/22/1987	Atlanta             	13	Minnesota           	24
+11/22/1987	Indianapolis        	 0	New England         	24
+11/22/1987	NY Giants           	14	New Orleans         	23
+11/22/1987	Pittsburgh          	30	Cincinnati          	16
+11/22/1987	St Louis            	31	Philadelphia        	19
+11/22/1987	San Francisco       	24	Tampa Bay           	10
+11/22/1987	San Diego           	 3	Seattle             	34
+11/23/1987	LA Rams             	30	Washington          	26
+11/26/1987	Kansas City         	27	Detroit             	20
+11/26/1987	Minnesota           	44	Dallas              	38
+11/29/1987	Miami               	 0	Buffalo             	27
+11/29/1987	Green Bay           	10	Chicago             	23
+11/29/1987	Denver              	31	San Diego           	17
+11/29/1987	Houston             	27	Indianapolis        	51
+11/29/1987	Tampa Bay           	 3	LA Rams             	35
+11/29/1987	New Orleans         	20	Pittsburgh          	16
+11/29/1987	Cincinnati          	20	NY Jets             	27
+11/29/1987	Philadelphia        	34	New England         	31
+11/29/1987	St Louis            	34	Atlanta             	21
+11/29/1987	Cleveland           	24	San Francisco       	38
+11/29/1987	NY Giants           	19	Washington          	23
+11/30/1987	LA Raiders          	37	Seattle             	14
+12/06/1987	Atlanta             	21	Dallas              	10
+12/06/1987	Chicago             	30	Minnesota           	24
+12/06/1987	Kansas City         	27	Cincinnati          	30
+12/06/1987	New England         	20	Denver              	31
+12/06/1987	San Diego           	18	Houston             	33
+12/06/1987	Indianapolis        	 9	Cleveland           	 7
+12/06/1987	Buffalo             	21	LA Raiders          	34
+12/06/1987	LA Rams             	37	Detroit             	16
+12/06/1987	Tampa Bay           	34	New Orleans         	44
+12/06/1987	Philadelphia        	20	NY Giants           	23
+12/06/1987	Seattle             	 9	Pittsburgh          	13
+12/06/1987	San Francisco       	23	Green Bay           	12
+12/06/1987	Washington          	34	St Louis            	17
+12/07/1987	NY Jets             	28	Miami               	37
+12/13/1987	Buffalo             	27	Indianapolis        	 3
+12/13/1987	Cincinnati          	24	Cleveland           	38
+12/13/1987	Detroit             	20	Tampa Bay           	10
+12/13/1987	Minnesota           	10	Green Bay           	16
+12/13/1987	LA Raiders          	10	Kansas City         	16
+12/13/1987	Atlanta             	 0	LA Rams             	33
+12/13/1987	Miami               	28	Philadelphia        	10
+12/13/1987	NY Jets             	20	New England         	42
+12/13/1987	Houston             	10	New Orleans         	24
+12/13/1987	Pittsburgh          	20	San Diego           	16
+12/13/1987	NY Giants           	24	St Louis            	27
+12/13/1987	Denver              	21	Seattle             	28
+12/13/1987	Dallas              	20	Washington          	24
+12/14/1987	Chicago             	 0	San Francisco       	41
+12/19/1987	Kansas City         	17	Denver              	20
+12/19/1987	Green Bay           	10	NY Giants           	20
+12/20/1987	Cleveland           	24	LA Raiders          	17
+12/20/1987	Pittsburgh          	16	Houston             	24
+12/20/1987	Indianapolis        	20	San Diego           	 7
+12/20/1987	Washington          	21	Miami               	23
+12/20/1987	Minnesota           	17	Detroit             	14
+12/20/1987	New England         	13	Buffalo             	 7
+12/20/1987	New Orleans         	41	Cincinnati          	24
+12/20/1987	Philadelphia        	38	NY Jets             	27
+12/20/1987	St Louis            	31	Tampa Bay           	14
+12/20/1987	San Francisco       	35	Atlanta             	 7
+12/20/1987	Seattle             	34	Chicago             	21
+12/21/1987	Dallas              	29	LA Rams             	21
+12/26/1987	Cleveland           	19	Pittsburgh          	13
+12/26/1987	Washington          	27	Minnesota           	24
+12/27/1987	Chicago             	 6	LA Raiders          	 3
+12/27/1987	St Louis            	16	Dallas              	21
+12/27/1987	San Diego           	 0	Denver              	24
+12/27/1987	Detroit             	30	Atlanta             	13
+12/27/1987	Cincinnati          	17	Houston             	21
+12/27/1987	Tampa Bay           	 6	Indianapolis        	24
+12/27/1987	Seattle             	20	Kansas City         	41
+12/27/1987	Green Bay           	24	New Orleans         	33
+12/27/1987	NY Jets             	 7	NY Giants           	20
+12/27/1987	Buffalo             	 7	Philadelphia        	17
+12/27/1987	LA Rams             	 0	San Francisco       	48
+12/28/1987	New England         	24	Miami               	10
+01/03/1988	Seattle             	20	Houston             	23
+01/03/1988	Minnesota           	44	New Orleans         	10
+01/09/1988	Indianapolis        	21	Cleveland           	38
+01/09/1988	Minnesota           	36	San Francisco       	24
+01/10/1988	Houston             	10	Denver              	34
+01/10/1988	Washington          	21	Chicago             	17
+01/17/1988	Cleveland           	33	Denver              	38
+01/17/1988	Minnesota           	10	Washington          	17
+01/31/1988	Washington          	42	Denver              	10	0

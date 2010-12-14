@@ -1,0 +1,233 @@
+09/02/1978	NY Giants           	19	Tampa Bay           	13
+09/03/1978	Houston             	14	Atlanta             	20
+09/03/1978	St Louis            	10	Chicago             	17
+09/03/1978	San Francisco       	 7	Cleveland           	24
+09/03/1978	Oakland             	 6	Denver              	14
+09/03/1978	Green Bay           	13	Detroit             	 7
+09/03/1978	Kansas City         	24	Cincinnati          	23
+09/03/1978	LA Rams             	16	Philadelphia        	14
+09/03/1978	Minnesota           	24	New Orleans         	31
+09/03/1978	Miami               	20	NY Jets             	33
+09/03/1978	Pittsburgh          	28	Buffalo             	17
+09/03/1978	San Diego           	24	Seattle             	20
+09/03/1978	Washington          	16	New England         	14
+09/04/1978	Baltimore           	 0	Dallas              	38
+09/09/1978	Detroit             	15	Tampa Bay           	 7
+09/10/1978	Chicago             	16	San Francisco       	13
+09/10/1978	Cincinnati          	10	Cleveland           	13
+09/10/1978	Dallas              	34	NY Giants           	24
+09/10/1978	New Orleans         	17	Green Bay           	28
+09/10/1978	Houston             	20	Kansas City         	17
+09/10/1978	Atlanta             	 0	LA Rams             	10
+09/10/1978	Miami               	42	Baltimore           	 0
+09/10/1978	New England         	16	St Louis            	 6
+09/10/1978	NY Jets             	21	Buffalo             	20
+09/10/1978	Oakland             	21	San Diego           	20
+09/10/1978	Seattle             	10	Pittsburgh          	21
+09/10/1978	Philadelphia        	30	Washington          	35
+09/11/1978	Denver              	 9	Minnesota           	12
+09/17/1978	Chicago             	19	Detroit             	 0
+09/17/1978	Cleveland           	24	Atlanta             	16
+09/17/1978	San Diego           	14	Denver              	27
+09/17/1978	San Francisco       	19	Houston             	20
+09/17/1978	Dallas              	14	LA Rams             	27
+09/17/1978	Buffalo             	24	Miami               	31
+09/17/1978	Kansas City         	10	NY Giants           	26
+09/17/1978	Oakland             	28	Green Bay           	 3
+09/17/1978	Philadelphia        	24	New Orleans         	17
+09/17/1978	Pittsburgh          	28	Cincinnati          	 3
+09/17/1978	Seattle             	24	NY Jets             	17
+09/17/1978	Tampa Bay           	16	Minnesota           	10
+09/17/1978	Washington          	28	St Louis            	10
+09/18/1978	Baltimore           	34	New England         	27
+09/24/1978	Baltimore           	17	Buffalo             	24
+09/24/1978	St Louis            	12	Dallas              	21
+09/24/1978	Denver              	23	Kansas City         	17
+09/24/1978	Green Bay           	27	San Diego           	14
+09/24/1978	LA Rams             	10	Houston             	 6
+09/24/1978	New England         	21	Oakland             	14
+09/24/1978	New Orleans         	20	Cincinnati          	18
+09/24/1978	San Francisco       	10	NY Giants           	27
+09/24/1978	Miami               	 3	Philadelphia        	17
+09/24/1978	Cleveland           	 9	Pittsburgh          	15
+09/24/1978	Detroit             	16	Seattle             	28
+09/24/1978	Atlanta             	 9	Tampa Bay           	14
+09/24/1978	NY Jets             	 3	Washington          	23
+09/25/1978	Minnesota           	24	Chicago             	20
+10/01/1978	NY Giants           	20	Atlanta             	23
+10/01/1978	Kansas City         	13	Buffalo             	28
+10/01/1978	Seattle             	 7	Denver              	28
+10/01/1978	Detroit             	14	Green Bay           	35
+10/01/1978	Houston             	16	Cleveland           	13
+10/01/1978	LA Rams             	26	New Orleans         	20
+10/01/1978	St Louis            	10	Miami               	24
+10/01/1978	Minnesota           	24	Tampa Bay           	 7
+10/01/1978	San Diego           	23	New England         	28
+10/01/1978	Oakland             	25	Chicago             	19
+10/01/1978	Philadelphia        	17	Baltimore           	14
+10/01/1978	Pittsburgh          	28	NY Jets             	17
+10/01/1978	Cincinnati          	12	San Francisco       	28
+10/02/1978	Dallas              	 5	Washington          	 9
+10/08/1978	Baltimore           	30	St Louis            	17
+10/08/1978	Cleveland           	24	New Orleans         	16
+10/08/1978	NY Giants           	 3	Dallas              	24
+10/08/1978	Chicago             	14	Green Bay           	24
+10/08/1978	San Francisco       	10	LA Rams             	27
+10/08/1978	Philadelphia        	14	New England         	24
+10/08/1978	Buffalo             	14	NY Jets             	45
+10/08/1978	Houston             	17	Oakland             	21
+10/08/1978	Atlanta             	 7	Pittsburgh          	31
+10/08/1978	Denver              	 0	San Diego           	23
+10/08/1978	Minnesota           	28	Seattle             	29
+10/08/1978	Tampa Bay           	30	Kansas City         	13
+10/08/1978	Washington          	21	Detroit             	19
+10/09/1978	Cincinnati          	 0	Miami               	21
+10/15/1978	Detroit             	 0	Atlanta             	14
+10/15/1978	Dallas              	24	St Louis            	21
+10/15/1978	Seattle             	28	Green Bay           	45
+10/15/1978	Buffalo             	10	Houston             	17
+10/15/1978	LA Rams             	34	Minnesota           	17
+10/15/1978	Miami               	28	San Diego           	21
+10/15/1978	New England         	10	Cincinnati          	 3
+10/15/1978	New Orleans         	14	San Francisco       	 7
+10/15/1978	Tampa Bay           	14	NY Giants           	17
+10/15/1978	NY Jets             	33	Baltimore           	10
+10/15/1978	Kansas City         	 6	Oakland             	28
+10/15/1978	Washington          	10	Philadelphia        	17
+10/15/1978	Pittsburgh          	34	Cleveland           	14
+10/16/1978	Chicago             	 7	Denver              	16
+10/22/1978	Atlanta             	20	San Francisco       	17
+10/22/1978	Denver              	 6	Baltimore           	 7
+10/22/1978	Cincinnati          	 0	Buffalo             	 5
+10/22/1978	Philadelphia        	 7	Dallas              	14
+10/22/1978	San Diego           	14	Detroit             	31
+10/22/1978	Cleveland           	 3	Kansas City         	17
+10/22/1978	Green Bay           	 7	Minnesota           	21
+10/22/1978	Miami               	24	New England         	33
+10/22/1978	New Orleans         	10	LA Rams             	 3
+10/22/1978	Washington          	 6	NY Giants           	17
+10/22/1978	St Louis            	10	NY Jets             	23
+10/22/1978	Oakland             	 7	Seattle             	27
+10/22/1978	Chicago             	19	Tampa Bay           	33
+10/23/1978	Houston             	24	Pittsburgh          	17
+10/26/1978	Minnesota           	21	Dallas              	10
+10/29/1978	Houston             	13	Cincinnati          	28
+10/29/1978	Buffalo             	20	Cleveland           	41
+10/29/1978	Denver              	20	Seattle             	17
+10/29/1978	Detroit             	21	Chicago             	17
+10/29/1978	Tampa Bay           	 7	Green Bay           	 9
+10/29/1978	Baltimore           	 8	Miami               	26
+10/29/1978	NY Jets             	21	New England         	55
+10/29/1978	NY Giants           	17	New Orleans         	28
+10/29/1978	Kansas City         	24	Pittsburgh          	27
+10/29/1978	San Diego           	27	Oakland             	23
+10/29/1978	St Louis            	16	Philadelphia        	10
+10/29/1978	San Francisco       	20	Washington          	38
+10/30/1978	LA Rams             	 7	Atlanta             	15
+11/05/1978	San Francisco       	10	Atlanta             	21
+11/05/1978	Cleveland           	10	Houston             	14
+11/05/1978	Tampa Bay           	23	LA Rams             	26
+11/05/1978	Dallas              	16	Miami               	23
+11/05/1978	Detroit             	 7	Minnesota           	17
+11/05/1978	New England         	14	Buffalo             	10
+11/05/1978	NY Jets             	31	Denver              	28
+11/05/1978	Oakland             	20	Kansas City         	10
+11/05/1978	Green Bay           	 3	Philadelphia        	10
+11/05/1978	New Orleans         	14	Pittsburgh          	20
+11/05/1978	Cincinnati          	13	San Diego           	22
+11/05/1978	Seattle             	31	Chicago             	29
+11/05/1978	NY Giants           	10	St Louis            	20
+11/06/1978	Washington          	17	Baltimore           	21
+11/12/1978	Atlanta             	20	New Orleans         	17
+11/12/1978	Baltimore           	17	Seattle             	14
+11/12/1978	Dallas              	42	Green Bay           	14
+11/12/1978	Denver              	19	Cleveland           	 7
+11/12/1978	Tampa Bay           	23	Detroit             	34
+11/12/1978	Houston             	26	New England         	23
+11/12/1978	Pittsburgh          	 7	LA Rams             	10
+11/12/1978	Miami               	25	Buffalo             	24
+11/12/1978	Chicago             	14	Minnesota           	17
+11/12/1978	NY Jets             	 9	Philadelphia        	17
+11/12/1978	Kansas City         	23	San Diego           	29
+11/12/1978	St Louis            	16	San Francisco       	10
+11/12/1978	NY Giants           	13	Washington          	16
+11/13/1978	Oakland             	34	Cincinnati          	21
+11/19/1978	Atlanta             	 7	Chicago             	13
+11/19/1978	Cleveland           	45	Baltimore           	24
+11/19/1978	New Orleans         	 7	Dallas              	27
+11/19/1978	Green Bay           	 3	Denver              	16
+11/19/1978	LA Rams             	31	San Francisco       	28
+11/19/1978	New England         	19	NY Jets             	17
+11/19/1978	Detroit             	17	Oakland             	29
+11/19/1978	Philadelphia        	19	NY Giants           	17
+11/19/1978	Cincinnati          	 6	Pittsburgh          	 7
+11/19/1978	San Diego           	13	Minnesota           	 7
+11/19/1978	Seattle             	13	Kansas City         	10
+11/19/1978	St Louis            	27	Washington          	17
+11/19/1978	Buffalo             	10	Tampa Bay           	31
+11/20/1978	Miami               	30	Houston             	35
+11/23/1978	Washington          	10	Dallas              	37
+11/23/1978	Denver              	14	Detroit             	17
+11/26/1978	New Orleans         	17	Atlanta             	20
+11/26/1978	NY Giants           	17	Buffalo             	41
+11/26/1978	Tampa Bay           	 3	Chicago             	14
+11/26/1978	LA Rams             	19	Cleveland           	30
+11/26/1978	Cincinnati          	10	Houston             	17
+11/26/1978	San Diego           	 0	Kansas City         	23
+11/26/1978	Minnesota           	10	Green Bay           	10
+11/26/1978	New England         	35	Baltimore           	14
+11/26/1978	NY Jets             	24	Miami               	13
+11/26/1978	Philadelphia        	14	St Louis            	10
+11/26/1978	Seattle             	17	Oakland             	16
+11/27/1978	Pittsburgh          	24	San Francisco       	 7
+12/03/1978	Atlanta             	 7	Cincinnati          	37
+12/03/1978	New England         	10	Dallas              	17
+12/03/1978	Denver              	21	Oakland             	 6
+12/03/1978	Green Bay           	17	Tampa Bay           	 7
+12/03/1978	Buffalo             	10	Kansas City         	14
+12/03/1978	LA Rams             	20	NY Giants           	17
+12/03/1978	Miami               	16	Washington          	 0
+12/03/1978	Philadelphia        	27	Minnesota           	28
+12/03/1978	San Francisco       	13	New Orleans         	24
+12/03/1978	Baltimore           	16	NY Jets             	24
+12/03/1978	Pittsburgh          	13	Houston             	 3
+12/03/1978	Cleveland           	24	Seattle             	47
+12/03/1978	Detroit             	14	St Louis            	21
+12/04/1978	Chicago             	 7	San Diego           	40
+12/09/1978	Minnesota           	14	Detroit             	45
+12/09/1978	Baltimore           	13	Pittsburgh          	35
+12/10/1978	Washington          	17	Atlanta             	20
+12/10/1978	Green Bay           	 0	Chicago             	14
+12/10/1978	NY Jets             	34	Cleveland           	37
+12/10/1978	Dallas              	31	Philadelphia        	13
+12/10/1978	Kansas City         	 3	Denver              	24
+12/10/1978	Houston             	17	New Orleans         	12
+12/10/1978	Oakland             	 6	Miami               	23
+12/10/1978	Buffalo             	24	New England         	26
+12/10/1978	St Louis            	 0	NY Giants           	17
+12/10/1978	Seattle             	10	San Diego           	37
+12/10/1978	Tampa Bay           	 3	San Francisco       	 6
+12/11/1978	Cincinnati          	20	LA Rams             	19
+12/16/1978	Chicago             	14	Washington          	10
+12/16/1978	Pittsburgh          	21	Denver              	17
+12/17/1978	Buffalo             	21	Baltimore           	14
+12/17/1978	Cleveland           	16	Cincinnati          	48
+12/17/1978	Dallas              	30	NY Jets             	 7
+12/17/1978	San Francisco       	14	Detroit             	33
+12/17/1978	Green Bay           	14	LA Rams             	31
+12/17/1978	New Orleans         	17	Tampa Bay           	10
+12/17/1978	Minnesota           	20	Oakland             	27
+12/17/1978	NY Giants           	 3	Philadelphia        	20
+12/17/1978	San Diego           	45	Houston             	24
+12/17/1978	Kansas City         	19	Seattle             	23
+12/17/1978	Atlanta             	21	St Louis            	42
+12/18/1978	New England         	 3	Miami               	23
+12/24/1978	Philadelphia        	13	Atlanta             	14
+12/24/1978	Houston             	17	Miami               	 9
+12/30/1978	Atlanta             	20	Dallas              	27
+12/30/1978	Denver              	10	Pittsburgh          	33
+12/31/1978	Houston             	31	New England         	14
+12/31/1978	Minnesota           	10	LA Rams             	34
+01/07/1979	Dallas              	28	LA Rams             	 0
+01/07/1979	Houston             	 5	Pittsburgh          	34
+01/21/1979	Pittsburgh          	35	Dallas              	31	n

@@ -1,0 +1,235 @@
+09/01/1991	Miami               	31	Buffalo             	35
+09/01/1991	Minnesota           	 6	Chicago             	10
+09/01/1991	Dallas              	26	Cleveland           	14
+09/01/1991	Cincinnati          	14	Denver              	45
+09/01/1991	LA Raiders          	17	Houston             	47
+09/01/1991	Atlanta             	 3	Kansas City         	14
+09/01/1991	New England         	16	Indianapolis        	 7
+09/01/1991	Seattle             	24	New Orleans         	27
+09/01/1991	Tampa Bay           	13	NY Jets             	16
+09/01/1991	Philadelphia        	20	Green Bay           	 3
+09/01/1991	Phoenix             	24	LA Rams             	14
+09/01/1991	San Diego           	20	Pittsburgh          	26
+09/01/1991	Detroit             	 0	Washington          	45
+09/02/1991	San Francisco       	14	NY Giants           	16
+09/08/1991	Pittsburgh          	34	Buffalo             	52
+09/08/1991	Chicago             	21	Tampa Bay           	20
+09/08/1991	Cleveland           	20	New England         	 0
+09/08/1991	Green Bay           	14	Detroit             	23
+09/08/1991	Houston             	30	Cincinnati          	 7
+09/08/1991	Denver              	13	LA Raiders          	16
+09/08/1991	LA Rams             	19	NY Giants           	13
+09/08/1991	Indianapolis        	 6	Miami               	17
+09/08/1991	Minnesota           	20	Atlanta             	19
+09/08/1991	New Orleans         	17	Kansas City         	10
+09/08/1991	Phoenix             	26	Philadelphia        	10
+09/08/1991	San Diego           	14	San Francisco       	34
+09/08/1991	NY Jets             	13	Seattle             	20
+09/09/1991	Washington          	33	Dallas              	31
+09/15/1991	Atlanta             	13	San Diego           	10
+09/15/1991	Buffalo             	23	NY Jets             	20
+09/15/1991	NY Giants           	17	Chicago             	20
+09/15/1991	Cincinnati          	13	Cleveland           	14
+09/15/1991	Seattle             	10	Denver              	16
+09/15/1991	Miami               	13	Detroit             	17
+09/15/1991	Tampa Bay           	13	Green Bay           	15
+09/15/1991	Indianapolis        	 0	LA Raiders          	16
+09/15/1991	San Francisco       	14	Minnesota           	17
+09/15/1991	LA Rams             	 7	New Orleans         	24
+09/15/1991	Philadelphia        	24	Dallas              	 0
+09/15/1991	New England         	 6	Pittsburgh          	20
+09/15/1991	Phoenix             	 0	Washington          	34
+09/16/1991	Kansas City         	 7	Houston             	17
+09/22/1991	LA Raiders          	17	Atlanta             	21
+09/22/1991	Buffalo             	17	Tampa Bay           	10
+09/22/1991	Dallas              	17	Phoenix             	 9
+09/22/1991	San Diego           	19	Denver              	27
+09/22/1991	Detroit             	33	Indianapolis        	24
+09/22/1991	Seattle             	13	Kansas City         	20
+09/22/1991	Green Bay           	13	Miami               	16
+09/22/1991	Houston             	20	New England         	24
+09/22/1991	Minnesota           	 0	New Orleans         	26
+09/22/1991	Cleveland           	10	NY Giants           	13
+09/22/1991	Pittsburgh          	14	Philadelphia        	23
+09/22/1991	LA Rams             	10	San Francisco       	27
+09/22/1991	Washington          	34	Cincinnati          	27
+09/23/1991	NY Jets             	13	Chicago             	19
+09/29/1991	Chicago             	20	Buffalo             	35
+09/29/1991	NY Giants           	16	Dallas              	21
+09/29/1991	Denver              	13	Minnesota           	 6
+09/29/1991	Tampa Bay           	 3	Detroit             	31
+09/29/1991	Kansas City         	14	San Diego           	13
+09/29/1991	San Francisco       	 6	LA Raiders          	12
+09/29/1991	Green Bay           	21	LA Rams             	23
+09/29/1991	New Orleans         	27	Atlanta             	 6
+09/29/1991	Miami               	23	NY Jets             	41
+09/29/1991	New England         	10	Phoenix             	24
+09/29/1991	Indianapolis        	 3	Seattle             	31
+09/30/1991	Philadelphia        	 0	Washington          	23
+10/06/1991	Dallas              	20	Green Bay           	17
+10/06/1991	Minnesota           	20	Detroit             	24
+10/06/1991	Denver              	14	Houston             	42
+10/06/1991	Miami               	20	New England         	10
+10/06/1991	Phoenix             	 9	NY Giants           	20
+10/06/1991	NY Jets             	17	Cleveland           	14
+10/06/1991	Pittsburgh          	21	Indianapolis        	 3
+10/06/1991	San Diego           	21	LA Raiders          	13
+10/06/1991	Seattle             	13	Cincinnati          	 7
+10/06/1991	Philadelphia        	13	Tampa Bay           	14
+10/06/1991	Washington          	20	Chicago             	 7
+10/07/1991	Buffalo             	 6	Kansas City         	33
+10/13/1991	San Francisco       	34	Atlanta             	39
+10/13/1991	Indianapolis        	 6	Buffalo             	42
+10/13/1991	Cincinnati          	23	Dallas              	35
+10/13/1991	Houston             	23	NY Jets             	20
+10/13/1991	Miami               	 7	Kansas City         	42
+10/13/1991	LA Raiders          	23	Seattle             	20
+10/13/1991	San Diego           	24	LA Rams             	30
+10/13/1991	Phoenix             	 7	Minnesota           	34
+10/13/1991	New Orleans         	13	Philadelphia        	 6
+10/13/1991	Cleveland           	17	Washington          	42
+10/14/1991	NY Giants           	23	Pittsburgh          	20
+10/17/1991	Chicago             	10	Green Bay           	 0
+10/20/1991	Cleveland           	30	San Diego           	24
+10/20/1991	Kansas City         	16	Denver              	19
+10/20/1991	Houston             	17	Miami               	13
+10/20/1991	LA Rams             	17	LA Raiders          	20
+10/20/1991	Minnesota           	23	New England         	26
+10/20/1991	Tampa Bay           	 7	New Orleans         	23
+10/20/1991	NY Jets             	17	Indianapolis        	 6
+10/20/1991	Atlanta             	10	Phoenix             	16
+10/20/1991	Detroit             	 3	San Francisco       	35
+10/20/1991	Seattle             	27	Pittsburgh          	 7
+10/21/1991	Cincinnati          	16	Buffalo             	35
+10/27/1991	LA Rams             	14	Atlanta             	31
+10/27/1991	Chicago             	20	New Orleans         	17
+10/27/1991	Pittsburgh          	14	Cleveland           	17
+10/27/1991	Denver              	 9	New England         	 6
+10/27/1991	Dallas              	10	Detroit             	34
+10/27/1991	Green Bay           	27	Tampa Bay           	 0
+10/27/1991	Cincinnati          	 3	Houston             	35
+10/27/1991	Minnesota           	28	Phoenix             	 0
+10/27/1991	San Francisco       	23	Philadelphia        	 7
+10/27/1991	San Diego           	 9	Seattle             	20
+10/27/1991	Washington          	17	NY Giants           	13
+10/28/1991	LA Raiders          	21	Kansas City         	24
+11/03/1991	Atlanta             	17	San Francisco       	14
+11/03/1991	New England         	17	Buffalo             	22
+11/03/1991	Detroit             	10	Chicago             	20
+11/03/1991	Cleveland           	21	Cincinnati          	23
+11/03/1991	Phoenix             	 7	Dallas              	27
+11/03/1991	Pittsburgh          	13	Denver              	20
+11/03/1991	Miami               	10	Indianapolis        	 6
+11/03/1991	Tampa Bay           	13	Minnesota           	28
+11/03/1991	New Orleans         	24	LA Rams             	17
+11/03/1991	Green Bay           	16	NY Jets             	19
+11/03/1991	Houston             	13	Washington          	16
+11/04/1991	NY Giants           	 7	Philadelphia        	30
+11/10/1991	Buffalo             	34	Green Bay           	24
+11/10/1991	Dallas              	23	Houston             	26
+11/10/1991	Indianapolis        	28	NY Jets             	27
+11/10/1991	Kansas City         	27	LA Rams             	20
+11/10/1991	LA Raiders          	17	Denver              	16
+11/10/1991	New England         	20	Miami               	30
+11/10/1991	San Francisco       	 3	New Orleans         	10
+11/10/1991	NY Giants           	21	Phoenix             	14
+11/10/1991	Philadelphia        	32	Cleveland           	30
+11/10/1991	Pittsburgh          	33	Cincinnati          	27
+11/10/1991	Seattle             	14	San Diego           	17
+11/10/1991	Detroit             	21	Tampa Bay           	30
+11/10/1991	Atlanta             	17	Washington          	56
+11/11/1991	Chicago             	34	Minnesota           	17
+11/17/1991	Tampa Bay           	 7	Atlanta             	43
+11/17/1991	Chicago             	31	Indianapolis        	17
+11/17/1991	Denver              	24	Kansas City         	20
+11/17/1991	LA Rams             	10	Detroit             	21
+11/17/1991	Cleveland           	24	Houston             	28
+11/17/1991	Seattle             	 7	LA Raiders          	31
+11/17/1991	Minnesota           	35	Green Bay           	21
+11/17/1991	Dallas              	 9	NY Giants           	22
+11/17/1991	NY Jets             	28	New England         	21
+11/17/1991	Cincinnati          	10	Philadelphia        	17
+11/17/1991	New Orleans         	21	San Diego           	24
+11/17/1991	Phoenix             	10	San Francisco       	14
+11/17/1991	Washington          	41	Pittsburgh          	14
+11/18/1991	Buffalo             	41	Miami               	27
+11/24/1991	Atlanta             	23	New Orleans         	20
+11/24/1991	Kansas City         	15	Cleveland           	20
+11/24/1991	Dallas              	24	Washington          	21
+11/24/1991	Detroit             	34	Minnesota           	14
+11/24/1991	Indianapolis        	10	Green Bay           	14
+11/24/1991	LA Raiders          	38	Cincinnati          	14
+11/24/1991	Miami               	16	Chicago             	13
+11/24/1991	Buffalo             	13	New England         	16
+11/24/1991	NY Giants           	21	Tampa Bay           	14
+11/24/1991	San Diego           	 3	NY Jets             	24
+11/24/1991	Philadelphia        	34	Phoenix             	14
+11/24/1991	Houston             	14	Pittsburgh          	26
+11/24/1991	Denver              	10	Seattle             	13
+11/25/1991	San Francisco       	33	LA Rams             	10
+11/28/1991	Pittsburgh          	10	Dallas              	20
+11/28/1991	Chicago             	 6	Detroit             	16
+12/01/1991	Green Bay           	31	Atlanta             	35
+12/01/1991	NY Jets             	13	Buffalo             	24
+12/01/1991	NY Giants           	24	Cincinnati          	27
+12/01/1991	Cleveland           	31	Indianapolis        	 0
+12/01/1991	New England         	 3	Denver              	20
+12/01/1991	Kansas City         	19	Seattle             	 6
+12/01/1991	LA Raiders          	 9	San Diego           	 7
+12/01/1991	Tampa Bay           	14	Miami               	33
+12/01/1991	New Orleans         	24	San Francisco       	38
+12/01/1991	Washington          	27	LA Rams             	 6
+12/02/1991	Philadelphia        	13	Houston             	 6
+12/08/1991	Atlanta             	31	LA Rams             	14
+12/08/1991	Buffalo             	30	LA Raiders          	27
+12/08/1991	Green Bay           	13	Chicago             	27
+12/08/1991	New Orleans         	14	Dallas              	23
+12/08/1991	Denver              	17	Cleveland           	 7
+12/08/1991	NY Jets             	20	Detroit             	34
+12/08/1991	Pittsburgh          	 6	Houston             	31
+12/08/1991	San Diego           	17	Kansas City         	20
+12/08/1991	Minnesota           	26	Tampa Bay           	24
+12/08/1991	Indianapolis        	17	New England         	23
+12/08/1991	Philadelphia        	19	NY Giants           	14
+12/08/1991	San Francisco       	24	Seattle             	22
+12/08/1991	Washington          	20	Phoenix             	14
+12/09/1991	Cincinnati          	13	Miami               	37
+12/14/1991	Tampa Bay           	 0	Chicago             	27
+12/14/1991	Kansas City         	14	San Francisco       	28
+12/15/1991	Seattle             	13	Atlanta             	26
+12/15/1991	Buffalo             	35	Indianapolis        	 7
+12/15/1991	Dallas              	25	Philadelphia        	13
+12/15/1991	Phoenix             	19	Denver              	24
+12/15/1991	Detroit             	21	Green Bay           	17
+12/15/1991	Houston             	17	Cleveland           	14
+12/15/1991	LA Rams             	14	Minnesota           	20
+12/15/1991	New England         	 6	NY Jets             	 3
+12/15/1991	Cincinnati          	10	Pittsburgh          	17
+12/15/1991	Miami               	30	San Diego           	38
+12/15/1991	NY Giants           	17	Washington          	34
+12/16/1991	LA Raiders          	 0	New Orleans         	27
+12/21/1991	Houston             	20	NY Giants           	24
+12/22/1991	New England         	 7	Cincinnati          	29
+12/22/1991	Atlanta             	27	Dallas              	31
+12/22/1991	Denver              	17	San Diego           	14
+12/22/1991	Detroit             	17	Buffalo             	14
+12/22/1991	Green Bay           	27	Minnesota           	 7
+12/22/1991	Kansas City         	27	LA Raiders          	21
+12/22/1991	New Orleans         	27	Phoenix             	 3
+12/22/1991	NY Jets             	23	Miami               	20
+12/22/1991	Washington          	22	Philadelphia        	24
+12/22/1991	Cleveland           	10	Pittsburgh          	17
+12/22/1991	LA Rams             	 9	Seattle             	23
+12/22/1991	Indianapolis        	 3	Tampa Bay           	17
+12/23/1991	Chicago             	14	San Francisco       	52
+12/28/1991	Atlanta             	27	New Orleans         	20
+12/28/1991	LA Raiders          	 6	Kansas City         	10
+12/29/1991	Dallas              	17	Chicago             	13
+12/29/1991	NY Jets             	10	Houston             	17
+01/04/1992	Houston             	24	Denver              	26
+01/04/1992	Atlanta             	 7	Washington          	24
+01/05/1992	Kansas City         	14	Buffalo             	37
+01/05/1992	Dallas              	 6	Detroit             	38
+01/12/1992	Denver              	 7	Buffalo             	10
+01/12/1992	Detroit             	10	Washington          	41
+01/26/1992	Washington          	37	Buffalo             	24	0

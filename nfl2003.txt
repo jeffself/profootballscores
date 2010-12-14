@@ -1,0 +1,268 @@
+09/04/2003  New York Jets       13  Washington          16
+09/07/2003  Indianapolis         9  Cleveland            6
+09/07/2003  Denver              30  Cincinnati          10
+09/07/2003  Jacksonville        23  Carolina            24
+09/07/2003  New England          0  Buffalo             31
+09/07/2003  Baltimore           15  Pittsburgh          34
+09/07/2003  St. Louis           13  New York Giants     23
+09/07/2003  Houston             21  Miami               20
+09/07/2003  San Diego           14  Kansas City         27
+09/07/2003  Minnesota           30  Green Bay           25
+09/07/2003  Arizona             24  Detroit             42
+09/07/2003  New Orleans         10  Seattle             27
+09/07/2003  Chicago              7  San Francisco       49
+09/07/2003  Atlanta             27  Dallas              13
+09/07/2003  Oakland             20  Tennessee           25
+09/08/2003  Tampa Bay           17  Philadelphia         0
+09/14/2003  San Francisco       24  St. Louis           27
+09/14/2003  Miami               21  New York Jets       10
+09/14/2003  Houston             10  New Orleans         31
+09/14/2003  Pittsburgh          20  Kansas City         41
+09/14/2003  Buffalo             38  Jacksonville        17
+09/14/2003  Tennessee            7  Indianapolis        33
+09/14/2003  Detroit              6  Green Bay           31
+09/14/2003  Cleveland           13  Baltimore           33
+09/14/2003  Washington          33  Atlanta             31
+09/14/2003  Carolina            12  Tampa Bay            9
+09/14/2003  Seattle             38  Arizona              0
+09/14/2003  Denver              37  San Diego           13
+09/14/2003  New England         31  Philadelphia        10
+09/14/2003  Cincinnati          20  Oakland             23
+09/14/2003  Chicago             13  Minnesota           24
+09/15/2003  Dallas              35  New York Giants     32
+09/21/2003  Kansas City         42  Houston             14
+09/21/2003  Minnesota           23  Detroit             13
+09/21/2003  Pittsburgh          17  Cincinnati          10
+09/21/2003  Tampa Bay           31  Atlanta             10
+09/21/2003  New York Jets       16  New England         23
+09/21/2003  New Orleans         12  Tennessee           27
+09/21/2003  Jacksonville        13  Indianapolis        23
+09/21/2003  New York Giants     24  Washington          21
+09/21/2003  St. Louis           23  Seattle             24
+09/21/2003  Green Bay           13  Arizona             20
+09/21/2003  Cleveland           13  San Francisco       12
+09/21/2003  Baltimore           24  San Diego           10
+09/21/2003  Buffalo              7  Miami               17
+09/22/2003  Oakland             10  Denver              31
+09/28/2003  Tennessee           30  Pittsburgh          13
+09/28/2003  Cincinnati          21  Cleveland           14
+09/28/2003  Dallas              17  New York Jets        6
+09/28/2003  New England         17  Washington          20
+09/28/2003  San Francisco        7  Minnesota           35
+09/28/2003  Philadelphia        23  Buffalo             13
+09/28/2003  Detroit             16  Denver              20
+09/28/2003  Arizona             13  St. Louis           37
+09/28/2003  Jacksonville        20  Houston             24
+09/28/2003  Kansas City         17  Baltimore           10
+09/28/2003  Atlanta              3  Carolina            23
+09/28/2003  San Diego           31  Oakland             34
+09/28/2003  Indianapolis        55  New Orleans         21
+09/29/2003  Green Bay           38  Chicago             23
+10/05/2003  Miami               23  New York Giants     10
+10/05/2003  Tennessee           30  New England         38
+10/05/2003  Denver              23  Kansas City         24
+10/05/2003  Seattle             13  Green Bay           35
+10/05/2003  Arizona              7  Dallas              24
+10/05/2003  Oakland             21  Chicago             24
+10/05/2003  New Orleans         13  Carolina            19
+10/05/2003  Cincinnati          16  Buffalo             22
+10/05/2003  Minnesota           39  Atlanta             26
+10/05/2003  San Diego           21  Jacksonville        27
+10/05/2003  Detroit             17  San Francisco       24
+10/05/2003  Washington          25  Philadelphia        27
+10/05/2003  Cleveland           33  Pittsburgh          13
+10/06/2003  Indianapolis        38  Tampa Bay           35
+10/12/2003  Tampa Bay           35  Washington          13
+10/12/2003  Philadelphia        21  Dallas              23
+10/12/2003  Oakland              7  Cleveland           13
+10/12/2003  Kansas City         40  Green Bay           34
+10/12/2003  Carolina            23  Indianapolis        20
+10/12/2003  Miami               24  Jacksonville        10
+10/12/2003  New York Giants      6  New England         17
+10/12/2003  Chicago             13  New Orleans         20
+10/12/2003  Houston             17  Tennessee           38
+10/12/2003  Baltimore           26  Arizona             18
+10/12/2003  Pittsburgh          14  Denver              17
+10/12/2003  Buffalo              3  New York Jets       30
+10/12/2003  San Francisco       19  Seattle             20
+10/13/2003  Atlanta              0  St. Louis           36
+10/19/2003  Baltimore           26  Cincinnati          34
+10/19/2003  Tennessee           37  Carolina            17
+10/19/2003  New Orleans         45  Atlanta             17
+10/19/2003  Green Bay           24  St. Louis           34
+10/19/2003  Philadelphia        14  New York Giants     10
+10/19/2003  Denver              20  Minnesota           28
+10/19/2003  New England         19  Miami               13
+10/19/2003  Dallas              38  Detroit              7
+10/19/2003  San Diego           26  Cleveland           20
+10/19/2003  New York Jets       19  Houston             14
+10/19/2003  Chicago             17  Seattle             24
+10/19/2003  Tampa Bay            7  San Francisco       24
+10/19/2003  Washington           7  Buffalo             24
+10/20/2003  Kansas City         17  Oakland             10
+10/26/2003  Buffalo              5  Kansas City         38
+10/26/2003  Dallas               0  Tampa Bay           16
+10/26/2003  St. Louis           33  Pittsburgh          21
+10/26/2003  Tennessee           30  Jacksonville        17
+10/26/2003  Seattle             24  Cincinnati          27
+10/26/2003  Detroit             16  Chicago             24
+10/26/2003  Denver               6  Baltimore           26
+10/26/2003  Carolina            23  New Orleans         20
+10/26/2003  Cleveland            3  New England          9
+10/26/2003  New York Giants     29  Minnesota           17
+10/26/2003  San Francisco       13  Arizona             16
+10/26/2003  New York Jets       17  Philadelphia        24
+10/26/2003  Houston             21  Indianapolis        30
+10/27/2003  Miami               26  San Diego           10
+11/02/2003  Indianapolis        23  Miami               17
+11/02/2003  Oakland             13  Detroit             23
+11/02/2003  Carolina            10  Houston             14
+11/02/2003  San Diego            7  Chicago             20
+11/02/2003  Jacksonville        17  Baltimore           24
+11/02/2003  New Orleans         17  Tampa Bay           14
+11/02/2003  New York Giants     31  New York Jets       28
+11/02/2003  Pittsburgh          16  Seattle             23
+11/02/2003  Cincinnati          14  Arizona             17
+11/02/2003  St. Louis           10  San Francisco       30
+11/02/2003  Philadelphia        23  Atlanta             16
+11/02/2003  Washington          14  Dallas              21
+11/02/2003  Green Bay           30  Minnesota           27
+11/03/2003  New England         30  Denver              26
+11/09/2003  Seattle             20  Washington          27
+11/09/2003  Tampa Bay           24  Carolina            27
+11/09/2003  Arizona             15  Pittsburgh          28
+11/09/2003  Atlanta             27  New York Giants      7
+11/09/2003  Chicago             10  Detroit             12
+11/09/2003  Indianapolis        23  Jacksonville        28
+11/09/2003  Cleveland           20  Kansas City         41
+11/09/2003  Houston             27  Cincinnati          34
+11/09/2003  Buffalo              6  Dallas              10
+11/09/2003  Miami                7  Tennessee           31
+11/09/2003  Minnesota           28  San Diego           42
+11/09/2003  New York Jets       27  Oakland             24
+11/09/2003  Baltimore           22  St. Louis           33
+11/10/2003  Philadelphia        17  Green Bay           14
+11/16/2003  Arizona              6  Cleveland           44
+11/16/2003  Kansas City         19  Cincinnati          24
+11/16/2003  St. Louis           23  Chicago             21
+11/16/2003  Washington          17  Carolina            20
+11/16/2003  Houston             12  Buffalo             10
+11/16/2003  Jacksonville         3  Tennessee           10
+11/16/2003  New York Giants     10  Philadelphia        28
+11/16/2003  Atlanta             20  New Orleans         23
+11/16/2003  Baltimore            6  Miami                9
+11/16/2003  New York Jets       31  Indianapolis        38
+11/16/2003  San Diego            8  Denver              37
+11/16/2003  Green Bay           20  Tampa Bay           13
+11/16/2003  Detroit             14  Seattle             35
+11/16/2003  Minnesota           18  Oakland             28
+11/16/2003  Dallas               0  New England         12
+11/17/2003  Pittsburgh          14  San Francisco       30
+11/23/2003  New Orleans         20  Philadelphia        33
+11/23/2003  Jacksonville        10  New York Jets       13
+11/23/2003  Detroit             14  Minnesota           24
+11/23/2003  New England         23  Houston             20
+11/23/2003  San Francisco       10  Green Bay           20
+11/23/2003  Carolina            20  Dallas              24
+11/23/2003  Pittsburgh          13  Cleveland            6
+11/23/2003  Indianapolis        17  Buffalo             14
+11/23/2003  Seattle             41  Baltimore           44
+11/23/2003  St. Louis           30  Arizona             27
+11/23/2003  Oakland             24  Kansas City         27
+11/23/2003  Chicago             19  Denver              10
+11/23/2003  Cincinnati          34  San Diego           27
+11/23/2003  Tennessee           38  Atlanta             31
+11/23/2003  Washington          23  Miami               24
+11/24/2003  New York Giants     13  Tampa Bay           19
+11/27/2003  Green Bay           14  Detroit             22
+11/27/2003  Miami               40  Dallas              21
+11/30/2003  Minnesota           17  St. Louis           48
+11/30/2003  New England         38  Indianapolis        34
+11/30/2003  Denver              22  Oakland              8
+11/30/2003  New Orleans         24  Washington          20
+11/30/2003  San Francisco        6  Baltimore           44
+11/30/2003  Cincinnati          24  Pittsburgh          20
+11/30/2003  Arizona              3  Chicago             28
+11/30/2003  Buffalo             24  New York Giants      7
+11/30/2003  Atlanta             13  Houston             17
+11/30/2003  Philadelphia        25  Carolina            16
+11/30/2003  Kansas City         28  San Diego           24
+11/30/2003  Cleveland            7  Seattle             34
+11/30/2003  Tampa Bay           10  Jacksonville        17
+12/01/2003  Tennessee           17  New York Jets       24
+12/07/2003  Dallas              10  Philadelphia        36
+12/07/2003  Indianapolis        29  Tennessee           27
+12/07/2003  Oakland              7  Pittsburgh          27
+12/07/2003  Washington          20  New York Giants      7
+12/07/2003  Tampa Bay           14  New Orleans          7
+12/07/2003  Seattle              7  Minnesota           34
+12/07/2003  Houston              0  Jacksonville        27
+12/07/2003  Chicago             21  Green Bay           34
+12/07/2003  San Diego           14  Detroit              7
+12/07/2003  Cincinnati          13  Baltimore           31
+12/07/2003  New York Jets        6  Buffalo             17
+12/07/2003  Arizona             14  San Francisco       50
+12/07/2003  Miami                0  New England         12
+12/07/2003  Kansas City         27  Denver              45
+12/07/2003  Carolina            14  Atlanta             20
+12/08/2003  St. Louis           26  Cleveland           20
+12/14/2003  Buffalo             26  Tennessee           28
+12/14/2003  Houston              3  Tampa Bay           16
+12/14/2003  Seattle             22  St. Louis           27
+12/14/2003  Pittsburgh           0  New York Jets        6
+12/14/2003  Jacksonville        13  New England         27
+12/14/2003  Detroit             17  Kansas City         45
+12/14/2003  Atlanta              7  Indianapolis        38
+12/14/2003  San Francisco       38  Cincinnati          41
+12/14/2003  Minnesota           10  Chicago             13
+12/14/2003  Baltimore           12  Oakland             20
+12/14/2003  Cleveland           20  Denver              23
+12/14/2003  Green Bay           38  San Diego           21
+12/14/2003  Carolina            20  Arizona             17
+12/14/2003  Dallas              27  Washington           0
+12/14/2003  New York Giants      7  New Orleans         45
+12/15/2003  Philadelphia        34  Miami               27
+12/20/2003  Atlanta             30  Tampa Bay           28
+12/20/2003  Kansas City         20  Minnesota           45
+12/20/2003  New England         21  New York Jets       16
+12/21/2003  Cincinnati          10  St. Louis           27
+12/21/2003  New Orleans         19  Jacksonville        20
+12/21/2003  New York Giants      3  Dallas              19
+12/21/2003  Baltimore           35  Cleveland            0
+12/21/2003  Detroit             14  Carolina            20
+12/21/2003  Miami               20  Buffalo              3
+12/21/2003  Washington          24  Chicago             27
+12/21/2003  Tennessee           27  Houston             24
+12/21/2003  San Diego           24  Pittsburgh          40
+12/21/2003  Arizona             10  Seattle             28
+12/21/2003  San Francisco       31  Philadelphia        28
+12/21/2003  Denver              31  Indianapolis        17
+12/22/2003  Green Bay           41  Oakland              7
+12/27/2003  Buffalo              0  New England         31
+12/27/2003  Seattle             24  San Francisco       17
+12/27/2003  Philadelphia        31  Washington           7
+12/28/2003  Tampa Bay           13  Tennessee           33
+12/28/2003  Dallas               7  New Orleans         13
+12/28/2003  New York Jets       21  Miami               23
+12/28/2003  Chicago              3  Kansas City         31
+12/28/2003  Carolina            37  New York Giants     24
+12/28/2003  Indianapolis        20  Houston             17
+12/28/2003  St. Louis           20  Detroit             30
+12/28/2003  Cleveland           22  Cincinnati          14
+12/28/2003  Jacksonville        14  Atlanta             21
+12/28/2003  Minnesota           17  Arizona             18
+12/28/2003  Oakland             14  San Diego           21
+12/28/2003  Denver               3  Green Bay           31
+12/28/2003  Pittsburgh          10  Baltimore           13
+01/03/2004  Tennessee           20  Baltimore           17
+01/03/2004  Dallas              10  Carolina            29
+01/04/2004  Seattle             27  Green Bay           33
+01/04/2004  Denver              10  Indianapolis        41
+01/10/2004  Carolina            29  St. Louis           23
+01/10/2004  Tennessee           14  New England         17
+01/11/2004  Indianapolis        38  Kansas City         31
+01/11/2004  Green Bay           17  Philadelphia        20
+01/18/2004  Indianapolis        14  New England         24
+01/18/2004  Carolina            14  Philadelphia         3
+02/01/2004  New England         32  Carolina            29 0
+

@@ -1,0 +1,100 @@
+09/19/1965	Chicago             	24	San Francisco       	52
+09/19/1965	LA Rams             	 0	Detroit             	20
+09/19/1965	Minnesota           	16	Baltimore           	35
+09/19/1965	NY Giants           	 2	Dallas              	31
+09/19/1965	Green Bay           	41	Pittsburgh          	 9
+09/19/1965	St Louis            	27	Philadelphia        	34
+09/19/1965	Cleveland           	17	Washington          	 7
+09/25/1965	Chicago             	28	LA Rams             	30
+09/26/1965	Baltimore           	17	Green Bay           	20
+09/26/1965	St Louis            	49	Cleveland           	13
+09/26/1965	Detroit             	31	Minnesota           	29
+09/26/1965	NY Giants           	16	Philadelphia        	14
+09/26/1965	Pittsburgh          	17	San Francisco       	27
+09/26/1965	Washington          	 7	Dallas              	27
+10/03/1965	Chicago             	14	Green Bay           	23
+10/03/1965	Minnesota           	38	LA Rams             	35
+10/03/1965	Cleveland           	35	Philadelphia        	17
+10/03/1965	NY Giants           	23	Pittsburgh          	13
+10/03/1965	San Francisco       	24	Baltimore           	27
+10/03/1965	Washington          	10	Detroit             	14
+10/04/1965	Dallas              	13	St Louis            	20
+10/09/1965	Pittsburgh          	19	Cleveland           	24
+10/10/1965	Philadelphia        	35	Dallas              	24
+10/10/1965	Detroit             	 7	Baltimore           	31
+10/10/1965	LA Rams             	 6	Chicago             	31
+10/10/1965	NY Giants           	14	Minnesota           	40
+10/10/1965	San Francisco       	10	Green Bay           	27
+10/10/1965	St Louis            	37	Washington          	16
+10/17/1965	Dallas              	17	Cleveland           	23
+10/17/1965	Green Bay           	31	Detroit             	21
+10/17/1965	San Francisco       	45	LA Rams             	21
+10/17/1965	Chicago             	45	Minnesota           	37
+10/17/1965	Philadelphia        	27	NY Giants           	35
+10/17/1965	St Louis            	20	Pittsburgh          	 7
+10/17/1965	Baltimore           	38	Washington          	 7
+10/24/1965	Dallas              	 3	Green Bay           	13
+10/24/1965	Detroit             	10	Chicago             	38
+10/24/1965	LA Rams             	20	Baltimore           	35
+10/24/1965	Cleveland           	38	NY Giants           	14
+10/24/1965	Pittsburgh          	20	Philadelphia        	14
+10/24/1965	Washington          	24	St Louis            	20
+10/24/1965	Minnesota           	42	San Francisco       	41
+10/31/1965	Minnesota           	27	Cleveland           	17
+10/31/1965	Dallas              	13	Pittsburgh          	22
+10/31/1965	Green Bay           	10	Chicago             	31
+10/31/1965	Detroit             	31	LA Rams             	 7
+10/31/1965	Philadelphia        	21	Washington          	23
+10/31/1965	St Louis            	10	NY Giants           	14
+10/31/1965	Baltimore           	34	San Francisco       	28
+11/07/1965	Baltimore           	26	Chicago             	21
+11/07/1965	Detroit             	12	Green Bay           	 7
+11/07/1965	LA Rams             	13	Minnesota           	24
+11/07/1965	Washington          	23	NY Giants           	 7
+11/07/1965	Philadelphia        	34	Cleveland           	38
+11/07/1965	Pittsburgh          	17	St Louis            	21
+11/07/1965	San Francisco       	31	Dallas              	39
+11/14/1965	San Francisco       	27	Detroit             	21
+11/14/1965	LA Rams             	 3	Green Bay           	 6
+11/14/1965	Baltimore           	41	Minnesota           	21
+11/14/1965	NY Giants           	21	Cleveland           	34
+11/14/1965	Pittsburgh          	17	Dallas              	24
+11/14/1965	St Louis            	13	Chicago             	34
+11/14/1965	Washington          	14	Philadelphia        	21
+11/21/1965	Cleveland           	24	Dallas              	17
+11/21/1965	Chicago             	17	Detroit             	10
+11/21/1965	LA Rams             	27	San Francisco       	30
+11/21/1965	Green Bay           	38	Minnesota           	13
+11/21/1965	Philadelphia        	24	Baltimore           	34
+11/21/1965	Washington          	31	Pittsburgh          	 3
+11/21/1965	NY Giants           	28	St Louis            	15
+11/25/1965	Baltimore           	24	Detroit             	24
+11/28/1965	Dallas              	31	Washington          	34
+11/28/1965	Green Bay           	10	LA Rams             	21
+11/28/1965	San Francisco       	45	Minnesota           	24
+11/28/1965	Chicago             	35	NY Giants           	14
+11/28/1965	Cleveland           	42	Pittsburgh          	21
+11/28/1965	Philadelphia        	28	St Louis            	24
+12/05/1965	Chicago             	13	Baltimore           	 0
+12/05/1965	Detroit             	14	San Francisco       	17
+12/05/1965	Minnesota           	19	Green Bay           	24
+12/05/1965	Dallas              	21	Philadelphia        	19
+12/05/1965	Pittsburgh          	10	NY Giants           	35
+12/05/1965	LA Rams             	27	St Louis            	 3
+12/05/1965	Washington          	16	Cleveland           	24
+12/11/1965	St Louis            	13	Dallas              	27
+12/12/1965	Green Bay           	42	Baltimore           	27
+12/12/1965	Cleveland           	 7	LA Rams             	42
+12/12/1965	Minnesota           	29	Detroit             	 7
+12/12/1965	Philadelphia        	47	Pittsburgh          	13
+12/12/1965	San Francisco       	20	Chicago             	61
+12/12/1965	NY Giants           	27	Washington          	10
+12/18/1965	Baltimore           	20	LA Rams             	17
+12/19/1965	Minnesota           	24	Chicago             	17
+12/19/1965	Dallas              	38	NY Giants           	20
+12/19/1965	Detroit             	35	Philadelphia        	28
+12/19/1965	Pittsburgh          	14	Washington          	35
+12/19/1965	Cleveland           	27	St Louis            	24
+12/19/1965	Green Bay           	24	San Francisco       	24
+12/26/1965	Baltimore           	10	Green Bay           	13
+01/02/1966	Cleveland           	12	Green Bay           	23

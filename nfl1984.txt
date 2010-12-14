@@ -1,0 +1,233 @@
+09/02/1984	Atlanta             	36	New Orleans         	28
+09/02/1984	Tampa Bay           	14	Chicago             	34
+09/02/1984	Cincinnati          	17	Denver              	20
+09/02/1984	St Louis            	23	Green Bay           	24
+09/02/1984	Kansas City         	37	Pittsburgh          	27
+09/02/1984	LA Raiders          	24	Houston             	14
+09/02/1984	Miami               	35	Washington          	17
+09/02/1984	New England         	21	Buffalo             	17
+09/02/1984	Philadelphia        	27	NY Giants           	28
+09/02/1984	NY Jets             	23	Indianapolis        	14
+09/02/1984	San Diego           	42	Minnesota           	13
+09/02/1984	San Francisco       	30	Detroit             	27
+09/03/1984	Dallas              	20	LA Rams             	13
+09/03/1984	Cleveland           	 0	Seattle             	33
+09/06/1984	Pittsburgh          	23	NY Jets             	17
+09/09/1984	Denver              	 0	Chicago             	27
+09/09/1984	Detroit             	27	Atlanta             	24
+09/09/1984	Indianapolis        	35	Houston             	21
+09/09/1984	Kansas City         	27	Cincinnati          	22
+09/09/1984	Green Bay           	 7	LA Raiders          	28
+09/09/1984	Cleveland           	17	LA Rams             	20
+09/09/1984	New England         	 7	Miami               	28
+09/09/1984	Tampa Bay           	13	New Orleans         	17
+09/09/1984	Dallas              	 7	NY Giants           	28
+09/09/1984	Minnesota           	17	Philadelphia        	19
+09/09/1984	San Diego           	17	Seattle             	31
+09/09/1984	Buffalo             	 7	St Louis            	37
+09/10/1984	Washington          	31	San Francisco       	37
+09/16/1984	Chicago             	 9	Green Bay           	 7
+09/16/1984	Philadelphia        	17	Dallas              	23
+09/16/1984	Denver              	24	Cleveland           	14
+09/16/1984	LA Raiders          	22	Kansas City         	20
+09/16/1984	Atlanta             	20	Minnesota           	27
+09/16/1984	Seattle             	23	New England         	38
+09/16/1984	Cincinnati          	23	NY Jets             	43
+09/16/1984	LA Rams             	14	Pittsburgh          	24
+09/16/1984	Houston             	14	San Diego           	31
+09/16/1984	New Orleans         	20	San Francisco       	30
+09/16/1984	St Louis            	34	Indianapolis        	33
+09/16/1984	Detroit             	17	Tampa Bay           	21
+09/16/1984	NY Giants           	14	Washington          	30
+09/17/1984	Miami               	21	Buffalo             	17
+09/23/1984	Houston             	10	Atlanta             	42
+09/23/1984	Pittsburgh          	10	Cleveland           	20
+09/23/1984	Green Bay           	 6	Dallas              	20
+09/23/1984	Kansas City         	 0	Denver              	21
+09/23/1984	LA Rams             	24	Cincinnati          	14
+09/23/1984	Indianapolis        	 7	Miami               	44
+09/23/1984	Minnesota           	29	Detroit             	28
+09/23/1984	St Louis            	24	New Orleans         	34
+09/23/1984	Tampa Bay           	14	NY Giants           	17
+09/23/1984	NY Jets             	28	Buffalo             	26
+09/23/1984	San Francisco       	21	Philadelphia        	 9
+09/23/1984	Chicago             	 9	Seattle             	38
+09/23/1984	Washington          	26	New England         	10
+09/24/1984	San Diego           	30	LA Raiders          	33
+09/30/1984	Dallas              	23	Chicago             	14
+09/30/1984	LA Raiders          	13	Denver              	16
+09/30/1984	Buffalo             	17	Indianapolis        	31
+09/30/1984	Cleveland           	 6	Kansas City         	10
+09/30/1984	NY Giants           	12	LA Rams             	33
+09/30/1984	Miami               	36	St Louis            	28
+09/30/1984	New England         	28	NY Jets             	21
+09/30/1984	New Orleans         	27	Houston             	10
+09/30/1984	Detroit             	24	San Diego           	27
+09/30/1984	Atlanta             	 5	San Francisco       	14
+09/30/1984	Seattle             	20	Minnesota           	12
+09/30/1984	Green Bay           	27	Tampa Bay           	30
+09/30/1984	Philadelphia        	 0	Washington          	20
+10/01/1984	Cincinnati          	17	Pittsburgh          	38
+10/07/1984	Atlanta             	30	LA Rams             	28
+10/07/1984	New Orleans         	 7	Chicago             	20
+10/07/1984	Houston             	 3	Cincinnati          	13
+10/07/1984	Denver              	28	Detroit             	 7
+10/07/1984	Seattle             	14	LA Raiders          	28
+10/07/1984	Miami               	31	Pittsburgh          	 7
+10/07/1984	New England         	17	Cleveland           	16
+10/07/1984	NY Jets             	17	Kansas City         	16
+10/07/1984	Philadelphia        	27	Buffalo             	17
+10/07/1984	San Diego           	34	Green Bay           	28
+10/07/1984	St Louis            	31	Dallas              	20
+10/07/1984	Minnesota           	31	Tampa Bay           	35
+10/07/1984	Washington          	35	Indianapolis        	 7
+10/08/1984	San Francisco       	31	NY Giants           	10
+10/14/1984	Tampa Bay           	 7	Detroit             	13
+10/14/1984	San Diego           	13	Kansas City         	31
+10/14/1984	Minnesota           	20	LA Raiders          	23
+10/14/1984	LA Rams             	28	New Orleans         	10
+10/14/1984	Houston             	10	Miami               	28
+10/14/1984	Cincinnati          	14	New England         	20
+10/14/1984	NY Giants           	19	Atlanta             	 7
+10/14/1984	NY Jets             	24	Cleveland           	20
+10/14/1984	Indianapolis        	 7	Philadelphia        	16
+10/14/1984	Pittsburgh          	20	San Francisco       	17
+10/14/1984	Buffalo             	28	Seattle             	31
+10/14/1984	Chicago             	21	St Louis            	38
+10/14/1984	Dallas              	14	Washington          	34
+10/15/1984	Green Bay           	14	Denver              	17
+10/21/1984	Chicago             	44	Tampa Bay           	 9
+10/21/1984	Cleveland           	 9	Cincinnati          	12
+10/21/1984	New Orleans         	27	Dallas              	30
+10/21/1984	Denver              	37	Buffalo             	 7
+10/21/1984	Detroit             	16	Minnesota           	14
+10/21/1984	Pittsburgh          	16	Indianapolis        	17
+10/21/1984	LA Raiders          	44	San Diego           	37
+10/21/1984	Miami               	44	New England         	24
+10/21/1984	Kansas City         	 7	NY Jets             	28
+10/21/1984	NY Giants           	10	Philadelphia        	24
+10/21/1984	San Francisco       	34	Houston             	21
+10/21/1984	Seattle             	30	Green Bay           	24
+10/21/1984	Washington          	24	St Louis            	26
+10/22/1984	LA Rams             	24	Atlanta             	10
+10/28/1984	Minnesota           	 7	Chicago             	16
+10/28/1984	Cincinnati          	31	Houston             	13
+10/28/1984	Indianapolis        	 3	Dallas              	22
+10/28/1984	Denver              	22	LA Raiders          	19
+10/28/1984	Detroit             	 9	Green Bay           	41
+10/28/1984	Tampa Bay           	20	Kansas City         	24
+10/28/1984	Buffalo             	 7	Miami               	38
+10/28/1984	NY Jets             	20	New England         	30
+10/28/1984	New Orleans         	16	Cleveland           	14
+10/28/1984	Washington          	13	NY Giants           	37
+10/28/1984	Atlanta             	10	Pittsburgh          	35
+10/28/1984	San Francisco       	33	LA Rams             	 0
+10/28/1984	St Louis            	34	Philadelphia        	14
+10/29/1984	Seattle             	24	San Diego           	 0
+11/04/1984	LA Raiders          	 6	Chicago             	17
+11/04/1984	Cleveland           	13	Buffalo             	10
+11/04/1984	New England         	19	Denver              	26
+11/04/1984	Green Bay           	23	New Orleans         	13
+11/04/1984	LA Rams             	16	St Louis            	13
+11/04/1984	Miami               	31	NY Jets             	17
+11/04/1984	Tampa Bay           	24	Minnesota           	27
+11/04/1984	NY Giants           	19	Dallas              	 7
+11/04/1984	Philadelphia        	23	Detroit             	23
+11/04/1984	Houston             	 7	Pittsburgh          	35
+11/04/1984	San Diego           	38	Indianapolis        	10
+11/04/1984	Cincinnati          	17	San Francisco       	23
+11/04/1984	Kansas City         	 0	Seattle             	45
+11/05/1984	Atlanta             	14	Washington          	27
+11/11/1984	Pittsburgh          	20	Cincinnati          	22
+11/11/1984	Dallas              	24	St Louis            	17
+11/11/1984	Denver              	16	San Diego           	13
+11/11/1984	Minnesota           	17	Green Bay           	45
+11/11/1984	Houston             	17	Kansas City         	16
+11/11/1984	Indianapolis        	 9	NY Jets             	 5
+11/11/1984	Chicago             	13	LA Rams             	29
+11/11/1984	Philadelphia        	23	Miami               	24
+11/11/1984	Buffalo             	10	New England         	38
+11/11/1984	New Orleans         	17	Atlanta             	13
+11/11/1984	San Francisco       	41	Cleveland           	 7
+11/11/1984	NY Giants           	17	Tampa Bay           	20
+11/11/1984	Detroit             	14	Washington          	28
+11/12/1984	LA Raiders          	14	Seattle             	17
+11/18/1984	Dallas              	 3	Buffalo             	14
+11/18/1984	Detroit             	14	Chicago             	16
+11/18/1984	Cleveland           	23	Atlanta             	 7
+11/18/1984	Minnesota           	21	Denver              	42
+11/18/1984	LA Rams             	 6	Green Bay           	31
+11/18/1984	NY Jets             	20	Houston             	31
+11/18/1984	Kansas City         	 7	LA Raiders          	17
+11/18/1984	New England         	50	Indianapolis        	17
+11/18/1984	St Louis            	10	NY Giants           	16
+11/18/1984	Washington          	10	Philadelphia        	16
+11/18/1984	Miami               	28	San Diego           	34
+11/18/1984	Tampa Bay           	17	San Francisco       	24
+11/18/1984	Seattle             	26	Cincinnati          	 6
+11/19/1984	Pittsburgh          	24	New Orleans         	27
+11/22/1984	New England         	17	Dallas              	20
+11/22/1984	Green Bay           	28	Detroit             	31
+11/25/1984	Chicago             	34	Minnesota           	 3
+11/25/1984	Atlanta             	14	Cincinnati          	35
+11/25/1984	Houston             	10	Cleveland           	27
+11/25/1984	Indianapolis        	 7	LA Raiders          	21
+11/25/1984	LA Rams             	34	Tampa Bay           	33
+11/25/1984	Kansas City         	27	NY Giants           	28
+11/25/1984	San Diego           	24	Pittsburgh          	52
+11/25/1984	San Francisco       	35	New Orleans         	 3
+11/25/1984	Seattle             	27	Denver              	24
+11/25/1984	Philadelphia        	16	St Louis            	17
+11/25/1984	Buffalo             	14	Washington          	41
+11/26/1984	NY Jets             	17	Miami               	28
+11/29/1984	Washington          	31	Minnesota           	17
+12/02/1984	Indianapolis        	15	Buffalo             	21
+12/02/1984	Cincinnati          	20	Cleveland           	17
+12/02/1984	Dallas              	26	Philadelphia        	10
+12/02/1984	Tampa Bay           	14	Green Bay           	27
+12/02/1984	Pittsburgh          	20	Houston             	23
+12/02/1984	Denver              	13	Kansas City         	16
+12/02/1984	LA Raiders          	45	Miami               	34
+12/02/1984	New Orleans         	21	LA Rams             	34
+12/02/1984	NY Giants           	20	NY Jets             	10
+12/02/1984	San Francisco       	35	Atlanta             	17
+12/02/1984	Detroit             	17	Seattle             	38
+12/02/1984	St Louis            	33	New England         	10
+12/03/1984	Chicago             	 7	San Diego           	20
+12/08/1984	Buffalo             	17	NY Jets             	21
+12/08/1984	Minnesota           	 7	San Francisco       	51
+12/09/1984	Cincinnati          	24	New Orleans         	21
+12/09/1984	San Diego           	13	Denver              	16
+12/09/1984	Green Bay           	20	Chicago             	14
+12/09/1984	Seattle             	 7	Kansas City         	34
+12/09/1984	Houston             	16	LA Rams             	27
+12/09/1984	Miami               	35	Indianapolis        	17
+12/09/1984	New England         	17	Philadelphia        	27
+12/09/1984	Cleveland           	20	Pittsburgh          	23
+12/09/1984	NY Giants           	21	St Louis            	31
+12/09/1984	Atlanta             	 6	Tampa Bay           	23
+12/09/1984	Washington          	30	Dallas              	28
+12/10/1984	LA Raiders          	24	Detroit             	 3
+12/14/1984	LA Rams             	16	San Francisco       	19
+12/15/1984	Denver              	31	Seattle             	14
+12/15/1984	New Orleans         	10	NY Giants           	 3
+12/16/1984	Philadelphia        	10	Atlanta             	26
+12/16/1984	Chicago             	30	Detroit             	13
+12/16/1984	Buffalo             	21	Cincinnati          	52
+12/16/1984	Cleveland           	27	Houston             	20
+12/16/1984	Green Bay           	38	Minnesota           	14
+12/16/1984	Kansas City         	42	San Diego           	21
+12/16/1984	Indianapolis        	10	New England         	16
+12/16/1984	Pittsburgh          	13	LA Raiders          	 7
+12/16/1984	NY Jets             	21	Tampa Bay           	41
+12/16/1984	St Louis            	27	Washington          	29
+12/17/1984	Dallas              	21	Miami               	28
+12/22/1984	LA Raiders          	 7	Seattle             	13
+12/23/1984	NY Giants           	16	LA Rams             	13
+12/29/1984	Seattle             	10	Miami               	31
+12/29/1984	NY Giants           	10	San Francisco       	21
+12/30/1984	Chicago             	23	Washington          	19
+12/30/1984	Pittsburgh          	24	Denver              	17
+01/06/1985	Pittsburgh          	28	Miami               	45
+01/06/1985	Chicago             	 0	San Francisco       	23
+01/20/1985	Miami               	16	San Francisco       	38 0

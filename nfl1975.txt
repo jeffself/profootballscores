@@ -1,0 +1,189 @@
+09/21/1975	Baltimore           	35	Chicago             	 7
+09/21/1975	NY Jets             	14	Buffalo             	42
+09/21/1975	Cleveland           	17	Cincinnati          	24
+09/21/1975	LA Rams             	 7	Dallas              	18
+09/21/1975	Kansas City         	33	Denver              	37
+09/21/1975	Detroit             	30	Green Bay           	16
+09/21/1975	Houston             	 7	New England         	 0
+09/21/1975	San Francisco       	17	Minnesota           	27
+09/21/1975	NY Giants           	23	Philadelphia        	14
+09/21/1975	Pittsburgh          	37	San Diego           	 0
+09/21/1975	Atlanta             	20	St Louis            	23
+09/21/1975	New Orleans         	 3	Washington          	41
+09/22/1975	Oakland             	31	Miami               	21
+09/28/1975	Buffalo             	30	Pittsburgh          	21
+09/28/1975	Philadelphia        	13	Chicago             	15
+09/28/1975	Cincinnati          	21	New Orleans         	 0
+09/28/1975	St Louis            	31	Dallas              	37
+09/28/1975	Detroit             	17	Atlanta             	14
+09/28/1975	San Diego           	17	Houston             	33
+09/28/1975	LA Rams             	23	San Francisco       	14
+09/28/1975	Miami               	22	New England         	14
+09/28/1975	Minnesota           	42	Cleveland           	10
+09/28/1975	NY Jets             	30	Kansas City         	24
+09/28/1975	Oakland             	31	Baltimore           	20
+09/28/1975	NY Giants           	13	Washington          	49
+09/29/1975	Green Bay           	13	Denver              	23
+10/05/1975	New Orleans         	 7	Atlanta             	14
+10/05/1975	Denver              	10	Buffalo             	38
+10/05/1975	Cincinnati          	21	Houston             	19
+10/05/1975	Baltimore           	13	LA Rams             	24
+10/05/1975	Miami               	31	Green Bay           	 7
+10/05/1975	Chicago             	 3	Minnesota           	28
+10/05/1975	New England         	 7	NY Jets             	36
+10/05/1975	Oakland             	 6	San Diego           	 0
+10/05/1975	Washington          	10	Philadelphia        	26
+10/05/1975	Pittsburgh          	42	Cleveland           	 6
+10/05/1975	San Francisco       	20	Kansas City         	 3
+10/05/1975	NY Giants           	14	St Louis            	26
+10/06/1975	Dallas              	36	Detroit             	10
+10/12/1975	Atlanta             	17	San Francisco       	 3
+10/12/1975	Buffalo             	38	Baltimore           	31
+10/12/1975	New England         	10	Cincinnati          	27
+10/12/1975	Dallas              	13	NY Giants           	 7
+10/12/1975	Chicago             	 7	Detroit             	27
+10/12/1975	Houston             	40	Cleveland           	10
+10/12/1975	Kansas City         	42	Oakland             	10
+10/12/1975	LA Rams             	13	San Diego           	10
+10/12/1975	Philadelphia        	16	Miami               	24
+10/12/1975	NY Jets             	21	Minnesota           	29
+10/12/1975	Green Bay           	19	New Orleans         	20
+10/12/1975	Denver              	 9	Pittsburgh          	20
+10/13/1975	St Louis            	17	Washington          	27
+10/19/1975	Oakland             	10	Cincinnati          	14
+10/19/1975	Cleveland           	15	Denver              	16
+10/19/1975	Green Bay           	19	Dallas              	17
+10/19/1975	Washington          	10	Houston             	13
+10/19/1975	Kansas City         	12	San Diego           	10
+10/19/1975	Atlanta             	 7	LA Rams             	22
+10/19/1975	Miami               	43	NY Jets             	 0
+10/19/1975	Detroit             	19	Minnesota           	25
+10/19/1975	Baltimore           	10	New England         	21
+10/19/1975	Chicago             	 3	Pittsburgh          	34
+10/19/1975	New Orleans         	21	San Francisco       	35
+10/19/1975	Philadelphia        	20	St Louis            	31
+10/20/1975	NY Giants           	17	Buffalo             	14
+10/25/1975	St Louis            	20	NY Giants           	13
+10/26/1975	Baltimore           	45	NY Jets             	28
+10/26/1975	Cincinnati          	21	Atlanta             	14
+10/26/1975	Dallas              	20	Philadelphia        	17
+10/26/1975	Detroit             	 8	Houston             	24
+10/26/1975	Denver              	13	Kansas City         	26
+10/26/1975	New Orleans         	14	LA Rams             	38
+10/26/1975	Miami               	35	Buffalo             	30
+10/26/1975	San Francisco       	16	New England         	24
+10/26/1975	San Diego           	 0	Oakland             	25
+10/26/1975	Pittsburgh          	16	Green Bay           	13
+10/26/1975	Washington          	23	Cleveland           	 7
+10/27/1975	Minnesota           	13	Chicago             	 9
+11/01/1975	San Diego           	24	NY Giants           	35
+11/02/1975	Cleveland           	 7	Baltimore           	21
+11/02/1975	Buffalo             	24	NY Jets             	23
+11/02/1975	Detroit             	28	San Francisco       	17
+11/02/1975	Houston             	17	Kansas City         	13
+11/02/1975	Miami               	46	Chicago             	13
+11/02/1975	Minnesota           	28	Green Bay           	17
+11/02/1975	Atlanta             	 7	New Orleans         	23
+11/02/1975	Oakland             	42	Denver              	17
+11/02/1975	Pittsburgh          	30	Cincinnati          	24
+11/02/1975	New England         	17	St Louis            	24
+11/02/1975	Dallas              	24	Washington          	30
+11/03/1975	LA Rams             	42	Philadelphia        	 3
+11/09/1975	Baltimore           	42	Buffalo             	35
+11/09/1975	Green Bay           	14	Chicago             	27
+11/09/1975	Cincinnati          	17	Denver              	16
+11/09/1975	Cleveland           	10	Detroit             	21
+11/09/1975	NY Jets             	 7	Miami               	27
+11/09/1975	Atlanta             	 0	Minnesota           	38
+11/09/1975	New England         	33	San Diego           	19
+11/09/1975	New Orleans         	10	Oakland             	48
+11/09/1975	Houston             	17	Pittsburgh          	24
+11/09/1975	San Francisco       	24	LA Rams             	23
+11/09/1975	St Louis            	24	Philadelphia        	23
+11/09/1975	Washington          	21	NY Giants           	13
+11/10/1975	Kansas City         	34	Dallas              	31
+11/16/1975	NY Jets             	19	Baltimore           	52
+11/16/1975	Dallas              	34	New England         	31
+11/16/1975	Denver              	27	San Diego           	17
+11/16/1975	Green Bay           	10	Detroit             	13
+11/16/1975	Miami               	19	Houston             	20
+11/16/1975	LA Rams             	16	Atlanta             	 7
+11/16/1975	Minnesota           	20	New Orleans         	 7
+11/16/1975	Cleveland           	17	Oakland             	38
+11/16/1975	Philadelphia        	13	NY Giants           	10
+11/16/1975	Kansas City         	 3	Pittsburgh          	28
+11/16/1975	Chicago             	 3	San Francisco       	31
+11/16/1975	Washington          	17	St Louis            	20
+11/17/1975	Buffalo             	24	Cincinnati          	33
+11/23/1975	Denver              	21	Atlanta             	35
+11/23/1975	Baltimore           	33	Miami               	17
+11/23/1975	New England         	31	Buffalo             	45
+11/23/1975	Cincinnati          	23	Cleveland           	35
+11/23/1975	Philadelphia        	17	Dallas              	27
+11/23/1975	NY Giants           	14	Green Bay           	40
+11/23/1975	Detroit             	21	Kansas City         	24
+11/23/1975	Chicago             	10	LA Rams             	38
+11/23/1975	San Diego           	13	Minnesota           	28
+11/23/1975	Oakland             	26	Washington          	23
+11/23/1975	San Francisco       	16	New Orleans         	 6
+11/23/1975	St Louis            	37	NY Jets             	 6
+11/24/1975	Pittsburgh          	32	Houston             	 9
+11/27/1975	Buffalo             	32	St Louis            	14
+11/27/1975	LA Rams             	20	Detroit             	 0
+11/30/1975	Kansas City         	14	Baltimore           	28
+11/30/1975	Houston             	19	Cincinnati          	23
+11/30/1975	New Orleans         	16	Cleveland           	17
+11/30/1975	NY Giants           	 3	Dallas              	14
+11/30/1975	San Diego           	10	Denver              	13
+11/30/1975	Chicago             	 7	Green Bay           	28
+11/30/1975	Atlanta             	34	Oakland             	37
+11/30/1975	San Francisco       	17	Philadelphia        	27
+11/30/1975	Pittsburgh          	20	NY Jets             	 7
+11/30/1975	Minnesota           	30	Washington          	31
+12/01/1975	New England         	 7	Miami               	20
+12/07/1975	Baltimore           	21	NY Giants           	 0
+12/07/1975	Detroit             	21	Chicago             	25
+12/07/1975	Cincinnati          	31	Philadelphia        	 0
+12/07/1975	Houston             	27	San Francisco       	13
+12/07/1975	LA Rams             	14	New Orleans         	 7
+12/07/1975	Buffalo             	21	Miami               	31
+12/07/1975	Green Bay           	 3	Minnesota           	24
+12/07/1975	NY Jets             	30	New England         	28
+12/07/1975	Cleveland           	17	Pittsburgh          	31
+12/07/1975	San Diego           	28	Kansas City         	20
+12/07/1975	Dallas              	17	St Louis            	31
+12/07/1975	Washington          	30	Atlanta             	27
+12/08/1975	Denver              	10	Oakland             	17
+12/13/1975	Washington          	10	Dallas              	31
+12/13/1975	Cincinnati          	14	Pittsburgh          	35
+12/14/1975	San Francisco       	 9	Atlanta             	31
+12/14/1975	Miami               	 7	Baltimore           	10
+12/14/1975	Buffalo             	34	New England         	14
+12/14/1975	Kansas City         	14	Cleveland           	40
+12/14/1975	Philadelphia        	10	Denver              	25
+12/14/1975	Minnesota           	10	Detroit             	17
+12/14/1975	Houston             	27	Oakland             	26
+12/14/1975	Green Bay           	 5	LA Rams             	22
+12/14/1975	New Orleans         	14	NY Giants           	28
+12/14/1975	St Louis            	34	Chicago             	20
+12/15/1975	NY Jets             	16	San Diego           	24
+12/20/1975	Pittsburgh          	 3	LA Rams             	10
+12/20/1975	Denver              	13	Miami               	14
+12/20/1975	Minnesota           	35	Buffalo             	13
+12/21/1975	New England         	21	Baltimore           	34
+12/21/1975	Chicago             	42	New Orleans         	17
+12/21/1975	San Diego           	17	Cincinnati          	47
+12/21/1975	Dallas              	31	NY Jets             	21
+12/21/1975	Atlanta             	13	Green Bay           	22
+12/21/1975	Cleveland           	10	Houston             	21
+12/21/1975	NY Giants           	26	San Francisco       	23
+12/21/1975	Oakland             	28	Kansas City         	20
+12/21/1975	Philadelphia        	26	Washington          	 3
+12/21/1975	St Louis            	24	Detroit             	13
+12/27/1975	St Louis            	23	LA Rams             	35
+12/27/1975	Baltimore           	10	Pittsburgh          	28
+12/28/1975	Dallas              	17	Minnesota           	14
+12/28/1975	Cincinnati          	28	Oakland             	31
+01/04/1976	Dallas              	37	LA Rams             	 7
+01/04/1976	Oakland             	10	Pittsburgh          	16
+01/18/1976	Pittsburgh          	21	Dallas              	17	n

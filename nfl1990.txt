@@ -1,0 +1,235 @@
+09/09/1990	Houston             	27	Atlanta             	47
+09/09/1990	Indianapolis        	10	Buffalo             	26
+09/09/1990	Seattle             	 0	Chicago             	17
+09/09/1990	NY Jets             	20	Cincinnati          	25
+09/09/1990	Pittsburgh          	 3	Cleveland           	13
+09/09/1990	San Diego           	14	Dallas              	17
+09/09/1990	LA Rams             	24	Green Bay           	36
+09/09/1990	Minnesota           	21	Kansas City         	24
+09/09/1990	Denver              	 9	LA Raiders          	14
+09/09/1990	Miami               	27	New England         	24
+09/09/1990	Philadelphia        	20	NY Giants           	27
+09/09/1990	Tampa Bay           	38	Detroit             	21
+09/09/1990	Phoenix             	 0	Washington          	31
+09/10/1990	San Francisco       	13	New Orleans         	12
+09/16/1990	Chicago             	31	Green Bay           	13
+09/16/1990	Cincinnati          	21	San Diego           	16
+09/16/1990	Atlanta             	14	Detroit             	21
+09/16/1990	LA Raiders          	17	Seattle             	13
+09/16/1990	LA Rams             	35	Tampa Bay           	14
+09/16/1990	Buffalo             	 7	Miami               	30
+09/16/1990	New Orleans         	 3	Minnesota           	32
+09/16/1990	New England         	16	Indianapolis        	14
+09/16/1990	NY Giants           	28	Dallas              	 7
+09/16/1990	Cleveland           	21	NY Jets             	24
+09/16/1990	Phoenix             	23	Philadelphia        	21
+09/16/1990	Houston             	 9	Pittsburgh          	20
+09/16/1990	Washington          	13	San Francisco       	26
+09/17/1990	Kansas City         	23	Denver              	24
+09/23/1990	Minnesota           	16	Chicago             	19
+09/23/1990	New England         	 7	Cincinnati          	41
+09/23/1990	Seattle             	31	Denver              	34
+09/23/1990	Indianapolis        	10	Houston             	24
+09/23/1990	Kansas City         	17	Green Bay           	 3
+09/23/1990	Pittsburgh          	 3	LA Raiders          	20
+09/23/1990	Phoenix             	 7	New Orleans         	28
+09/23/1990	Miami               	 3	NY Giants           	20
+09/23/1990	Philadelphia        	27	LA Rams             	21
+09/23/1990	San Diego           	24	Cleveland           	14
+09/23/1990	Atlanta             	13	San Francisco       	19
+09/23/1990	Detroit             	20	Tampa Bay           	23
+09/23/1990	Dallas              	15	Washington          	19
+09/24/1990	Buffalo             	30	NY Jets             	 7
+09/30/1990	Denver              	28	Buffalo             	29
+09/30/1990	Green Bay           	24	Detroit             	21
+09/30/1990	Houston             	17	San Diego           	 7
+09/30/1990	Indianapolis        	24	Philadelphia        	23
+09/30/1990	Cleveland           	 0	Kansas City         	34
+09/30/1990	Chicago             	10	LA Raiders          	24
+09/30/1990	Miami               	28	Pittsburgh          	 6
+09/30/1990	Dallas              	17	NY Giants           	31
+09/30/1990	NY Jets             	37	New England         	13
+09/30/1990	Tampa Bay           	23	Minnesota           	20
+09/30/1990	Washington          	38	Phoenix             	10
+10/01/1990	Cincinnati          	16	Seattle             	31
+10/07/1990	New Orleans         	27	Atlanta             	28
+10/07/1990	LA Raiders          	24	Buffalo             	38
+10/07/1990	Green Bay           	13	Chicago             	27
+10/07/1990	Cincinnati          	34	LA Rams             	31
+10/07/1990	Tampa Bay           	10	Dallas              	14
+10/07/1990	Detroit             	34	Minnesota           	27
+10/07/1990	Kansas City         	19	Indianapolis        	23
+10/07/1990	NY Jets             	16	Miami               	20
+10/07/1990	San Diego           	14	Pittsburgh          	36
+10/07/1990	San Francisco       	24	Houston             	21
+10/07/1990	Seattle             	33	New England         	20
+10/08/1990	Cleveland           	30	Denver              	29
+10/14/1990	LA Rams             	 9	Chicago             	38
+10/14/1990	Houston             	48	Cincinnati          	17
+10/14/1990	Detroit             	24	Kansas City         	43
+10/14/1990	Seattle             	17	LA Raiders          	24
+10/14/1990	Cleveland           	20	New Orleans         	25
+10/14/1990	NY Giants           	24	Washington          	20
+10/14/1990	Dallas              	 3	Phoenix             	20
+10/14/1990	Pittsburgh          	34	Denver              	17
+10/14/1990	San Diego           	39	NY Jets             	 3
+10/14/1990	San Francisco       	45	Atlanta             	35
+10/14/1990	Green Bay           	20	Tampa Bay           	23
+10/15/1990	Minnesota           	24	Philadelphia        	32
+10/18/1990	New England         	10	Miami               	17
+10/21/1990	NY Jets             	27	Buffalo             	30
+10/21/1990	Dallas              	17	Tampa Bay           	13
+10/21/1990	Denver              	27	Indianapolis        	17
+10/21/1990	New Orleans         	10	Houston             	23
+10/21/1990	LA Raiders          	24	San Diego           	 9
+10/21/1990	Atlanta             	24	LA Rams             	44
+10/21/1990	Phoenix             	19	NY Giants           	20
+10/21/1990	Pittsburgh          	 7	San Francisco       	27
+10/21/1990	Kansas City         	 7	Seattle             	19
+10/21/1990	Philadelphia        	 7	Washington          	13
+10/22/1990	Cincinnati          	34	Cleveland           	13
+10/28/1990	Cincinnati          	17	Atlanta             	38
+10/28/1990	Buffalo             	27	New England         	10
+10/28/1990	Chicago             	31	Phoenix             	21
+10/28/1990	Detroit             	27	New Orleans         	10
+10/28/1990	Minnesota           	10	Green Bay           	24
+10/28/1990	Miami               	27	Indianapolis        	 7
+10/28/1990	Washington          	10	NY Giants           	21
+10/28/1990	NY Jets             	17	Houston             	12
+10/28/1990	Philadelphia        	21	Dallas              	20
+10/28/1990	Tampa Bay           	10	San Diego           	41
+10/28/1990	Cleveland           	17	San Francisco       	20
+10/29/1990	LA Rams             	10	Pittsburgh          	41
+11/04/1990	Buffalo             	42	Cleveland           	 0
+11/04/1990	Chicago             	26	Tampa Bay           	 6
+11/04/1990	LA Raiders          	 7	Kansas City         	 9
+11/04/1990	Houston             	13	LA Rams             	17
+11/04/1990	Phoenix             	 3	Miami               	23
+11/04/1990	Denver              	22	Minnesota           	27
+11/04/1990	New Orleans         	21	Cincinnati          	 7
+11/04/1990	Dallas              	 9	NY Jets             	24
+11/04/1990	New England         	20	Philadelphia        	48
+11/04/1990	Atlanta             	 9	Pittsburgh          	21
+11/04/1990	San Diego           	31	Seattle             	14
+11/04/1990	San Francisco       	24	Green Bay           	20
+11/04/1990	Washington          	41	Detroit             	38
+11/05/1990	NY Giants           	24	Indianapolis        	 7
+11/11/1990	Phoenix             	14	Buffalo             	45
+11/11/1990	Atlanta             	24	Chicago             	30
+11/11/1990	Green Bay           	29	LA Raiders          	16
+11/11/1990	Indianapolis        	13	New England         	10
+11/11/1990	Miami               	17	NY Jets             	 3
+11/11/1990	Minnesota           	17	Detroit             	 7
+11/11/1990	Tampa Bay           	 7	New Orleans         	35
+11/11/1990	NY Giants           	31	LA Rams             	 7
+11/11/1990	Denver              	 7	San Diego           	19
+11/11/1990	San Francisco       	24	Dallas              	 6
+11/11/1990	Seattle             	17	Kansas City         	16
+11/12/1990	Washington          	14	Philadelphia        	28
+11/18/1990	New England         	 0	Buffalo             	14
+11/18/1990	Chicago             	16	Denver              	13
+11/18/1990	Pittsburgh          	 3	Cincinnati          	27
+11/18/1990	Dallas              	24	LA Rams             	21
+11/18/1990	Green Bay           	24	Phoenix             	21
+11/18/1990	Houston             	35	Cleveland           	23
+11/18/1990	NY Jets             	14	Indianapolis        	17
+11/18/1990	San Diego           	10	Kansas City         	27
+11/18/1990	Minnesota           	24	Seattle             	21
+11/18/1990	Detroit             	 0	NY Giants           	20
+11/18/1990	Philadelphia        	24	Atlanta             	23
+11/18/1990	Tampa Bay           	 7	San Francisco       	31
+11/18/1990	New Orleans         	17	Washington          	31
+11/19/1990	LA Raiders          	13	Miami               	10
+11/22/1990	Washington          	17	Dallas              	27
+11/22/1990	Denver              	27	Detroit             	40
+11/25/1990	Tampa Bay           	10	Green Bay           	20
+11/25/1990	Indianapolis        	34	Cincinnati          	20
+11/25/1990	Kansas City         	27	LA Raiders          	24
+11/25/1990	LA Rams             	28	San Francisco       	17
+11/25/1990	Miami               	30	Cleveland           	13
+11/25/1990	Chicago             	13	Minnesota           	41
+11/25/1990	Atlanta             	 7	New Orleans         	10
+11/25/1990	NY Giants           	13	Philadelphia        	31
+11/25/1990	New England         	14	Phoenix             	34
+11/25/1990	Pittsburgh          	24	NY Jets             	 7
+11/25/1990	Seattle             	13	San Diego           	10
+11/26/1990	Buffalo             	24	Houston             	27
+12/02/1990	Philadelphia        	23	Buffalo             	30
+12/02/1990	Detroit             	17	Chicago             	23
+12/02/1990	Cincinnati          	16	Pittsburgh          	12
+12/02/1990	New Orleans         	13	Dallas              	17
+12/02/1990	Kansas City         	37	New England         	 7
+12/02/1990	LA Raiders          	23	Denver              	20
+12/02/1990	LA Rams             	38	Cleveland           	23
+12/02/1990	Green Bay           	 7	Minnesota           	23
+12/02/1990	Indianapolis        	17	Phoenix             	20
+12/02/1990	NY Jets             	17	San Diego           	38
+12/02/1990	Houston             	10	Seattle             	13
+12/02/1990	Atlanta             	17	Tampa Bay           	23
+12/02/1990	Miami               	20	Washington          	42
+12/03/1990	NY Giants           	 3	San Francisco       	 7
+12/09/1990	Buffalo             	31	Indianapolis        	 7
+12/09/1990	Cleveland           	14	Houston             	58
+12/09/1990	Denver              	20	Kansas City         	31
+12/09/1990	Philadelphia        	20	Miami               	23
+12/09/1990	New Orleans         	24	LA Rams             	20
+12/09/1990	Minnesota           	15	NY Giants           	23
+12/09/1990	Phoenix             	24	Atlanta             	13
+12/09/1990	New England         	 3	Pittsburgh          	24
+12/09/1990	San Francisco       	20	Cincinnati          	17
+12/09/1990	Seattle             	20	Green Bay           	14
+12/09/1990	Chicago             	 9	Washington          	10
+12/10/1990	LA Raiders          	38	Detroit             	31
+12/15/1990	Buffalo             	17	NY Giants           	13
+12/15/1990	Washington          	25	New England         	10
+12/16/1990	Atlanta             	10	Cleveland           	13
+12/16/1990	Phoenix             	10	Dallas              	41
+12/16/1990	San Diego           	10	Denver              	20
+12/16/1990	Chicago             	21	Detroit             	38
+12/16/1990	Houston             	27	Kansas City         	10
+12/16/1990	Indianapolis        	29	NY Jets             	21
+12/16/1990	Cincinnati          	 7	LA Raiders          	24
+12/16/1990	Seattle             	17	Miami               	24
+12/16/1990	Green Bay           	 0	Philadelphia        	31
+12/16/1990	Pittsburgh          	 9	New Orleans         	 6
+12/16/1990	Minnesota           	13	Tampa Bay           	26
+12/17/1990	San Francisco       	26	LA Rams             	10
+12/22/1990	Detroit             	24	Green Bay           	17
+12/22/1990	Washington          	28	Indianapolis        	35
+12/22/1990	LA Raiders          	28	Minnesota           	24
+12/23/1990	LA Rams             	13	Atlanta             	20
+12/23/1990	Miami               	14	Buffalo             	24
+12/23/1990	Tampa Bay           	14	Chicago             	27
+12/23/1990	Cincinnati          	40	Houston             	20
+12/23/1990	Kansas City         	24	San Diego           	21
+12/23/1990	New Orleans         	13	San Francisco       	10
+12/23/1990	NY Giants           	24	Phoenix             	21
+12/23/1990	New England         	 7	NY Jets             	42
+12/23/1990	Dallas              	 3	Philadelphia        	17
+12/23/1990	Cleveland           	 0	Pittsburgh          	35
+12/23/1990	Denver              	12	Seattle             	17
+12/29/1990	Kansas City         	21	Chicago             	10
+12/29/1990	Philadelphia        	23	Phoenix             	21
+12/30/1990	Dallas              	 7	Atlanta             	26
+12/30/1990	Cleveland           	14	Cincinnati          	21
+12/30/1990	Green Bay           	13	Denver              	22
+12/30/1990	Pittsburgh          	14	Houston             	34
+12/30/1990	San Diego           	12	LA Raiders          	17
+12/30/1990	Indianapolis        	17	Miami               	23
+12/30/1990	NY Giants           	13	New England         	10
+12/30/1990	NY Jets             	16	Tampa Bay           	14
+12/30/1990	San Francisco       	20	Minnesota           	17
+12/30/1990	Detroit             	10	Seattle             	30
+12/30/1990	Buffalo             	14	Washington          	29
+12/31/1990	LA Rams             	17	New Orleans         	20
+01/05/1991	Kansas City         	16	Miami               	17
+01/05/1991	Washington          	20	Philadelphia        	 6
+01/06/1991	New Orleans         	 6	Chicago             	16
+01/06/1991	Houston             	14	Cincinnati          	41
+01/12/1991	Miami               	34	Buffalo             	44
+01/12/1991	Washington          	10	San Francisco       	28
+01/13/1991	Cincinnati          	10	LA Raiders          	20
+01/13/1991	Chicago             	 3	NY Giants           	31
+01/20/1991	LA Raiders          	 3	Buffalo             	51
+01/20/1991	NY Giants           	15	San Francisco       	13
+01/29/1991	NY Giants           	20	Buffalo             	19	0

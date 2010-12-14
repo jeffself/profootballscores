@@ -1,0 +1,141 @@
+09/12/1982	Atlanta             	16	NY Giants           	14
+09/12/1982	Kansas City         	 9	Buffalo             	14
+09/12/1982	Houston             	 6	Cincinnati          	27
+09/12/1982	Cleveland           	21	Seattle             	 7
+09/12/1982	Chicago             	10	Detroit             	17
+09/12/1982	LA Rams             	23	Green Bay           	35
+09/12/1982	LA Raiders          	23	San Francisco       	17
+09/12/1982	Miami               	45	NY Jets             	28
+09/12/1982	Tampa Bay           	10	Minnesota           	17
+09/12/1982	New England         	24	Baltimore           	13
+09/12/1982	San Diego           	23	Denver              	 3
+09/12/1982	St Louis            	21	New Orleans         	 7
+09/12/1982	Washington          	37	Philadelphia        	34
+09/13/1982	Pittsburgh          	36	Dallas              	28
+09/16/1982	Minnesota           	22	Buffalo             	23
+09/19/1982	Dallas              	24	St Louis            	 7
+09/19/1982	San Francisco       	21	Denver              	24
+09/19/1982	Detroit             	19	LA Rams             	14
+09/19/1982	Seattle             	21	Houston             	23
+09/19/1982	San Diego           	12	Kansas City         	19
+09/19/1982	LA Raiders          	38	Atlanta             	14
+09/19/1982	Baltimore           	20	Miami               	24
+09/19/1982	New Orleans         	10	Chicago             	 0
+09/19/1982	NY Jets             	31	New England         	 7
+09/19/1982	Philadelphia        	24	Cleveland           	21
+09/19/1982	Cincinnati          	20	Pittsburgh          	26
+09/19/1982	Washington          	21	Tampa Bay           	13
+09/20/1982	Green Bay           	27	NY Giants           	19
+11/21/1982	LA Rams             	17	Atlanta             	34
+11/21/1982	Detroit             	17	Chicago             	20
+11/21/1982	Cincinnati          	18	Philadelphia        	14
+11/21/1982	New England         	 7	Cleveland           	10
+11/21/1982	Tampa Bay           	 9	Dallas              	14
+11/21/1982	Minnesota           	 7	Green Bay           	26
+11/21/1982	Miami               	 9	Buffalo             	 7
+11/21/1982	Kansas City         	17	New Orleans         	27
+11/21/1982	Baltimore           	 0	NY Jets             	37
+11/21/1982	Pittsburgh          	24	Houston             	10
+11/21/1982	San Francisco       	31	St Louis            	20
+11/21/1982	Seattle             	17	Denver              	10
+11/21/1982	Washington          	27	NY Giants           	17
+11/22/1982	San Diego           	24	LA Raiders          	28
+11/25/1982	Cleveland           	14	Dallas              	31
+11/25/1982	NY Giants           	13	Detroit             	 6
+11/28/1982	Baltimore           	 0	Buffalo             	20
+11/28/1982	LA Raiders          	17	Cincinnati          	31
+11/28/1982	Kansas City         	14	LA Rams             	20
+11/28/1982	Chicago             	 7	Minnesota           	35
+11/28/1982	Houston             	21	New England         	29
+11/28/1982	New Orleans         	23	San Francisco       	20
+11/28/1982	Green Bay           	13	NY Jets             	15
+11/28/1982	Denver              	20	San Diego           	30
+11/28/1982	Pittsburgh          	 0	Seattle             	16
+11/28/1982	St Louis            	23	Atlanta             	20
+11/28/1982	Philadelphia        	 9	Washington          	13
+11/29/1982	Miami               	17	Tampa Bay           	23
+12/02/1982	San Francisco       	30	LA Rams             	24
+12/05/1982	Atlanta             	34	Denver              	27
+12/05/1982	New England         	13	Chicago             	26
+12/05/1982	Cincinnati          	20	Baltimore           	17
+12/05/1982	Dallas              	24	Washington          	10
+12/05/1982	Buffalo             	21	Green Bay           	33
+12/05/1982	Seattle             	23	LA Raiders          	28
+12/05/1982	Minnesota           	14	Miami               	22
+12/05/1982	Houston             	14	NY Giants           	17
+12/05/1982	Kansas City         	14	Pittsburgh          	35
+12/05/1982	San Diego           	30	Cleveland           	13
+12/05/1982	St Louis            	23	Philadelphia        	20
+12/05/1982	Tampa Bay           	13	New Orleans         	10
+12/06/1982	NY Jets             	28	Detroit             	13
+12/11/1982	Philadelphia        	 7	NY Giants           	23
+12/11/1982	San Diego           	41	San Francisco       	37
+12/12/1982	New Orleans         	 0	Atlanta             	35
+12/12/1982	Pittsburgh          	 0	Buffalo             	13
+12/12/1982	Cleveland           	10	Cincinnati          	23
+12/12/1982	Denver              	27	LA Rams             	24
+12/12/1982	Detroit             	30	Green Bay           	10
+12/12/1982	LA Raiders          	21	Kansas City         	16
+12/12/1982	Baltimore           	10	Minnesota           	13
+12/12/1982	Miami               	 0	New England         	 3
+12/12/1982	Tampa Bay           	17	NY Jets             	32
+12/12/1982	Chicago             	14	Seattle             	20
+12/12/1982	Washington          	12	St Louis            	 7
+12/13/1982	Dallas              	37	Houston             	 7
+12/18/1982	LA Rams             	31	LA Raiders          	37
+12/18/1982	NY Jets             	19	Miami               	20
+12/19/1982	Atlanta             	17	San Francisco       	 7
+12/19/1982	Pittsburgh          	 9	Cleveland           	10
+12/19/1982	New Orleans         	 7	Dallas              	21
+12/19/1982	Green Bay           	20	Baltimore           	20
+12/19/1982	Kansas City         	37	Denver              	16
+12/19/1982	Minnesota           	34	Detroit             	31
+12/19/1982	New England         	16	Seattle             	 0
+12/19/1982	Houston             	14	Philadelphia        	35
+12/19/1982	St Louis            	10	Chicago             	 7
+12/19/1982	Buffalo             	23	Tampa Bay           	24
+12/19/1982	NY Giants           	14	Washington          	15
+12/20/1982	Cincinnati          	34	San Diego           	50
+12/26/1982	Chicago             	34	LA Rams             	26
+12/26/1982	Seattle             	10	Cincinnati          	24
+12/26/1982	Cleveland           	20	Houston             	14
+12/26/1982	Green Bay           	38	Atlanta             	 7
+12/26/1982	Denver              	10	LA Raiders          	27
+12/26/1982	NY Jets             	42	Minnesota           	14
+12/26/1982	Philadelphia        	24	Dallas              	20
+12/26/1982	New England         	14	Pittsburgh          	37
+12/26/1982	Baltimore           	26	San Diego           	44
+12/26/1982	San Francisco       	26	Kansas City         	13
+12/26/1982	NY Giants           	21	St Louis            	24
+12/26/1982	Detroit             	21	Tampa Bay           	23
+12/26/1982	Washington          	27	New Orleans         	10
+12/27/1982	Buffalo             	10	Miami               	27
+01/02/1983	Cincinnati          	35	Houston             	27
+01/02/1983	Green Bay           	24	Detroit             	27
+01/02/1983	NY Jets             	13	Kansas City         	37
+01/02/1983	LA Raiders          	41	San Diego           	34
+01/02/1983	LA Rams             	21	San Francisco       	20
+01/02/1983	Miami               	34	Baltimore           	 7
+01/02/1983	Buffalo             	19	New England         	30
+01/02/1983	Atlanta             	 6	New Orleans         	35
+01/02/1983	NY Giants           	26	Philadelphia        	24
+01/02/1983	Cleveland           	21	Pittsburgh          	37
+01/02/1983	Denver              	11	Seattle             	13
+01/02/1983	Chicago             	23	Tampa Bay           	26
+01/02/1983	St Louis            	 0	Washington          	28
+01/03/1983	Dallas              	27	Minnesota           	31
+01/08/1983	St Louis            	16	Green Bay           	41
+01/08/1983	Cleveland           	10	LA Raiders          	27
+01/08/1983	New England         	13	Miami               	28
+01/08/1983	Detroit             	 7	Washington          	31
+01/09/1983	Tampa Bay           	17	Dallas              	30
+01/09/1983	Atlanta             	24	Minnesota           	30
+01/09/1983	NY Jets             	44	Cincinnati          	17
+01/09/1983	San Diego           	31	Pittsburgh          	28
+01/15/1983	NY Jets             	17	LA Raiders          	14
+01/15/1983	Minnesota           	 7	Washington          	21
+01/16/1983	Green Bay           	26	Dallas              	37
+01/16/1983	San Diego           	13	Miami               	34
+01/22/1983	Dallas              	17	Washington          	31
+01/23/1983	NY Jets             	 0	Miami               	14
+01/30/1983	Washington          	27	Miami               	17	0

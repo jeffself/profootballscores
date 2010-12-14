@@ -1,0 +1,233 @@
+09/08/1985	Tampa Bay           	28	Chicago             	38
+09/08/1985	Detroit             	28	Atlanta             	27
+09/08/1985	Miami               	23	Houston             	26
+09/08/1985	Kansas City         	47	New Orleans         	27
+09/08/1985	NY Jets             	 0	LA Raiders          	31
+09/08/1985	Denver              	16	LA Rams             	20
+09/08/1985	San Francisco       	21	Minnesota           	28
+09/08/1985	Green Bay           	20	New England         	26
+09/08/1985	Philadelphia        	 0	NY Giants           	21
+09/08/1985	Indianapolis        	 3	Pittsburgh          	45
+09/08/1985	St Louis            	27	Cleveland           	24
+09/08/1985	San Diego           	14	Buffalo             	 9
+09/08/1985	Seattle             	28	Cincinnati          	24
+09/09/1985	Washington          	14	Dallas              	44
+09/12/1985	LA Raiders          	20	Kansas City         	36
+09/15/1985	New England         	 7	Chicago             	20
+09/15/1985	New Orleans         	23	Denver              	34
+09/15/1985	Dallas              	21	Detroit             	26
+09/15/1985	NY Giants           	20	Green Bay           	23
+09/15/1985	LA Rams             	17	Philadelphia        	 6
+09/15/1985	Indianapolis        	13	Miami               	30
+09/15/1985	Minnesota           	31	Tampa Bay           	16
+09/15/1985	Buffalo             	 3	NY Jets             	42
+09/15/1985	Cincinnati          	27	St Louis            	41
+09/15/1985	Atlanta             	16	San Francisco       	35
+09/15/1985	Seattle             	49	San Diego           	35
+09/15/1985	Houston             	13	Washington          	16
+09/16/1985	Pittsburgh          	 7	Cleveland           	17
+09/19/1985	Chicago             	33	Minnesota           	24
+09/22/1985	Cleveland           	 7	Dallas              	20
+09/22/1985	Denver              	44	Atlanta             	28
+09/22/1985	Detroit             	 6	Indianapolis        	14
+09/22/1985	Kansas City         	 0	Miami               	31
+09/22/1985	New England         	17	Buffalo             	14
+09/22/1985	Tampa Bay           	13	New Orleans         	20
+09/22/1985	St Louis            	17	NY Giants           	27
+09/22/1985	NY Jets             	24	Green Bay           	 3
+09/22/1985	Philadelphia        	19	Washington          	 6
+09/22/1985	Houston             	 0	Pittsburgh          	20
+09/22/1985	San Diego           	44	Cincinnati          	41
+09/22/1985	San Francisco       	34	LA Raiders          	10
+09/23/1985	LA Rams             	35	Seattle             	24
+09/29/1985	Washington          	10	Chicago             	45
+09/29/1985	Cleveland           	21	San Diego           	 7
+09/29/1985	Dallas              	17	Houston             	10
+09/29/1985	Tampa Bay           	 9	Detroit             	30
+09/29/1985	Seattle             	 7	Kansas City         	28
+09/29/1985	LA Raiders          	35	New England         	20
+09/29/1985	Atlanta             	 6	LA Rams             	17
+09/29/1985	Miami               	30	Denver              	26
+09/29/1985	Minnesota           	27	Buffalo             	20
+09/29/1985	New Orleans         	20	San Francisco       	17
+09/29/1985	NY Giants           	16	Philadelphia        	10
+09/29/1985	Indianapolis        	20	NY Jets             	25
+09/29/1985	Green Bay           	28	St Louis            	43
+09/30/1985	Cincinnati          	37	Pittsburgh          	24
+10/06/1985	Chicago             	27	Tampa Bay           	19
+10/06/1985	New England         	20	Cleveland           	24
+10/06/1985	Dallas              	30	NY Giants           	29
+10/06/1985	Houston             	20	Denver              	31
+10/06/1985	Detroit             	10	Green Bay           	43
+10/06/1985	Buffalo             	17	Indianapolis        	49
+10/06/1985	Kansas City         	10	LA Raiders          	19
+10/06/1985	Minnesota           	10	LA Rams             	13
+10/06/1985	Pittsburgh          	20	Miami               	30
+10/06/1985	Philadelphia        	21	New Orleans         	23
+10/06/1985	NY Jets             	29	Cincinnati          	20
+10/06/1985	San Francisco       	38	Atlanta             	17
+10/06/1985	San Diego           	21	Seattle             	26
+10/07/1985	St Louis            	10	Washington          	27
+10/13/1985	Chicago             	26	San Francisco       	10
+10/13/1985	NY Giants           	30	Cincinnati          	35
+10/13/1985	Cleveland           	21	Houston             	 6
+10/13/1985	Pittsburgh          	13	Dallas              	27
+10/13/1985	Denver              	15	Indianapolis        	10
+10/13/1985	Minnesota           	17	Green Bay           	20
+10/13/1985	New Orleans         	13	LA Raiders          	23
+10/13/1985	LA Rams             	31	Tampa Bay           	27
+10/13/1985	Buffalo             	 3	New England         	14
+10/13/1985	Philadelphia        	30	St Louis            	 7
+10/13/1985	Kansas City         	20	San Diego           	31
+10/13/1985	Atlanta             	26	Seattle             	30
+10/13/1985	Detroit             	 3	Washington          	24
+10/14/1985	Miami               	 7	NY Jets             	23
+10/20/1985	New Orleans         	24	Atlanta             	31
+10/20/1985	Indianapolis        	 9	Buffalo             	21
+10/20/1985	Seattle             	10	Denver              	13
+10/20/1985	San Francisco       	21	Detroit             	23
+10/20/1985	Cincinnati          	27	Houston             	44
+10/20/1985	LA Raiders          	21	Cleveland           	20
+10/20/1985	LA Rams             	16	Kansas City         	 0
+10/20/1985	Tampa Bay           	38	Miami               	41
+10/20/1985	San Diego           	17	Minnesota           	21
+10/20/1985	NY Jets             	13	New England         	20
+10/20/1985	Washington          	 3	NY Giants           	17
+10/20/1985	Dallas              	14	Philadelphia        	16
+10/20/1985	St Louis            	10	Pittsburgh          	23
+10/21/1985	Green Bay           	 7	Chicago             	23
+10/27/1985	Minnesota           	 9	Chicago             	27
+10/27/1985	Pittsburgh          	21	Cincinnati          	26
+10/27/1985	Atlanta             	10	Dallas              	24
+10/27/1985	Denver              	30	Kansas City         	10
+10/27/1985	Miami               	21	Detroit             	31
+10/27/1985	Houston             	20	St Louis            	10
+10/27/1985	Green Bay           	10	Indianapolis        	37
+10/27/1985	New England         	32	Tampa Bay           	14
+10/27/1985	NY Giants           	21	New Orleans         	13
+10/27/1985	Seattle             	14	NY Jets             	17
+10/27/1985	Buffalo             	17	Philadelphia        	21
+10/27/1985	San Francisco       	28	LA Rams             	14
+10/27/1985	Washington          	14	Cleveland           	 7
+10/28/1985	San Diego           	21	LA Raiders          	34
+11/03/1985	Chicago             	16	Green Bay           	10
+11/03/1985	Cincinnati          	23	Buffalo             	17
+11/03/1985	Kansas City         	20	Houston             	23
+11/03/1985	New Orleans         	10	LA Rams             	28
+11/03/1985	Detroit             	13	Minnesota           	16
+11/03/1985	Miami               	13	New England         	17
+11/03/1985	Tampa Bay           	20	NY Giants           	22
+11/03/1985	NY Jets             	35	Indianapolis        	17
+11/03/1985	Cleveland           	 9	Pittsburgh          	10
+11/03/1985	Denver              	10	San Diego           	30
+11/03/1985	Philadelphia        	13	San Francisco       	24
+11/03/1985	LA Raiders          	 3	Seattle             	33
+11/03/1985	Washington          	44	Atlanta             	10
+11/04/1985	Dallas              	10	St Louis            	21
+11/10/1985	Houston             	 0	Buffalo             	20
+11/10/1985	Detroit             	 3	Chicago             	24
+11/10/1985	Cleveland           	10	Cincinnati          	27
+11/10/1985	Dallas              	13	Washington          	 7
+11/10/1985	Green Bay           	27	Minnesota           	17
+11/10/1985	NY Jets             	17	Miami               	21
+11/10/1985	Indianapolis        	15	New England         	34
+11/10/1985	LA Rams             	19	NY Giants           	24
+11/10/1985	Atlanta             	17	Philadelphia        	23
+11/10/1985	Pittsburgh          	36	Kansas City         	28
+11/10/1985	LA Raiders          	34	San Diego           	40
+11/10/1985	Seattle             	27	New Orleans         	 3
+11/10/1985	St Louis            	 0	Tampa Bay           	16
+11/11/1985	San Francisco       	16	Denver              	17
+11/17/1985	LA Rams             	14	Atlanta             	30
+11/17/1985	Chicago             	44	Dallas              	 0
+11/17/1985	Buffalo             	 7	Cleveland           	17
+11/17/1985	San Diego           	24	Denver              	30
+11/17/1985	Minnesota           	21	Detroit             	41
+11/17/1985	New Orleans         	14	Green Bay           	38
+11/17/1985	Cincinnati          	 6	LA Raiders          	13
+11/17/1985	Miami               	34	Indianapolis        	20
+11/17/1985	New England         	20	Seattle             	13
+11/17/1985	Tampa Bay           	28	NY Jets             	62
+11/17/1985	St Louis            	14	Philadelphia        	24
+11/17/1985	Pittsburgh          	30	Houston             	 7
+11/17/1985	Kansas City         	 3	San Francisco       	31
+11/18/1985	NY Giants           	21	Washington          	23
+11/24/1985	Atlanta             	 0	Chicago             	36
+11/24/1985	Cincinnati          	 6	Cleveland           	24
+11/24/1985	Philadelphia        	17	Dallas              	34
+11/24/1985	San Diego           	35	Houston             	37
+11/24/1985	Indianapolis        	 7	Kansas City         	20
+11/24/1985	Denver              	28	LA Raiders          	31
+11/24/1985	Green Bay           	17	LA Rams             	34
+11/24/1985	Miami               	23	Buffalo             	14
+11/24/1985	New Orleans         	30	Minnesota           	23
+11/24/1985	NY Giants           	34	St Louis            	 3
+11/24/1985	New England         	13	NY Jets             	16
+11/24/1985	Detroit             	16	Tampa Bay           	19
+11/24/1985	Washington          	30	Pittsburgh          	23
+11/25/1985	Seattle             	 6	San Francisco       	19
+11/28/1985	St Louis            	17	Dallas              	35
+11/28/1985	NY Jets             	20	Detroit             	31
+12/01/1985	Houston             	27	Cincinnati          	45
+12/01/1985	Cleveland           	35	NY Giants           	33
+12/01/1985	Denver              	31	Pittsburgh          	23
+12/01/1985	Tampa Bay           	 0	Green Bay           	21
+12/01/1985	LA Raiders          	34	Atlanta             	24
+12/01/1985	Minnesota           	28	Philadelphia        	23
+12/01/1985	New England         	38	Indianapolis        	31
+12/01/1985	LA Rams             	 3	New Orleans         	29
+12/01/1985	Buffalo             	 7	San Diego           	40
+12/01/1985	San Francisco       	35	Washington          	 8
+12/01/1985	Kansas City         	 6	Seattle             	24
+12/02/1985	Chicago             	24	Miami               	38
+12/08/1985	Indianapolis        	10	Chicago             	17
+12/08/1985	Dallas              	24	Cincinnati          	50
+12/08/1985	Atlanta             	10	Kansas City         	38
+12/08/1985	LA Raiders          	17	Denver              	14
+12/08/1985	Miami               	34	Green Bay           	24
+12/08/1985	Tampa Bay           	 7	Minnesota           	26
+12/08/1985	Detroit             	 6	New England         	23
+12/08/1985	NY Giants           	35	Houston             	14
+12/08/1985	NY Jets             	27	Buffalo             	 7
+12/08/1985	New Orleans         	16	St Louis            	28
+12/08/1985	Pittsburgh          	44	San Diego           	54
+12/08/1985	Cleveland           	13	Seattle             	31
+12/08/1985	Washington          	17	Philadelphia        	12
+12/09/1985	LA Rams             	27	San Francisco       	20
+12/14/1985	Chicago             	19	NY Jets             	 6
+12/14/1985	Kansas City         	13	Denver              	14
+12/15/1985	Minnesota           	13	Atlanta             	14
+12/15/1985	Houston             	21	Cleveland           	28
+12/15/1985	NY Giants           	21	Dallas              	28
+12/15/1985	Green Bay           	26	Detroit             	23
+12/15/1985	Indianapolis        	31	Tampa Bay           	23
+12/15/1985	Seattle             	 3	LA Raiders          	13
+12/15/1985	St Louis            	14	LA Rams             	46
+12/15/1985	Buffalo             	24	Pittsburgh          	30
+12/15/1985	Philadelphia        	14	San Diego           	20
+12/15/1985	San Francisco       	31	New Orleans         	19
+12/15/1985	Cincinnati          	24	Washington          	27
+12/16/1985	New England         	27	Miami               	30
+12/20/1985	Denver              	27	Seattle             	24
+12/21/1985	Pittsburgh          	10	NY Giants           	28
+12/21/1985	Washington          	27	St Louis            	16
+12/22/1985	Atlanta             	16	New Orleans         	10
+12/22/1985	Chicago             	37	Detroit             	17
+12/22/1985	Green Bay           	20	Tampa Bay           	17
+12/22/1985	Houston             	16	Indianapolis        	34
+12/22/1985	San Diego           	34	Kansas City         	38
+12/22/1985	Buffalo             	 0	Miami               	28
+12/22/1985	Cincinnati          	23	New England         	34
+12/22/1985	Cleveland           	10	NY Jets             	37
+12/22/1985	Philadelphia        	37	Minnesota           	35
+12/22/1985	Dallas              	16	San Francisco       	31
+12/23/1985	LA Raiders          	16	LA Rams             	 6
+12/28/1985	New England         	26	NY Jets             	14
+12/29/1985	San Francisco       	 3	NY Giants           	17
+01/04/1986	Dallas              	 0	LA Rams             	20
+01/04/1986	Cleveland           	21	Miami               	24
+01/05/1986	NY Giants           	 0	Chicago             	21
+01/05/1986	New England         	27	LA Raiders          	20
+01/12/1986	LA Rams             	 0	Chicago             	24
+01/12/1986	New England         	31	Miami               	14
+01/26/1986	Chicago             	46	New England         	10	0

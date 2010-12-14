@@ -1,0 +1,267 @@
+09/07/2006  Miami               17  Pittsburgh          28
+09/10/2006  New York Jets       23  Tennessee           16
+09/10/2006  Baltimore           27  Tampa Bay            0
+09/10/2006  Denver              10  St. Louis           18
+09/10/2006  Buffalo             17  New England         19
+09/10/2006  Cincinnati          23  Kansas City         10
+09/10/2006  Philadelphia        24  Houston             10
+09/10/2006  Seattle              9  Detroit              6
+09/10/2006  New Orleans         19  Cleveland           14
+09/10/2006  Atlanta             20  Carolina             6
+09/10/2006  Dallas              17  Jacksonville        24
+09/10/2006  Chicago             26  Green Bay            0
+09/10/2006  San Francisco       27  Arizona             34
+09/10/2006  Indianapolis        26  New York Giants     21
+09/11/2006  Minnesota           19  Washington          16
+09/11/2006  San Diego           27  Oakland              0
+09/17/2006  Carolina            13  Minnesota           16
+09/17/2006  Buffalo             16  Miami                6
+09/17/2006  Houston             24  Indianapolis        43
+09/17/2006  New Orleans         34  Green Bay           27
+09/17/2006  Cleveland           17  Cincinnati          34
+09/17/2006  Detroit              7  Chicago             34
+09/17/2006  Oakland              6  Baltimore           28
+09/17/2006  Tampa Bay            3  Atlanta             14
+09/17/2006  New York Giants     30  Philadelphia        24
+09/17/2006  Arizona             10  Seattle             21
+09/17/2006  St. Louis           13  San Francisco       20
+09/17/2006  Tennessee            7  San Diego           40
+09/17/2006  New England         24  New York Jets       17
+09/17/2006  Kansas City          6  Denver               9
+09/17/2006  Washington          10  Dallas              27
+09/18/2006  Pittsburgh           0  Jacksonville         9
+09/24/2006  Carolina            26  Tampa Bay           24
+09/24/2006  Cincinnati          28  Pittsburgh          20
+09/24/2006  Chicago             19  Minnesota           16
+09/24/2006  Tennessee           10  Miami               13
+09/24/2006  Jacksonville        14  Indianapolis        21
+09/24/2006  Washington          31  Houston             15
+09/24/2006  Green Bay           31  Detroit             24
+09/24/2006  New York Jets       28  Buffalo             20
+09/24/2006  Baltimore           15  Cleveland           14
+09/24/2006  New York Giants     30  Seattle             42
+09/24/2006  Philadelphia        38  San Francisco       24
+09/24/2006  St. Louis           16  Arizona             14
+09/24/2006  Denver              17  New England          7
+09/25/2006  Atlanta              3  New Orleans         23
+10/01/2006  Dallas              45  Tennessee           14
+10/01/2006  Indianapolis        31  New York Jets       28
+10/01/2006  San Francisco        0  Kansas City         41
+10/01/2006  Miami               15  Houston             17
+10/01/2006  New Orleans         18  Carolina            21
+10/01/2006  Minnesota           12  Buffalo             17
+10/01/2006  San Diego           13  Baltimore           16
+10/01/2006  Arizona             10  Atlanta             32
+10/01/2006  Cleveland           24  Oakland             21
+10/01/2006  New England         38  Cincinnati          13
+10/01/2006  Jacksonville        30  Washington          36
+10/01/2006  Detroit             34  St. Louis           41
+10/01/2006  Seattle              6  Chicago             37
+10/02/2006  Green Bay            9  Philadelphia        31
+10/08/2006  Washington           3  New York Giants     19
+10/08/2006  Buffalo              7  Chicago             40
+10/08/2006  Tennessee           13  Indianapolis        14
+10/08/2006  Detroit             17  Minnesota           26
+10/08/2006  Miami               10  New England         20
+10/08/2006  Cleveland           12  Carolina            20
+10/08/2006  St. Louis           23  Green Bay           20
+10/08/2006  Tampa Bay           21  New Orleans         24
+10/08/2006  Oakland             20  San Francisco       34
+10/08/2006  New York Jets        0  Jacksonville        41
+10/08/2006  Kansas City         23  Arizona             20
+10/08/2006  Dallas              24  Philadelphia        38
+10/08/2006  Pittsburgh          13  San Diego           23
+10/09/2006  Baltimore            3  Denver              13
+10/15/2006  Tennessee           25  Washington          22
+10/15/2006  Cincinnati          13  Tampa Bay           14
+10/15/2006  Seattle             30  St. Louis           28
+10/15/2006  Philadelphia        24  New Orleans         27
+10/15/2006  Buffalo             17  Detroit             20
+10/15/2006  Houston              6  Dallas              34
+10/15/2006  Carolina            23  Baltimore           21
+10/15/2006  New York Giants     27  Atlanta             14
+10/15/2006  San Diego           48  San Francisco       19
+10/15/2006  Kansas City          7  Pittsburgh          45
+10/15/2006  Miami               17  New York Jets       20
+10/15/2006  Oakland              3  Denver              13
+10/16/2006  Chicago             24  Arizona             23
+10/22/2006  Philadelphia        21  Tampa Bay           23
+10/22/2006  Carolina            14  Cincinnati          17
+10/22/2006  Detroit             24  New York Jets       31
+10/22/2006  Green Bay           34  Miami               24
+10/22/2006  San Diego           27  Kansas City         30
+10/22/2006  Jacksonville         7  Houston             27
+10/22/2006  New England         28  Buffalo              6
+10/22/2006  Pittsburgh          38  Atlanta             41
+10/22/2006  Denver              17  Cleveland            7
+10/22/2006  Minnesota           31  Seattle             13
+10/22/2006  Arizona              9  Oakland             22
+10/22/2006  Washington          22  Indianapolis        36
+10/23/2006  New York Giants     36  Dallas              22
+10/29/2006  Houston             22  Tennessee           28
+10/29/2006  Jacksonville        13  Philadelphia         6
+10/29/2006  Tampa Bay            3  New York Giants     17
+10/29/2006  Baltimore           35  New Orleans         22
+10/29/2006  Seattle             28  Kansas City         35
+10/29/2006  Arizona             14  Green Bay           31
+10/29/2006  Atlanta             29  Cincinnati          27
+10/29/2006  San Francisco       10  Chicago             41
+10/29/2006  St. Louis           24  San Diego           38
+10/29/2006  Pittsburgh          13  Oakland             20
+10/29/2006  Indianapolis        34  Denver              31
+10/29/2006  New York Jets       13  Cleveland           20
+10/29/2006  Dallas              35  Carolina            14
+10/30/2006  New England         31  Minnesota            7
+11/05/2006  Dallas              19  Washington          22
+11/05/2006  New Orleans         31  Tampa Bay           14
+11/05/2006  Kansas City         31  St. Louis           17
+11/05/2006  Houston             10  New York Giants     14
+11/05/2006  Tennessee            7  Jacksonville        37
+11/05/2006  Atlanta             14  Detroit             30
+11/05/2006  Miami               31  Chicago             13
+11/05/2006  Green Bay           10  Buffalo             24
+11/05/2006  Cincinnati          20  Baltimore           26
+11/05/2006  Minnesota            3  San Francisco        9
+11/05/2006  Cleveland           25  San Diego           32
+11/05/2006  Denver              31  Pittsburgh          20
+11/05/2006  Indianapolis        27  New England         20
+11/06/2006  Oakland              0  Seattle             16
+11/12/2006  Baltimore           27  Tennessee           26
+11/12/2006  Washington           3  Philadelphia        27
+11/12/2006  New York Jets       17  New England         14
+11/12/2006  Green Bay           23  Minnesota           17
+11/12/2006  Kansas City         10  Miami               13
+11/12/2006  Houston             13  Jacksonville        10
+11/12/2006  Buffalo             16  Indianapolis        17
+11/12/2006  San Francisco       19  Detroit             13
+11/12/2006  San Diego           49  Cincinnati          41
+11/12/2006  Cleveland           17  Atlanta             13
+11/12/2006  Denver              17  Oakland             13
+11/12/2006  St. Louis           22  Seattle             24
+11/12/2006  Dallas              27  Arizona             10
+11/12/2006  New Orleans         31  Pittsburgh          38
+11/12/2006  Chicago             38  New York Giants     20
+11/13/2006  Tampa Bay           10  Carolina            24
+11/19/2006  Washington          17  Tampa Bay           20
+11/19/2006  Tennessee           31  Philadelphia        13
+11/19/2006  Chicago             10  New York Jets        0
+11/19/2006  Cincinnati          31  New Orleans         16
+11/19/2006  Minnesota           20  Miami               24
+11/19/2006  Buffalo             24  Houston             21
+11/19/2006  New England         35  Green Bay            0
+11/19/2006  Pittsburgh          24  Cleveland           20
+11/19/2006  St. Louis            0  Carolina            15
+11/19/2006  Atlanta             10  Baltimore           24
+11/19/2006  Oakland             13  Kansas City         17
+11/19/2006  Seattle             14  San Francisco       20
+11/19/2006  Detroit             10  Arizona             17
+11/19/2006  Indianapolis        14  Dallas              21
+11/19/2006  San Diego           35  Denver              27
+11/20/2006  New York Giants     10  Jacksonville        26
+11/23/2006  Miami               27  Detroit             10
+11/23/2006  Tampa Bay           10  Dallas              38
+11/23/2006  Denver              10  Kansas City         19
+11/26/2006  Carolina            13  Washington          17
+11/26/2006  San Francisco       17  St. Louis           20
+11/26/2006  Houston             11  New York Jets       26
+11/26/2006  Arizona             26  Minnesota           31
+11/26/2006  Cincinnati          30  Cleveland            0
+11/26/2006  Jacksonville        24  Buffalo             27
+11/26/2006  Pittsburgh           0  Baltimore           27
+11/26/2006  New Orleans         31  Atlanta             13
+11/26/2006  Oakland             14  San Diego           21
+11/26/2006  New York Giants     21  Tennessee           24
+11/26/2006  Chicago             13  New England         17
+11/26/2006  Philadelphia        21  Indianapolis        45
+11/26/2006  Green Bay           24  Seattle             34
+11/29/2006  Baltimore            7  Cincinnati          13
+12/03/2006  Atlanta             24  Washington          14
+12/03/2006  Indianapolis        17  Tennessee           20
+12/03/2006  Arizona             34  St. Louis           20
+12/03/2006  San Francisco       10  New Orleans         34
+12/03/2006  Detroit             21  New England         28
+12/03/2006  New York Jets       38  Green Bay           10
+12/03/2006  Kansas City         28  Cleveland           31
+12/03/2006  Minnesota           13  Chicago             23
+12/03/2006  San Diego           24  Buffalo             21
+12/03/2006  Houston             23  Oakland             14
+12/03/2006  Jacksonville        24  Miami               10
+12/03/2006  Tampa Bay            3  Pittsburgh          20
+12/03/2006  Dallas              23  New York Giants     20
+12/03/2006  Seattle             23  Denver              20
+12/04/2006  Carolina            24  Philadelphia        27
+12/07/2006  Cleveland            7  Pittsburgh          27
+12/10/2006  Philadelphia        21  Washington          19
+12/10/2006  Atlanta             17  Tampa Bay            6
+12/10/2006  New England          0  Miami               21
+12/10/2006  Baltimore           20  Kansas City         10
+12/10/2006  Indianapolis        17  Jacksonville        44
+12/10/2006  Tennessee           26  Houston             20
+12/10/2006  Minnesota           30  Detroit             20
+12/10/2006  Oakland             10  Cincinnati          27
+12/10/2006  New York Giants     27  Carolina            13
+12/10/2006  Green Bay           30  San Francisco       19
+12/10/2006  Seattle             21  Arizona             27
+12/10/2006  Denver              20  San Diego           48
+12/10/2006  Buffalo             31  New York Jets       13
+12/10/2006  New Orleans         42  Dallas              17
+12/11/2006  Chicago             42  St. Louis           27
+12/14/2006  San Francisco       24  Seattle             14
+12/16/2006  Dallas              38  Atlanta             28
+12/17/2006  Jacksonville        17  Tennessee           24
+12/17/2006  Washington          16  New Orleans         10
+12/17/2006  Houston              7  New England         40
+12/17/2006  Detroit              9  Green Bay           17
+12/17/2006  Cleveland           17  Baltimore           27
+12/17/2006  New York Jets       26  Minnesota           13
+12/17/2006  Pittsburgh          37  Carolina             3
+12/17/2006  Philadelphia        26  New York Giants     13
+12/17/2006  Denver              37  Arizona             20
+12/17/2006  St. Louis           20  Oakland              0
+12/17/2006  Kansas City          9  San Diego           20
+12/17/2006  Chicago             34  Tampa Bay           31
+12/17/2006  Miami                0  Buffalo             21
+12/18/2006  Cincinnati          16  Indianapolis        34
+12/21/2006  Minnesota            7  Green Bay            9
+12/23/2006  Kansas City         20  Oakland              9
+12/24/2006  Tampa Bay           22  Cleveland            7
+12/24/2006  Tennessee           30  Buffalo             29
+12/24/2006  Carolina            10  Atlanta              3
+12/24/2006  Washington          31  St. Louis           37
+12/24/2006  Baltimore           31  Pittsburgh           7
+12/24/2006  New Orleans         30  New York Giants      7
+12/24/2006  New England         24  Jacksonville        21
+12/24/2006  Indianapolis        24  Houston             27
+12/24/2006  Chicago             26  Detroit             21
+12/24/2006  Arizona             26  San Francisco       20
+12/24/2006  San Diego           20  Seattle             17
+12/24/2006  Cincinnati          23  Denver              24
+12/25/2006  Philadelphia        23  Dallas               7
+12/25/2006  New York Jets       13  Miami               10
+12/30/2006  New York Giants     34  Washington          28
+12/31/2006  New England         40  Tennessee           23
+12/31/2006  Seattle             23  Tampa Bay            7
+12/31/2006  Oakland              3  New York Jets       23
+12/31/2006  Carolina            31  New Orleans         21
+12/31/2006  St. Louis           41  Minnesota           21
+12/31/2006  Jacksonville        30  Kansas City         35
+12/31/2006  Cleveland            6  Houston             14
+12/31/2006  Detroit             39  Dallas              31
+12/31/2006  Pittsburgh          23  Cincinnati          17
+12/31/2006  Arizona             20  San Diego           27
+12/31/2006  San Francisco       26  Denver              23
+12/31/2006  Atlanta             17  Philadelphia        24
+12/31/2006  Miami               22  Indianapolis        27
+12/31/2006  Buffalo              7  Baltimore           19
+12/31/2006  Green Bay           26  Chicago              7
+01/06/2007  Dallas              20  Seattle             21
+01/06/2007  Kansas City          8  Indianapolis        23
+01/07/2007  New York Jets       16  New England         37
+01/07/2007  New York Giants     20  Philadelphia        23
+01/13/2007  Indianapolis        15  Baltimore            6
+01/13/2007  Philadelphia        24  New Orleans         27
+01/14/2007  Seattle             24  Chicago             27
+01/14/2007  New England         24  San Diego           21
+01/21/2007  New Orleans         14  Chicago             39
+01/21/2007  New England         34  Indianapolis        38
+02/05/2007  Indianapolis        29  Chicago             17 N

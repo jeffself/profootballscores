@@ -1,0 +1,260 @@
+09/12/1999	Arizona        	25	Philadelphia   	24	1
+09/12/1999	Kansas City    	17	Chicago        	20	1
+09/12/1999	Dallas         	41	Washington     	35	1
+09/12/1999	Detroit        	28	Seattle        	20	1
+09/12/1999	Oakland        	24	Green Bay      	28	1
+09/12/1999	Buffalo        	14	Indianapolis   	31	1
+09/12/1999	San Francisco  	3	Jacksonville   	41	1
+09/12/1999	Minnesota      	17	Atlanta        	14	1
+09/12/1999	New England    	30	NY Jets        	28	1
+09/12/1999	Carolina       	10	New Orleans    	19	1
+09/12/1999	NY Giants      	17	Tampa Bay      	13	1
+09/12/1999	Pittsburgh     	43	Cleveland      	0	1
+09/12/1999	Baltimore      	10	St Louis       	27	1
+09/12/1999	Cincinnati     	35	Tennessee      	36	1
+09/13/1999	Miami          	38	Denver         	21	1
+09/19/1999	NY Jets        	3	Buffalo        	17	1
+09/19/1999	Green Bay      	15	Detroit        	23	1
+09/19/1999	Jacksonville   	22	Carolina       	20	1
+09/19/1999	Denver         	10	Kansas City    	26	1
+09/19/1999	Arizona        	16	Miami          	19	1
+09/19/1999	Indianapolis   	28	New England    	31	1
+09/19/1999	Oakland        	22	Minnesota      	17	1
+09/19/1999	Pittsburgh     	23	Baltimore      	20	1
+09/19/1999	San Diego      	34	Cincinnati     	7	1
+09/19/1999	New Orleans    	21	San Francisco  	28	1
+09/19/1999	Seattle        	14	Chicago        	13	1
+09/19/1999	Tampa Bay      	19	Philadelphia   	5	1
+09/19/1999	Cleveland      	9	Tennessee      	26	1
+09/19/1999	Washington     	50	NY Giants      	21	1
+09/20/1999	Atlanta        	7	Dallas         	24	1
+09/26/1999	Cleveland      	10	Baltimore      	17	1
+09/26/1999	Philadelphia   	0	Buffalo        	26	1
+09/26/1999	Cincinnati     	3	Carolina       	27	1
+09/26/1999	Minnesota      	20	Green Bay      	23	1
+09/26/1999	Indianapolis   	27	San Diego      	19	1
+09/26/1999	Detroit        	21	Kansas City    	31	1
+09/26/1999	NY Giants      	14	New England    	16	1
+09/26/1999	Chicago        	17	Oakland        	24	1
+09/26/1999	Atlanta        	7	St Louis       	35	1
+09/26/1999	Seattle        	29	Pittsburgh     	10	1
+09/26/1999	Denver         	10	Tampa Bay      	13	1
+09/26/1999	Tennessee      	20	Jacksonville   	19	1
+09/26/1999	Washington     	27	NY Jets        	20	1
+09/27/1999	San Francisco  	24	Arizona        	10	1
+10/03/1999	Baltimore      	19	Atlanta        	13	1
+10/03/1999	New Orleans    	10	Chicago        	14	1
+10/03/1999	Arizona        	7	Dallas         	35	1
+10/03/1999	Jacksonville   	17	Pittsburgh     	3	1
+10/03/1999	Tampa Bay      	14	Minnesota      	21	1
+10/03/1999	New England    	19	Cleveland      	7	1
+10/03/1999	Philadelphia   	15	NY Giants      	16	1
+10/03/1999	NY Jets        	21	Denver         	13	1
+10/03/1999	St Louis       	38	Cincinnati     	10	1
+10/03/1999	Kansas City    	14	San Diego      	21	1
+10/03/1999	Tennessee      	22	San Francisco  	24	1
+10/03/1999	Oakland        	21	Seattle        	22	1
+10/03/1999	Carolina       	36	Washington     	38	1
+10/04/1999	Buffalo        	23	Miami          	18	1
+10/10/1999	NY Giants      	3	Arizona        	14	1
+10/10/1999	Atlanta        	20	New Orleans    	17	1
+10/10/1999	Pittsburgh     	21	Buffalo        	24	1
+10/10/1999	Chicago        	24	Minnesota      	22	1
+10/10/1999	Cincinnati     	18	Cleveland      	17	1
+10/10/1999	Denver         	16	Oakland        	13	1
+10/10/1999	Tampa Bay      	23	Green Bay      	26	1
+10/10/1999	New England    	14	Kansas City    	16	1
+10/10/1999	Miami          	34	Indianapolis   	31	1
+10/10/1999	Dallas         	10	Philadelphia   	13	1
+10/10/1999	San Francisco  	20	St Louis       	42	1
+10/10/1999	San Diego      	20	Detroit        	10	1
+10/10/1999	Baltimore      	11	Tennessee      	14	1
+10/11/1999	Jacksonville   	16	NY Jets        	6	1
+10/17/1999	Carolina       	31	San Francisco  	29	1
+10/17/1999	Green Bay      	10	Denver         	31	1
+10/17/1999	Minnesota      	23	Detroit        	25	1
+10/17/1999	Indianapolis   	16	NY Jets        	13	1
+10/17/1999	Cleveland      	7	Jacksonville   	24	1
+10/17/1999	Miami          	31	New England    	30	1
+10/17/1999	Oakland        	20	Buffalo        	14	1
+10/17/1999	Philadelphia   	20	Chicago        	16	1
+10/17/1999	Pittsburgh     	17	Cincinnati     	3	1
+10/17/1999	St Louis       	41	Atlanta        	13	1
+10/17/1999	Seattle        	10	San Diego      	13	1
+10/17/1999	Tennessee      	24	New Orleans    	21	1
+10/17/1999	Washington     	24	Arizona        	10	1
+10/18/1999	Dallas         	10	NY Giants      	13	1
+10/21/1999	Kansas City    	35	Baltimore      	8	1
+10/24/1999	Washington     	20	Dallas         	38	1
+10/24/1999	Detroit        	24	Carolina       	9	1
+10/24/1999	Green Bay      	31	San Diego      	3	1
+10/24/1999	Cincinnati     	10	Indianapolis   	31	1
+10/24/1999	Philadelphia   	13	Miami          	16	1
+10/24/1999	San Francisco  	16	Minnesota      	40	1
+10/24/1999	Denver         	23	New England    	24	1
+10/24/1999	New Orleans    	3	NY Giants      	31	1
+10/24/1999	NY Jets        	23	Oakland        	24	1
+10/24/1999	Cleveland      	3	St Louis       	34	1
+10/24/1999	Buffalo        	16	Seattle        	26	1
+10/24/1999	Chicago        	3	Tampa Bay      	6	1
+10/25/1999	Atlanta        	9	Pittsburgh     	13	1
+10/31/1999	Carolina       	20	Atlanta        	27	1
+10/31/1999	Buffalo        	13	Baltimore      	10	1
+10/31/1999	Cleveland      	21	New Orleans    	16	1
+10/31/1999	Tampa Bay      	3	Detroit        	20	1
+10/31/1999	Dallas         	24	Indianapolis   	34	1
+10/31/1999	Jacksonville   	41	Cincinnati     	10	1
+10/31/1999	San Diego      	0	Kansas City    	34	1
+10/31/1999	Miami          	16	Oakland        	9	1
+10/31/1999	Minnesota      	23	Denver         	20	1
+10/31/1999	New England    	27	Arizona        	3	1
+10/31/1999	NY Giants      	23	Philadelphia   	17	1
+10/31/1999	St Louis       	21	Tennessee      	24	1
+10/31/1999	Chicago        	22	Washington     	48	1
+11/01/1999	Seattle        	27	Green Bay      	7	1
+11/07/1999	Baltimore      	41	Cleveland      	9	1
+11/07/1999	Buffalo        	34	Washington     	17	1
+11/07/1999	Philadelphia   	7	Carolina       	33	1
+11/07/1999	Chicago        	14	Green Bay      	13	1
+11/07/1999	Denver         	33	San Diego      	17	1
+11/07/1999	St Louis       	27	Detroit        	31	1
+11/07/1999	Kansas City    	17	Indianapolis   	25	1
+11/07/1999	Jacksonville   	30	Atlanta        	7	1
+11/07/1999	Tennessee      	0	Miami          	17	1
+11/07/1999	Arizona        	7	NY Jets        	12	1
+11/07/1999	Pittsburgh     	27	San Francisco  	6	1
+11/07/1999	Cincinnati     	20	Seattle        	37	1
+11/07/1999	Tampa Bay      	31	New Orleans    	16	1
+11/08/1999	Dallas         	17	Minnesota      	27	1
+11/14/1999	Detroit        	19	Arizona        	23	1
+11/14/1999	Miami          	3	Buffalo        	23	1
+11/14/1999	Cleveland      	16	Pittsburgh     	15	1
+11/14/1999	Green Bay      	13	Dallas         	27	1
+11/14/1999	Indianapolis   	27	NY Giants      	19	1
+11/14/1999	Baltimore      	3	Jacksonville   	6	1
+11/14/1999	Minnesota      	27	Chicago        	24	1
+11/14/1999	San Francisco  	6	New Orleans    	24	1
+11/14/1999	San Diego      	9	Oakland        	28	1
+11/14/1999	Washington     	28	Philadelphia   	35	1
+11/14/1999	Carolina       	10	St Louis       	35	1
+11/14/1999	Denver         	17	Seattle        	20	1
+11/14/1999	Kansas City    	10	Tampa Bay      	17	1
+11/14/1999	Tennessee      	24	Cincinnati     	14	1
+11/15/1999	NY Jets        	24	New England    	17	1
+11/21/1999	Dallas         	9	Arizona        	13	1
+11/21/1999	Baltimore      	34	Cincinnati     	31	1
+11/21/1999	Carolina       	31	Cleveland      	17	1
+11/21/1999	Chicago        	23	San Diego      	20	1
+11/21/1999	Detroit        	17	Green Bay      	26	1
+11/21/1999	Indianapolis   	44	Philadelphia   	17	1
+11/21/1999	New Orleans    	23	Jacksonville   	41	1
+11/21/1999	New England    	17	Miami          	27	1
+11/21/1999	Buffalo        	7	NY Jets        	17	1
+11/21/1999	St Louis       	23	San Francisco  	7	1
+11/21/1999	Seattle        	31	Kansas City    	19	1
+11/21/1999	Atlanta        	10	Tampa Bay      	19	1
+11/21/1999	Pittsburgh     	10	Tennessee      	16	1
+11/21/1999	NY Giants      	13	Washington     	23	1
+11/22/1999	Oakland        	21	Denver         	27	1
+11/25/1999	Miami          	0	Dallas         	20	1
+11/25/1999	Chicago        	17	Detroit        	21	1
+11/28/1999	Arizona        	34	NY Giants      	24	1
+11/28/1999	New England    	7	Buffalo        	17	1
+11/28/1999	Atlanta        	28	Carolina       	34	1
+11/28/1999	Cincinnati     	27	Pittsburgh     	20	1
+11/28/1999	NY Jets        	6	Indianapolis   	13	1
+11/28/1999	Jacksonville   	30	Baltimore      	23	1
+11/28/1999	Kansas City    	37	Oakland        	34	1
+11/28/1999	San Diego      	27	Minnesota      	35	1
+11/28/1999	New Orleans    	12	St Louis       	43	1
+11/28/1999	Tampa Bay      	16	Seattle        	3	1
+11/28/1999	Tennessee      	33	Cleveland      	21	1
+11/28/1999	Philadelphia   	17	Washington     	20	1
+11/29/1999	Green Bay      	20	San Francisco  	3	1
+12/02/1999	Pittsburgh     	6	Jacksonville   	20	1
+12/05/1999	Philadelphia   	17	Arizona        	21	1
+12/05/1999	New Orleans    	12	Atlanta        	35	1
+12/05/1999	Tennessee      	14	Baltimore      	41	1
+12/05/1999	San Francisco  	30	Cincinnati     	44	1
+12/05/1999	Washington     	17	Detroit        	33	1
+12/05/1999	Green Bay      	35	Chicago        	19	1
+12/05/1999	Indianapolis   	37	Miami          	34	1
+12/05/1999	Kansas City    	16	Denver         	10	1
+12/05/1999	Dallas         	6	New England    	13	1
+12/05/1999	NY Jets        	28	NY Giants      	41	1
+12/05/1999	Seattle        	21	Oakland        	30	1
+12/05/1999	St Louis       	34	Carolina       	21	1
+12/05/1999	Cleveland      	10	San Diego      	23	1
+12/06/1999	Minnesota      	17	Tampa Bay      	24	1
+12/09/1999	Oakland        	14	Tennessee      	21	1
+12/12/1999	Baltimore      	31	Pittsburgh     	24	1
+12/12/1999	Carolina       	33	Green Bay      	31	1
+12/12/1999	Cleveland      	28	Cincinnati     	44	1
+12/12/1999	Philadelphia   	10	Dallas         	20	1
+12/12/1999	New England    	15	Indianapolis   	20	1
+12/12/1999	Minnesota      	28	Kansas City    	31	1
+12/12/1999	NY Giants      	19	Buffalo        	17	1
+12/12/1999	Miami          	20	NY Jets        	28	1
+12/12/1999	St Louis       	30	New Orleans    	14	1
+12/12/1999	San Diego      	19	Seattle        	16	1
+12/12/1999	Atlanta        	7	San Francisco  	26	1
+12/12/1999	Detroit        	16	Tampa Bay      	23	1
+12/12/1999	Arizona        	3	Washington     	28	1
+12/13/1999	Denver         	24	Jacksonville   	27	1
+12/18/1999	San Francisco  	24	Carolina       	41	1
+12/18/1999	Pittsburgh     	19	Kansas City    	35	1
+12/19/1999	New Orleans    	8	Baltimore      	31	1
+12/19/1999	Buffalo        	31	Arizona        	21	1
+12/19/1999	Detroit        	10	Chicago        	28	1
+12/19/1999	Seattle        	30	Denver         	36	1
+12/19/1999	Washington     	21	Indianapolis   	24	1
+12/19/1999	Jacksonville   	24	Cleveland      	14	1
+12/19/1999	San Diego      	9	Miami          	12	1
+12/19/1999	NY Jets        	22	Dallas         	21	1
+12/19/1999	Tampa Bay      	0	Oakland        	45	1
+12/19/1999	New England    	9	Philadelphia   	24	1
+12/19/1999	NY Giants      	10	St Louis       	31	1
+12/19/1999	Atlanta        	17	Tennessee      	30	1
+12/20/1999	Green Bay      	20	Minnesota      	24	1
+12/24/1999	Dallas         	24	New Orleans    	31	1
+12/25/1999	Denver         	17	Detroit        	7	1
+12/26/1999	Arizona        	14	Atlanta        	37	1
+12/26/1999	Cincinnati     	0	Baltimore      	22	1
+12/26/1999	Buffalo        	13	New England    	10	1
+12/26/1999	Indianapolis   	29	Cleveland      	28	1
+12/26/1999	Minnesota      	34	NY Giants      	17	1
+12/26/1999	Carolina       	20	Pittsburgh     	30	1
+12/26/1999	Chicago        	12	St Louis       	34	1
+12/26/1999	Oakland        	20	San Diego      	23	1
+12/26/1999	Kansas City    	14	Seattle        	23	1
+12/26/1999	Green Bay      	10	Tampa Bay      	29	1
+12/26/1999	Jacksonville   	14	Tennessee      	41	1
+12/26/1999	Washington     	26	San Francisco  	20	1
+12/27/1999	NY Jets        	38	Miami          	31	1
+01/02/2000	Indianapolis   	6	Buffalo        	31	1
+01/02/2000	New Orleans    	13	Carolina       	45	1
+01/02/2000	NY Giants      	18	Dallas         	26	1
+01/02/2000	Arizona        	24	Green Bay      	49	1
+01/02/2000	Cincinnati     	7	Jacksonville   	24	1
+01/02/2000	Detroit        	17	Minnesota      	24	1
+01/02/2000	Baltimore      	3	New England    	20	1
+01/02/2000	Seattle        	9	NY Jets        	19	1
+01/02/2000	Oakland        	41	Kansas City    	38	1
+01/02/2000	St Louis       	31	Philadelphia   	38	1
+01/02/2000	San Diego      	12	Denver         	6	1
+01/02/2000	Tampa Bay      	20	Chicago        	6	1
+01/02/2000	Tennessee      	47	Pittsburgh     	36	1
+01/02/2000	Miami          	10	Washington     	21	1
+01/03/2000	San Francisco  	29	Atlanta        	34	1
+01/08/2000	Buffalo        	16	Tennessee      	22	1
+01/08/2000	Detroit        	13	Washington     	27	1
+01/09/2000	Miami          	20	Seattle        	17	1
+01/09/2000	Dallas         	10	Minnesota      	27	1
+01/15/2000	Miami          	7	Jacksonville   	62	1
+01/15/2000	Washington     	13	Tampa Bay      	14	1
+01/16/2000	Minnesota      	37	St Louis       	49	1
+01/16/2000	Tennessee      	19	Indianapolis   	16	1
+01/23/2000	Tennessee      	33	Jacksonville   	14	1
+01/23/2000	Tampa Bay      	6	St Louis       	11	1
+01/30/2000	St Louis		23	Tennessee		16	0
+

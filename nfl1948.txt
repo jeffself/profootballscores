@@ -1,0 +1,61 @@
+09/17/1948	Green Bay           	31	Boston              	 0
+09/22/1948	Detroit             	 7	LA Rams             	44
+09/23/1948	NY Giants           	27	Boston              	 7
+09/24/1948	Philadelphia        	14	Chicago Cardinals   	21
+09/26/1948	Chicago             	45	Green Bay           	 7
+09/26/1948	Pittsburgh          	14	Washington          	17
+10/03/1948	Detroit             	21	Green Bay           	33
+10/03/1948	Philadelphia        	28	LA Rams             	28
+10/03/1948	Boston              	14	Pittsburgh          	24
+10/03/1948	NY Giants           	10	Washington          	41
+10/04/1948	Chicago             	28	Chicago Cardinals   	17
+10/09/1948	Boston              	17	Detroit             	14
+10/10/1948	LA Rams             	21	Chicago             	42
+10/10/1948	Chicago Cardinals   	17	Green Bay           	 7
+10/10/1948	NY Giants           	 0	Philadelphia        	45
+10/10/1948	Washington          	 7	Pittsburgh          	10
+10/17/1948	Pittsburgh          	 7	Boston              	13
+10/17/1948	Detroit             	 0	Chicago             	28
+10/17/1948	Chicago Cardinals   	63	NY Giants           	35
+10/17/1948	LA Rams             	 0	Green Bay           	16
+10/17/1948	Philadelphia        	45	Washington          	 0
+10/24/1948	Boston              	27	Chicago Cardinals   	49
+10/24/1948	LA Rams             	34	Detroit             	27
+10/24/1948	Pittsburgh          	27	NY Giants           	34
+10/24/1948	Chicago             	 7	Philadelphia        	12
+10/24/1948	Washington          	23	Green Bay           	 7
+10/31/1948	NY Giants           	14	Chicago             	35
+10/31/1948	Chicago Cardinals   	27	LA Rams             	22
+10/31/1948	Green Bay           	20	Detroit             	24
+10/31/1948	Philadelphia        	34	Pittsburgh          	 7
+10/31/1948	Boston              	21	Washington          	59
+11/07/1948	Chicago             	21	LA Rams             	 6
+11/07/1948	Detroit             	20	Chicago Cardinals   	56
+11/07/1948	Philadelphia        	35	NY Giants           	14
+11/07/1948	Green Bay           	 7	Pittsburgh          	38
+11/07/1948	Washington          	23	Boston              	 7
+11/14/1948	Green Bay           	 6	Chicago             	 7
+11/14/1948	Chicago Cardinals   	24	Pittsburgh          	 7
+11/14/1948	LA Rams             	52	NY Giants           	37
+11/14/1948	Boston              	 0	Philadelphia        	45
+11/14/1948	Detroit             	21	Washington          	46
+11/21/1948	Chicago             	51	Boston              	17
+11/21/1948	LA Rams             	24	Chicago Cardinals   	27
+11/21/1948	Pittsburgh          	14	Detroit             	17
+11/21/1948	NY Giants           	49	Green Bay           	 3
+11/21/1948	Washington          	21	Philadelphia        	42
+11/25/1948	Chicago Cardinals   	28	Detroit             	14
+11/28/1948	Washington          	13	Chicago             	48
+11/28/1948	Green Bay           	10	LA Rams             	24
+11/28/1948	Boston              	14	NY Giants           	28
+11/28/1948	Pittsburgh          	 0	Philadelphia        	17
+12/05/1948	Philadelphia        	14	Boston              	37
+12/05/1948	Chicago             	42	Detroit             	14
+12/05/1948	Green Bay           	 7	Chicago Cardinals   	42
+12/05/1948	LA Rams             	41	Washington          	13
+12/05/1948	NY Giants           	28	Pittsburgh          	38
+12/12/1948	Chicago Cardinals   	24	Chicago             	21
+12/12/1948	Pittsburgh          	14	LA Rams             	31
+12/12/1948	Detroit             	21	Philadelphia        	45
+12/12/1948	Washington          	28	NY Giants           	21
+12/19/1948	Chicago Cardinals   	 0	Philadelphia        	 7

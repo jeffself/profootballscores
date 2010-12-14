@@ -1,0 +1,74 @@
+09/29/1957	Chicago             	17	Green Bay           	21
+09/29/1957	Detroit             	14	Baltimore           	34
+09/29/1957	NY Giants           	 3	Cleveland           	 6
+09/29/1957	Philadelphia        	13	LA Rams             	17
+09/29/1957	Chicago Cardinals   	20	San Francisco       	10
+09/29/1957	Washington          	 7	Pittsburgh          	28
+10/05/1957	Chicago             	10	Baltimore           	21
+10/05/1957	NY Giants           	24	Philadelphia        	20
+10/05/1957	Cleveland           	23	Pittsburgh          	12
+10/06/1957	Washington          	37	Chicago Cardinals   	14
+10/06/1957	Detroit             	24	Green Bay           	14
+10/06/1957	LA Rams             	20	San Francisco       	23
+10/13/1957	San Francisco       	21	Chicago             	17
+10/13/1957	Chicago Cardinals   	20	Pittsburgh          	29
+10/13/1957	Baltimore           	45	Green Bay           	17
+10/13/1957	LA Rams             	 7	Detroit             	10
+10/13/1957	Philadelphia        	 7	Cleveland           	24
+10/13/1957	NY Giants           	24	Washington          	20
+10/20/1957	Baltimore           	27	Detroit             	31
+10/20/1957	Cleveland           	 7	Philadelphia        	17
+10/20/1957	San Francisco       	24	Green Bay           	14
+10/20/1957	LA Rams             	26	Chicago             	34
+10/20/1957	Pittsburgh          	 0	NY Giants           	35
+10/20/1957	Chicago Cardinals   	44	Washington          	14
+10/27/1957	Green Bay           	24	Baltimore           	21
+10/27/1957	Chicago             	17	San Francisco       	21
+10/27/1957	Cleveland           	17	Chicago Cardinals   	 7
+10/27/1957	Detroit             	17	LA Rams             	35
+10/27/1957	Washington          	31	NY Giants           	14
+10/27/1957	Philadelphia        	 0	Pittsburgh          	 6
+11/03/1957	Pittsburgh          	19	Baltimore           	13
+11/03/1957	Philadelphia        	38	Chicago Cardinals   	21
+11/03/1957	Detroit             	31	San Francisco       	35
+11/03/1957	NY Giants           	31	Green Bay           	17
+11/03/1957	Chicago             	16	LA Rams             	10
+11/03/1957	Washington          	17	Cleveland           	21
+11/10/1957	Chicago Cardinals   	14	NY Giants           	27
+11/10/1957	Green Bay           	14	Chicago             	21
+11/10/1957	Detroit             	27	Philadelphia        	16
+11/10/1957	Pittsburgh          	 0	Cleveland           	24
+11/10/1957	San Francisco       	24	LA Rams             	37
+11/10/1957	Baltimore           	21	Washington          	17
+11/17/1957	Baltimore           	29	Chicago             	14
+11/17/1957	LA Rams             	31	Green Bay           	27
+11/17/1957	Philadelphia        	 0	NY Giants           	13
+11/17/1957	San Francisco       	10	Detroit             	31
+11/17/1957	Cleveland           	30	Washington          	30
+11/24/1957	NY Giants           	28	Chicago Cardinals   	21
+11/24/1957	Chicago             	27	Detroit             	 7
+11/24/1957	LA Rams             	31	Cleveland           	45
+11/24/1957	Green Bay           	27	Pittsburgh          	10
+11/24/1957	San Francisco       	21	Baltimore           	27
+11/24/1957	Washington          	12	Philadelphia        	21
+11/28/1957	Green Bay           	 6	Detroit             	18
+12/01/1957	Washington          	14	Chicago             	 3
+12/01/1957	Chicago Cardinals   	 0	Cleveland           	31
+12/01/1957	LA Rams             	14	Baltimore           	31
+12/01/1957	San Francisco       	27	NY Giants           	17
+12/01/1957	Pittsburgh          	 6	Philadelphia        	 7
+12/07/1957	NY Giants           	10	Pittsburgh          	21
+12/08/1957	Baltimore           	13	San Francisco       	17
+12/08/1957	Chicago             	14	Chicago Cardinals   	 6
+12/08/1957	Cleveland           	 7	Detroit             	20
+12/08/1957	Green Bay           	17	LA Rams             	42
+12/08/1957	Philadelphia        	 7	Washington          	42
+12/14/1957	Chicago Cardinals   	31	Philadelphia        	27
+12/15/1957	Baltimore           	21	LA Rams             	37
+12/15/1957	Detroit             	21	Chicago             	13
+12/15/1957	Green Bay           	20	San Francisco       	27
+12/15/1957	Cleveland           	34	NY Giants           	28
+12/15/1957	Pittsburgh          	 3	Washington          	10
+12/22/1957	Pittsburgh          	27	Chicago Cardinals   	 2
+12/22/1957	Detroit             	31	San Francisco       	27
+12/29/1957	Cleveland           	59	Detroit             	14

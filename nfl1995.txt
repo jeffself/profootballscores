@@ -1,0 +1,251 @@
+09/03/1995	Arizona             	 7	Washington          	27
+09/03/1995	Minnesota           	14	Chicago             	31
+09/03/1995	Tampa Bay           	21	Philadelphia        	 6
+09/03/1995	Carolina            	20	Atlanta             	23
+09/03/1995	St Louis            	17	Green Bay           	14
+09/03/1995	San Francisco       	24	New Orleans         	22
+09/03/1995	NY Jets             	14	Miami               	52
+09/03/1995	Cleveland           	14	New England         	17
+09/03/1995	Cincinnati          	24	Indianapolis        	21
+09/03/1995	Houston             	10	Jacksonville        	 3
+09/03/1995	Detroit             	20	Pittsburgh          	23
+09/03/1995	Buffalo             	 7	Denver              	22
+09/03/1995	Kansas City         	34	Seattle             	10
+09/03/1995	San Diego           	 7	Oakland             	17
+09/04/1995	Dallas              	35	NY Giants           	 0
+09/10/1995	Denver              	21	Dallas              	31
+09/10/1995	Philadelphia        	31	Arizona             	19
+09/10/1995	Detroit             	10	Minnesota           	20
+09/10/1995	New Orleans         	13	St Louis            	17
+09/10/1995	Atlanta             	10	San Francisco       	41
+09/10/1995	Carolina            	 9	Buffalo             	31
+09/10/1995	Indianapolis        	27	NY Jets             	24
+09/10/1995	Miami               	20	New England         	 3
+09/10/1995	Jacksonville        	17	Cincinnati          	24
+09/10/1995	Tampa Bay           	 6	Cleveland           	22
+09/10/1995	Pittsburgh          	34	Houston             	17
+09/10/1995	NY Giants           	17	Kansas City         	20
+09/10/1995	Oakland             	20	Washington          	 8
+09/10/1995	Seattle             	10	San Diego           	14
+09/11/1995	Green Bay           	27	Chicago             	24
+09/17/1995	Arizona             	20	Detroit             	17
+09/17/1995	Dallas              	23	Minnesota           	17
+09/17/1995	Chicago             	25	Tampa Bay           	 6
+09/17/1995	NY Giants           	 6	Green Bay           	14
+09/17/1995	Atlanta             	27	New Orleans         	24
+09/17/1995	St Louis            	31	Carolina            	10
+09/17/1995	New England         	 3	San Francisco       	28
+09/17/1995	Indianapolis        	14	Buffalo             	20
+09/17/1995	Jacksonville        	10	NY Jets             	27
+09/17/1995	Cleveland           	14	Houston             	 7
+09/17/1995	Washington          	31	Denver              	38
+09/17/1995	Oakland             	17	Kansas City         	23
+09/17/1995	San Diego           	27	Philadelphia        	21
+09/17/1995	Cincinnati          	21	Seattle             	24
+09/18/1995	Pittsburgh          	10	Miami               	23
+09/24/1995	Arizona             	20	Dallas              	34
+09/24/1995	New Orleans         	29	NY Giants           	45
+09/24/1995	Green Bay           	24	Jacksonville        	14
+09/24/1995	Minnesota           	44	Pittsburgh          	24
+09/24/1995	Washington          	 6	Tampa Bay           	14
+09/24/1995	NY Jets             	 3	Atlanta             	13
+09/24/1995	Chicago             	28	St Louis            	34
+09/24/1995	Kansas City         	17	Cleveland           	35
+09/24/1995	Houston             	38	Cincinnati          	28
+09/24/1995	Philadelphia        	17	Oakland             	48
+09/24/1995	Denver              	 6	San Diego           	17
+09/25/1995	San Francisco       	24	Detroit             	27
+10/01/1995	Philadelphia        	15	New Orleans         	10
+10/01/1995	Dallas              	23	Washington          	27
+10/01/1995	Tampa Bay           	20	Carolina            	13
+10/01/1995	New England         	17	Atlanta             	30
+10/01/1995	NY Giants           	 6	San Francisco       	20
+10/01/1995	St Louis            	18	Indianapolis        	21
+10/01/1995	Miami               	26	Cincinnati          	23
+10/01/1995	Jacksonville        	17	Houston             	16
+10/01/1995	San Diego           	16	Pittsburgh          	31
+10/01/1995	Kansas City         	24	Arizona             	 3
+10/01/1995	Oakland             	47	NY Jets             	10
+10/01/1995	Denver              	10	Seattle             	27
+10/02/1995	Buffalo             	22	Cleveland           	19
+10/08/1995	Green Bay           	24	Dallas              	34
+10/08/1995	Arizona             	21	NY Giants           	27
+10/08/1995	Washington          	34	Philadelphia        	37
+10/08/1995	Carolina            	27	Chicago             	31
+10/08/1995	Cleveland           	20	Detroit             	38
+10/08/1995	Houston             	17	Minnesota           	23
+10/08/1995	Cincinnati          	16	Tampa Bay           	19
+10/08/1995	NY Jets             	10	Buffalo             	29
+10/08/1995	Indianapolis        	27	Miami               	24
+10/08/1995	Pittsburgh          	16	Jacksonville        	20
+10/08/1995	Denver              	37	New England         	 3
+10/08/1995	Seattle             	14	Oakland             	34
+10/09/1995	San Diego           	23	Kansas City         	29
+10/12/1995	Atlanta             	19	St Louis            	21
+10/15/1995	Washington          	20	Arizona             	24
+10/15/1995	Dallas              	23	San Diego           	 9
+10/15/1995	Philadelphia        	17	NY Giants           	14
+10/15/1995	Chicago             	30	Jacksonville        	27
+10/15/1995	Detroit             	21	Green Bay           	30
+10/15/1995	Minnesota           	17	Tampa Bay           	20
+10/15/1995	NY Jets             	15	Carolina            	26
+10/15/1995	Miami               	30	New Orleans         	33
+10/15/1995	Seattle             	21	Buffalo             	27
+10/15/1995	San Francisco       	17	Indianapolis        	18
+10/15/1995	New England         	26	Kansas City         	31
+10/16/1995	Oakland             	 0	Denver              	27
+10/19/1995	Cincinnati          	27	Pittsburgh          	 9
+10/22/1995	Detroit             	30	Washington          	36
+10/22/1995	Houston             	32	Chicago             	35
+10/22/1995	Minnesota           	21	Green Bay           	38
+10/22/1995	Atlanta             	24	Tampa Bay           	21
+10/22/1995	New Orleans         	 3	Carolina            	20
+10/22/1995	San Francisco       	44	St Louis            	10
+10/22/1995	Miami               	16	NY Jets             	17
+10/22/1995	Jacksonville        	23	Cleveland           	15
+10/22/1995	Kansas City         	21	Denver              	 7
+10/22/1995	Indianapolis        	17	Oakland             	30
+10/22/1995	San Diego           	35	Seattle             	25
+10/23/1995	Buffalo             	14	New England         	27
+10/29/1995	Seattle             	14	Arizona             	20
+10/29/1995	Dallas              	28	Atlanta             	13
+10/29/1995	NY Giants           	24	Washington          	15
+10/29/1995	St Louis            	 9	Philadelphia        	20
+10/29/1995	Green Bay           	16	Detroit             	24
+10/29/1995	Carolina            	20	New England         	17
+10/29/1995	New Orleans         	11	San Francisco       	 7
+10/29/1995	NY Jets             	10	Indianapolis        	17
+10/29/1995	Buffalo             	 6	Miami               	23
+10/29/1995	Cleveland           	29	Cincinnati          	26
+10/29/1995	Tampa Bay           	 7	Houston             	19
+10/29/1995	Jacksonville        	 7	Pittsburgh          	24
+10/30/1995	Chicago             	14	Minnesota           	 6
+11/05/1995	Green Bay           	24	Minnesota           	27
+11/05/1995	Detroit             	22	Atlanta             	34
+11/05/1995	Carolina            	13	San Francisco       	 7
+11/05/1995	St Louis            	10	New Orleans         	19
+11/05/1995	Buffalo             	16	Indianapolis        	10
+11/05/1995	Miami               	24	San Diego           	14
+11/05/1995	New England         	20	NY Jets             	 7
+11/05/1995	Houston             	37	Cleveland           	10
+11/05/1995	Pittsburgh          	37	Chicago             	34
+11/05/1995	Arizona             	 6	Denver              	38
+11/05/1995	Washington          	 3	Kansas City         	24
+11/05/1995	Oakland             	20	Cincinnati          	17
+11/05/1995	NY Giants           	28	Seattle             	30
+11/06/1995	Philadelphia        	12	Dallas              	34
+11/12/1995	Denver              	13	Philadelphia        	31
+11/12/1995	Tampa Bay           	24	Detroit             	27
+11/12/1995	Chicago             	28	Green Bay           	35
+11/12/1995	Minnesota           	30	Arizona             	24
+11/12/1995	Indianapolis        	14	New Orleans         	17
+11/12/1995	Carolina            	17	St Louis            	28
+11/12/1995	San Francisco       	38	Dallas              	20
+11/12/1995	Atlanta             	17	Buffalo             	23
+11/12/1995	New England         	34	Miami               	17
+11/12/1995	Cincinnati          	32	Houston             	25
+11/12/1995	Kansas City         	22	San Diego           	 7
+11/12/1995	Oakland             	17	NY Giants           	13
+11/12/1995	Seattle             	47	Jacksonville        	30
+11/13/1995	Cleveland           	 3	Pittsburgh          	20
+11/19/1995	Dallas              	34	Oakland             	21
+11/19/1995	NY Giants           	19	Philadelphia        	28
+11/19/1995	Detroit             	24	Chicago             	17
+11/19/1995	Green Bay           	31	Cleveland           	20
+11/19/1995	New Orleans         	24	Minnesota           	43
+11/19/1995	Jacksonville        	16	Tampa Bay           	17
+11/19/1995	St Louis            	 6	Atlanta             	31
+11/19/1995	Arizona             	 7	Carolina            	27
+11/19/1995	Buffalo             	28	NY Jets             	26
+11/19/1995	Indianapolis        	24	New England         	10
+11/19/1995	Pittsburgh          	49	Cincinnati          	31
+11/19/1995	San Diego           	27	Denver              	30
+11/19/1995	Houston             	13	Kansas City         	20
+11/19/1995	Seattle             	27	Washington          	20
+11/20/1995	San Francisco       	44	Miami               	20
+11/23/1995	Kansas City         	12	Dallas              	24
+11/23/1995	Minnesota           	38	Detroit             	44
+11/26/1995	Atlanta             	37	Arizona             	40
+11/26/1995	Philadelphia        	14	Washington          	 7
+11/26/1995	Chicago             	27	NY Giants           	24
+11/26/1995	Tampa Bay           	13	Green Bay           	35
+11/26/1995	Carolina            	26	New Orleans         	34
+11/26/1995	St Louis            	13	San Francisco       	41
+11/26/1995	Miami               	28	Indianapolis        	36
+11/26/1995	New England         	35	Buffalo             	25
+11/26/1995	NY Jets             	16	Seattle             	10
+11/26/1995	Cincinnati          	17	Jacksonville        	13
+11/26/1995	Denver              	33	Houston             	42
+11/26/1995	Pittsburgh          	20	Cleveland           	17
+11/27/1995	Oakland             	 6	San Diego           	12
+11/30/1995	NY Giants           	10	Arizona             	 6
+12/03/1995	Washington          	24	Dallas              	17
+12/03/1995	Cincinnati          	10	Green Bay           	24
+12/03/1995	Tampa Bay           	17	Minnesota           	31
+12/03/1995	Indianapolis        	10	Carolina            	13
+12/03/1995	New Orleans         	31	New England         	17
+12/03/1995	St Louis            	23	NY Jets             	20
+12/03/1995	Buffalo             	17	San Francisco       	27
+12/03/1995	Atlanta             	20	Miami               	21
+12/03/1995	Houston             	 7	Pittsburgh          	21
+12/03/1995	Jacksonville        	23	Denver              	31
+12/03/1995	Kansas City         	29	Oakland             	23
+12/03/1995	Cleveland           	13	San Diego           	31
+12/03/1995	Philadelphia        	14	Seattle             	26
+12/04/1995	Chicago             	 7	Detroit             	27
+12/09/1995	Cleveland           	11	Minnesota           	27
+12/09/1995	Arizona             	25	San Diego           	28
+12/10/1995	Washington          	13	NY Giants           	20
+12/10/1995	Dallas              	17	Philadelphia        	20
+12/10/1995	Detroit             	24	Houston             	17
+12/10/1995	Green Bay           	10	Tampa Bay           	13
+12/10/1995	New Orleans         	14	Atlanta             	19
+12/10/1995	San Francisco       	31	Carolina            	10
+12/10/1995	Buffalo             	45	St Louis            	27
+12/10/1995	Indianapolis        	41	Jacksonville        	31
+12/10/1995	NY Jets             	28	New England         	31
+12/10/1995	Chicago             	10	Cincinnati          	16
+12/10/1995	Pittsburgh          	29	Oakland             	10
+12/10/1995	Seattle             	31	Denver              	27
+12/11/1995	Kansas City         	 6	Miami               	13
+12/16/1995	Green Bay           	34	New Orleans         	23
+12/16/1995	New England         	27	Pittsburgh          	41
+12/17/1995	NY Giants           	20	Dallas              	21
+12/17/1995	Arizona             	20	Philadelphia        	21
+12/17/1995	Washington          	35	St Louis            	23
+12/17/1995	Tampa Bay           	10	Chicago             	31
+12/17/1995	Jacksonville        	 0	Detroit             	44
+12/17/1995	Atlanta             	17	Carolina            	21
+12/17/1995	Miami               	20	Buffalo             	23
+12/17/1995	Cincinnati          	10	Cleveland           	26
+12/17/1995	NY Jets             	 6	Houston             	23
+12/17/1995	Denver              	17	Kansas City         	20
+12/17/1995	San Diego           	27	Indianapolis        	24
+12/17/1995	Oakland             	10	Seattle             	44
+12/18/1995	Minnesota           	30	San Francisco       	37
+12/23/1995	Detroit             	37	Tampa Bay           	10
+12/23/1995	New England         	 7	Indianapolis        	10
+12/23/1995	San Diego           	27	NY Giants           	17
+12/24/1995	Carolina            	17	Washington          	20
+12/24/1995	Philadelphia        	14	Chicago             	20
+12/24/1995	Pittsburgh          	19	Green Bay           	24
+12/24/1995	San Francisco       	27	Atlanta             	28
+12/24/1995	New Orleans         	12	NY Jets             	 0
+12/24/1995	Miami               	41	St Louis            	22
+12/24/1995	Minnesota           	24	Cincinnati          	27
+12/24/1995	Houston             	28	Buffalo             	17
+12/24/1995	Cleveland           	21	Jacksonville        	24
+12/24/1995	Denver              	31	Oakland             	28
+12/24/1995	Seattle             	 3	Kansas City         	26
+12/25/1995	Dallas              	37	Arizona             	13
+12/30/1995	Detroit             	37	Philadelphia        	58
+12/30/1995	Miami               	22	Buffalo             	37
+12/31/1995	Atlanta             	20	Green Bay           	37
+12/31/1995	Indianapolis        	35	San Diego           	20
+01/06/1996	Green Bay           	27	San Francisco       	17
+01/06/1996	Buffalo             	21	Pittsburgh          	40
+01/07/1996	Philadelphia        	11	Dallas              	30
+01/07/1996	Indianapolis        	10	Kansas City         	 7
+01/14/1996	Green Bay           	27	Dallas              	38
+01/14/1996	Indianapolis        	16	Pittsburgh          	20
+01/28/1996	Dallas              	27	Pittsburgh          	17	0

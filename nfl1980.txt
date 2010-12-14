@@ -1,0 +1,233 @@
+09/07/1980	Baltimore           	17	NY Jets             	14
+09/07/1980	Miami               	 7	Buffalo             	17
+09/07/1980	Detroit             	41	LA Rams             	20
+09/07/1980	Chicago             	 6	Green Bay           	12
+09/07/1980	Atlanta             	23	Minnesota           	24
+09/07/1980	Cleveland           	17	New England         	34
+09/07/1980	NY Giants           	41	St Louis            	35
+09/07/1980	Oakland             	27	Kansas City         	14
+09/07/1980	Denver              	 6	Philadelphia        	27
+09/07/1980	Houston             	17	Pittsburgh          	31
+09/07/1980	San Diego           	34	Seattle             	13
+09/07/1980	San Francisco       	26	New Orleans         	23
+09/07/1980	Tampa Bay           	17	Cincinnati          	12
+09/08/1980	Dallas              	17	Washington          	 3
+09/11/1980	LA Rams             	 9	Tampa Bay           	10
+09/14/1980	Atlanta             	37	New England         	21
+09/14/1980	NY Jets             	10	Buffalo             	20
+09/14/1980	New Orleans         	 3	Chicago             	22
+09/14/1980	Dallas              	20	Denver              	41
+09/14/1980	Detroit             	29	Green Bay           	 7
+09/14/1980	Cincinnati          	16	Miami               	17
+09/14/1980	Philadelphia        	42	Minnesota           	 7
+09/14/1980	Pittsburgh          	20	Baltimore           	17
+09/14/1980	Oakland             	24	San Diego           	30
+09/14/1980	St Louis            	21	San Francisco       	24
+09/14/1980	Seattle             	17	Kansas City         	16
+09/14/1980	Washington          	23	NY Giants           	21
+09/15/1980	Houston             	16	Cleveland           	 7
+09/21/1980	Buffalo             	35	New Orleans         	26
+09/21/1980	Pittsburgh          	28	Cincinnati          	30
+09/21/1980	Kansas City         	13	Cleveland           	20
+09/21/1980	Tampa Bay           	17	Dallas              	28
+09/21/1980	St Louis            	 7	Detroit             	20
+09/21/1980	Baltimore           	16	Houston             	21
+09/21/1980	Green Bay           	21	LA Rams             	51
+09/21/1980	Miami               	20	Atlanta             	17
+09/21/1980	Minnesota           	34	Chicago             	14
+09/21/1980	New England         	37	Seattle             	31
+09/21/1980	Washington          	21	Oakland             	24
+09/21/1980	San Diego           	30	Denver              	13
+09/21/1980	San Francisco       	37	NY Jets             	27
+09/22/1980	NY Giants           	 3	Philadelphia        	35
+09/28/1980	Atlanta             	20	San Francisco       	17
+09/28/1980	NY Jets             	21	Baltimore           	35
+09/28/1980	Oakland             	 7	Buffalo             	24
+09/28/1980	Cleveland           	34	Tampa Bay           	27
+09/28/1980	Dallas              	28	Green Bay           	 7
+09/28/1980	Minnesota           	 7	Detroit             	27
+09/28/1980	Houston             	13	Cincinnati          	10
+09/28/1980	LA Rams             	28	NY Giants           	 7
+09/28/1980	New Orleans         	16	Miami               	21
+09/28/1980	Chicago             	 3	Pittsburgh          	38
+09/28/1980	San Diego           	24	Kansas City         	 7
+09/28/1980	Seattle             	14	Washington          	 0
+09/28/1980	Philadelphia        	14	St Louis            	24
+09/29/1980	Denver              	14	New England         	23
+10/05/1980	Detroit             	28	Atlanta             	43
+10/05/1980	Baltimore           	30	Miami               	17
+10/05/1980	Buffalo             	26	San Diego           	24
+10/05/1980	NY Giants           	 3	Dallas              	24
+10/05/1980	Denver              	19	Cleveland           	16
+10/05/1980	Cincinnati          	 9	Green Bay           	14
+10/05/1980	Kansas City         	31	Oakland             	17
+10/05/1980	San Francisco       	26	LA Rams             	48
+10/05/1980	New England         	21	NY Jets             	11
+10/05/1980	Washington          	14	Philadelphia        	24
+10/05/1980	Pittsburgh          	23	Minnesota           	17
+10/05/1980	Seattle             	26	Houston             	 7
+10/05/1980	St Louis            	40	New Orleans         	 7
+10/06/1980	Tampa Bay           	 0	Chicago             	23
+10/12/1980	Baltimore           	17	Buffalo             	12
+10/12/1980	Cincinnati          	17	Pittsburgh          	16
+10/12/1980	Cleveland           	27	Seattle             	 3
+10/12/1980	San Francisco       	14	Dallas              	59
+10/12/1980	New Orleans         	13	Detroit             	24
+10/12/1980	Green Bay           	14	Tampa Bay           	14
+10/12/1980	Houston             	20	Kansas City         	21
+10/12/1980	LA Rams             	21	St Louis            	13
+10/12/1980	Chicago             	 7	Minnesota           	13
+10/12/1980	Miami               	 0	New England         	34
+10/12/1980	NY Jets             	14	Atlanta             	 7
+10/12/1980	San Diego           	24	Oakland             	38
+10/12/1980	Philadelphia        	31	NY Giants           	16
+10/13/1980	Washington          	17	Denver              	20
+10/19/1980	Atlanta             	41	New Orleans         	14
+10/19/1980	Detroit             	 7	Chicago             	24
+10/19/1980	Minnesota           	 0	Cincinnati          	14
+10/19/1980	Green Bay           	21	Cleveland           	26
+10/19/1980	Tampa Bay           	14	Houston             	20
+10/19/1980	Kansas City         	23	Denver              	17
+10/19/1980	LA Rams             	31	San Francisco       	17
+10/19/1980	Buffalo             	14	Miami               	17
+10/19/1980	New England         	37	Baltimore           	21
+10/19/1980	Dallas              	10	Philadelphia        	17
+10/19/1980	NY Giants           	 7	San Diego           	44
+10/19/1980	Seattle             	27	NY Jets             	17
+10/19/1980	St Louis            	 0	Washington          	23
+10/20/1980	Oakland             	45	Pittsburgh          	34
+10/26/1980	LA Rams             	10	Atlanta             	13
+10/26/1980	New England         	13	Buffalo             	31
+10/26/1980	Pittsburgh          	26	Cleveland           	27
+10/26/1980	San Diego           	31	Dallas              	42
+10/26/1980	Denver              	14	NY Giants           	 9
+10/26/1980	Minnesota           	 3	Green Bay           	16
+10/26/1980	Cincinnati          	 3	Houston             	23
+10/26/1980	Detroit             	17	Kansas City         	20
+10/26/1980	Seattle             	14	Oakland             	33
+10/26/1980	Chicago             	14	Philadelphia        	17
+10/26/1980	St Louis            	17	Baltimore           	10
+10/26/1980	Tampa Bay           	24	San Francisco       	23
+10/26/1980	New Orleans         	14	Washington          	22
+10/27/1980	Miami               	14	NY Jets             	17
+11/02/1980	Atlanta             	30	Buffalo             	14
+11/02/1980	Baltimore           	31	Kansas City         	24
+11/02/1980	Dallas              	27	St Louis            	24
+11/02/1980	San Francisco       	13	Detroit             	17
+11/02/1980	Houston             	20	Denver              	16
+11/02/1980	New Orleans         	31	LA Rams             	45
+11/02/1980	Minnesota           	39	Washington          	14
+11/02/1980	NY Jets             	21	New England         	34
+11/02/1980	Miami               	10	Oakland             	16
+11/02/1980	Philadelphia        	27	Seattle             	20
+11/02/1980	Green Bay           	20	Pittsburgh          	22
+11/02/1980	San Diego           	31	Cincinnati          	14
+11/02/1980	NY Giants           	13	Tampa Bay           	30
+11/03/1980	Chicago             	21	Cleveland           	27
+11/09/1980	Atlanta             	33	St Louis            	27
+11/09/1980	Buffalo             	31	NY Jets             	24
+11/09/1980	Washington          	21	Chicago             	35
+11/09/1980	Cleveland           	28	Baltimore           	27
+11/09/1980	Denver              	20	San Diego           	13
+11/09/1980	San Francisco       	16	Green Bay           	23
+11/09/1980	Kansas City         	31	Seattle             	30
+11/09/1980	Miami               	35	LA Rams             	14
+11/09/1980	Detroit             	 0	Minnesota           	34
+11/09/1980	Dallas              	35	NY Giants           	38
+11/09/1980	Cincinnati          	17	Oakland             	28
+11/09/1980	Philadelphia        	34	New Orleans         	21
+11/09/1980	Pittsburgh          	24	Tampa Bay           	21
+11/10/1980	New England         	34	Houston             	38
+11/16/1980	New Orleans         	13	Atlanta             	31
+11/16/1980	Baltimore           	10	Detroit             	 9
+11/16/1980	Buffalo             	14	Cincinnati          	 0
+11/16/1980	St Louis            	21	Dallas              	31
+11/16/1980	NY Jets             	24	Denver              	31
+11/16/1980	Houston             	10	Chicago             	 6
+11/16/1980	LA Rams             	17	New England         	14
+11/16/1980	San Francisco       	13	Miami               	17
+11/16/1980	Tampa Bay           	30	Minnesota           	38
+11/16/1980	Green Bay           	21	NY Giants           	27
+11/16/1980	Philadelphia        	24	Washington          	 0
+11/16/1980	Cleveland           	13	Pittsburgh          	16
+11/16/1980	Kansas City         	 7	San Diego           	20
+11/17/1980	Oakland             	19	Seattle             	17
+11/20/1980	San Diego           	27	Miami               	24
+11/23/1980	Chicago             	17	Atlanta             	28
+11/23/1980	Pittsburgh          	13	Buffalo             	28
+11/23/1980	Cincinnati          	 7	Cleveland           	31
+11/23/1980	Washington          	10	Dallas              	14
+11/23/1980	Seattle             	20	Denver              	36
+11/23/1980	Detroit             	24	Tampa Bay           	10
+11/23/1980	Green Bay           	25	Minnesota           	13
+11/23/1980	Kansas City         	21	St Louis            	13
+11/23/1980	Baltimore           	21	New England         	47
+11/23/1980	Houston             	28	NY Jets             	31
+11/23/1980	Oakland             	 7	Philadelphia        	10
+11/23/1980	NY Giants           	 0	San Francisco       	12
+11/24/1980	LA Rams             	27	New Orleans         	 7
+11/27/1980	Chicago             	23	Detroit             	17
+11/27/1980	Seattle             	 7	Dallas              	51
+11/30/1980	Washington          	 6	Atlanta             	10
+11/30/1980	Buffalo             	24	Baltimore           	28
+11/30/1980	Cincinnati          	20	Kansas City         	 6
+11/30/1980	Cleveland           	17	Houston             	14
+11/30/1980	NY Jets             	13	LA Rams             	38
+11/30/1980	Minnesota           	23	New Orleans         	20
+11/30/1980	Miami               	10	Pittsburgh          	23
+11/30/1980	Philadelphia        	21	San Diego           	22
+11/30/1980	New England         	17	San Francisco       	21
+11/30/1980	St Louis            	23	NY Giants           	 7
+11/30/1980	Tampa Bay           	20	Green Bay           	17
+12/01/1980	Denver              	 3	Oakland             	 9
+12/04/1980	Pittsburgh          	 0	Houston             	 6
+12/07/1980	Atlanta             	20	Philadelphia        	17
+12/07/1980	LA Rams             	 7	Buffalo             	10
+12/07/1980	Green Bay           	 7	Chicago             	61
+12/07/1980	Baltimore           	33	Cincinnati          	34
+12/07/1980	NY Jets             	14	Cleveland           	17
+12/07/1980	Dallas              	19	Oakland             	13
+12/07/1980	Denver              	14	Kansas City         	31
+12/07/1980	Minnesota           	21	Tampa Bay           	10
+12/07/1980	NY Giants           	27	Seattle             	21
+12/07/1980	New Orleans         	35	San Francisco       	38
+12/07/1980	Detroit             	23	St Louis            	24
+12/07/1980	San Diego           	17	Washington          	40
+12/08/1980	New England         	13	Miami               	16
+12/13/1980	Seattle             	14	San Diego           	21
+12/13/1980	NY Giants           	13	Washington          	16
+12/14/1980	San Francisco       	10	Atlanta             	35
+12/14/1980	Cincinnati          	17	Chicago             	14
+12/14/1980	Tampa Bay           	14	Detroit             	27
+12/14/1980	Houston             	22	Green Bay           	 3
+12/14/1980	Miami               	24	Baltimore           	14
+12/14/1980	Cleveland           	23	Minnesota           	28
+12/14/1980	Buffalo             	 2	New England         	24
+12/14/1980	New Orleans         	21	NY Jets             	20
+12/14/1980	Oakland             	24	Denver              	21
+12/14/1980	St Louis            	 3	Philadelphia        	17
+12/14/1980	Kansas City         	16	Pittsburgh          	21
+12/15/1980	Dallas              	14	LA Rams             	38
+12/20/1980	Chicago             	14	Tampa Bay           	13
+12/20/1980	NY Jets             	24	Miami               	17
+12/21/1980	Buffalo             	18	San Francisco       	13
+12/21/1980	Cleveland           	27	Cincinnati          	24
+12/21/1980	Philadelphia        	27	Dallas              	35
+12/21/1980	Denver              	25	Seattle             	17
+12/21/1980	Green Bay           	 3	Detroit             	24
+12/21/1980	Minnesota           	16	Houston             	20
+12/21/1980	Kansas City         	38	Baltimore           	28
+12/21/1980	Atlanta             	17	LA Rams             	20
+12/21/1980	New England         	38	New Orleans         	27
+12/21/1980	Oakland             	33	NY Giants           	17
+12/21/1980	Washington          	31	St Louis            	 7
+12/22/1980	Pittsburgh          	17	San Diego           	26
+12/28/1980	LA Rams             	13	Dallas              	34
+12/28/1980	Houston             	 7	Oakland             	27
+01/03/1981	Minnesota           	16	Philadelphia        	31
+01/03/1981	Buffalo             	14	San Diego           	20
+01/04/1981	Dallas              	30	Atlanta             	27
+01/04/1981	Oakland             	14	Cleveland           	12
+01/11/1981	Oakland             	34	San Diego           	27
+01/11/1981	Dallas              	 7	Philadelphia        	20
+01/25/1981	Oakland             	27	Philadelphia        	10	0

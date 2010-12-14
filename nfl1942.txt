@@ -1,0 +1,56 @@
+09/13/1942	Chicago Cardinals   	 7	Cleveland           	 0	neutral
+09/13/1942	Philadelphia        	24	Pittsburgh          	14
+09/20/1942	Detroit             	 0	Chicago Cardinals   	13
+09/20/1942	Philadelphia        	14	Cleveland           	24
+09/20/1942	Pittsburgh          	14	Washington          	28
+09/27/1942	Philadelphia        	14	Brooklyn            	35
+09/27/1942	Chicago             	44	Green Bay           	28
+09/27/1942	Cleveland           	14	Detroit             	 0
+09/27/1942	NY Giants           	14	Washington          	 7
+10/04/1942	Brooklyn            	28	Detroit             	 7
+10/04/1942	Chicago             	21	Cleveland           	 7
+10/04/1942	Green Bay           	17	Chicago Cardinals   	13
+10/04/1942	NY Giants           	10	Pittsburgh          	13
+10/04/1942	Washington          	14	Philadelphia        	10
+10/11/1942	Chicago Cardinals   	14	Chicago             	41
+10/11/1942	Detroit             	 7	Green Bay           	38
+10/11/1942	Philadelphia        	17	NY Giants           	35
+10/11/1942	Pittsburgh          	 7	Brooklyn            	 0
+10/11/1942	Cleveland           	14	Washington          	33
+10/18/1942	NY Giants           	 7	Chicago             	26
+10/18/1942	Chicago Cardinals   	 7	Detroit             	 0
+10/18/1942	Cleveland           	28	Green Bay           	45
+10/18/1942	Pittsburgh          	14	Philadelphia        	 0
+10/18/1942	Washington          	21	Brooklyn            	10
+10/25/1942	NY Giants           	 7	Brooklyn            	17
+10/25/1942	Philadelphia        	14	Chicago             	45
+10/25/1942	Chicago Cardinals   	 3	Cleveland           	 7
+10/25/1942	Green Bay           	28	Detroit             	 7
+10/25/1942	Washington          	14	Pittsburgh          	 0
+11/01/1942	Detroit             	 0	Chicago             	16
+11/01/1942	Cleveland           	17	Brooklyn            	 0
+11/01/1942	Chicago Cardinals   	24	Green Bay           	55
+11/01/1942	Pittsburgh          	17	NY Giants           	 9
+11/01/1942	Philadelphia        	27	Washington          	30
+11/08/1942	Chicago             	35	Brooklyn            	 0
+11/08/1942	Green Bay           	30	Cleveland           	12
+11/08/1942	NY Giants           	14	Philadelphia        	 0
+11/08/1942	Pittsburgh          	35	Detroit             	 7
+11/08/1942	Chicago Cardinals   	 0	Washington          	28
+11/15/1942	Green Bay           	 7	Chicago             	38
+11/15/1942	Detroit             	 7	Cleveland           	27
+11/15/1942	Philadelphia        	14	Brooklyn            	 7
+11/15/1942	Washington          	14	NY Giants           	 7
+11/22/1942	Chicago             	42	Detroit             	 0
+11/22/1942	Green Bay           	21	NY Giants           	21
+11/22/1942	Chicago Cardinals   	 3	Pittsburgh          	19
+11/22/1942	Brooklyn            	 3	Washington          	23
+11/29/1942	Cleveland           	 0	Chicago             	47
+11/29/1942	Green Bay           	 7	Philadelphia        	 0
+11/29/1942	Chicago Cardinals   	 7	NY Giants           	21
+11/29/1942	Brooklyn            	 0	Pittsburgh          	13
+11/29/1942	Washington          	15	Detroit             	 3
+12/06/1942	Chicago             	21	Chicago Cardinals   	 7
+12/06/1942	Pittsburgh          	21	Green Bay           	24
+12/06/1942	Brooklyn            	 0	NY Giants           	10
+12/13/1942	Chicago             	 6	Washington          	14

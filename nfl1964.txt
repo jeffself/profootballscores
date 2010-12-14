@@ -1,0 +1,99 @@
+09/12/1964	St Louis            	16	Dallas              	 6
+09/13/1964	Baltimore           	24	Minnesota           	34
+09/13/1964	Chicago             	12	Green Bay           	23
+09/13/1964	NY Giants           	 7	Philadelphia        	38
+09/13/1964	LA Rams             	26	Pittsburgh          	14
+09/13/1964	Detroit             	26	San Francisco       	17
+09/13/1964	Cleveland           	27	Washington          	13
+09/19/1964	Detroit             	17	LA Rams             	17
+09/20/1964	St Louis            	33	Cleveland           	33
+09/20/1964	Baltimore           	21	Green Bay           	20
+09/20/1964	Chicago             	34	Minnesota           	28
+09/20/1964	NY Giants           	24	Pittsburgh          	27
+09/20/1964	San Francisco       	28	Philadelphia        	24
+09/20/1964	Washington          	18	Dallas              	24
+09/25/1964	Washington          	10	NY Giants           	13
+09/27/1964	Chicago             	 0	Baltimore           	52
+09/27/1964	Dallas              	17	Pittsburgh          	23
+09/27/1964	Minnesota           	13	LA Rams             	22
+09/27/1964	Cleveland           	28	Philadelphia        	20
+09/27/1964	St Louis            	23	San Francisco       	13
+09/28/1964	Green Bay           	14	Detroit             	10
+10/04/1964	Chicago             	21	San Francisco       	31
+10/04/1964	Dallas              	 6	Cleveland           	27
+10/04/1964	Minnesota           	24	Green Bay           	23
+10/04/1964	LA Rams             	20	Baltimore           	35
+10/04/1964	NY Giants           	 3	Detroit             	26
+10/04/1964	Pittsburgh          	 7	Philadelphia        	21
+10/04/1964	St Louis            	23	Washington          	17
+10/10/1964	Pittsburgh          	23	Cleveland           	 7
+10/11/1964	NY Giants           	13	Dallas              	13
+10/11/1964	LA Rams             	17	Chicago             	38
+10/11/1964	Detroit             	24	Minnesota           	20
+10/11/1964	Philadelphia        	20	Washington          	35
+10/11/1964	San Francisco       	14	Green Bay           	24
+10/12/1964	Baltimore           	47	St Louis            	27
+10/18/1964	Detroit             	10	Chicago             	 0
+10/18/1964	Cleveland           	20	Dallas              	16
+10/18/1964	Green Bay           	21	Baltimore           	24
+10/18/1964	Philadelphia        	23	NY Giants           	17
+10/18/1964	Pittsburgh          	10	Minnesota           	30
+10/18/1964	San Francisco       	14	LA Rams             	42
+10/18/1964	Washington          	24	St Louis            	38
+10/25/1964	Chicago             	20	Washington          	27
+10/25/1964	Baltimore           	34	Detroit             	 0
+10/25/1964	LA Rams             	27	Green Bay           	17
+10/25/1964	NY Giants           	20	Cleveland           	42
+10/25/1964	Philadelphia        	34	Pittsburgh          	10
+10/25/1964	Dallas              	31	St Louis            	13
+10/25/1964	Minnesota           	27	San Francisco       	22
+11/01/1964	Dallas              	24	Chicago             	10
+11/01/1964	LA Rams             	17	Detroit             	37
+11/01/1964	Green Bay           	42	Minnesota           	13
+11/01/1964	Washington          	21	Philadelphia        	10
+11/01/1964	Cleveland           	30	Pittsburgh          	17
+11/01/1964	St Louis            	17	NY Giants           	34
+11/01/1964	San Francisco       	 7	Baltimore           	37
+11/08/1964	Baltimore           	40	Chicago             	24
+11/08/1964	Detroit             	 7	Green Bay           	30
+11/08/1964	Dallas              	31	NY Giants           	21
+11/08/1964	Philadelphia        	10	LA Rams             	20
+11/08/1964	Pittsburgh          	30	St Louis            	34
+11/08/1964	San Francisco       	 7	Minnesota           	24
+11/08/1964	Washington          	24	Cleveland           	34
+11/15/1964	Philadelphia        	17	Dallas              	14
+11/15/1964	Detroit             	21	Cleveland           	37
+11/15/1964	Green Bay           	14	San Francisco       	24
+11/15/1964	Chicago             	34	LA Rams             	24
+11/15/1964	Minnesota           	14	Baltimore           	17
+11/15/1964	Washington          	30	Pittsburgh          	 0
+11/15/1964	NY Giants           	10	St Louis            	10
+11/22/1964	Cleveland           	21	Green Bay           	28
+11/22/1964	Dallas              	16	Washington          	28
+11/22/1964	Minnesota           	23	Detroit             	23
+11/22/1964	Baltimore           	24	LA Rams             	 7
+11/22/1964	Pittsburgh          	44	NY Giants           	17
+11/22/1964	St Louis            	38	Philadelphia        	13
+11/22/1964	San Francisco       	21	Chicago             	23
+11/26/1964	Chicago             	27	Detroit             	24
+11/29/1964	Green Bay           	45	Dallas              	21
+11/29/1964	LA Rams             	13	Minnesota           	34
+11/29/1964	NY Giants           	21	Washington          	36
+11/29/1964	Philadelphia        	24	Cleveland           	38
+11/29/1964	St Louis            	21	Pittsburgh          	20
+11/29/1964	Baltimore           	14	San Francisco       	 3
+12/05/1964	Green Bay           	17	Chicago             	 3
+12/06/1964	Detroit             	31	Baltimore           	14
+12/06/1964	Cleveland           	19	St Louis            	28
+12/06/1964	Dallas              	14	Philadelphia        	24
+12/06/1964	LA Rams             	 7	San Francisco       	28
+12/06/1964	Minnesota           	30	NY Giants           	21
+12/06/1964	Pittsburgh          	14	Washington          	 7
+12/12/1964	Cleveland           	52	NY Giants           	20
+12/13/1964	Minnesota           	41	Chicago             	14
+12/13/1964	Green Bay           	24	LA Rams             	24
+12/13/1964	Philadelphia        	34	St Louis            	36
+12/13/1964	Pittsburgh          	14	Dallas              	17
+12/13/1964	San Francisco       	 7	Detroit             	24
+12/13/1964	Washington          	17	Baltimore           	45
+12/27/1964	Baltimore           	 0	Cleveland           	27

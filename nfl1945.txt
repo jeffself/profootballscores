@@ -1,0 +1,51 @@
+09/23/1945	Detroit             	10	Chicago Cardinals   	 0	neutral
+09/25/1945	Pittsburgh          	 7	Boston              	28
+09/30/1945	Chicago Cardinals   	 0	Cleveland           	21
+09/30/1945	Chicago             	21	Green Bay           	31
+10/07/1945	Washington          	20	Boston              	28
+10/07/1945	Chicago             	 0	Cleveland           	17
+10/07/1945	Detroit             	21	Green Bay           	57
+10/07/1945	NY Giants           	34	Pittsburgh          	 6
+10/07/1945	Chicago Cardinals   	 6	Philadelphia        	21
+10/14/1945	Boston              	13	NY Giants           	13
+10/14/1945	Chicago Cardinals   	16	Chicago             	 7
+10/14/1945	Cleveland           	27	Green Bay           	14
+10/14/1945	Philadelphia        	24	Detroit             	28
+10/14/1945	Washington          	14	Pittsburgh          	 0
+10/21/1945	Cleveland           	41	Chicago             	21
+10/21/1945	Chicago Cardinals   	 0	Detroit             	26
+10/21/1945	Boston              	14	Green Bay           	38
+10/21/1945	Pittsburgh          	21	NY Giants           	 7
+10/21/1945	Philadelphia        	14	Washington          	24
+10/28/1945	Boston              	10	Pittsburgh          	 6
+10/28/1945	Chicago             	10	Detroit             	16
+10/28/1945	Chicago Cardinals   	14	Green Bay           	33
+10/28/1945	Cleveland           	14	Philadelphia        	28
+10/28/1945	Washington          	24	NY Giants           	14
+11/04/1945	Green Bay           	24	Chicago             	28
+11/04/1945	Cleveland           	21	NY Giants           	17
+11/04/1945	Detroit             	10	Boston              	 9
+11/04/1945	Philadelphia        	45	Pittsburgh          	 3
+11/04/1945	Chicago Cardinals   	21	Washington          	24
+11/11/1945	Green Bay           	 7	Cleveland           	20
+11/11/1945	Detroit             	35	Chicago             	28
+11/11/1945	NY Giants           	17	Philadelphia        	38
+11/11/1945	Chicago Cardinals   	 0	Pittsburgh          	23
+11/11/1945	Boston              	 7	Washington          	34
+11/18/1945	Cleveland           	35	Chicago Cardinals   	21
+11/18/1945	Green Bay           	28	Boston              	 0
+11/18/1945	Detroit             	14	NY Giants           	35
+11/18/1945	Pittsburgh          	 6	Philadelphia        	30
+11/18/1945	Chicago             	21	Washington          	28
+11/22/1945	Cleveland           	28	Detroit             	21
+11/25/1945	Pittsburgh          	 7	Chicago             	28
+11/25/1945	Green Bay           	23	NY Giants           	14
+11/25/1945	Washington          	 0	Philadelphia        	16
+12/02/1945	Chicago             	28	Chicago Cardinals   	20
+12/02/1945	Boston              	 7	Cleveland           	20
+12/02/1945	Green Bay           	 3	Detroit             	14
+12/02/1945	Philadelphia        	21	NY Giants           	28
+12/02/1945	Pittsburgh          	 0	Washington          	24
+12/09/1945	Boston              	 7	Philadelphia        	35
+12/09/1945	NY Giants           	 0	Washington          	17
+12/16/1945	Washington          	14	Cleveland           	15

@@ -1,0 +1,99 @@
+09/14/1963	St Louis            	34	Dallas              	 7
+09/14/1963	Detroit             	23	LA Rams             	 2
+09/15/1963	NY Giants           	37	Baltimore           	28
+09/15/1963	Chicago             	10	Green Bay           	 3
+09/15/1963	Pittsburgh          	21	Philadelphia        	21
+09/15/1963	Minnesota           	24	San Francisco       	20
+09/15/1963	Washington          	14	Cleveland           	37
+09/21/1963	Washington          	37	LA Rams             	14
+09/22/1963	Cleveland           	41	Dallas              	24
+09/22/1963	Detroit             	10	Green Bay           	31
+09/22/1963	Chicago             	28	Minnesota           	 7
+09/22/1963	NY Giants           	 0	Pittsburgh          	31
+09/22/1963	St Louis            	28	Philadelphia        	24
+09/22/1963	Baltimore           	20	San Francisco       	14
+09/29/1963	Baltimore           	20	Green Bay           	31
+09/29/1963	Dallas              	17	Washington          	21
+09/29/1963	Chicago             	37	Detroit             	21
+09/29/1963	LA Rams             	 6	Cleveland           	20
+09/29/1963	NY Giants           	37	Philadelphia        	14
+09/29/1963	St Louis            	10	Pittsburgh          	23
+09/29/1963	San Francisco       	14	Minnesota           	45
+10/05/1963	Pittsburgh          	23	Cleveland           	35
+10/06/1963	Baltimore           	 3	Chicago             	10
+10/06/1963	Dallas              	21	Philadelphia        	24
+10/06/1963	LA Rams             	10	Green Bay           	42
+10/06/1963	St Louis            	56	Minnesota           	14
+10/06/1963	San Francisco       	 3	Detroit             	26
+10/06/1963	NY Giants           	24	Washington          	14
+10/13/1963	Detroit             	14	Dallas              	17
+10/13/1963	Chicago             	52	LA Rams             	14
+10/13/1963	Green Bay           	37	Minnesota           	28
+10/13/1963	Cleveland           	35	NY Giants           	24
+10/13/1963	Pittsburgh          	23	St Louis            	24
+10/13/1963	San Francisco       	 3	Baltimore           	20
+10/13/1963	Philadelphia        	37	Washington          	24
+10/20/1963	Chicago             	14	San Francisco       	20
+10/20/1963	Dallas              	21	NY Giants           	37
+10/20/1963	Baltimore           	25	Detroit             	21
+10/20/1963	Minnesota           	24	LA Rams             	27
+10/20/1963	Philadelphia        	 7	Cleveland           	37
+10/20/1963	Green Bay           	30	St Louis            	 7
+10/20/1963	Washington          	27	Pittsburgh          	38
+10/27/1963	Green Bay           	34	Baltimore           	20
+10/27/1963	NY Giants           	33	Cleveland           	 6
+10/27/1963	Dallas              	21	Pittsburgh          	27
+10/27/1963	Minnesota           	10	Detroit             	28
+10/27/1963	Philadelphia        	 7	Chicago             	16
+10/27/1963	San Francisco       	21	LA Rams             	28
+10/27/1963	St Louis            	21	Washington          	 7
+11/03/1963	Chicago             	17	Baltimore           	 7
+11/03/1963	LA Rams             	13	Minnesota           	21
+11/03/1963	Cleveland           	23	Philadelphia        	17
+11/03/1963	Pittsburgh          	14	Green Bay           	33
+11/03/1963	NY Giants           	38	St Louis            	21
+11/03/1963	Detroit             	45	San Francisco       	 7
+11/03/1963	Washington          	20	Dallas              	35
+11/10/1963	Cleveland           	 7	Pittsburgh          	 9
+11/10/1963	Dallas              	24	San Francisco       	31
+11/10/1963	Detroit             	21	Baltimore           	24
+11/10/1963	LA Rams             	 0	Chicago             	 6
+11/10/1963	Minnesota           	 7	Green Bay           	28
+11/10/1963	Philadelphia        	14	NY Giants           	42
+11/10/1963	Washington          	20	St Louis            	24
+11/17/1963	St Louis            	20	Cleveland           	14
+11/17/1963	LA Rams             	28	Detroit             	21
+11/17/1963	Green Bay           	 7	Chicago             	26
+11/17/1963	Baltimore           	37	Minnesota           	34
+11/17/1963	Philadelphia        	20	Dallas              	27
+11/17/1963	San Francisco       	14	NY Giants           	48
+11/17/1963	Pittsburgh          	34	Washington          	28
+11/24/1963	Baltimore           	16	LA Rams             	17
+11/24/1963	Dallas              	17	Cleveland           	27
+11/24/1963	Detroit             	31	Minnesota           	34
+11/24/1963	St Louis            	24	NY Giants           	17
+11/24/1963	Washington          	13	Philadelphia        	10
+11/24/1963	Chicago             	17	Pittsburgh          	17
+11/24/1963	San Francisco       	10	Green Bay           	28
+11/28/1963	Green Bay           	13	Detroit             	13
+12/01/1963	Minnesota           	17	Chicago             	17
+12/01/1963	NY Giants           	34	Dallas              	27
+12/01/1963	Philadelphia        	20	Pittsburgh          	20
+12/01/1963	Cleveland           	24	St Louis            	10
+12/01/1963	LA Rams             	21	San Francisco       	17
+12/01/1963	Baltimore           	36	Washington          	20
+12/07/1963	Cleveland           	10	Detroit             	38
+12/07/1963	Pittsburgh          	24	Dallas              	19
+12/07/1963	Green Bay           	31	LA Rams             	14
+12/07/1963	Minnesota           	10	Baltimore           	41
+12/07/1963	Philadelphia        	14	St Louis            	38
+12/07/1963	San Francisco       	 7	Chicago             	27
+12/07/1963	Washington          	14	NY Giants           	44
+12/14/1963	Green Bay           	21	San Francisco       	17
+12/15/1963	Detroit             	14	Chicago             	24
+12/15/1963	LA Rams             	16	Baltimore           	19
+12/15/1963	Minnesota           	34	Philadelphia        	13
+12/15/1963	Pittsburgh          	17	NY Giants           	33
+12/15/1963	Dallas              	28	St Louis            	24
+12/15/1963	Cleveland           	27	Washington          	20
+12/29/1963	NY Giants           	10	Chicago             	14

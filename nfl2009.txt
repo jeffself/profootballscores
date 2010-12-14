@@ -1,0 +1,267 @@
+09/10/2009  Tennessee           10  Pittsburgh          13
+09/13/2009  Miami                7  Atlanta             19
+09/13/2009  Kansas City         24  Baltimore           38
+09/13/2009  Philadelphia        38  Carolina            10
+09/13/2009  Denver              12  Cincinnati           7
+09/13/2009  Minnesota           34  Cleveland           20
+09/13/2009  New York Jets       24  Houston              7
+09/13/2009  Jacksonville        12  Indianapolis        14
+09/13/2009  Detroit             27  New Orleans         45
+09/13/2009  Dallas              34  Tampa Bay           21
+09/13/2009  Washington          17  New York Giants     23
+09/13/2009  San Francisco       20  Arizona             16
+09/13/2009  St. Louis            0  Seattle             28
+09/13/2009  Chicago             15  Green Bay           21
+09/14/2009  Buffalo             24  New England         25
+09/14/2009  San Diego           24  Oakland             20
+09/20/2009  Carolina            20  Atlanta             28
+09/20/2009  Minnesota           27  Detroit             13
+09/20/2009  Cincinnati          31  Green Bay           24
+09/20/2009  Arizona             31  Jacksonville        17
+09/20/2009  Oakland             13  Kansas City         10
+09/20/2009  New England          9  New York Jets       16
+09/20/2009  New Orleans         48  Philadelphia        22
+09/20/2009  Houston             34  Tennessee           21
+09/20/2009  St. Louis            7  Washington           9
+09/20/2009  Tampa Bay           20  Buffalo             33
+09/20/2009  Seattle             10  San Francisco       23
+09/20/2009  Pittsburgh          14  Chicago             17
+09/20/2009  Cleveland            6  Denver              27
+09/20/2009  Baltimore           31  San Diego           26
+09/20/2009  New York Giants     33  Dallas              31
+09/21/2009  Indianapolis        27  Miami               23
+09/27/2009  Cleveland            3  Baltimore           34
+09/27/2009  Washington          14  Detroit             19
+09/27/2009  Jacksonville        31  Houston             24
+09/27/2009  Atlanta             10  New England         26
+09/27/2009  Green Bay           36  St. Louis           17
+09/27/2009  New York Giants     24  Tampa Bay            0
+09/27/2009  Tennessee           17  New York Jets       24
+09/27/2009  Kansas City         14  Philadelphia        34
+09/27/2009  San Francisco       24  Minnesota           27
+09/27/2009  New Orleans         27  Buffalo              7
+09/27/2009  Chicago             25  Seattle             19
+09/27/2009  Pittsburgh          20  Cincinnati          23
+09/27/2009  Denver              23  Oakland              3
+09/27/2009  Miami               13  San Diego           23
+09/27/2009  Indianapolis        31  Arizona             10
+09/28/2009  Carolina             7  Dallas              21
+10/04/2009  Detroit             24  Chicago             48
+10/04/2009  New York Giants     27  Kansas City         16
+10/04/2009  Buffalo             10  Miami               38
+10/04/2009  Cincinnati          23  Cleveland           20
+10/04/2009  Baltimore           21  New England         27
+10/04/2009  New York Jets       10  New Orleans         24
+10/04/2009  Oakland              6  Houston             29
+10/04/2009  Tampa Bay           13  Washington          16
+10/04/2009  Dallas              10  Denver              17
+10/04/2009  Tennessee           17  Jacksonville        37
+10/04/2009  Seattle             17  Indianapolis        34
+10/04/2009  St. Louis            0  San Francisco       35
+10/04/2009  San Diego           28  Pittsburgh          38
+10/05/2009  Green Bay           23  Minnesota           30
+10/11/2009  Cincinnati          17  Baltimore           14
+10/11/2009  Cleveland            6  Buffalo              3
+10/11/2009  Washington          17  Carolina            20
+10/11/2009  Pittsburgh          28  Detroit             20
+10/11/2009  Dallas              26  Kansas City         20
+10/11/2009  Oakland              7  New York Giants     44
+10/11/2009  Tampa Bay           14  Philadelphia        33
+10/11/2009  Minnesota           38  St. Louis           10
+10/11/2009  Atlanta             45  San Francisco       10
+10/11/2009  Houston             21  Arizona             28
+10/11/2009  New England         17  Denver              20
+10/11/2009  Jacksonville         0  Seattle             41
+10/11/2009  Indianapolis        31  Tennessee            9
+10/12/2009  New York Jets       27  Miami               31
+10/18/2009  Baltimore           31  Minnesota           33
+10/18/2009  New York Giants     27  New Orleans         48
+10/18/2009  Cleveland           14  Pittsburgh          27
+10/18/2009  Houston             28  Cincinnati          17
+10/18/2009  Detroit              0  Green Bay           26
+10/18/2009  Carolina            28  Tampa Bay           21
+10/18/2009  Kansas City         14  Washington           6
+10/18/2009  St. Louis           20  Jacksonville        23
+10/18/2009  Arizona             27  Seattle              3
+10/18/2009  Philadelphia         9  Oakland             13
+10/18/2009  Tennessee            0  New England         59
+10/18/2009  Chicago             14  Atlanta             21
+10/18/2009  Buffalo             16  New York Jets       13
+10/19/2009  Denver              34  San Diego           23
+10/25/2009  Green Bay           31  Cleveland            3
+10/25/2009  San Francisco       21  Houston             24
+10/25/2009  San Diego           37  Kansas City          7
+10/25/2009  Indianapolis        42  St. Louis            6
+10/25/2009  New England         35  Tampa Bay            7
+10/25/2009  Minnesota           17  Pittsburgh          27
+10/25/2009  Buffalo             20  Carolina             9
+10/25/2009  New York Jets       38  Oakland              0
+10/25/2009  Chicago             10  Cincinnati          45
+10/25/2009  Atlanta             21  Dallas              37
+10/25/2009  New Orleans         46  Miami               34
+10/25/2009  Arizona             24  New York Giants     17
+10/26/2009  Philadelphia        27  Washington          17
+11/01/2009  Denver               7  Baltimore           30
+11/01/2009  Houston             31  Buffalo             10
+11/01/2009  Cleveland            6  Chicago             30
+11/01/2009  Seattle             17  Dallas              38
+11/01/2009  Miami               30  New York Jets       25
+11/01/2009  San Francisco       14  Indianapolis        18
+11/01/2009  New York Giants     17  Philadelphia        40
+11/01/2009  St. Louis           17  Detroit             10
+11/01/2009  Oakland             16  San Diego           24
+11/01/2009  Jacksonville        13  Tennessee           30
+11/01/2009  Minnesota           38  Green Bay           26
+11/01/2009  Carolina            34  Arizona             21
+11/02/2009  Atlanta             24  New Orleans         35
+11/08/2009  Washington          17  Atlanta             31
+11/08/2009  Arizona             41  Chicago             21
+11/08/2009  Baltimore            7  Cincinnati          17
+11/08/2009  Houston             17  Indianapolis        20
+11/08/2009  Kansas City         21  Jacksonville        24
+11/08/2009  Miami               17  New England         27
+11/08/2009  Green Bay           28  Tampa Bay           38
+11/08/2009  Carolina            20  New Orleans         30
+11/08/2009  San Diego           21  New York Giants     20
+11/08/2009  Detroit             20  Seattle             32
+11/08/2009  Tennessee           34  San Francisco       27
+11/08/2009  Dallas              20  Philadelphia        16
+11/09/2009  Pittsburgh          28  Denver              10
+11/12/2009  Chicago              6  San Francisco       10
+11/15/2009  Denver              17  Washington          27
+11/15/2009  Atlanta             19  Carolina            28
+11/15/2009  Jacksonville        24  New York Jets       22
+11/15/2009  Cincinnati          18  Pittsburgh          12
+11/15/2009  Detroit             10  Minnesota           27
+11/15/2009  Tampa Bay           23  Miami               25
+11/15/2009  New Orleans         28  St. Louis           23
+11/15/2009  Buffalo             17  Tennessee           41
+11/15/2009  Kansas City         16  Oakland             10
+11/15/2009  Seattle             20  Arizona             31
+11/15/2009  Dallas               7  Green Bay           17
+11/15/2009  Philadelphia        23  San Diego           31
+11/15/2009  New England         34  Indianapolis        35
+11/16/2009  Baltimore           16  Cleveland            0
+11/19/2009  Miami               24  Carolina            17
+11/22/2009  Indianapolis        17  Baltimore           15
+11/22/2009  Washington           6  Dallas               7
+11/22/2009  Cleveland           37  Detroit             38
+11/22/2009  San Francisco       24  Green Bay           30
+11/22/2009  Buffalo             15  Jacksonville        18
+11/22/2009  Pittsburgh          24  Kansas City         27
+11/22/2009  Seattle              9  Minnesota           35
+11/22/2009  Atlanta             31  New York Giants     34
+11/22/2009  New Orleans         38  Tampa Bay            7
+11/22/2009  Arizona             21  St. Louis           13
+11/22/2009  San Diego           32  Denver               3
+11/22/2009  New York Jets       14  New England         31
+11/22/2009  Cincinnati          17  Oakland             20
+11/22/2009  Philadelphia        24  Chicago             20
+11/23/2009  Tennessee           20  Houston             17
+11/26/2009  Green Bay           34  Detroit             12
+11/26/2009  Oakland              7  Dallas              24
+11/26/2009  New York Giants      6  Denver              26
+11/29/2009  Tampa Bay           17  Atlanta             20
+11/29/2009  Miami               14  Buffalo             31
+11/29/2009  Washington          24  Philadelphia        27
+11/29/2009  Seattle             27  St. Louis           17
+11/29/2009  Carolina             6  New York Jets       17
+11/29/2009  Cleveland            7  Cincinnati          16
+11/29/2009  Indianapolis        35  Houston             27
+11/29/2009  Kansas City         14  San Diego           43
+11/29/2009  Jacksonville         3  San Francisco       20
+11/29/2009  Chicago             10  Minnesota           36
+11/29/2009  Arizona             17  Tennessee           20
+11/29/2009  Pittsburgh          17  Baltimore           20
+11/30/2009  New England         17  New Orleans         38
+12/03/2009  New York Jets       19  Buffalo             13
+12/06/2009  Philadelphia        34  Atlanta              7
+12/06/2009  Tampa Bay            6  Carolina            16
+12/06/2009  St. Louis            9  Chicago             17
+12/06/2009  Detroit             13  Cincinnati          23
+12/06/2009  Tennessee           17  Indianapolis        27
+12/06/2009  Houston             18  Jacksonville        23
+12/06/2009  Denver              44  Kansas City         13
+12/06/2009  New England         21  Miami               22
+12/06/2009  Oakland             27  Pittsburgh          24
+12/06/2009  New Orleans         33  Washington          30
+12/06/2009  San Diego           30  Cleveland           23
+12/06/2009  Dallas              24  New York Giants     31
+12/06/2009  San Francisco       17  Seattle             20
+12/06/2009  Minnesota           17  Arizona             30
+12/07/2009  Baltimore           14  Green Bay           27
+12/10/2009  Pittsburgh           6  Cleveland           13
+12/13/2009  New Orleans         26  Atlanta             23
+12/13/2009  Detroit              3  Baltimore           48
+12/13/2009  Green Bay           21  Chicago             14
+12/13/2009  Seattle              7  Houston             34
+12/13/2009  Denver              16  Indianapolis        28
+12/13/2009  Miami               14  Jacksonville        10
+12/13/2009  Buffalo             16  Kansas City         10
+12/13/2009  Cincinnati          10  Minnesota           30
+12/13/2009  Carolina            10  New England         20
+12/13/2009  New York Jets       26  Tampa Bay            3
+12/13/2009  St. Louis            7  Tennessee           47
+12/13/2009  San Diego           20  Dallas              17
+12/13/2009  Washington          34  Oakland             13
+12/13/2009  Philadelphia        45  New York Giants     38
+12/14/2009  Arizona              9  San Francisco       24
+12/17/2009  Indianapolis        35  Jacksonville        31
+12/19/2009  Dallas              24  New Orleans         17
+12/20/2009  New England         17  Buffalo             10
+12/20/2009  Cleveland           41  Kansas City         34
+12/20/2009  Atlanta             10  New York Jets        7
+12/20/2009  Houston             16  St. Louis           13
+12/20/2009  Miami               24  Tennessee           27
+12/20/2009  Arizona             31  Detroit             24
+12/20/2009  Oakland             20  Denver              19
+12/20/2009  Cincinnati          24  San Diego           27
+12/20/2009  Chicago              7  Baltimore           31
+12/20/2009  Tampa Bay           24  Seattle              7
+12/20/2009  San Francisco       13  Philadelphia        27
+12/20/2009  Green Bay           36  Pittsburgh          37
+12/20/2009  Minnesota            7  Carolina            24
+12/21/2009  New York Giants     45  Washington          12
+12/25/2009  San Diego           42  Tennessee           17
+12/27/2009  Buffalo              3  Atlanta             31
+12/27/2009  Kansas City         10  Cincinnati          17
+12/27/2009  Oakland              9  Cleveland           23
+12/27/2009  Seattle             10  Green Bay           48
+12/27/2009  Houston             27  Miami               20
+12/27/2009  Baltimore           20  Pittsburgh          23
+12/27/2009  Carolina            41  New York Giants      9
+12/27/2009  Jacksonville         7  New England         35
+12/27/2009  Tampa Bay           20  New Orleans         17
+12/27/2009  St. Louis           10  Arizona             31
+12/27/2009  Detroit              6  San Francisco       20
+12/27/2009  Denver              27  Philadelphia        30
+12/27/2009  New York Jets       29  Indianapolis        15
+12/27/2009  Dallas              17  Washington           0
+12/28/2009  Minnesota           30  Chicago             36
+01/03/2010  Indianapolis         7  Buffalo             30
+01/03/2010  New Orleans         10  Carolina            23
+01/03/2010  Jacksonville        17  Cleveland           23
+01/03/2010  New England         27  Houston             34
+01/03/2010  New York Giants      7  Minnesota           44
+01/03/2010  San Francisco       28  St. Louis            6
+01/03/2010  Atlanta             20  Tampa Bay           10
+01/03/2010  Pittsburgh          30  Miami               24
+01/03/2010  Chicago             37  Detroit             23
+01/03/2010  Philadelphia         0  Dallas              24
+01/03/2010  Kansas City         44  Denver              24
+01/03/2010  Baltimore           21  Oakland             13
+01/03/2010  Tennessee           17  Seattle             13
+01/03/2010  Washington          20  San Diego           23
+01/03/2010  Green Bay           33  Arizona              7
+01/03/2010  Cincinnati           0  New York Jets       37
+01/09/2010  New York Jets       24  Cincinnati          14
+01/09/2010  Philadelphia        14  Dallas              34
+01/10/2010  Baltimore           33  New England         14
+01/10/2010  Green Bay           45  Arizona             51
+01/16/2010  Arizona             14  New Orleans         45
+01/16/2010  Baltimore            3  Indianapolis        20
+01/17/2010  Dallas               3  Minnesota           34
+01/17/2010  New York Jets       17  San Diego           14
+01/24/2010  New York Jets       17  Indianapolis        30
+01/24/2010  Minnesota           28  New Orleans         31
+02/07/2010  New Orleans         31  Indianapolis        17 N

@@ -1,0 +1,267 @@
+09/06/2007  New Orleans         10  Indianapolis        41
+09/09/2007  Denver              15  Buffalo             14
+09/09/2007  Tennessee           13  Jacksonville        10
+09/09/2007  Miami               13  Washington          16
+09/09/2007  Carolina            27  St. Louis           13
+09/09/2007  New England         38  New York Jets       14
+09/09/2007  Atlanta              3  Minnesota           24
+09/09/2007  Pittsburgh          34  Cleveland            7
+09/09/2007  Philadelphia        13  Green Bay           16
+09/09/2007  Kansas City          3  Houston             20
+09/09/2007  Chicago              3  San Diego           14
+09/09/2007  Tampa Bay            6  Seattle             20
+09/09/2007  Detroit             36  Oakland             21
+09/09/2007  New York Giants     35  Dallas              45
+09/10/2007  Baltimore           20  Cincinnati          27
+09/10/2007  Arizona             17  San Francisco       20
+09/16/2007  Houston             34  Carolina            21
+09/16/2007  Cincinnati          45  Cleveland           51
+09/16/2007  Indianapolis        22  Tennessee           20
+09/16/2007  New Orleans         14  Tampa Bay           31
+09/16/2007  San Francisco       17  St. Louis           16
+09/16/2007  Buffalo              3  Pittsburgh          26
+09/16/2007  Green Bay           35  New York Giants     13
+09/16/2007  Atlanta              7  Jacksonville        13
+09/16/2007  Seattle             20  Arizona             23
+09/16/2007  Dallas              37  Miami               20
+09/16/2007  Minnesota           17  Detroit             20
+09/16/2007  Oakland             20  Denver              23
+09/16/2007  Kansas City         10  Chicago             20
+09/16/2007  New York Jets       13  Baltimore           20
+09/16/2007  San Diego           14  New England         38
+09/17/2007  Washington          20  Philadelphia        12
+09/23/2007  San Diego           24  Green Bay           31
+09/23/2007  Minnesota           10  Kansas City         13
+09/23/2007  Buffalo              7  New England         38
+09/23/2007  Miami               28  New York Jets       31
+09/23/2007  Detroit             21  Philadelphia        56
+09/23/2007  San Francisco       16  Pittsburgh          37
+09/23/2007  St. Louis            3  Tampa Bay           24
+09/23/2007  Arizona             23  Baltimore           26
+09/23/2007  Indianapolis        30  Houston             24
+09/23/2007  Jacksonville        23  Denver              14
+09/23/2007  Cleveland           24  Oakland             26
+09/23/2007  Cincinnati          21  Seattle             24
+09/23/2007  Carolina            27  Atlanta             20
+09/23/2007  New York Giants     24  Washington          17
+09/23/2007  Dallas              34  Chicago             10
+09/24/2007  Tennessee           31  New Orleans         14
+09/30/2007  Houston             16  Atlanta             26
+09/30/2007  New York Jets       14  Buffalo             17
+09/30/2007  Baltimore           13  Cleveland           27
+09/30/2007  St. Louis            7  Dallas              35
+09/30/2007  Chicago             27  Detroit             37
+09/30/2007  Oakland             35  Miami               17
+09/30/2007  Green Bay           23  Minnesota           16
+09/30/2007  Tampa Bay           20  Carolina             7
+09/30/2007  Seattle             23  San Francisco        3
+09/30/2007  Pittsburgh          14  Arizona             21
+09/30/2007  Denver              20  Indianapolis        38
+09/30/2007  Kansas City         30  San Diego           16
+09/30/2007  Philadelphia         3  New York Giants     16
+10/01/2007  New England         34  Cincinnati          13
+10/07/2007  Miami               19  Houston             22
+10/07/2007  Jacksonville        17  Kansas City          7
+10/07/2007  Cleveland           17  New England         34
+10/07/2007  Carolina            16  New Orleans         13
+10/07/2007  New York Jets       24  New York Giants     35
+10/07/2007  Seattle              0  Pittsburgh          21
+10/07/2007  Arizona             34  St. Louis           31
+10/07/2007  Detroit              3  Washington          34
+10/07/2007  Atlanta             13  Tennessee           20
+10/07/2007  Tampa Bay           14  Indianapolis        33
+10/07/2007  San Diego           41  Denver               3
+10/07/2007  Baltimore            9  San Francisco        7
+10/07/2007  Chicago             27  Green Bay           20
+10/08/2007  Dallas              25  Buffalo             24
+10/14/2007  St. Louis            3  Baltimore           22
+10/14/2007  Minnesota           34  Chicago             31
+10/14/2007  Miami               31  Cleveland           41
+10/14/2007  Washington          14  Green Bay           17
+10/14/2007  Houston             17  Jacksonville        37
+10/14/2007  Cincinnati          20  Kansas City         27
+10/14/2007  Philadelphia        16  New York Jets        9
+10/14/2007  Tennessee           10  Tampa Bay           13
+10/14/2007  Oakland             14  San Diego           28
+10/14/2007  Carolina            25  Arizona             10
+10/14/2007  New England         48  Dallas              27
+10/14/2007  New Orleans         28  Seattle             17
+10/15/2007  New York Giants     31  Atlanta             10
+10/21/2007  Baltimore           14  Buffalo             19
+10/21/2007  Atlanta             16  New Orleans         22
+10/21/2007  Arizona             19  Washington          21
+10/21/2007  San Francisco       15  New York Giants     33
+10/21/2007  New England         49  Miami               28
+10/21/2007  Tennessee           38  Houston             36
+10/21/2007  Tampa Bay           16  Detroit             23
+10/21/2007  Kansas City         12  Oakland             10
+10/21/2007  New York Jets       31  Cincinnati          38
+10/21/2007  St. Louis            6  Seattle             33
+10/21/2007  Chicago             19  Philadelphia        16
+10/21/2007  Minnesota           14  Dallas              24
+10/21/2007  Pittsburgh          28  Denver              31
+10/22/2007  Indianapolis        29  Jacksonville         7
+10/28/2007  Indianapolis        31  Carolina             7
+10/28/2007  Detroit             16  Chicago              7
+10/28/2007  Pittsburgh          24  Cincinnati          13
+10/28/2007  New York Giants     13  Miami               10
+10/28/2007  Philadelphia        23  Minnesota           16
+10/28/2007  Cleveland           27  St. Louis           20
+10/28/2007  Oakland              9  Tennessee           13
+10/28/2007  Buffalo             13  New York Jets        3
+10/28/2007  Houston             10  San Diego           35
+10/28/2007  Washington           7  New England         52
+10/28/2007  Jacksonville        24  Tampa Bay           23
+10/28/2007  New Orleans         31  San Francisco       10
+10/29/2007  Green Bay           19  Denver              13
+11/04/2007  Houston             24  Oakland             17
+11/04/2007  New England         24  Indianapolis        20
+11/04/2007  Seattle             30  Cleveland           33
+11/04/2007  Arizona             10  Tampa Bay           17
+11/04/2007  Carolina             7  Tennessee           20
+11/04/2007  Washington          23  New York Jets       20
+11/04/2007  Jacksonville        24  New Orleans         41
+11/04/2007  San Diego           17  Minnesota           35
+11/04/2007  Green Bay           33  Kansas City         22
+11/04/2007  Denver               7  Detroit             44
+11/04/2007  Cincinnati          21  Buffalo             33
+11/04/2007  San Francisco       16  Atlanta             20
+11/04/2007  Dallas              38  Philadelphia        17
+11/05/2007  Baltimore            7  Pittsburgh          38
+11/11/2007  Chicago             17  Oakland              6
+11/11/2007  Dallas              31  New York Giants     20
+11/11/2007  Detroit             21  Arizona             31
+11/11/2007  Cincinnati          21  Baltimore            7
+11/11/2007  Philadelphia        33  Washington          25
+11/11/2007  Jacksonville        28  Tennessee           13
+11/11/2007  Cleveland           28  Pittsburgh          31
+11/11/2007  St. Louis           37  New Orleans         29
+11/11/2007  Buffalo             13  Miami               10
+11/11/2007  Denver              27  Kansas City         11
+11/11/2007  Minnesota            0  Green Bay           34
+11/11/2007  Atlanta             20  Carolina            13
+11/11/2007  Indianapolis        21  San Diego           23
+11/12/2007  San Francisco        0  Seattle             24
+11/18/2007  Washington          23  Dallas              28
+11/18/2007  St. Louis           13  San Francisco        9
+11/18/2007  Chicago             23  Seattle             30
+11/18/2007  Pittsburgh          16  New York Jets       19
+11/18/2007  New Orleans         10  Houston             23
+11/18/2007  Carolina            17  Green Bay           31
+11/18/2007  Arizona             35  Cincinnati          27
+11/18/2007  Kansas City         10  Indianapolis        13
+11/18/2007  Cleveland           33  Baltimore           30
+11/18/2007  San Diego           17  Jacksonville        24
+11/18/2007  Oakland             22  Minnesota           29
+11/18/2007  Miami                7  Philadelphia        17
+11/18/2007  New York Giants     16  Detroit             10
+11/18/2007  Tampa Bay           31  Atlanta              7
+11/18/2007  New England         56  Buffalo             10
+11/19/2007  Tennessee           20  Denver              34
+11/22/2007  Green Bay           37  Detroit             26
+11/22/2007  New York Jets        3  Dallas              34
+11/22/2007  Indianapolis        31  Atlanta             13
+11/25/2007  Philadelphia        28  New England         31
+11/25/2007  Denver              34  Chicago             37
+11/25/2007  Baltimore           14  San Diego           32
+11/25/2007  San Francisco       37  Arizona             31
+11/25/2007  Houston             17  Cleveland           27
+11/25/2007  Tennessee            6  Cincinnati          35
+11/25/2007  Oakland             20  Kansas City         17
+11/25/2007  Minnesota           41  New York Giants     17
+11/25/2007  Seattle             24  St. Louis           19
+11/25/2007  Washington          13  Tampa Bay           19
+11/25/2007  Buffalo             14  Jacksonville        36
+11/25/2007  New Orleans         31  Carolina             6
+11/26/2007  Miami                0  Pittsburgh           3
+11/29/2007  Green Bay           27  Dallas              37
+12/02/2007  New York Jets       40  Miami               13
+12/02/2007  San Diego           24  Kansas City         10
+12/02/2007  Jacksonville        25  Indianapolis        28
+12/02/2007  Detroit             10  Minnesota           42
+12/02/2007  Seattle             28  Philadelphia        24
+12/02/2007  Atlanta             16  St. Louis           28
+12/02/2007  Houston             20  Tennessee           28
+12/02/2007  Buffalo             17  Washington          16
+12/02/2007  San Francisco       14  Carolina            31
+12/02/2007  New York Giants     21  Chicago             16
+12/02/2007  Tampa Bay           27  New Orleans         23
+12/02/2007  Cleveland           21  Arizona             27
+12/02/2007  Denver              20  Oakland             34
+12/02/2007  Cincinnati          10  Pittsburgh          24
+12/03/2007  New England         27  Baltimore           24
+12/06/2007  Chicago             16  Washington          24
+12/09/2007  Arizona             21  Seattle             42
+12/09/2007  Pittsburgh          13  New England         34
+12/09/2007  Cleveland           24  New York Jets       18
+12/09/2007  Minnesota           27  San Francisco        7
+12/09/2007  Kansas City          7  Denver              41
+12/09/2007  Miami               17  Buffalo             38
+12/09/2007  Dallas              28  Detroit             27
+12/09/2007  San Diego           23  Tennessee           17
+12/09/2007  Carolina             6  Jacksonville        37
+12/09/2007  Oakland              7  Green Bay           38
+12/09/2007  Indianapolis        44  Baltimore           20
+12/09/2007  New York Giants     16  Philadelphia        13
+12/09/2007  Tampa Bay           14  Houston             28
+12/09/2007  St. Louis           10  Cincinnati          19
+12/10/2007  New Orleans         34  Atlanta             14
+12/13/2007  Denver              13  Houston             31
+12/15/2007  Cincinnati          13  San Francisco       20
+12/16/2007  Seattle             10  Carolina            13
+12/16/2007  Buffalo              0  Cleveland            8
+12/16/2007  Tennessee           26  Kansas City         17
+12/16/2007  Baltimore           16  Miami               22
+12/16/2007  New York Jets       10  New England         20
+12/16/2007  Arizona             24  New Orleans         31
+12/16/2007  Jacksonville        29  Pittsburgh          22
+12/16/2007  Green Bay           33  St. Louis           14
+12/16/2007  Atlanta              3  Tampa Bay           37
+12/16/2007  Philadelphia        10  Dallas               6
+12/16/2007  Detroit             14  San Diego           51
+12/16/2007  Indianapolis        21  Oakland             14
+12/16/2007  Washington          22  New York Giants     10
+12/17/2007  Chicago             13  Minnesota           20
+12/20/2007  Pittsburgh          41  St. Louis           24
+12/22/2007  Dallas              20  Carolina            13
+12/23/2007  Houston             15  Indianapolis        38
+12/23/2007  Oakland             11  Jacksonville        49
+12/23/2007  Cleveland           14  Cincinnati          19
+12/23/2007  Green Bay            7  Chicago             35
+12/23/2007  Philadelphia        38  New Orleans         23
+12/23/2007  Kansas City         20  Detroit             35
+12/23/2007  New York Giants     38  Buffalo             21
+12/23/2007  New York Jets        6  Tennessee           10
+12/23/2007  Atlanta             27  Arizona             30
+12/23/2007  Tampa Bay           19  San Francisco       21
+12/23/2007  Washington          32  Minnesota           21
+12/23/2007  Miami                7  New England         28
+12/23/2007  Baltimore            6  Seattle             27
+12/24/2007  Denver               3  San Diego           23
+12/29/2007  New England         38  New York Giants     35
+12/30/2007  San Diego           30  Oakland             17
+12/30/2007  Pittsburgh          21  Baltimore           27
+12/30/2007  Dallas               6  Washington          27
+12/30/2007  St. Louis           19  Arizona             48
+12/30/2007  Minnesota           19  Denver              22
+12/30/2007  Kansas City         10  New York Jets       13
+12/30/2007  Buffalo              9  Philadelphia        17
+12/30/2007  Cincinnati          38  Miami               25
+12/30/2007  Carolina            31  Tampa Bay           23
+12/30/2007  Seattle             41  Atlanta             44
+12/30/2007  New Orleans         25  Chicago             33
+12/30/2007  San Francisco        7  Cleveland           20
+12/30/2007  Detroit             13  Green Bay           34
+12/30/2007  Jacksonville        28  Houston             42
+12/30/2007  Tennessee           16  Indianapolis        10
+01/05/2008  Washington          14  Seattle             35
+01/05/2008  Jacksonville        31  Pittsburgh          29
+01/06/2008  New York Giants     24  Tampa Bay           14
+01/06/2008  Tennessee            6  San Diego           17
+01/12/2008  Seattle             20  Green Bay           42
+01/12/2008  Jacksonville        20  New England         31
+01/13/2008  San Diego           28  Indianapolis        24
+01/13/2008  New York Giants     21  Dallas              17
+01/20/2008  San Diego           12  New England         21
+01/20/2008  New York Giants     23  Green Bay           20
+02/03/2008  New York Giants     17  New England         14 1

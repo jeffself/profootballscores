@@ -1,0 +1,267 @@
+09/08/2005  Oakland             20  New England         30
+09/11/2005  Dallas              28  San Diego           24
+09/11/2005  Chicago              7  Washington           9
+09/11/2005  Tennessee            7  Pittsburgh          34
+09/11/2005  Denver              10  Miami               34
+09/11/2005  New York Jets        7  Kansas City         27
+09/11/2005  Cincinnati          27  Cleveland           13
+09/11/2005  Tampa Bay           24   Minnesota          13
+09/11/2005  New Orleans         23  Carolina            20
+09/11/2005  Houston              7  Buffalo             22
+09/11/2005  Arizona             19  New York Giants     42
+09/11/2005  Seattle             14  Jacksonville        26
+09/11/2005  St. Louis           25  San Francisco       28
+09/11/2005  Green Bay            3  Detroit             17
+09/11/2005  Indianapolis        24  Baltimore            7
+09/12/2005  Philadelphia        10  Atlanta             14
+09/18/2005  San Francisco        3  Philadelphia        42
+09/18/2005  Jacksonville         3  Indianapolis        10
+09/18/2005  Detroit              6  Chicago             38
+09/18/2005  Minnesota            8  Cincinnati          37
+09/18/2005  New England         17  Carolina            27
+09/18/2005  Pittsburgh          27  Houston              7
+09/18/2005  Buffalo              3  Tampa Bay           19
+09/18/2005  St. Louis           17  Arizona             12
+09/18/2005  Baltimore           10  Tennessee           25
+09/18/2005  Cleveland           26  Green Bay           24
+09/18/2005  Miami                7  New York Jets       17
+09/18/2005  San Diego           17  Denver              20
+09/18/2005  Atlanta             18  Seattle             21
+09/18/2005  Kansas City         23  Oakland             17
+09/19/2005  Washington          14  Dallas              13
+09/19/2005  New York Giants     27  New Orleans         10
+09/25/2005  Cleveland            6  Indianapolis        13
+09/25/2005  Tennessee           27  St. Louis           31
+09/25/2005  Cincinnati          24  Chicago              7
+09/25/2005  Tampa Bay           17  Green Bay           16
+09/25/2005  Jacksonville        26  New York Jets       20
+09/25/2005  Carolina            24  Miami               27
+09/25/2005  Atlanta             24  Buffalo             16
+09/25/2005  New Orleans         16  Minnesota           33
+09/25/2005  Oakland             20  Philadelphia        23
+09/25/2005  Arizona             12  Seattle             37
+09/25/2005  Dallas              34  San Francisco       31
+09/25/2005  New England         23  Pittsburgh          20
+09/25/2005  New York Giants     23  San Diego           45
+09/26/2005  Kansas City         10  Denver              30
+10/02/2005  Seattle             17  Washington          20
+10/02/2005  Indianapolis        31  Tennessee           10
+10/02/2005  Detroit             13  Tampa Bay           17
+10/02/2005  St. Louis           24  New York Giants     44
+10/02/2005  Buffalo              7  New Orleans         19
+10/02/2005  San Diego           41  New England         17
+10/02/2005  Denver              20  Jacksonville         7
+10/02/2005  Houston             10  Cincinnati          16
+10/02/2005  New York Jets        3  Baltimore           13
+10/02/2005  Dallas              13  Oakland             19
+10/02/2005  Minnesota           10  Atlanta             30
+10/02/2005  Philadelphia        37  Kansas City         31
+10/02/2005  San Francisco       14  Arizona             31 0
+10/03/2005  Green Bay           29  Carolina            32
+10/09/2005  Seattle             37  St. Louis           31
+10/09/2005  Tampa Bay           12  New York Jets       14
+10/09/2005  Tennessee           34  Houston             20
+10/09/2005  New Orleans          3  Green Bay           52
+10/09/2005  Baltimore           17  Detroit             35
+10/09/2005  Chicago             10  Cleveland           20
+10/09/2005  Miami               14  Buffalo             20
+10/09/2005  Indianapolis        28  San Francisco        3
+10/09/2005  Washington          19  Denver              21
+10/09/2005  Philadelphia        10  Dallas              33
+10/09/2005  Carolina            24  Arizona             20
+10/09/2005  New England         31  Atlanta             28
+10/09/2005  Cincinnati          20  Jacksonville        23
+10/10/2005  Pittsburgh          24  San Diego           22
+10/16/2005  Carolina            21  Detroit             20
+10/16/2005  New York Giants     13  Dallas              16
+10/16/2005  Minnesota            3  Chicago             28
+10/16/2005  Cleveland            3  Baltimore           16
+10/16/2005  Cincinnati          31  Tennessee           23
+10/16/2005  Miami               13  Tampa Bay           27
+10/16/2005  Jacksonville        23  Pittsburgh          17
+10/16/2005  Atlanta             34  New Orleans         31
+10/16/2005  Washington          21  Kansas City         28
+10/16/2005  San Diego           27  Oakland             14
+10/16/2005  New England         20  Denver              28
+10/16/2005  New York Jets       17  Buffalo             27
+10/16/2005  Houston             10  Seattle             42
+10/17/2005  St. Louis           28  Indianapolis        45
+10/21/2005  Kansas City         30  Miami               20
+10/23/2005  Green Bay           20  Minnesota           23
+10/23/2005  Indianapolis        38  Houston             20
+10/23/2005  Detroit             13  Cleveland           10
+10/23/2005  Pittsburgh          27  Cincinnati          13
+10/23/2005  New Orleans         17  St. Louis           28
+10/23/2005  San Francisco       17  Washington          52
+10/23/2005  San Diego           17  Philadelphia        20
+10/23/2005  Dallas              10  Seattle             13
+10/23/2005  Baltimore            6  Chicago             10
+10/23/2005  Tennessee           10  Arizona             20
+10/23/2005  Buffalo             17  Oakland             38
+10/23/2005  Denver              23  New York Giants     24
+10/24/2005  New York Jets       14  Atlanta             27
+10/30/2005  Cleveland           16  Houston             19
+10/30/2005  Green Bay           14  Cincinnati          21
+10/30/2005  Arizona             13  Dallas              34
+10/30/2005  Washington           0  New York Giants     36
+10/30/2005  Minnesota           13  Carolina            38
+10/30/2005  Oakland             34  Tennessee           25
+10/30/2005  Jacksonville        21  St. Louis           24
+10/30/2005  Chicago             19  Detroit             13
+10/30/2005  Tampa Bay           10  San Francisco       15
+10/30/2005  Kansas City         20  San Diego           28
+10/30/2005  Miami               21  New Orleans          6
+10/30/2005  Philadelphia        21  Denver              49
+10/30/2005  Buffalo             16  New England         21
+10/31/2005  Baltimore           19  Pittsburgh          20
+11/06/2005  Oakland             23  Kansas City         27
+11/06/2005  Houston             14  Jacksonville        21
+11/06/2005  Tennessee           14  Cleveland           20
+11/06/2005  Cincinnati          21  Baltimore            9
+11/06/2005  Carolina            34  Tampa Bay           14
+11/06/2005  San Diego           31  New York Jets       26
+11/06/2005  Detroit             14  Minnesota           27
+11/06/2005  Atlanta             17  Miami               10
+11/06/2005  New York Giants     24  San Francisco        6
+11/06/2005  Seattle             33  Arizona             19
+11/06/2005  Chicago             20  New Orleans         17
+11/06/2005  Pittsburgh          20  Green Bay           10
+11/06/2005  Philadelphia        10  Washington          17
+11/07/2005  Indianapolis        40  New England         21
+11/13/2005  Minnesota           24  New York Giants     21
+11/13/2005  New England         23  Miami               16
+11/13/2005  Baltimore            3  Jacksonville        30
+11/13/2005  Houston             17  Indianapolis        31
+11/13/2005  Arizona             21  Detroit             29
+11/13/2005  San Francisco        9  Chicago             17
+11/13/2005  Kansas City          3  Buffalo             14
+11/13/2005  Denver              31  Oakland             17
+11/13/2005  New York Jets        3  Carolina            30
+11/13/2005  St. Louis           16  Seattle             31
+11/13/2005  Green Bay           33  Atlanta             25
+11/13/2005  Washington          35  Tampa Bay           36
+11/13/2005  Cleveland           21  Pittsburgh          34
+11/14/2005  Dallas              21  Philadelphia        20
+11/20/2005  Oakland             16  Washington          13
+11/20/2005  Detroit              7  Dallas              20
+11/20/2005  Miami                0  Cleveland           22
+11/20/2005  Carolina             3  Chicago             13
+11/20/2005  New Orleans         17  New England         24
+11/20/2005  Jacksonville        31  Tennessee           28
+11/20/2005  Arizona             38  St. Louis           28
+11/20/2005  Philadelphia        17  New York Giants     27
+11/20/2005  Tampa Bay           30  Atlanta             27
+11/20/2005  Pittsburgh          13  Baltimore           16
+11/20/2005  Seattle             27  San Francisco       25
+11/20/2005  Buffalo             10  San Diego           48
+11/20/2005  New York Jets        0  Denver              27
+11/20/2005  Indianapolis        45  Cincinnati          37
+11/20/2005  Kansas City         45  Houston             17
+11/21/2005  Minnesota           20  Green Bay           17
+11/24/2005  Atlanta             27  Detroit              7
+11/24/2005  Denver              24  Dallas              21
+11/27/2005  San Francisco       22  Tennessee           33
+11/27/2005  New England         16  Kansas City         26
+11/27/2005  St. Louis           33  Houston             27
+11/27/2005  Baltimore           29  Cincinnati          42
+11/27/2005  Carolina            13  Buffalo              9
+11/27/2005  Chicago             13  Tampa Bay           10
+11/27/2005  San Diego           23  Washington          17
+11/27/2005  Cleveland           12  Minnesota           24
+11/27/2005  Miami               33  Oakland             21
+11/27/2005  Jacksonville        24  Arizona             17
+11/27/2005  New York Giants     21  Seattle             24
+11/27/2005  Green Bay           14  Philadelphia        19
+11/27/2005  New Orleans         21  New York Jets       19
+11/28/2005  Pittsburgh           7  Indianapolis        26
+12/04/2005  Tennessee            3  Indianapolis        35
+12/04/2005  Minnesota           21  Detroit             16
+12/04/2005  Green Bay            7  Chicago             19
+12/04/2005  Jacksonville        20  Cleveland           14
+12/04/2005  Atlanta              6  Carolina            24
+12/04/2005  Houston             15  Baltimore           16
+12/04/2005  Cincinnati          38  Pittsburgh          31
+12/04/2005  Dallas              10  New York Giants     17
+12/04/2005  Tampa Bay           10  New Orleans          3
+12/04/2005  Buffalo             23  Miami               24
+12/04/2005  Arizona             17  San Francisco       10
+12/04/2005  Washington          24  St. Louis            9
+12/04/2005  New York Jets        3  New England         16
+12/04/2005  Denver              27  Kansas City         31
+12/04/2005  Oakland             10  San Diego           34
+12/05/2005  Seattle             42  Philadelphia         0
+12/11/2005  Houston             10  Tennessee           13
+12/11/2005  Chicago              9  Pittsburgh          21
+12/11/2005  Oakland             10  New York Jets       26
+12/11/2005  St. Louis           13  Minnesota           27
+12/11/2005  Indianapolis        26  Jacksonville        18
+12/11/2005  Cleveland           20  Cincinnati          23
+12/11/2005  Tampa Bay           20  Carolina            10
+12/11/2005  New England         35  Buffalo              7
+12/11/2005  San Francisco        3  Seattle             41
+12/11/2005  New York Giants     26  Philadelphia        23
+12/11/2005  Washington          17  Arizona             13
+12/11/2005  Miami               23  San Diego           21
+12/11/2005  Baltimore           10  Denver              12
+12/11/2005  Kansas City         28  Dallas              31
+12/11/2005  Detroit             13  Green Bay           16
+12/12/2005  New Orleans         17  Atlanta             36
+12/17/2005  Tampa Bay            0  New England         28
+12/17/2005  Kansas City         17  New York Giants     27
+12/17/2005  Denver              28  Buffalo             17
+12/18/2005  Philadelphia        17  St. Louis           16
+12/18/2005  Seattle             28  Tennessee           24
+12/18/2005  Carolina            27  New Orleans         10
+12/18/2005  Pittsburgh          18  Minnesota            3
+12/18/2005  New York Jets       20  Miami               24
+12/18/2005  San Francisco        9  Jacksonville        10
+12/18/2005  San Diego           26  Indianapolis        17
+12/18/2005  Arizona             19  Houston             30
+12/18/2005  Cleveland            9  Oakland              7
+12/18/2005  Cincinnati          41  Detroit             17
+12/18/2005  Dallas               7  Washington          35
+12/18/2005  Atlanta              3  Chicago             16
+12/19/2005  Green Bay            3  Baltimore           48
+12/24/2005  Pittsburgh          41  Cleveland            0
+12/24/2005  Buffalo             37  Cincinnati          27
+12/24/2005  Dallas              24  Carolina            20
+12/24/2005  New York Giants     20  Washington          35
+12/24/2005  Atlanta             24  Tampa Bay           27
+12/24/2005  San Francisco       24  St. Louis           20
+12/24/2005  Detroit             13  New Orleans         12
+12/24/2005  Tennessee           10  Miami               24
+12/24/2005  San Diego            7  Kansas City         20
+12/24/2005  Jacksonville        38  Houston             20
+12/24/2005  Philadelphia        21  Arizona             27
+12/24/2005  Indianapolis        13  Seattle             28
+12/24/2005  Oakland              3  Denver              22
+12/25/2005  Chicago             24  Green Bay           17
+12/25/2005  Minnesota           23  Baltimore           30
+12/26/2005  New England         31  New York Jets       21
+12/31/2005  Denver              23  San Diego            7
+12/31/2005  New York Giants     30  Oakland             21
+01/01/2006  Detroit             21  Pittsburgh          35
+01/01/2006  Cincinnati           3  Kansas City         37
+01/01/2006  Seattle             17  Green Bay           23
+01/01/2006  Arizona             13  Indianapolis        17
+01/01/2006  New Orleans         13  Tampa Bay           27
+01/01/2006  Buffalo             26  New York Jets       30
+01/01/2006  Miami               28  New England         26
+01/01/2006  Carolina            44  Atlanta             11
+01/01/2006  Baltimore           16  Cleveland           20
+01/01/2006  Houston             17  San Francisco       20
+01/01/2006  Tennessee           13  Jacksonville        40
+01/01/2006  Washington          31  Philadelphia        20
+01/01/2006  Chicago             10  Minnesota           34
+01/01/2006  St. Louis           20  Dallas              10
+01/07/2006  Washington          17  Tampa Bay           10
+01/07/2006  Jacksonville         3  New England         28
+01/08/2006  Carolina            23  New York Giants      0
+01/08/2006  Pittsburgh          31  Cincinnati          17
+01/14/2006  Washington          10  Seattle             20
+01/14/2006  New England         13  Denver              27
+01/15/2006  Pittsburgh          21  Indianapolis        18
+01/15/2006  Carolina            29  Chicago             21
+01/22/2006  Pittsburgh          34  Denver              17
+01/22/2006  Carolina            14  Seattle             34
+02/05/2006  Seattle             10  Pittsburgh          21 N

@@ -1,0 +1,73 @@
+09/30/1956	Chicago             	21	Baltimore           	28
+09/30/1956	Cleveland           	 7	Chicago Cardinals   	 9
+09/30/1956	Detroit             	20	Green Bay           	16
+09/30/1956	Philadelphia        	 7	LA Rams             	27
+09/30/1956	NY Giants           	38	San Francisco       	21
+09/30/1956	Washington          	13	Pittsburgh          	30
+10/06/1956	Detroit             	31	Baltimore           	14
+10/06/1956	Cleveland           	14	Pittsburgh          	10
+10/06/1956	Washington          	 9	Philadelphia        	13
+10/07/1956	Chicago             	37	Green Bay           	21
+10/07/1956	LA Rams             	30	San Francisco       	33
+10/07/1956	NY Giants           	27	Chicago Cardinals   	35
+10/14/1956	Baltimore           	33	Green Bay           	38
+10/14/1956	NY Giants           	21	Cleveland           	 9
+10/14/1956	LA Rams             	21	Detroit             	24
+10/14/1956	Philadelphia        	35	Pittsburgh          	21
+10/14/1956	San Francisco       	 7	Chicago             	31
+10/14/1956	Chicago Cardinals   	31	Washington          	 3
+10/21/1956	Baltimore           	27	Chicago             	58
+10/21/1956	Cleveland           	 9	Washington          	20
+10/21/1956	LA Rams             	17	Green Bay           	42
+10/21/1956	Chicago Cardinals   	20	Philadelphia        	 6
+10/21/1956	Pittsburgh          	10	NY Giants           	38
+10/21/1956	San Francisco       	17	Detroit             	20
+10/28/1956	Washington          	17	Chicago Cardinals   	14
+10/28/1956	Pittsburgh          	24	Cleveland           	16
+10/28/1956	Green Bay           	21	Baltimore           	28
+10/28/1956	Detroit             	16	LA Rams             	 7
+10/28/1956	Philadelphia        	 3	NY Giants           	20
+10/28/1956	Chicago             	38	San Francisco       	21
+11/04/1956	Cleveland           	24	Green Bay           	 7
+11/04/1956	Chicago             	35	LA Rams             	24
+11/04/1956	Philadelphia        	17	Chicago Cardinals   	28
+11/04/1956	NY Giants           	17	Pittsburgh          	14
+11/04/1956	Detroit             	17	San Francisco       	13
+11/11/1956	Chicago Cardinals   	10	NY Giants           	23
+11/11/1956	Baltimore           	21	Cleveland           	 7
+11/11/1956	Detroit             	17	Washington          	18
+11/11/1956	Green Bay           	14	Chicago             	38
+11/11/1956	Pittsburgh          	 7	Philadelphia        	14
+11/11/1956	San Francisco       	 6	LA Rams             	30
+11/18/1956	Baltimore           	 3	Detroit             	27
+11/18/1956	Chicago Cardinals   	 7	Pittsburgh          	14
+11/18/1956	San Francisco       	17	Green Bay           	16
+11/18/1956	LA Rams             	21	Chicago             	30
+11/18/1956	NY Giants           	 7	Washington          	33
+11/18/1956	Cleveland           	16	Philadelphia        	 0
+11/22/1956	Green Bay           	24	Detroit             	20
+11/25/1956	Washington          	20	Cleveland           	17
+11/25/1956	LA Rams             	21	Baltimore           	56
+11/25/1956	Chicago             	17	NY Giants           	17
+11/25/1956	San Francisco       	10	Philadelphia        	10
+11/25/1956	Pittsburgh          	27	Chicago Cardinals   	38
+12/02/1956	San Francisco       	20	Baltimore           	17
+12/02/1956	Chicago             	10	Detroit             	42
+12/02/1956	Green Bay           	24	Chicago Cardinals   	21
+12/02/1956	LA Rams             	13	Pittsburgh          	30
+12/02/1956	Philadelphia        	14	Cleveland           	17
+12/02/1956	Washington          	14	NY Giants           	28
+12/08/1956	Green Bay           	20	San Francisco       	38
+12/09/1956	Baltimore           	 7	LA Rams             	31
+12/09/1956	Chicago Cardinals   	 3	Chicago             	10
+12/09/1956	Cleveland           	24	NY Giants           	 7
+12/09/1956	Philadelphia        	17	Washington          	19
+12/09/1956	Pittsburgh          	 7	Detroit             	45
+12/15/1956	NY Giants           	21	Philadelphia        	 7
+12/16/1956	Baltimore           	17	San Francisco       	30
+12/16/1956	Chicago Cardinals   	24	Cleveland           	 7
+12/16/1956	Detroit             	21	Chicago             	38
+12/16/1956	Green Bay           	21	LA Rams             	49
+12/16/1956	Pittsburgh          	23	Washington          	 0
+12/23/1956	Washington          	17	Baltimore           	19
+12/30/1956	Chicago             	 7	NY Giants           	47

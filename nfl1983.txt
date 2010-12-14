@@ -1,0 +1,233 @@
+09/03/1983	Philadelphia        	22	San Francisco       	17
+09/04/1983	Atlanta             	20	Chicago             	17
+09/04/1983	Baltimore           	29	New England         	23
+09/04/1983	Denver              	14	Pittsburgh          	10
+09/04/1983	Detroit             	11	Tampa Bay           	 0
+09/04/1983	Green Bay           	41	Houston             	38
+09/04/1983	Seattle             	13	Kansas City         	17
+09/04/1983	LA Raiders          	20	Cincinnati          	10
+09/04/1983	LA Rams             	16	NY Giants           	 6
+09/04/1983	Miami               	12	Buffalo             	 0
+09/04/1983	Minnesota           	27	Cleveland           	21
+09/04/1983	St Louis            	17	New Orleans         	28
+09/04/1983	NY Jets             	41	San Diego           	29
+09/05/1983	Dallas              	31	Washington          	30
+09/08/1983	San Francisco       	48	Minnesota           	17
+09/11/1983	Buffalo             	10	Cincinnati          	 6
+09/11/1983	Tampa Bay           	10	Chicago             	17
+09/11/1983	Cleveland           	31	Detroit             	26
+09/11/1983	Dallas              	34	St Louis            	17
+09/11/1983	Denver              	17	Baltimore           	10
+09/11/1983	Houston             	 6	LA Raiders          	20
+09/11/1983	New Orleans         	27	LA Rams             	30
+09/11/1983	New England         	24	Miami               	34
+09/11/1983	NY Giants           	16	Atlanta             	13
+09/11/1983	Pittsburgh          	25	Green Bay           	21
+09/11/1983	Seattle             	17	NY Jets             	10
+09/11/1983	Washington          	23	Philadelphia        	13
+09/12/1983	San Diego           	17	Kansas City         	14
+09/15/1983	Cincinnati          	 7	Cleveland           	17
+09/18/1983	Atlanta             	30	Detroit             	14
+09/18/1983	Baltimore           	23	Buffalo             	28
+09/18/1983	NY Giants           	13	Dallas              	28
+09/18/1983	LA Rams             	24	Green Bay           	27
+09/18/1983	Minnesota           	19	Tampa Bay           	16
+09/18/1983	NY Jets             	13	New England         	23
+09/18/1983	Chicago             	31	New Orleans         	34
+09/18/1983	Philadelphia        	13	Denver              	10
+09/18/1983	Pittsburgh          	40	Houston             	28
+09/18/1983	San Francisco       	42	St Louis            	27
+09/18/1983	San Diego           	31	Seattle             	34
+09/18/1983	Kansas City         	12	Washington          	27
+09/19/1983	Miami               	14	LA Raiders          	27
+09/25/1983	Chicago             	19	Baltimore           	22
+09/25/1983	Houston             	13	Buffalo             	30
+09/25/1983	Cincinnati          	23	Tampa Bay           	17
+09/25/1983	Cleveland           	30	San Diego           	24
+09/25/1983	New Orleans         	20	Dallas              	21
+09/25/1983	LA Raiders          	22	Denver              	 7
+09/25/1983	Kansas City         	 6	Miami               	14
+09/25/1983	Detroit             	17	Minnesota           	20
+09/25/1983	New England         	28	Pittsburgh          	23
+09/25/1983	LA Rams             	24	NY Jets             	27
+09/25/1983	Atlanta             	20	San Francisco       	24
+09/25/1983	St Louis            	14	Philadelphia        	11
+09/25/1983	Washington          	27	Seattle             	17
+09/26/1983	Green Bay           	 3	NY Giants           	27
+10/02/1983	Baltimore           	34	Cincinnati          	31
+10/02/1983	Denver              	14	Chicago             	31
+10/02/1983	Dallas              	37	Minnesota           	24
+10/02/1983	Tampa Bay           	14	Green Bay           	55
+10/02/1983	St Louis            	14	Kansas City         	38
+10/02/1983	Detroit             	10	LA Rams             	21
+10/02/1983	Miami               	 7	New Orleans         	17
+10/02/1983	Philadelphia        	28	Atlanta             	24
+10/02/1983	Houston             	10	Pittsburgh          	17
+10/02/1983	San Diego           	41	NY Giants           	34
+10/02/1983	San Francisco       	33	New England         	13
+10/02/1983	Seattle             	24	Cleveland           	 9
+10/02/1983	LA Raiders          	35	Washington          	37
+10/03/1983	NY Jets             	34	Buffalo             	10
+10/09/1983	New England         	 7	Baltimore           	12
+10/09/1983	Buffalo             	38	Miami               	35
+10/09/1983	NY Jets             	 7	Cleveland           	10
+10/09/1983	Tampa Bay           	24	Dallas              	27
+10/09/1983	Denver              	26	Houston             	14
+10/09/1983	Green Bay           	14	Detroit             	38
+10/09/1983	Kansas City         	20	LA Raiders          	21
+10/09/1983	LA Rams             	10	San Francisco       	 7
+10/09/1983	Minnesota           	23	Chicago             	14
+10/09/1983	New Orleans         	19	Atlanta             	17
+10/09/1983	Philadelphia        	17	NY Giants           	13
+10/09/1983	Seattle             	21	San Diego           	28
+10/09/1983	Washington          	38	St Louis            	14
+10/10/1983	Pittsburgh          	24	Cincinnati          	14
+10/16/1983	Buffalo             	30	Baltimore           	 7
+10/16/1983	Philadelphia        	 7	Dallas              	37
+10/16/1983	Cincinnati          	17	Denver              	24
+10/16/1983	Chicago             	17	Detroit             	31
+10/16/1983	NY Giants           	17	Kansas City         	38
+10/16/1983	Atlanta             	21	LA Rams             	27
+10/16/1983	Miami               	32	NY Jets             	14
+10/16/1983	Houston             	14	Minnesota           	34
+10/16/1983	San Diego           	21	New England         	37
+10/16/1983	Cleveland           	17	Pittsburgh          	44
+10/16/1983	San Francisco       	32	New Orleans         	13
+10/16/1983	LA Raiders          	36	Seattle             	38
+10/16/1983	St Louis            	34	Tampa Bay           	27
+10/17/1983	Washington          	47	Green Bay           	48
+10/23/1983	Atlanta             	27	NY Jets             	21
+10/23/1983	Chicago             	 7	Philadelphia        	 6
+10/23/1983	Cleveland           	21	Cincinnati          	28
+10/23/1983	San Diego           	 6	Denver              	14
+10/23/1983	Kansas City         	13	Houston             	10
+10/23/1983	LA Raiders          	40	Dallas              	38
+10/23/1983	Miami               	21	Baltimore           	 7
+10/23/1983	Minnesota           	20	Green Bay           	17
+10/23/1983	New England         	31	Buffalo             	 0
+10/23/1983	New Orleans         	24	Tampa Bay           	21
+10/23/1983	Pittsburgh          	27	Seattle             	21
+10/23/1983	San Francisco       	45	LA Rams             	35
+10/23/1983	Detroit             	17	Washington          	38
+10/24/1983	NY Giants           	20	St Louis            	20
+10/30/1983	New England         	13	Atlanta             	24
+10/30/1983	Baltimore           	22	Philadelphia        	21
+10/30/1983	New Orleans         	21	Buffalo             	27
+10/30/1983	Green Bay           	14	Cincinnati          	34
+10/30/1983	Houston             	19	Cleveland           	25
+10/30/1983	Dallas              	38	NY Giants           	20
+10/30/1983	Kansas City         	24	Denver              	27
+10/30/1983	Detroit             	38	Chicago             	17
+10/30/1983	LA Rams             	14	Miami               	30
+10/30/1983	NY Jets             	27	San Francisco       	13
+10/30/1983	Tampa Bay           	12	Pittsburgh          	17
+10/30/1983	Seattle             	34	LA Raiders          	21
+10/30/1983	Minnesota           	31	St Louis            	41
+10/31/1983	Washington          	27	San Diego           	24
+11/06/1983	Baltimore           	17	NY Jets             	14
+11/06/1983	Cincinnati          	55	Houston             	14
+11/06/1983	Dallas              	27	Philadelphia        	20
+11/06/1983	Cleveland           	21	Green Bay           	35
+11/06/1983	LA Raiders          	28	Kansas City         	20
+11/06/1983	Chicago             	14	LA Rams             	21
+11/06/1983	Miami               	20	San Francisco       	17
+11/06/1983	Buffalo             	 7	New England         	21
+11/06/1983	Atlanta             	10	New Orleans         	27
+11/06/1983	San Diego           	 3	Pittsburgh          	26
+11/06/1983	Denver              	19	Seattle             	27
+11/06/1983	Tampa Bay           	17	Minnesota           	12
+11/06/1983	St Louis            	 7	Washington          	45
+11/07/1983	NY Giants           	 9	Detroit             	15
+11/13/1983	Buffalo             	24	NY Jets             	17
+11/13/1983	Philadelphia        	14	Chicago             	17
+11/13/1983	Tampa Bay           	 0	Cleveland           	20
+11/13/1983	Green Bay           	29	Minnesota           	21
+11/13/1983	Detroit             	17	Houston             	27
+11/13/1983	Cincinnati          	15	Kansas City         	20
+11/13/1983	Denver              	20	LA Raiders          	22
+11/13/1983	Miami               	 6	New England         	17
+11/13/1983	Pittsburgh          	24	Baltimore           	13
+11/13/1983	Dallas              	23	San Diego           	24
+11/13/1983	New Orleans         	 0	San Francisco       	27
+11/13/1983	Seattle             	28	St Louis            	33
+11/13/1983	Washington          	33	NY Giants           	17
+11/14/1983	LA Rams             	36	Atlanta             	13
+11/20/1983	San Francisco       	24	Atlanta             	28
+11/20/1983	Chicago             	27	Tampa Bay           	 0
+11/20/1983	Houston             	10	Cincinnati          	38
+11/20/1983	Cleveland           	30	New England         	 0
+11/20/1983	Kansas City         	21	Dallas              	41
+11/20/1983	Seattle             	27	Denver              	38
+11/20/1983	Detroit             	23	Green Bay           	20
+11/20/1983	LA Raiders          	27	Buffalo             	24
+11/20/1983	Baltimore           	 0	Miami               	37
+11/20/1983	Minnesota           	17	Pittsburgh          	14
+11/20/1983	NY Giants           	23	Philadelphia        	 0
+11/20/1983	San Diego           	14	St Louis            	44
+11/20/1983	Washington          	42	LA Rams             	20
+11/21/1983	NY Jets             	31	New Orleans         	28
+11/24/1983	St Louis            	17	Dallas              	35
+11/24/1983	Pittsburgh          	 3	Detroit             	45
+11/27/1983	Green Bay           	41	Atlanta             	47
+11/27/1983	San Francisco       	 3	Chicago             	13
+11/27/1983	Baltimore           	23	Cleveland           	41
+11/27/1983	NY Giants           	12	LA Raiders          	27
+11/27/1983	Buffalo             	17	LA Rams             	41
+11/27/1983	Minnesota           	16	New Orleans         	17
+11/27/1983	New England         	 3	NY Jets             	26
+11/27/1983	Denver              	 7	San Diego           	31
+11/27/1983	Kansas City         	48	Seattle             	51
+11/27/1983	Houston             	24	Tampa Bay           	33
+11/27/1983	Philadelphia        	24	Washington          	28
+11/28/1983	Cincinnati          	14	Miami               	38
+12/01/1983	LA Raiders          	42	San Diego           	10
+12/04/1983	Buffalo             	14	Kansas City         	 9
+12/04/1983	Cincinnati          	23	Pittsburgh          	10
+12/04/1983	Dallas              	35	Seattle             	10
+12/04/1983	Cleveland           	 6	Denver              	27
+12/04/1983	Chicago             	28	Green Bay           	31
+12/04/1983	Miami               	24	Houston             	17
+12/04/1983	New Orleans         	 0	New England         	 7
+12/04/1983	NY Jets             	10	Baltimore           	 6
+12/04/1983	LA Rams             	 9	Philadelphia        	13
+12/04/1983	Tampa Bay           	21	San Francisco       	35
+12/04/1983	St Louis            	10	NY Giants           	 6
+12/04/1983	Atlanta             	21	Washington          	37
+12/05/1983	Minnesota           	 2	Detroit             	13
+12/10/1983	Atlanta             	24	Miami               	31
+12/10/1983	Pittsburgh          	34	NY Jets             	 7
+12/11/1983	Chicago             	19	Minnesota           	13
+12/11/1983	Detroit             	 9	Cincinnati          	17
+12/11/1983	Baltimore           	19	Denver              	21
+12/11/1983	Cleveland           	27	Houston             	34
+12/11/1983	New England         	21	LA Rams             	 7
+12/11/1983	New Orleans         	20	Philadelphia        	17
+12/11/1983	Kansas City         	38	San Diego           	41
+12/11/1983	San Francisco       	23	Buffalo             	10
+12/11/1983	Seattle             	17	NY Giants           	12
+12/11/1983	St Louis            	34	LA Raiders          	24
+12/11/1983	Washington          	31	Dallas              	10
+12/12/1983	Green Bay           	12	Tampa Bay           	 9
+12/16/1983	NY Jets             	14	Miami               	34
+12/17/1983	Cincinnati          	14	Minnesota           	20
+12/17/1983	NY Giants           	22	Washington          	31
+12/18/1983	Buffalo             	14	Atlanta             	31
+12/18/1983	Houston             	10	Baltimore           	20
+12/18/1983	Green Bay           	21	Chicago             	23
+12/18/1983	Pittsburgh          	17	Cleveland           	30
+12/18/1983	Tampa Bay           	20	Detroit             	23
+12/18/1983	Denver              	17	Kansas City         	48
+12/18/1983	San Diego           	14	LA Raiders          	30
+12/18/1983	LA Rams             	26	New Orleans         	24
+12/18/1983	New England         	 6	Seattle             	24
+12/18/1983	Philadelphia        	 7	St Louis            	31
+12/19/1983	Dallas              	17	San Francisco       	42
+12/24/1983	Denver              	 7	Seattle             	31
+12/26/1983	LA Rams             	24	Dallas              	17
+12/31/1983	Detroit             	23	San Francisco       	24
+12/31/1983	Seattle             	27	Miami               	20
+01/01/1984	Pittsburgh          	10	LA Raiders          	38
+01/01/1984	LA Rams             	 7	Washington          	51
+01/08/1984	Seattle             	14	LA Raiders          	30
+01/08/1984	San Francisco       	21	Washington          	24
+01/22/1984	LA Raiders          	38	Washington          	 9	0

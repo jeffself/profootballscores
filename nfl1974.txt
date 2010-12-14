@@ -1,0 +1,189 @@
+09/15/1974	Detroit             	 9	Chicago             	17
+09/15/1974	Cleveland           	 7	Cincinnati          	33
+09/15/1974	Dallas              	24	Atlanta             	 0
+09/15/1974	San Diego           	14	Houston             	21
+09/15/1974	NY Jets             	16	Kansas City         	24
+09/15/1974	LA Rams             	17	Denver              	10
+09/15/1974	Minnesota           	32	Green Bay           	17
+09/15/1974	Miami               	24	New England         	34
+09/15/1974	Baltimore           	 0	Pittsburgh          	30
+09/15/1974	San Francisco       	17	New Orleans         	13
+09/15/1974	Philadelphia        	 3	St Louis            	 7
+09/15/1974	Washington          	13	NY Giants           	10
+09/16/1974	Oakland             	20	Buffalo             	21
+09/22/1974	Houston             	 7	Cleveland           	20
+09/22/1974	Green Bay           	20	Baltimore           	13
+09/22/1974	New Orleans         	 0	LA Rams             	24
+09/22/1974	Miami               	24	Buffalo             	16
+09/22/1974	Minnesota           	 7	Detroit             	 6
+09/22/1974	New England         	28	NY Giants           	20
+09/22/1974	NY Jets             	23	Chicago             	21
+09/22/1974	Kansas City         	 7	Oakland             	27
+09/22/1974	Pittsburgh          	35	Denver              	35
+09/22/1974	San Diego           	20	Cincinnati          	17
+09/22/1974	San Francisco       	16	Atlanta             	10
+09/22/1974	St Louis            	17	Washington          	10
+09/23/1974	Dallas              	10	Philadelphia        	13
+09/29/1974	NY Jets             	12	Buffalo             	16
+09/29/1974	Cincinnati          	21	San Francisco       	 3
+09/29/1974	Detroit             	19	Green Bay           	21
+09/29/1974	Kansas City         	17	Houston             	 7
+09/29/1974	Miami               	28	San Diego           	21
+09/29/1974	Chicago             	 7	Minnesota           	11
+09/29/1974	LA Rams             	14	New England         	20
+09/29/1974	Atlanta             	13	New Orleans         	14
+09/29/1974	NY Giants           	14	Dallas              	 6
+09/29/1974	Oakland             	17	Pittsburgh          	 0
+09/29/1974	Baltimore           	10	Philadelphia        	30
+09/29/1974	Cleveland           	 7	St Louis            	29
+09/30/1974	Denver              	 3	Washington          	30
+10/06/1974	Atlanta             	14	NY Giants           	 7
+10/06/1974	Buffalo             	27	Green Bay           	 7
+10/06/1974	New Orleans         	10	Chicago             	24
+10/06/1974	Washington          	17	Cincinnati          	28
+10/06/1974	Denver              	17	Kansas City         	14
+10/06/1974	Detroit             	13	LA Rams             	16
+10/06/1974	Minnesota           	23	Dallas              	21
+10/06/1974	Baltimore           	 3	New England         	42
+10/06/1974	Oakland             	40	Cleveland           	24
+10/06/1974	Philadelphia        	13	San Diego           	 7
+10/06/1974	Pittsburgh          	13	Houston             	 7
+10/06/1974	St Louis            	34	San Francisco       	 9
+10/07/1974	NY Jets             	17	Miami               	21
+10/13/1974	Chicago             	10	Atlanta             	13
+10/13/1974	Buffalo             	27	Baltimore           	14
+10/13/1974	Cincinnati          	34	Cleveland           	24
+10/13/1974	New Orleans         	17	Denver              	33
+10/13/1974	LA Rams             	 6	Green Bay           	17
+10/13/1974	Houston             	10	Minnesota           	51
+10/13/1974	New England         	24	NY Jets             	 0
+10/13/1974	San Diego           	10	Oakland             	14
+10/13/1974	NY Giants           	 7	Philadelphia        	35
+10/13/1974	Pittsburgh          	34	Kansas City         	24
+10/13/1974	Dallas              	28	St Louis            	31
+10/13/1974	Miami               	17	Washington          	20
+10/14/1974	San Francisco       	14	Detroit             	17
+10/20/1974	Baltimore           	35	NY Jets             	20
+10/20/1974	New England         	28	Buffalo             	30
+10/20/1974	Philadelphia        	24	Dallas              	31
+10/20/1974	San Diego           	 7	Denver              	27
+10/20/1974	Detroit             	20	Minnesota           	16
+10/20/1974	San Francisco       	14	LA Rams             	37
+10/20/1974	Kansas City         	 3	Miami               	 9
+10/20/1974	New Orleans         	13	Atlanta             	 3
+10/20/1974	Cincinnati          	27	Oakland             	30
+10/20/1974	Cleveland           	16	Pittsburgh          	20
+10/20/1974	St Louis            	31	Houston             	27
+10/20/1974	NY Giants           	 3	Washington          	24
+10/21/1974	Green Bay           	 9	Chicago             	10
+10/27/1974	Chicago             	 6	Buffalo             	16
+10/27/1974	Denver              	21	Cleveland           	23
+10/27/1974	Dallas              	21	NY Giants           	 7
+10/27/1974	Green Bay           	17	Detroit             	19
+10/27/1974	Houston             	34	Cincinnati          	21
+10/27/1974	Kansas City         	24	San Diego           	14
+10/27/1974	LA Rams             	20	NY Jets             	13
+10/27/1974	Baltimore           	 7	Miami               	17
+10/27/1974	New England         	17	Minnesota           	14
+10/27/1974	Philadelphia        	10	New Orleans         	14
+10/27/1974	Oakland             	35	San Francisco       	24
+10/27/1974	Washington          	20	St Louis            	23
+10/28/1974	Atlanta             	17	Pittsburgh          	24
+11/03/1974	Buffalo             	29	New England         	28
+11/03/1974	Cincinnati          	24	Baltimore           	14
+11/03/1974	St Louis            	14	Dallas              	17
+11/03/1974	New Orleans         	14	Detroit             	19
+11/03/1974	Houston             	27	NY Jets             	22
+11/03/1974	Atlanta             	 7	Miami               	42
+11/03/1974	Minnesota           	17	Chicago             	 0
+11/03/1974	NY Giants           	33	Kansas City         	21
+11/03/1974	Oakland             	28	Denver              	17
+11/03/1974	Philadelphia        	 0	Pittsburgh          	27
+11/03/1974	Cleveland           	25	San Diego           	36
+11/03/1974	Washington          	17	Green Bay           	 6
+11/04/1974	LA Rams             	15	San Francisco       	13
+11/10/1974	Pittsburgh          	10	Cincinnati          	17
+11/10/1974	Cleveland           	21	New England         	14
+11/10/1974	San Francisco       	14	Dallas              	20
+11/10/1974	Denver              	17	Baltimore           	 6
+11/10/1974	Chicago             	 3	Green Bay           	20
+11/10/1974	Houston             	21	Buffalo             	 9
+11/10/1974	Atlanta             	 0	LA Rams             	21
+11/10/1974	Miami               	21	New Orleans         	 0
+11/10/1974	NY Jets             	26	NY Giants           	20
+11/10/1974	Detroit             	13	Oakland             	35
+11/10/1974	San Diego           	14	Kansas City         	 7
+11/10/1974	Washington          	27	Philadelphia        	20
+11/11/1974	Minnesota           	28	St Louis            	24
+11/17/1974	Baltimore           	17	Atlanta             	 7
+11/17/1974	NY Giants           	19	Detroit             	20
+11/17/1974	Green Bay           	19	Minnesota           	 7
+11/17/1974	Cincinnati          	 3	Houston             	20
+11/17/1974	Buffalo             	28	Miami               	35
+11/17/1974	LA Rams             	 7	New Orleans         	20
+11/17/1974	NY Jets             	21	New England         	16
+11/17/1974	Oakland             	17	San Diego           	10
+11/17/1974	Pittsburgh          	26	Cleveland           	16
+11/17/1974	San Francisco       	34	Chicago             	 0
+11/17/1974	St Louis            	13	Philadelphia        	 3
+11/17/1974	Dallas              	21	Washington          	28
+11/18/1974	Kansas City         	42	Denver              	34
+11/24/1974	Buffalo             	15	Cleveland           	10
+11/24/1974	Kansas City         	 6	Cincinnati          	33
+11/24/1974	Dallas              	10	Houston             	 0
+11/24/1974	Denver              	20	Oakland             	17
+11/24/1974	Chicago             	17	Detroit             	34
+11/24/1974	San Diego           	 0	Green Bay           	34
+11/24/1974	Minnesota           	17	LA Rams             	20
+11/24/1974	New England         	27	Baltimore           	17
+11/24/1974	Miami               	14	NY Jets             	17
+11/24/1974	Atlanta             	 0	San Francisco       	27
+11/24/1974	St Louis            	23	NY Giants           	21
+11/24/1974	Philadelphia        	 7	Washington          	26
+11/25/1974	Pittsburgh          	28	New Orleans         	 7
+11/28/1974	Washington          	23	Dallas              	24
+11/28/1974	Denver              	31	Detroit             	27
+12/01/1974	Baltimore           	 0	Buffalo             	 6
+12/01/1974	NY Giants           	13	Chicago             	16
+12/01/1974	San Francisco       	 0	Cleveland           	 7
+12/01/1974	Houston             	13	Pittsburgh          	10
+12/01/1974	Kansas City         	17	St Louis            	13
+12/01/1974	LA Rams             	30	Atlanta             	 7
+12/01/1974	New Orleans         	 9	Minnesota           	29
+12/01/1974	San Diego           	14	NY Jets             	27
+12/01/1974	New England         	26	Oakland             	41
+12/01/1974	Green Bay           	14	Philadelphia        	36
+12/02/1974	Cincinnati          	 3	Miami               	24
+12/07/1974	Cleveland           	17	Dallas              	41
+12/07/1974	Atlanta             	10	Minnesota           	23
+12/08/1974	Houston             	14	Denver              	37
+12/08/1974	Detroit             	37	Cincinnati          	14
+12/08/1974	Miami               	17	Baltimore           	16
+12/08/1974	St Louis            	10	New Orleans         	14
+12/08/1974	Buffalo             	10	NY Jets             	20
+12/08/1974	Oakland             	 7	Kansas City         	 6
+12/08/1974	Philadelphia        	20	NY Giants           	 7
+12/08/1974	Pittsburgh          	21	New England         	17
+12/08/1974	Chicago             	21	San Diego           	28
+12/08/1974	Green Bay           	 6	San Francisco       	 7
+12/09/1974	Washington          	23	LA Rams             	17
+12/14/1974	Minnesota           	35	Kansas City         	15
+12/14/1974	Dallas              	23	Oakland             	27
+12/14/1974	Cincinnati          	 3	Pittsburgh          	27
+12/15/1974	Green Bay           	 3	Atlanta             	10
+12/15/1974	Cleveland           	24	Houston             	28
+12/15/1974	Buffalo             	14	LA Rams             	19
+12/15/1974	New England         	27	Miami               	34
+12/15/1974	NY Jets             	45	Baltimore           	38
+12/15/1974	Detroit             	17	Philadelphia        	28
+12/15/1974	Denver              	 0	San Diego           	17
+12/15/1974	New Orleans         	 2	San Francisco       	35
+12/15/1974	NY Giants           	14	St Louis            	26
+12/15/1974	Chicago             	 0	Washington          	42
+12/21/1974	St Louis            	14	Minnesota           	30
+12/21/1974	Miami               	26	Oakland             	28
+12/22/1974	Washington          	10	LA Rams             	19
+12/22/1974	Buffalo             	14	Pittsburgh          	32
+12/29/1974	LA Rams             	10	Minnesota           	14
+12/29/1974	Pittsburgh          	24	Oakland             	13
+01/12/1975	Pittsburgh          	16	Minnesota           	 6	n
