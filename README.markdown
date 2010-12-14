@@ -23,7 +23,9 @@ Here's an example:
 Just noticed that many of the older files for scores had a slightly different format for games.  Many of them use a '1' to indicate a game played at the home team's field and a '0' to indicate a game played at a neutral site.
 
 Here's an example:
+
 `01/05/1964  Boston              10  San Diego           51 1`
+
 `01/26/1986  Chicago             46  New England         10 0`
 
 Also have noticed that many of the files are using tabs to separate the teams and scores.  Will correct that as time permits.
