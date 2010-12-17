@@ -117,3 +117,11 @@
 11/29/1974|Florida Blazers|18|Memphis Southmen|15
 11/29/1974|Hawaii Hawaiians|19|Birmingham Americans|22
 12/05/1974|Florida Blazers|21|Birmingham Americans|22
+
+
+Notes:
+------
+The New York Stars became the Charlotte Hornets
+The Houston Texans became the Shreveport Steamer
+
+Detroit and Jacksonville folded during the season.
