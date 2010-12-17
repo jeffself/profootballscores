@@ -87,3 +87,8 @@
 10/16/1974|Florida Blazers|45|Chicago Fire|17
 10/16/1974|Hawaii Hawaiians|25|Philadelphia Bell|22
 10/16/1974|Shreveport Steamer|22|Southern California Sun|25
+10/23/1974|Hawaii Hawaiians|0|Portland Storm|3
+10/23/1974|Shreveport Steamer|30|Philadelphia Bell|25
+10/23/1974|Chicago Fire|0|Charlotte Hornets|27
+10/23/1974|Florida Blazers|15|Memphis Southmen|25
+10/23/1974|Birmingham Americans|25|Southern California Sun|29
