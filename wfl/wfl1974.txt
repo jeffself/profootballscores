@@ -114,3 +114,5 @@
 11/20/1974|Chicago Fire|0|Philadelphia Bell|7
 11/27/1974|Philadelphia Bell|3|Florida Blazers|18
 11/27/1974|Hawaii Hawaiians|32|Southern California Sun|14
+11/29/1974|Florida Blazers|18|Memphis Southmen|15
+11/29/1974|Hawaii Hawaiians|19|Birmingham Americans|22
