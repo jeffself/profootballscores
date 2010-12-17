@@ -76,3 +76,9 @@
 10/02/1974|Chicago Fire|0|Florida Blazers|29
 10/02/1974|Philadelphia Bell|21|The Hawaiians|16
 10/02/1974|Birmingham Americans|21|Portland Storm|26
+10/09/1974|Birmingham Americans|8|Hawaii Hawaiians|14
+10/09/1974|Florida Blazers|30|Philadelphia Bell|7
+10/09/1974|Jacksonville Sharks|19|Memphis Southmen|47
+10/09/1974|Detroit Wheels|11|Shreveport Steamer|14
+10/09/1974|Southern California Sun|26|Portland Storm|22
+10/09/1974|Charlotte Stars|41|Chicago Fire|30
