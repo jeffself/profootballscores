@@ -40,3 +40,9 @@
 08/21/1974|Southern California Sun|31|Philadelphia Bell|28
 08/21/1974|The Hawaiians|8|Memphis Southmen|60
 08/21/1974|Portland Storm|7|Florida Blazers|11
+08/28/1974|Birmingham Americans|22|Chicago Fire|8
+08/28/1974|Detroit Wheels|23|Philadelphia Bell|27
+08/28/1974|Portland Storm|15|Southern California Sun|45
+08/28/1974|Jacksonville Sharks|14|The Hawaiians|8
+08/28/1974|Memphis Southmen|26|Florida Blazers|18
+08/28/1974|Houston Texans|14|New York Stars|11
