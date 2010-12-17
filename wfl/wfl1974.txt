@@ -82,3 +82,8 @@
 10/09/1974|Detroit Wheels|11|Shreveport Steamer|14
 10/09/1974|Southern California Sun|26|Portland Storm|22
 10/09/1974|Charlotte Stars|41|Chicago Fire|30
+10/16/1974|Portland Storm|8|Birmingham Americans|30
+10/16/1974|Memphis Southmen|27|Charlotte Hornets|23
+10/16/1974|Florida Blazers|45|Chicago Fire|17
+10/16/1974|Hawaii Hawaiians|25|Philadelphia Bell|22
+10/16/1974|Shreveport Steamer|22|Southern California Sun|25
