@@ -116,3 +116,4 @@
 11/27/1974|Hawaii Hawaiians|32|Southern California Sun|14
 11/29/1974|Florida Blazers|18|Memphis Southmen|15
 11/29/1974|Hawaii Hawaiians|19|Birmingham Americans|22
+12/05/1974|Florida Blazers|21|Birmingham Americans|22
