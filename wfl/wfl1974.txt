@@ -97,3 +97,8 @@
 10/30/1974|Shreveport Steamer|31|Birmingham Americans|0
 10/30/1974|Florida Blazers|15|Charlotte Hornets|11
 10/30/1974|Memphis Southmen|25|Portland Storm|26
+11/06/1974|Chicago Fire|31|Philadelphia Bell|37
+11/06/1974|Southern California Sun|34|Charlotte Hornets|25
+11/06/1974|Memphis Southmen|33|Hawaii Hawaiians|31
+11/06/1974|Florida Blazers|18|Birmingham Americans|26
+11/06/1974|Portland Storm|14|Shreveport Steamer|0
