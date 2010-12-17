@@ -3,7 +3,7 @@ Pro Football Scores Repository
 
 Created by [Jeff Self](http://www.jeffself.net/)
 
-Welcome to my *Pro Football Scores repository*.  I have accumulated scores from the **NFL** dating back to 1940.  I also have scores for the entire history of the **AFL**.
+Welcome to my *Pro Football Scores repository*.  I have accumulated scores from the **NFL** dating back to 1940.  I also have scores for the entire history of the **AFL**.  I have added scores for the entire history of the **WFL** (World Football League).
 
 At this current time, the scores are delimited by spaces.  The format is as follows:
 
@@ -29,3 +29,10 @@ Here's an example:
 `01/26/1986  Chicago             46  New England         10 0`
 
 Also have noticed that many of the files are using tabs to separate the teams and scores.  Will correct that as time permits.
+
+*Update*: 12/15/2010
+I have added scores for the 1974 season of the World Football League.  It uses a pipe-delimited format for the scores.
+
+Here's an example:
+
+`12/05/1974|Florida Blazers|21|Birmingham Americans|22`
