@@ -10,3 +10,9 @@
 07/17/1974|Birmingham Americans|32|New York Stars|29
 07/17/1974|The Hawaiians|31|Southern California Sun|38
 07/17/1974|Portland Storm|8|Memphis Southmen|16
+07/24/1974|New York Stars|17|Philadelphia Bell|15
+07/24/1974|Memphis Southmen|33|Birmingham Americans|58
+07/24/1974|Houston Texans|3|Florida Blazers|15
+07/24/1974|Detroit Wheels|16|The Hawaiians|36
+07/24/1974|Southern California Sun|22|Jacksonville Sharks|19
+07/24/1974|Chicago Fire|29|Portland Storm|22
