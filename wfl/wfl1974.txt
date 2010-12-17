@@ -58,3 +58,9 @@
 09/11/1974|Florida Blazers|17|New York Stars|15
 09/11/1974|Southern California Sun|10|Detroit Wheels|7
 09/11/1974|The Hawaiians|6|Portland Storm|15
+09/18/1974|Southern California Sun|31|Chicago Fire|28
+09/18/1974|Jacksonville Sharks|22|Philadelphia Bell|41
+09/18/1974|New York Stars|34|Portland Storm|15
+09/18/1974|Detroit Wheels|15|Florida Blazers|14
+09/18/1974|The Hawaiians|24|Houston Texans|17
+09/18/1974|Memphis Southmen|46|Birmingham Americans|7
