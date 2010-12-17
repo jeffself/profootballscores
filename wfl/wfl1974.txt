@@ -107,3 +107,8 @@
 11/13/1974|Charlotte Hornets|14|Shreveport Steamer|19
 11/13/1974|Chicago Fire|24|Memphis Southmen|49
 11/13/1974|Portland Storm|0|Florida Blazers|23
+11/20/1974|Portland Storm|0|Hawaii Hawaiians|23
+11/20/1974|Shreveport Steamer|7|Birmingham Americans|40
+11/20/1974|Florida Blazers|27|Southern California Sun|24
+11/20/1974|Charlotte Hornets|22|Memphis Southmen|28
+11/20/1974|Chicago Fire|0|Philadelphia Bell|7
