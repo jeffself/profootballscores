@@ -102,3 +102,8 @@
 11/06/1974|Memphis Southmen|33|Hawaii Hawaiians|31
 11/06/1974|Florida Blazers|18|Birmingham Americans|26
 11/06/1974|Portland Storm|14|Shreveport Steamer|0
+11/13/1974|Philadelphia Bell|23|Birmingham Americans|26
+11/13/1974|Southern California Sun|8|Hawaii Hawaiians|29
+11/13/1974|Charlotte Hornets|14|Shreveport Steamer|19
+11/13/1974|Chicago Fire|24|Memphis Southmen|49
+11/13/1974|Portland Storm|0|Florida Blazers|23
