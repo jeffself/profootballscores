@@ -206,3 +206,4 @@
 12/12/2010  Philadelphia        30  Dallas              27
 12/13/2010  New York Giants     21  Minnesota            3
 12/13/2010  Baltimore           34  Houston             28
+12/16/2010  San Francisco        7  San Diego           34
