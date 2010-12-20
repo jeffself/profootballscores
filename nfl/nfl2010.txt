@@ -207,3 +207,16 @@
 12/13/2010  New York Giants     21  Minnesota            3
 12/13/2010  Baltimore           34  Houston             28
 12/16/2010  San Francisco        7  San Diego           34
+12/19/2010  New Orleans         24  Baltimore           30
+12/19/2010  Arizona             12  Carolina            19
+12/19/2010  Cleveland           17  Cincinnati          19
+12/19/2010  Washington          30  Dallas              33
+12/19/2010  Jacksonville        24  Indianapolis        34
+12/19/2010  Buffalo             17  Miami               14
+12/19/2010  Philadelphia        38  New York Giants     31
+12/19/2010  Kansas City         27  St. Louis           13
+12/19/2010  Detroit             23  Tampa Bay           20
+12/19/2010  Houston             17  Tennessee           31
+12/19/2010  Atlanta             34  Seattle             18
+12/19/2010  Denver              23  Oakland             39
+12/19/2010  New York Jets       22  Pittsburgh          17
