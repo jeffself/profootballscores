@@ -221,3 +221,4 @@
 12/19/2010  Denver              23  Oakland             39
 12/19/2010  New York Jets       22  Pittsburgh          17
 12/19/2010  Green Bay           27  New England         31
+12/20/2010  Chicago             40  Minnesota           14
