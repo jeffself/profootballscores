@@ -1,0 +1,60 @@
+07/26/1975|Charlotte Hornets|10|San Antonio Wings|27
+08/02/1975|Jacksonville Express|26|Memphis Southmen|27
+08/02/1975|Hawaii Hawaiians|15|Philadelphia Bell|21
+08/02/1975|Chicago Winds|0|Birmingham Vulcans|10
+08/02/1975|Portland Thunder|15|Southern California Sun|21
+08/02/1975|Shreveport Steamer|3|San Antonio Wings|16
+08/09/1975|Charlotte Hornets|11|Memphis Southmen|23
+08/09/1975|Chicago Winds|18|Shreveport Steamer|38
+08/09/1975|Philadelphia Bell|17|Birmingham Vulcans|23
+08/09/1975|Hawaii Hawaiians|25|Portland Thunder|24
+08/09/1975|Southern California Sun|22|San Antonio Wings|54
+08/16/1975|Portland Thunder|18|Chicago Winds|25
+08/16/1975|Birmingham Vulcans|11|Jacksonville Express|22
+08/16/1975|Southern California Sun|37|Hawaii Hawaiians|19
+08/16/1975|Philadelphia Bell|3|Shreveport Steamer|10
+08/16/1975|San Antonio Wings|20|Charlotte Hornets|27
+08/23/1975|Chicago Winds|17|Hawaii Hawaiians|28
+08/23/1975|Southern California Sun|35|Birmingham Vulcans|25
+08/23/1975|Shreveport Steamer|24|Portland Thunder|33
+08/23/1975|San Antonio Wings|19|Jacksonville Express|26
+08/23/1975|Memphis Southmen|18|Philadelphia Bell|22
+08/30/1975|Shreveport Steamer|8|Birmingham Vulcans|21
+08/30/1975|Chicago Winds|7|Memphis Southmen|31
+08/30/1975|Portland Thunder|0|San Antonio Wings|22
+08/30/1975|Charlotte Hornets|33|Jacksonville Express|14
+08/30/1975|Philadelphia Bell|39|Southern California Sun|58
+09/06/1975|Hawaii Hawaiians|17|Memphis Southmen|37
+09/06/1975|Southern California Sun|8|San Antonio Wings|30
+09/06/1975|Philadelphia Bell|0|Charlotte Hornets|10
+09/06/1975|Jacksonville Express|22|Shreveport Steamer|15
+09/06/1975|Birmingham Vulcans|28|Portland Thunder|6
+09/13/1975|Charlotte Hornets|30|Southern California Sun|22
+09/13/1975|Shreveport Steamer|23|Memphis Southmen|34
+09/13/1975|Portland Thunder|25|Philadelphia Bell|10
+09/13/1975|Jacksonville Express|15|Hawaii Hawaiians|33
+09/13/1975|San Antonio Wings|24|Birmingham Vulcans|33
+09/21/1975|Southern California Sun|29|Shreveport Steamer|38
+09/21/1975|Philadelphia Bell|10|Jacksonville Express|16
+09/21/1975|Hawaii Hawaiians|11|San Antonio Wings|30
+09/21/1975|Charlotte Hornets|16|Birmingham Vulcans|22
+09/21/1975|Memphis Southmen|16|Portland Thunder|3
+09/28/1975|Birmingham Vulcans|18|Jacksonville Express|26
+09/28/1975|Shreveport Steamer|32|Hawaii Hawaiians|25
+09/28/1975|Southern California Sun|24|Charlotte Hornets|17
+09/28/1975|Memphis Southmen|17|San Antonio Wings|25
+10/07/1975|San Antonio Wings|38|Philadelphia Bell|42
+10/07/1975|Portland Thunder|29|Jacksonville Express|32
+10/07/1975|Southern California Sun|33|Memphis Southmen|37
+10/07/1975|Birmingham Vulcans|29|Hawaii Hawaiians|16
+10/07/1975|Charlotte Hornets|39|Shreveport Steamer|14
+10/13/1975|San Antonio Wings|25|Portland Thunder|28
+10/13/1975|Birmingham Vulcans|18|Memphis Watchmen|14
+10/13/1975|Jacksonville Express|15|Charlotte Hornets|22
+10/13/1975|Shreveport Steamer|30|Southern California Sun|39
+10/13/1975|Philadelphia Bell|13|Hawaii Hawaiians|14
+10/20/1975|San Antonio Wings|31|Shreveport Steamer|41
+10/20/1975|Southern California Sun|26|Hawaii Hawaiians|7
+10/20/1975|Charlotte Hornets|10|Philadelphia Bell|18
+10/20/1975|Jacksonville Express|13|Portland Thunder|30
+10/20/1975|Memphis Southmen|0|Birmingham Vulcans|21
