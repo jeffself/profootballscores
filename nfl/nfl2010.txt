@@ -222,3 +222,19 @@
 12/19/2010  New York Jets       22  Pittsburgh          17
 12/19/2010  Green Bay           27  New England         31
 12/20/2010  Chicago             40  Minnesota           14
+12/23/2010  Carolina             3  Pittsburgh          27
+12/25/2010  Dallas              26  Arizona             27
+12/26/2010  New England         34  Buffalo              3
+12/26/2010  New York Jets       34  Chicago             38
+12/26/2010  Baltimore           20  Cleveland           10
+12/26/2010  Washington          20  Jacksonville        17
+12/26/2010  Tennessee           14  Kansas City         34
+12/26/2010  Detroit             34  Miami               27
+12/26/2010  San Francisco       17  St. Louis           25
+12/26/2010  San Diego           20  Cincinnati          34
+12/26/2010  Houston             23  Denver              24
+12/26/2010  Indianapolis        31  Oakland             26
+12/26/2010  New York Giants     17  Green Bay           45
+12/26/2010  Seattle             15  Tampa Bay           38
+12/27/2010  New Orleans         17  Atlanta             14
+12/28/2010  Minnesota            0  Philadelphia         0
