@@ -237,4 +237,4 @@
 12/26/2010  New York Giants     17  Green Bay           45
 12/26/2010  Seattle             15  Tampa Bay           38
 12/27/2010  New Orleans         17  Atlanta             14
-12/28/2010  Minnesota            0  Philadelphia         0
+12/28/2010  Minnesota           24  Philadelphia        14
