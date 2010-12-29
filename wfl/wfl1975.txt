@@ -58,3 +58,10 @@
 10/20/1975|Charlotte Hornets|10|Philadelphia Bell|18
 10/20/1975|Jacksonville Express|13|Portland Thunder|30
 10/20/1975|Memphis Southmen|0|Birmingham Vulcans|21
+
+Notes:
+------
+
+The Chicago Winds folded during the season.
+
+The WFL closed operations after 10/20/1975
