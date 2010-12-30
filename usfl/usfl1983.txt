@@ -22,3 +22,9 @@
 03/27/1983|Michigan|16|Washington|22
 03/27/1983|Tampa Bay|27|Philadelphia|22
 03/28/1983|Oakland|12|Denver|22
+04/03/1983|Birmingham|16|Boston|27
+04/03/1983|Chicago|42|Tampa Bay|3
+04/03/1983|New Jersey|35|Arizona|21
+04/03/1983|Oakland|7|Los Angeles|10
+04/03/1983|Washington|3|Philadelphia|34
+04/04/1983|Denver|29|Michigan|21
