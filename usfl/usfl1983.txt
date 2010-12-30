@@ -1,0 +1,6 @@
+03/06/1983|Boston|17|Tampa Bay|21
+03/06/1983|Chicago|28|Washington|7
+03/06/1983|Philadelphia|13|Denver|7
+03/06/1983|New Jersey|15|Los Angeles|20
+03/06/1983|Oakland|24|Arizona|0
+03/07/1983|Michigan|9|Birmingham|7
