@@ -4,3 +4,9 @@
 03/06/1983|New Jersey|15|Los Angeles|20
 03/06/1983|Oakland|24|Arizona|0
 03/07/1983|Michigan|9|Birmingham|7
+03/13/1983|Michigan|7|Tampa Bay|19
+03/13/1983|Chicago|29|Arizona|30
+03/13/1983|New Jersey|0|Philadelphia|25
+03/13/1983|Boston|21|Denver|7
+03/13/1983|Birmingham|20|Oakland|14
+03/14/1983|Washington|3|Los Angeles|20
