@@ -238,3 +238,19 @@
 12/26/2010  Seattle             15  Tampa Bay           38
 12/27/2010  New Orleans         17  Atlanta             14
 12/28/2010  Minnesota           24  Philadelphia        14
+01/02/2011  Carolina            10  Atlanta             31
+01/02/2011  Cincinnati           7  Baltimore           13
+01/02/2011  Pittsburgh          41  Cleveland            9
+01/02/2011  Minnesota           13  Detroit             20
+01/02/2011  Oakland             31  Kansas City         10
+01/02/2011  Miami                7  New England         38
+01/02/2011  Tampa Bay           23  New Orleans         13
+01/02/2011  Buffalo              7  New York Jets       38
+01/02/2011  San Diego           33  Denver              28
+01/02/2011  Chicago              3  Green Bay           10
+01/02/2011  Jacksonville        17  Houston             34
+01/02/2011  Tennessee           20  Indianapolis        23
+01/02/2011  Dallas              14  Philadelphia        13
+01/02/2011  Arizona              7  San Francisco       38
+01/02/2011  New York Giants     17  Washington          14
+01/02/2011  St. Louis            6  Seattle             16
