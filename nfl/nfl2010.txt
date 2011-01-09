@@ -254,3 +254,5 @@
 01/02/2011  Arizona              7  San Francisco       38
 01/02/2011  New York Giants     17  Washington          14
 01/02/2011  St. Louis            6  Seattle             16
+01/08/2011  New Orleans         36  Seattle             41
+01/08/2011  New York Jets       17  Indianapolis        16
