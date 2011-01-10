@@ -256,3 +256,5 @@
 01/02/2011  St. Louis            6  Seattle             16
 01/08/2011  New Orleans         36  Seattle             41
 01/08/2011  New York Jets       17  Indianapolis        16
+01/09/2011  Baltimore           30  Kansas City          7
+01/09/2011  Green Bay           21  Philadelphia        16
