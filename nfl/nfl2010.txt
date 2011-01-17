@@ -260,3 +260,5 @@
 01/09/2011  Green Bay           21  Philadelphia        16
 01/15/2011  Baltimore           24  Pittsburgh          31
 01/15/2011  Green Bay           48  Atlanta             21
+01/16/2011  Seattle             24  Chicago             35
+01/16/2011  New York Jets       28  New England         21
