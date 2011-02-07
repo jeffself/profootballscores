@@ -264,3 +264,4 @@
 01/16/2011  New York Jets       28  New England         21
 01/23/2011  Green Bay           21  Chicago             14
 01/23/2011  New York Jets       19  Pittsburgh          24
+02/06/2011  Pittsburgh          25  Green Bay           31 N
