@@ -14,3 +14,13 @@
 09/11/2011  Dallas              24  New York Jets       27
 09/12/2011  New England         38  Miami               24
 09/12/2011  Oakland             23  Denver              20
+09/18/2011  Oakland             35  Buffalo             38
+09/18/2011  Green Bay           30  Carolina            23
+09/18/2011  Kansas City          3  Detroit             48
+09/18/2011  Cleveland           27  Indianapolis        19
+09/18/2011  Tampa Bay           24  Minnesota           20
+09/18/2011  Chicago             13  New Orleans         30
+09/18/2011  Jacksonville         3  New York Jets       32
+09/18/2011  Seattle              0  Pittsburgh          24
+09/18/2011  Baltimore           13  Tennessee           26
+09/18/2011  Arizona             21  Washington          22
