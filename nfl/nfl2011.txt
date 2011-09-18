@@ -24,3 +24,7 @@
 09/18/2011  Seattle              0  Pittsburgh          24
 09/18/2011  Baltimore           13  Tennessee           26
 09/18/2011  Arizona             21  Washington          22
+09/18/2011  Dallas              27  San Francisco       24
+09/18/2011  Cincinnati          22  Denver              24
+09/18/2011  Houston             23  Miami               13
+09/18/2011  San Diego           21  New England         35
