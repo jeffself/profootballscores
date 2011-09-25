@@ -30,3 +30,17 @@
 09/18/2011  San Diego           21  New England         35
 09/18/2011  Philadelphia        31  Atlanta             35
 09/19/2011  St. Louis           16  New York Giants     28
+09/25/2011  New England         31  Buffalo             34
+09/25/2011  Jacksonville        10  Carolina            16
+09/25/2011  San Francisco       13  Cincinnati           8
+09/25/2011  Miami               16  Cleveland           17
+09/25/2011  Detroit             26  Minnesota           23
+09/25/2011  Houston             33  New Orleans         40
+09/25/2011  New York Giants     29  Philadelphia        16
+09/25/2011  Denver              14  Tennessee           17
+09/25/2011  New York Jets       24  Oakland             34
+09/25/2011  Kansas City         17  San Diego           20
+09/25/2011  Baltimore           37  St. Louis            7
+09/25/2011  Green Bay           27  Chicago             17
+09/25/2011  Arizona             10  Seattle             13
+09/25/2011  Atlanta             13  Tampa Bay           16
