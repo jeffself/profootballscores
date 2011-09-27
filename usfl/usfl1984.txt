@@ -133,3 +133,37 @@
 06/03/1984|Los Angeles|35|Washington|21
 06/03/1984|New Jersey|14|Tampa Bay|20
 06/04/1984|Pittsburgh|17|Philadelphia|23
+06/08/1984|Jacksonville|14|Arizona|45
+06/08/1984|Philadelphia|21|Denver|19
+06/09/1984|Memphis|24|Tampa Bay|42
+06/09/1984|Michigan|13|Oakland|20
+06/10/1984|Chicago|13|Houston|38
+06/10/1984|Los Angeles|17|Oklahoma|10
+06/10/1984|New Orleans|21|New Jersey|31
+06/10/1984|Washington|21|Birmingham|42
+06/11/1984|San Antonio|21|Pittsburgh|3
+06/15/1984|Arizona|36|Chicago|0
+06/15/1984|Jacksonville|20|New Orleans|17
+06/15/1984|Oakland|19|Los Angeles|24
+06/15/1984|Washington|8|Philadelphia|31
+06/16/1984|Birmingham|35|Memphis|20
+06/16/1984|Denver|7|New Jersey|27
+06/16/1984|Tampa Bay|21|Pittsburgh|9
+06/18/1984|Oklahoma|24|Michigan|34
+06/18/1984|San Antonio|26|Houston|29
+06/22/1984|Oakland|7|Denver|20
+06/22/1984|Pittsburgh|2|Jacksonville|26
+06/23/1984|Los Angeles|10|Arizona|35
+06/24/1984|Michigan|20|Chicago|17
+06/24/1984|New Jersey|16|Philadelphia|10
+06/24/1984|New Orleans|17|Washington|20
+06/24/1984|Oklahoma|0|San Antonio|23
+06/24/1984|Tampa Bay|17|Birmingham|16
+06/25/1984|Memphis|3|Houston|37
+06/30/1984|Michigan|21|Los Angeles|27
+06/30/1984|New Jersey|7|Philadelphia|28
+07/01/1984|Arizona|17|Houston|16
+07/01/1984|Tampa Bay|17|Birmingham|36
+07/07/1984|Los Angeles|23|Arizona|35
+07/08/1984|Birmingham|10|Philadelphia|20
+07/15/1984|Arizona|3|Philadelphia|23|(Tampa, FL)
