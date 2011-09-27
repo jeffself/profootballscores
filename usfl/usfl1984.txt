@@ -88,3 +88,48 @@
 04/29/1984|Michigan|21|New Jersey|31
 04/29/1984|Oakland|17|Chicago|13
 04/30/1984|Los Angeles|27|Houston|24
+05/05/1984|Denver|17|Oakland|20
+05/05/1984|Pittsburgh|12|Los Angeles|20
+05/05/1984|Tampa Bay|31|Jacksonville|13
+05/06/1984|Chicago|21|San Antonio|30
+05/06/1984|Houston|28|Michigan|31
+05/06/1984|Memphis|13|Washington|10
+05/06/1984|Oklahoma|17|New Jersey|49
+05/06/1984|Philadelphia|43|Birmingham|11
+05/07/1984|Arizona|28|New Orleans|13
+05/11/1984|Chicago|29|Denver|17
+05/11/1984|Jacksonville|10|Birmingham|42
+05/11/1984|New Jersey|17|Washington|31
+05/11/1984|San Antonio|14|Memphis|38
+05/12/1984|Houston|47|Pittsburgh|26
+05/13/1984|Arizona|3|Oakland|14
+05/13/1984|Los Angeles|14|Philadelphia|18
+05/13/1984|Michigan|3|New Orleans|10
+05/14/1984|Oklahoma|21|Tampa Bay|48
+05/18/1984|Birmingham|41|Chicago|7
+05/19/1984|Denver|6|Arizona|41
+05/19/1984|Jacksonville|12|Philadelphia|45
+05/19/1984|Memphis|14|Oakland|29
+05/20/1984|Michigan|17|Los Angeles|24
+05/20/1984|New Orleans|20|Tampa Bay|31
+05/20/1984|Oklahoma|12|Houston|31
+05/20/1984|San Antonio|30|Washington|14
+05/21/1984|Pittsburgh|14|New Jersey|16
+05/25/1984|Denver|27|San Antonio|20
+05/25/1984|Houston|54|Jacksonville|7
+05/25/1984|Tampa Bay|21|Memphis|31
+05/26/1984|Arizona|17|Los Angeles|24
+05/26/1984|Oakland|17|Oklahoma|14
+05/27/1984|Birmingham|31|New Orleans|14
+05/27/1984|Philadelphia|31|Michigan|13
+05/27/1984|Washington|6|Pittsburgh|15
+05/28/1984|New Jersey|21|Chicago|17
+06/01/1984|Michigan|23|San Antonio|17
+06/01/1984|New Orleans|17|Memphis|20
+06/02/1984|Chicago|14|Oklahoma|0
+06/02/1984|Jacksonville|12|Oakland|17
+06/03/1984|Arizona|38|Birmingham|28
+06/03/1984|Houston|36|Denver|20
+06/03/1984|Los Angeles|35|Washington|21
+06/03/1984|New Jersey|14|Tampa Bay|20
+06/04/1984|Pittsburgh|17|Philadelphia|23
