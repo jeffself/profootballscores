@@ -34,3 +34,51 @@
 04/10/1983|Oakland|26|Boston|7
 04/10/1983|Philadelphia|17|Los Angeles|3
 04/11/1983|Arizona|22|Washington|21
+04/16/1983|Philadelphia|17|Oakland|7
+04/17/1983|Boston|44|Arizona|23
+04/17/1983|Chicago|12|Michigan|17
+04/17/1983|Denver|9|Birmingham|7
+04/17/1983|Washington|22|New Jersey|23
+04/18/1983|Los Angeles|18|Tampa Bay|13
+04/23/1983|Denver|3|Arizona|24
+04/23/1983|Los Angeles|24|Michigan|34
+04/24/1983|Boston|16|Philadelphia|23
+04/24/1983|Oakland|9|Birmingham|21
+04/24/1983|Tampa Bay|30|Washington|23
+04/25/1983|New Jersey|14|Chicago|17
+04/30/1983|Philadelphia|24|Tampa Bay|10
+05/01/1983|Birmingham|35|Washington|3
+05/01/1983|Chicago|38|Los Angeles|17
+05/01/1983|Michigan|28|Boston|24
+05/01/1983|New Jersey|34|Denver|29
+05/02/1983|Arizona|20|Oakland|34
+05/07/1983|Boston|20|Los Angeles|23
+05/07/1983|Michigan|21|Arizona|10
+05/08/1983|Denver|3|Philadelphia|6
+05/08/1983|Tampa Bay|17|Oakland|10
+05/08/1983|Washington|3|Chicago|31
+05/09/1983|Birmingham|22|New Jersey|7
+05/14/1983|Los Angeles|20|Birmingham|35
+05/15/1983|Arizona|14|Tampa Bay|20
+05/15/1983|Chicago|24|Philadelphia|31
+05/16/1983|Denver|9|Boston|17
+05/16/1983|New Jersey|24|Michigan|31
+05/16/1983|Washington|27|Oakland|34
+05/21/1983|Oakland|9|Tampa Bay|29
+05/22/1983|Boston|21|Washington|14
+05/22/1983|Chicago|19|New Jersey|13
+05/22/1983|Los Angeles|14|Denver|10
+05/22/1983|Philadelphia|24|Arizona|7
+05/23/1983|Birmingham|23|Michigan|20
+05/27/1983|Birmingham|19|Denver|21
+05/29/1983|Los Angeles|10|Oakland|20
+05/29/1983|New Jersey|32|Washington|29
+05/29/1983|Philadelphia|17|Boston|21
+05/30/1983|Arizona|11|Chicago|36
+05/30/1983|Tampa Bay|7|Michigan|43
+06/03/1983|Washington|12|Denver|24
+06/04/1983|New Jersey|21|Oakland|34
+06/05/1983|Arizona|13|Los Angeles|17
+06/05/1983|Birmingham|17|Tampa Bay|45
+06/05/1983|Michigan|20|Philadelphia|29
+06/06/1983|Chicago|15|Boston|21
