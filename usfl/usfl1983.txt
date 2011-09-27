@@ -82,3 +82,30 @@
 06/05/1983|Birmingham|17|Tampa Bay|45
 06/05/1983|Michigan|20|Philadelphia|29
 06/06/1983|Chicago|15|Boston|21
+06/11/1983|Boston|19|Birmingham|31
+06/11/1983|Washington|18|Arizona|11
+06/12/1983|Michigan|42|Los Angeles|17
+06/12/1983|Philadelphia|23|New Jersey|9
+06/12/1983|Tampa Bay|9|Chicago|31
+06/13/1983|Denver|10|Oakland|16
+06/17/1983|Arizona|6|Denver|32
+06/17/1983|Chicago|29|Birmingham|14
+06/17/1983|Los Angeles|13|New Jersey|20
+06/19/1983|Tampa Bay|17|Boston|24
+06/20/1983|Oakland|6|Philadelphia|12
+06/20/1983|Washington|25|Michigan|27
+06/25/1983|Arizona|14|New Jersey|21
+06/25/1983|Boston|16|Oakland|17
+06/26/1983|Birmingham|10|Philadelphia|31
+06/26/1983|Los Angeles|21|Washington|28
+06/26/1983|Michigan|34|Chicago|19
+06/27/1983|Denver|23|Tampa Bay|26
+07/02/1983|Tampa Bay|17|Birmingham|29
+07/03/1983|Arizona|7|Michigan|33
+07/03/1983|Denver|14|Los Angeles|21
+07/03/1983|New Jersey|10|Boston|34
+07/03/1983|Oakland|7|Chicago|31
+07/03/1983|Philadelphia|14|Washington|21
+07/09/1983|Chicago|38|Philadelphia|44
+07/10/1983|Oakland|21|Michigan|37
+07/17/1983|Michigan|24|Philadelphia|22|(Denver,CO)
