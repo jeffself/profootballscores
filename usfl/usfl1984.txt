@@ -1,0 +1,19 @@
+02/26/1984|Denver|27|Los Angeles|10
+02/26/1984|Houston|17|Tampa Bay|20
+02/26/1984|New Jersey|17|Birmingham|6
+02/26/1984|New Orleans|13|San Antonio|10
+02/26/1984|Oakland|7|Arizona|35
+02/26/1984|Philadelphia|17|Memphis|9
+02/26/1984|Pittsburgh|3|Oklahoma|7
+02/26/1984|Washington|14|Jacksonville|53
+02/27/1984|Chicago|18|Michigan|20
+03/02/1984|Tampa Bay|20|Arizona|17
+03/03/1984|Denver|17|Oklahoma|14
+03/03/1984|Pittsburgh|24|Michigan|27
+03/04/1984|Birmingham|21|Los Angeles|14
+03/04/1984|Chicago|13|Memphis|23
+03/04/1984|New Jersey|28|Jacksonville|26
+03/04/1984|New Orleans|13|Oakland|0
+03/04/1984|Philadelphia|17|Washington|6
+03/05/1984|Houston|35|San Antonio|7
+
