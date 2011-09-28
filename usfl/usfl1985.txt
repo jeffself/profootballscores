@@ -1,0 +1,21 @@
+02/23/1985|Orlando|7|Tampa Bay|35
+02/24/1985|Baltimore|14|Jacksonville|22
+02/24/1985|Denver|10|Oakland|31
+02/24/1985|Houston|34|Los Angeles|33
+02/24/1985|New Jersey|28|Birmingham|38
+02/24/1985|Portland|7|Arizona|9
+02/25/1985|Memphis|20|San Antonio|3
+03/01/1985|New Jersey|28|Orlando|10
+03/02/1985|Los Angeles|10|Portland|14
+03/03/1985|Arizona|14|San Antonio|46
+03/03/1985|Baltimore|17|Oakland|17
+03/03/1985|Denver|40|Birmingham|23
+03/03/1985|Houston|50|Tampa Bay|28
+03/04/1985|Memphis|24|Jacksonville|14
+03/09/1985|Baltimore|19|Memphis|21
+03/09/1985|Birmingham|34|Orlando|10
+03/10/1985|Houston|42|Oakland|7
+03/10/1985|Los Angeles|24|New Jersey|35
+03/10/1985|Portland|17|Denver|29
+03/10/1985|Tampa Bay|31|San Antonio|18
+03/11/1985|Jacksonville|21|Arizona|41
