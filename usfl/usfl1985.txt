@@ -110,4 +110,24 @@
 06/09/1985|Houston|13|Denver|16
 06/09/1985|Los Angeles|27|San Antonio|31
 06/10/1985|Jacksonville|24|New Jersey|31
-
+06/14/1985|Denver|17|Portland|23
+06/15/1985|Arizona|21|Los Angeles|10
+06/15/1985|Birmingham|14|Tampa Bay|17
+06/15/1985|Jacksonville|0|Memphis|31
+06/15/1985|New Jersey|29|Oakland|34
+06/15/1985|Orlando|10|Baltimore|41
+06/17/1985|San Antonio|21|Houston|49
+06/21/1985|Los Angeles|10|Orlando|17
+06/22/1985|Arizona|28|Memphis|38
+06/23/1985|Birmingham|14|New Jersey|6
+06/23/1985|Denver|6|Jacksonville|42
+06/23/1985|Portland|13|San Antonio|21
+06/23/1985|Tampa Bay|10|Baltimore|28
+06/24/1985|Oakland|31|Houston|21
+06/29/1985|Houston|20|Birmingham|22
+06/30/1985|Denver|7|Memphis|48
+06/30/1985|Tampa Bay|27|Oakland|30
+07/01/1985|Baltimore|20|New Jersey|17
+07/06/1985|Oakland|28|Memphis|19
+07/07/1985|Baltimore|28|Birmingham|14
+07/14/1985|Baltimore|28|Oakland|24|(East Rutherford, NJ)
