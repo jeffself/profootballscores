@@ -88,4 +88,26 @@
 05/19/1985|Arizona|30|Portland|21
 05/19/1985|Birmingham|44|Los Angeles|7
 05/19/1985|New Jersey|24|Denver|28
-05/19/1985|Jacksonville|20|Houston|17
+05/20/1985|Jacksonville|20|Houston|17
+05/23/1985|Oakland|31|Denver|16
+05/25/1985|Los Angeles|7|Jacksonville|21
+05/25/1985|Memphis|14|Portland|17
+05/26/1985|Arizona|20|Houston|41
+05/26/1985|New Jersey|30|Tampa Bay|24
+05/26/1985|San Antonio|10|Baltimore|28
+05/27/1985|Orlando|17|Birmingham|41
+05/30/1985|Denver|27|Los Angeles|20
+06/01/1985|Memphis|7|New Jersey|17
+06/01/1985|San Antonio|3|Arizona|13
+06/01/1985|Tampa Bay|7|Orlando|37
+06/02/1985|Jacksonville|12|Baltimore|17
+06/02/1985|Portland|20|Oakland|38
+06/03/1985|Birmingham|29|Houston|27
+06/07/1985|Orlando|17|Memphis|41
+06/08/1985|Baltimore|7|Birmingham|14
+06/08/1985|Oakland|21|Arizona|28
+06/08/1985|Tampa Bay|24|Portland|27
+06/09/1985|Houston|13|Denver|16
+06/09/1985|Los Angeles|27|San Antonio|31
+06/10/1985|Jacksonville|24|New Jersey|31
+
