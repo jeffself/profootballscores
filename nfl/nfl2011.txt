@@ -46,3 +46,18 @@
 09/25/2011  Atlanta             13  Tampa Bay           16
 09/25/2011  Pittsburgh          23  Indianapolis        20
 09/26/2011  Washington          16  Dallas              18
+10/02/2011  Carolina            29  Chicago             34
+10/02/2011  Buffalo             20  Cincinnati          23
+10/02/2011  Tennessee           31  Cleveland           13
+10/02/2011  Detroit             34  Dallas              30
+10/02/2011  Pittsburgh          10  Houston             17
+10/02/2011  New Orleans         23  Jacksonville        10
+10/02/2011  Minnesota           17  Kansas City         22
+10/02/2011  San Francisco       24  Philadelphia        23
+10/02/2011  Washington          17  St. Louis           10
+10/02/2011  New York Giants     31  Arizona             27
+10/02/2011  Atlanta             30  Seattle             28
+10/02/2011  Denver              23  Green Bay           49
+10/02/2011  New England         31  Oakland             19
+10/02/2011  Miami               16  San Diego           26
+10/02/2011  New York Jets       17  Baltimore           34
