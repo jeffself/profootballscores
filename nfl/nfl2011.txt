@@ -62,3 +62,14 @@
 10/02/2011  Miami               16  San Diego           26
 10/02/2011  New York Jets       17  Baltimore           34
 10/03/2011  Indianapolis        17  Tampa Bay           24
+10/09/2011  Philadelphia        24  Buffalo             31
+10/09/2011  New Orleans         30  Carolina            27
+10/09/2011  Oakland             25  Houston             20
+10/09/2011  Kansas City         28  Indianapolis        24
+10/09/2011  Cincinnati          30  Jacksonville        20
+10/09/2011  Arizona             10  Minnesota           34
+10/09/2011  Seattle             36  New York Giants     25
+10/09/2011  Tennessee           17  Pittsburgh          38
+10/09/2011  Tampa Bay            3  San Francisco       48
+10/09/2011  San Diego           29  Denver              24
+10/09/2011  New York Jets       21  New England         30
