@@ -73,3 +73,4 @@
 10/09/2011  Tampa Bay            3  San Francisco       48
 10/09/2011  San Diego           29  Denver              24
 10/09/2011  New York Jets       21  New England         30
+10/09/2011  Green Bay           25  Atlanta             14
