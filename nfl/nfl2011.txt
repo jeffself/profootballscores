@@ -75,3 +75,10 @@
 10/09/2011  New York Jets       21  New England         30
 10/09/2011  Green Bay           25  Atlanta             14
 10/10/2011  Chicago             13  Detroit             24
+10/15/2011  Carolina            17  Atlanta             31
+10/15/2011  Indianapolis        17  Cincinnati          27
+10/15/2011  San Francisco       25  Detroit             19
+10/15/2011  St. Louis            3  Green Bay           24
+10/15/2011  Buffalo             24  New York Giants     27
+10/15/2011  Jacksonville        13  Pittsburgh          17
+10/15/2011  Philadelphia        20  Washington          13
