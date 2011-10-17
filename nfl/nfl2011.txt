@@ -82,3 +82,7 @@
 10/15/2011  Buffalo             24  New York Giants     27
 10/15/2011  Jacksonville        13  Pittsburgh          17
 10/15/2011  Philadelphia        20  Washington          13
+10/15/2011  Houston             14  Baltimore           29
+10/15/2011  Cleveland           17  Oakland             24
+10/15/2011  Dallas              16  New England         20
+10/15/2011  New Orleans         20  Tampa Bay           26
