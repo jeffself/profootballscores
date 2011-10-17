@@ -86,3 +86,4 @@
 10/15/2011  Cleveland           17  Oakland             24
 10/15/2011  Dallas              16  New England         20
 10/15/2011  New Orleans         20  Tampa Bay           26
+10/15/2011  Minnesota           10  Chicago             39
