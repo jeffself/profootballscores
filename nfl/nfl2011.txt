@@ -88,3 +88,10 @@
 10/15/2011  New Orleans         20  Tampa Bay           26
 10/15/2011  Minnesota           10  Chicago             39
 10/16/2011  Miami                6  New York Jets       24
+10/23/2011  Washington          20  Carolina            33
+10/23/2011  Seattle              3  Cleveland            6
+10/23/2011  Atlanta             23  Detroit             16
+10/23/2011  Denver              18  Miami               15
+10/23/2011  San Diego           21  New York Jets       27
+10/23/2011  Chicago             24  Tampa Bay           18 N
+10/23/2011  Houston             41  Tennessee            7
