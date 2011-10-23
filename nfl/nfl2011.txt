@@ -95,3 +95,7 @@
 10/23/2011  San Diego           21  New York Jets       27
 10/23/2011  Chicago             24  Tampa Bay           18 N
 10/23/2011  Houston             41  Tennessee            7
+10/23/2011  Pittsburgh          32  Arizona             20
+10/23/2011  Kansas City         28  Oakland              0
+10/23/2011  St. Louis            7  Dallas              34
+10/23/2011  Green Bay           33  Minnesota           27
