@@ -112,3 +112,4 @@
 10/30/2011  New England         17  Pittsburgh          25
 10/30/2011  Cincinnati          34  Seattle             12
 10/30/2011  Cleveland           10  San Francisco       20
+10/30/2011  Dallas               7  Philadelphia        34
