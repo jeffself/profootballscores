@@ -101,3 +101,14 @@
 10/23/2011  Green Bay           33  Minnesota           27
 10/23/2011  Indianapolis         7  New Orleans         62
 10/24/2011  Baltimore            7  Jacksonville        12
+10/30/2011  Arizona             27  Baltimore           30
+10/30/2011  Minnesota           24  Carolina            21
+10/30/2011  Jacksonville        14  Houston             24
+10/30/2011  Miami               17  New York Giants     20
+10/30/2011  New Orleans         21  St. Louis           31
+10/30/2011  Indianapolis        10  Tennessee           27
+10/30/2011  Washington           0  Buffalo             23
+10/30/2011  Detroit             45  Denver              10
+10/30/2011  New England         17  Pittsburgh          25
+10/30/2011  Cincinnati          34  Seattle             12
+10/30/2011  Cleveland           10  San Francisco       20
