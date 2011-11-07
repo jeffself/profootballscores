@@ -114,3 +114,15 @@
 10/30/2011  Cleveland           10  San Francisco       20
 10/30/2011  Dallas               7  Philadelphia        34
 10/31/2011  San Diego           20  Kansas City         23
+11/06/2011  New York Jets       27  Buffalo             11
+11/06/2011  Seattle             13  Dallas              23
+11/06/2011  Cleveland           12  Houston             30
+11/06/2011  Atlanta             31  Indianapolis         7
+11/06/2011  Miami               31  Kansas City          3
+11/06/2011  Tampa Bay           16  New Orleans         27
+11/06/2011  San Francisco       19  Washington          11
+11/06/2011  Denver              38  Oakland             24
+11/06/2011  Cincinnati          24  Tennessee           17
+11/06/2011  St. Louis           13  Arizona             19
+11/06/2011  New York Giants     24  New England         20
+11/06/2011  Green Bay           45  San Diego           38
