@@ -127,3 +127,4 @@
 11/06/2011  New York Giants     24  New England         20
 11/06/2011  Green Bay           45  San Diego           38
 11/06/2011  Baltimore           23  Pittsburgh          20
+11/07/2011  Chicago             30  Philadelphia        24
