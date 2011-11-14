@@ -129,3 +129,17 @@
 11/06/2011  Baltimore           23  Pittsburgh          20
 11/07/2011  Chicago             30  Philadelphia        24
 11/10/2011  Oakland             24  San Diego           17
+11/13/2011  New Orleans         26  Atlanta             23
+11/13/2011  Tennessee           30  Carolina             3
+11/13/2011  Pittsburgh          24  Cincinnati          17
+11/13/2011  St. Louis           13  Cleveland           12
+11/13/2011  Buffalo              7  Dallas              44
+11/13/2011  Jacksonville        17  Indianapolis         3
+11/13/2011  Denver              17  Kansas City         10
+11/13/2011  Washington           9  Miami               20
+11/13/2011  Arizona             21  Philadelphia        17
+11/13/2011  Houston             37  Tampa Bay            9
+11/13/2011  Baltimore           17  Seattle             22
+11/13/2011  Detroit             13  Chicago             37
+11/13/2011  New York Giants     20  San Francisco       27
+11/13/2011  New England         37  New York Jets       16
