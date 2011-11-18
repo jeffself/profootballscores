@@ -144,3 +144,4 @@
 11/13/2011  New York Giants     20  San Francisco       27
 11/13/2011  New England         37  New York Jets       16
 11/14/2011  Minnesota            7  Green Bay           45
+11/17/2011  New York Jets       13  Denver              17
