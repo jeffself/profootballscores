@@ -145,3 +145,10 @@
 11/13/2011  New England         37  New York Jets       16
 11/14/2011  Minnesota            7  Green Bay           45
 11/17/2011  New York Jets       13  Denver              17
+11/20/2011  Cincinnati          24  Baltimore           31
+11/20/2011  Jacksonville        10  Cleveland           14
+11/20/2011  Carolina            35  Detroit             49
+11/20/2011  Tampa Bay           26  Green Bay           35
+11/20/2011  Buffalo              8  Miami               35
+11/20/2011  Oakland             27  Minnesota           21
+11/20/2011  Dallas              27  Washington          24
