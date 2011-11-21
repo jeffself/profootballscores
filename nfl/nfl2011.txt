@@ -152,3 +152,7 @@
 11/20/2011  Buffalo              8  Miami               35
 11/20/2011  Oakland             27  Minnesota           21
 11/20/2011  Dallas              27  Washington          24
+11/20/2011  Arizona              7  San Francisco       23
+11/20/2011  Seattle             24  St. Louis            7
+11/20/2011  Tennessee           17  Atlanta             23
+11/20/2011  San Diego           20  Chicago             31
