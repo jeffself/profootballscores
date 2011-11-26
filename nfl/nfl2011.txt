@@ -158,3 +158,6 @@
 11/20/2011  San Diego           20  Chicago             31
 11/20/2011  Philadelphia        17  New York Giants     10
 11/21/2011  Kansas City          3  New England         34
+11/24/2011  Green Bay           27  Detroit             15
+11/24/2011  Miami               19  Dallas              20
+11/24/2011  San Francisco        6  Baltimore           16
