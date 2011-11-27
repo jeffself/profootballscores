@@ -161,3 +161,10 @@
 11/24/2011  Green Bay           27  Detroit             15
 11/24/2011  Miami               19  Dallas              20
 11/24/2011  San Francisco        6  Baltimore           16
+11/27/2011  Minnesota           14  Atlanta             24
+11/27/2011  Cleveland           20  Cincinnati          23
+11/27/2011  Carolina            27  Indianapolis        19
+11/27/2011  Houston             20  Jacksonville        13
+11/27/2011  Buffalo             24  New York Jets       28
+11/27/2011  Arizona             23  St. Louis           20
+11/27/2011  Tampa Bay           17  Tennessee           23
