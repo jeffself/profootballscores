@@ -168,3 +168,7 @@
 11/27/2011  Buffalo             24  New York Jets       28
 11/27/2011  Arizona             23  St. Louis           20
 11/27/2011  Tampa Bay           17  Tennessee           23
+11/27/2011  Chicago             20  Oakland             25
+11/27/2011  Washington          23  Seattle             17
+11/27/2011  New England         38  Philadelphia        20
+11/27/2011  Denver              16  San Diego           13
