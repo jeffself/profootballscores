@@ -173,3 +173,4 @@
 11/27/2011  New England         38  Philadelphia        20
 11/27/2011  Denver              16  San Diego           13
 11/27/2011  Pittsburgh          13  Kansas City          9
+11/28/2011  New York Giants     24  New Orleans         49
