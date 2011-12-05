@@ -174,3 +174,17 @@
 11/27/2011  Denver              16  San Diego           13
 11/27/2011  Pittsburgh          13  Kansas City          9
 11/28/2011  New York Giants     24  New Orleans         49
+12/01/2011  Philadelphia        14  Seattle             31
+12/04/2011  Tennessee           23  Buffalo             17
+12/04/2011  Kansas City         10  Chicago              3
+12/04/2011  Atlanta             10  Houston             17
+12/04/2011  Oakland             14  Miami               34
+12/04/2011  Denver              35  Minnesota           32
+12/04/2011  Indianapolis        24  New England         31
+12/04/2011  Cincinnati           7  Pittsburgh          35
+12/04/2011  Carolina            38  Tampa Bay           19
+12/04/2011  New York Jets       34  Washington          19
+12/04/2011  Baltimore           24  Cleveland           10
+12/04/2011  Dallas              13  Arizona             19
+12/04/2011  Green Bay           38  New York Giants     35
+12/04/2011  St. Louis            0  San Francisco       26
