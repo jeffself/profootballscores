@@ -189,3 +189,4 @@
 12/04/2011  Green Bay           38  New York Giants     35
 12/04/2011  St. Louis            0  San Francisco       26
 12/04/2011  Detroit             17  New Orleans         31
+12/05/2011  San Diego           38  Jacksonville        14
