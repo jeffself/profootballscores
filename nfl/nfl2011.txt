@@ -190,3 +190,17 @@
 12/04/2011  St. Louis            0  San Francisco       26
 12/04/2011  Detroit             17  New Orleans         31
 12/05/2011  San Diego           38  Jacksonville        14
+12/08/2011  Cleveland            3  Pittsburgh          14
+12/11/2011  Indianapolis        10  Baltimore           24
+12/11/2011  Atlanta             31  Carolina            23
+12/11/2011  Houston             20  Cincinnati          19
+12/11/2011  Minnesota           28  Detroit             34
+12/11/2011  Tampa Bay           14  Jacksonville        41
+12/11/2011  Philadelphia        26  Miami               10
+12/11/2011  Kansas City         10  New York Jets       37
+12/11/2011  New Orleans         22  Tennessee           17
+12/11/2011  New England         34  Washington          27
+12/11/2011  San Francisco       19  Arizona             21
+12/11/2011  Chicago             10  Denver              13
+12/11/2011  Oakland             16  Green Bay           46
+12/11/2011  Buffalo             10  San Diego           37
