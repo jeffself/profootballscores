@@ -207,3 +207,18 @@
 12/11/2011  New York Giants     37  Dallas              34
 12/12/2011  St. Louis           13  Seattle             30
 12/15/2011  Jacksonville        14  Atlanta             41
+12/17/2011  Dallas              31  Tampa Bay           15
+12/18/2011  Green Bay           14  Kansas City         19
+12/18/2011  Washington          23  New York Giants     10
+12/18/2011  New Orleans         42  Minnesota           20
+12/18/2011  Seattle             38  Chicago             14
+12/18/2011  Miami               30  Buffalo             23
+12/18/2011  Carolina            28  Houston             13
+12/18/2011  Tennessee           13  Indianapolis        27
+12/18/2011  Cincinnati          20  St. Louis           13
+12/18/2011  Detroit             28  Oakland             27
+12/18/2011  New England         41  Denver              23
+12/18/2011  New York Jets       19  Philadelphia        45
+12/18/2011  Cleveland           17  Arizona             20
+12/18/2011  Baltimore           14  San Diego           34
+12/19/2011  Pittsburgh           3  San Francisco       20
