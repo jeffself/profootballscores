@@ -236,3 +236,5 @@
 12/24/2011  San Diego           10  Detroit             38
 12/24/2011  Philadelphia        20  Dallas               7
 12/24/2011  San Francisco       19  Seattle             17
+12/25/2011  Chicago             21  Green Bay           35
+12/26/2011  Atlanta             16  New Orleans         45
