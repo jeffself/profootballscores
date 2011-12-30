@@ -1,0 +1,13 @@
+10/08/2009|California Redwoods|17|Las Vegas Locomotives|30
+10/10/2009|New York Sentinels|13|Florida Tuskers|35
+10/14/2009|Florida Tuskers|29|Las Vegas Locomotives|15
+10/17/2009|New York Sentinels|7|California Redwoods|24
+10/22/2009|California Redwoods|7|Florida Tuskers|34
+10/29/2009|California Redwoods|20|New York Sentinels|13
+10/30/2009|Las Vegas Locomotives|24|Florida Tuskers|27
+11/04/2009|Las Vegas Locomotives|41|New York Sentinels|10
+11/12/2009|Florida Tuskers|24|New York Sentinels|6
+11/14/2009|Las Vegas Locomotives|16|California Redwoods|10
+11/19/2009|Florida Tuskers|34|California Redwoods|27
+11/20/2009|New York Sentinels|7|Las Vegas Locomotives|41
+11/27/2009|Florida Tuskers|17|Las Vegas Locomotives|20|(Las Vegas, NV)
