@@ -1,0 +1,21 @@
+09/18/2010|Florida Tuskers|27|Las Vegas Locomotives|20
+09/18/2010|Sacramento Mountain Lions|10|Hartford Colonials|27
+09/24/2010|Hartford Colonials|26|Omaha Nighthawks|27
+09/25/2010|Florida Tuskers|20|Sacramento Mountain Lions|24
+09/30/2010|Las Vegas Locomotives|20|Florida Tuskers|17
+10/02/2010|Sacramento Mountain Lions|17|Omaha Nighthawks|20
+10/08/2010|Omaha Nighthawks|10|Las Vegas Locomotives|22
+10/09/2010|Florida Tuskers|33|Hartford Colonials|20
+10/15/2010|Las Vegas Locomotives|26|Sacramento Mountain Lions|3
+10/16/2010|Omaha Nighthawks|19|Hartford Colonials|14
+10/21/2010|Sacramento Mountain Lions|21|Florida Tuskers|17
+10/23/2010|Hartford Colonials|21|Las Vegas Locomotives|24
+10/28/2010|Las Vegas Locomotives|24|Omaha Nighthawks|10
+10/30/2010|Hartford Colonials|27|Sacramento Mountain Lions|26
+11/05/2010|Omaha Nighthawks|14|Florida Tuskers|31
+11/06/2010|Sacramento Mountain Lions|27|Las Vegas Locomotives|24
+11/11/2010|Hartford Colonials|7|Florida Tuskers|41
+11/13/2010|Omaha Nighthawks|3|Sacramento Mountain Lions|41
+11/19/2010|Florida Tuskers|27|Omaha Nighthawks|10
+11/20/2010|Las Vegas Locomotives|14|Hartford Colonials|27
+11/27/2010|Las Vegas Locomotives|23|Florida Tuskers|20|(Omaha, Nebraska)
