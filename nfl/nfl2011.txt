@@ -238,3 +238,9 @@
 12/24/2011  San Francisco       19  Seattle             17
 12/25/2011  Chicago             21  Green Bay           35
 12/26/2011  Atlanta             16  New Orleans         45
+01/01/2012  Tennessee           23  Houston             22
+01/01/2012  Indianapolis        13  Jacksonville        19
+01/01/2012  New York Jets       17  Miami               19
+01/01/2012  Chicago             17  Minnesota           13
+01/01/2012  Buffalo             21  New England         49
+01/01/2012  Carolina            17  New Orleans         45
