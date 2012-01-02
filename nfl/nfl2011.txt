@@ -244,3 +244,4 @@
 01/01/2012  Chicago             17  Minnesota           13
 01/01/2012  Buffalo             21  New England         49
 01/01/2012  Carolina            17  New Orleans         45
+01/01/2012  Washington          10  Philadelphia        34
