@@ -245,3 +245,12 @@
 01/01/2012  Buffalo             21  New England         49
 01/01/2012  Carolina            17  New Orleans         45
 01/01/2012  Washington          10  Philadelphia        34
+01/01/2012  Detroit             41  Green Bay           45
+01/01/2012  San Francisco       34  St. Louis           27
+01/01/2012  Seattle             20  Arizona             23
+01/01/2012  Tampa Bay           24  Atlanta             45
+01/01/2012  Baltimore           24  Cincinnati          16
+01/01/2012  Pittsburgh          13  Cleveland            9
+01/01/2012  Kansas City          7  Denver               3
+01/01/2012  San Diego           38  Oakland             26
+01/01/2012  Dallas              14  New York Giants     31
