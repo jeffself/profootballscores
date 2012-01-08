@@ -254,3 +254,5 @@
 01/01/2012  Kansas City          7  Denver               3
 01/01/2012  San Diego           38  Oakland             26
 01/01/2012  Dallas              14  New York Giants     31
+01/07/2012  Cincinnati          10  Houston             31
+01/07/2012  Detroit             28  New Orleans         45
