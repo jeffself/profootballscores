@@ -256,3 +256,5 @@
 01/01/2012  Dallas              14  New York Giants     31
 01/07/2012  Cincinnati          10  Houston             31
 01/07/2012  Detroit             28  New Orleans         45
+01/08/2012  Atlanta              2  New York Giants     24
+01/08/2012  Pittsburgh          23  Denver              29
