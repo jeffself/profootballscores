@@ -258,3 +258,5 @@
 01/07/2012  Detroit             28  New Orleans         45
 01/08/2012  Atlanta              2  New York Giants     24
 01/08/2012  Pittsburgh          23  Denver              29
+01/14/2012  New Orleans         32  San Francisco       36
+01/14/2012  Denver              10  New England         45
