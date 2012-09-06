@@ -1,56 +1,56 @@
-09/20/1946	Chicago Cardinals   	 7	Pittsburgh          	14
-09/29/1946	Chicago             	30	Green Bay           	 7
-09/29/1946	Philadelphia        	25	LA Rams             	14
-09/29/1946	Pittsburgh          	14	Washington          	14
-09/30/1946	Detroit             	14	Chicago Cardinals   	34
-10/01/1946	NY Giants           	17	Boston              	 0
-10/06/1946	Chicago             	34	Chicago Cardinals   	17
-10/06/1946	LA Rams             	21	Green Bay           	17
-10/06/1946	NY Giants           	17	Pittsburgh          	14
-10/06/1946	Boston              	25	Philadelphia        	49
-10/06/1946	Detroit             	16	Washington          	17
-10/13/1946	Chicago Cardinals   	36	Detroit             	14
-10/13/1946	Green Bay           	19	Philadelphia        	 7
-10/13/1946	LA Rams             	28	Chicago             	28
-10/13/1946	Boston              	 7	Pittsburgh          	16
-10/13/1946	NY Giants           	14	Washington          	24
-10/20/1946	Philadelphia        	14	Chicago             	21
-10/20/1946	Pittsburgh          	 7	Green Bay           	17
-10/20/1946	Detroit             	14	LA Rams             	35
-10/20/1946	Chicago Cardinals   	24	NY Giants           	28
-10/20/1946	Washington          	14	Boston              	 6
-10/27/1946	LA Rams             	10	Chicago Cardinals   	34
-10/27/1946	Detroit             	 7	Green Bay           	10
-10/27/1946	Chicago             	 0	NY Giants           	14
-10/27/1946	Philadelphia        	28	Washington          	24
-10/27/1946	Pittsburgh          	33	Boston              	 7
-11/03/1946	Green Bay           	 7	Chicago             	10
-11/03/1946	Chicago Cardinals   	28	Boston              	14
-11/03/1946	LA Rams             	41	Detroit             	20
-11/03/1946	NY Giants           	14	Philadelphia        	24
-11/03/1946	Washington          	 7	Pittsburgh          	14
-11/10/1946	Chicago             	27	LA Rams             	21
-11/10/1946	Pittsburgh          	 7	Detroit             	17
-11/10/1946	Green Bay           	19	Chicago Cardinals   	 7
-11/10/1946	Philadelphia        	17	NY Giants           	45
-11/10/1946	Boston              	14	Washington          	17
-11/17/1946	Boston              	28	NY Giants           	28
-11/17/1946	Washington          	20	Chicago             	24
-11/17/1946	Green Bay           	 9	Detroit             	 0
-11/17/1946	Chicago Cardinals   	14	LA Rams             	17
-11/17/1946	Philadelphia        	 7	Pittsburgh          	10
-11/24/1946	LA Rams             	21	Boston              	40
-11/24/1946	Detroit             	 6	Chicago             	42
-11/24/1946	Chicago Cardinals   	24	Green Bay           	 6
-11/24/1946	Pittsburgh          	 0	NY Giants           	 7
-11/24/1946	Washington          	27	Philadelphia        	10
-11/28/1946	Boston              	34	Detroit             	10
-12/01/1946	Chicago Cardinals   	35	Chicago             	28
-12/01/1946	Green Bay           	20	Washington          	 7
-12/01/1946	LA Rams             	31	NY Giants           	21
-12/01/1946	Pittsburgh          	 7	Philadelphia        	10
-12/08/1946	Chicago             	45	Detroit             	24
-12/08/1946	Green Bay           	17	LA Rams             	38
-12/08/1946	Washington          	 0	NY Giants           	31
-12/08/1946	Philadelphia        	40	Boston              	14
-12/15/1946	Chicago             	24	NY Giants           	14
+09/20/1946  Chicago Cardinals        7  Pittsburgh              14
+09/29/1946  Chicago                 30  Green Bay                7
+09/29/1946  Philadelphia            25  LA Rams                 14
+09/29/1946  Pittsburgh              14  Washington              14
+09/30/1946  Detroit                 14  Chicago Cardinals       34
+10/01/1946  NY Giants               17  Boston                   0
+10/06/1946  Chicago                 34  Chicago Cardinals       17
+10/06/1946  LA Rams                 21  Green Bay               17
+10/06/1946  NY Giants               17  Pittsburgh              14
+10/06/1946  Boston                  25  Philadelphia            49
+10/06/1946  Detroit                 16  Washington              17
+10/13/1946  Chicago Cardinals       36  Detroit                 14
+10/13/1946  Green Bay               19  Philadelphia             7
+10/13/1946  LA Rams                 28  Chicago                 28
+10/13/1946  Boston                   7  Pittsburgh              16
+10/13/1946  NY Giants               14  Washington              24
+10/20/1946  Philadelphia            14  Chicago                 21
+10/20/1946  Pittsburgh               7  Green Bay               17
+10/20/1946  Detroit                 14  LA Rams                 35
+10/20/1946  Chicago Cardinals       24  NY Giants               28
+10/20/1946  Washington              14  Boston                   6
+10/27/1946  LA Rams                 10  Chicago Cardinals       34
+10/27/1946  Detroit                  7  Green Bay               10
+10/27/1946  Chicago                  0  NY Giants               14
+10/27/1946  Philadelphia            28  Washington              24
+10/27/1946  Pittsburgh              33  Boston                   7
+11/03/1946  Green Bay                7  Chicago                 10
+11/03/1946  Chicago Cardinals       28  Boston                  14
+11/03/1946  LA Rams                 41  Detroit                 20
+11/03/1946  NY Giants               14  Philadelphia            24
+11/03/1946  Washington               7  Pittsburgh              14
+11/10/1946  Chicago                 27  LA Rams                 21
+11/10/1946  Pittsburgh               7  Detroit                 17
+11/10/1946  Green Bay               19  Chicago Cardinals        7
+11/10/1946  Philadelphia            17  NY Giants               45
+11/10/1946  Boston                  14  Washington              17
+11/17/1946  Boston                  28  NY Giants               28
+11/17/1946  Washington              20  Chicago                 24
+11/17/1946  Green Bay                9  Detroit                  0
+11/17/1946  Chicago Cardinals       14  LA Rams                 17
+11/17/1946  Philadelphia             7  Pittsburgh              10
+11/24/1946  LA Rams                 21  Boston                  40
+11/24/1946  Detroit                  6  Chicago                 42
+11/24/1946  Chicago Cardinals       24  Green Bay                6
+11/24/1946  Pittsburgh               0  NY Giants                7
+11/24/1946  Washington              27  Philadelphia            10
+11/28/1946  Boston                  34  Detroit                 10
+12/01/1946  Chicago Cardinals       35  Chicago                 28
+12/01/1946  Green Bay               20  Washington               7
+12/01/1946  LA Rams                 31  NY Giants               21
+12/01/1946  Pittsburgh               7  Philadelphia            10
+12/08/1946  Chicago                 45  Detroit                 24
+12/08/1946  Green Bay               17  LA Rams                 38
+12/08/1946  Washington               0  NY Giants               31
+12/08/1946  Philadelphia            40  Boston                  14
+12/15/1946  Chicago                 24  NY Giants               14

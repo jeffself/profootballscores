@@ -1,51 +1,51 @@
-09/17/1944	Brooklyn            	 7	Green Bay           	14
-09/24/1944	Cleveland           	30	Chi-Pitt            	28
-09/24/1944	Chicago             	28	Green Bay           	42
-09/26/1944	Philadelphia        	28	Boston              	 7
-10/01/1944	Detroit             	 6	Green Bay           	27
-10/08/1944	Chicago             	 7	Cleveland           	19
-10/08/1944	Brooklyn            	14	Detroit             	19
-10/08/1944	Chi-Pitt            	 7	Green Bay           	34
-10/08/1944	NY Giants           	22	Boston              	10
-10/08/1944	Washington          	31	Philadelphia        	31
-10/15/1944	Chi-Pitt            	 7	Chicago             	34
-10/15/1944	Cleveland           	20	Detroit             	17
-10/15/1944	NY Giants           	14	Brooklyn            	 7
-10/15/1944	Washington          	21	Boston              	14
-10/22/1944	Detroit             	21	Chicago             	21
-10/22/1944	Cleveland           	21	Green Bay           	30
-10/22/1944	Chi-Pitt            	 0	NY Giants           	23
-10/22/1944	Boston              	 0	Philadelphia        	38
-10/22/1944	Brooklyn            	14	Washington          	17
-10/29/1944	Boston              	17	Brooklyn            	14
-10/29/1944	Cleveland           	21	Chicago             	28
-10/29/1944	Green Bay           	14	Detroit             	 0
-10/29/1944	Philadelphia        	24	NY Giants           	17
-10/29/1944	Chi-Pitt            	20	Washington          	42
-11/05/1944	Green Bay           	 0	Chicago             	21
-11/05/1944	Detroit             	27	Chi-Pitt            	 6
-11/05/1944	Boston              	 0	NY Giants           	31
-11/05/1944	Philadelphia        	21	Brooklyn            	 7
-11/05/1944	Cleveland           	10	Washington          	14
-11/12/1944	Boston              	 7	Chicago             	21
-11/12/1944	Chi-Pitt            	 7	Detroit             	21
-11/12/1944	Green Bay           	42	Cleveland           	 7
-11/12/1944	NY Giants           	21	Philadelphia        	21
-11/12/1944	Washington          	10	Brooklyn            	 0
-11/19/1944	Brooklyn            	 6	Boston              	13
-11/19/1944	Cleveland           	33	Chi-Pitt            	 6
-11/19/1944	Chicago             	21	Detroit             	41
-11/19/1944	Green Bay           	 0	NY Giants           	24
-11/19/1944	Philadelphia        	37	Washington          	 7
-11/26/1944	Chicago             	28	Philadelphia        	 7
-11/26/1944	Detroit             	26	Cleveland           	14
-11/26/1944	Green Bay           	35	Chi-Pitt            	20
-11/26/1944	Brooklyn            	 0	NY Giants           	 7
-11/26/1944	Boston              	 7	Washington          	14
-12/03/1944	Chicago             	49	Chi-Pitt            	 7
-12/03/1944	Boston              	 7	Detroit             	38
-12/03/1944	Washington          	13	NY Giants           	16
-12/03/1944	Brooklyn            	 0	Philadelphia        	34
-12/10/1944	NY Giants           	31	Washington          	 0
-12/10/1944	Cleveland           	13	Philadelphia        	26
-12/17/1944	Green Bay           	14	NY Giants           	 7
+09/17/1944  Brooklyn                 7  Green Bay               14
+09/24/1944  Cleveland               30  Chi-Pitt                28
+09/24/1944  Chicago                 28  Green Bay               42
+09/26/1944  Philadelphia            28  Boston                   7
+10/01/1944  Detroit                  6  Green Bay               27
+10/08/1944  Chicago                  7  Cleveland               19
+10/08/1944  Brooklyn                14  Detroit                 19
+10/08/1944  Chi-Pitt                 7  Green Bay               34
+10/08/1944  NY Giants               22  Boston                  10
+10/08/1944  Washington              31  Philadelphia            31
+10/15/1944  Chi-Pitt                 7  Chicago                 34
+10/15/1944  Cleveland               20  Detroit                 17
+10/15/1944  NY Giants               14  Brooklyn                 7
+10/15/1944  Washington              21  Boston                  14
+10/22/1944  Detroit                 21  Chicago                 21
+10/22/1944  Cleveland               21  Green Bay               30
+10/22/1944  Chi-Pitt                 0  NY Giants               23
+10/22/1944  Boston                   0  Philadelphia            38
+10/22/1944  Brooklyn                14  Washington              17
+10/29/1944  Boston                  17  Brooklyn                14
+10/29/1944  Cleveland               21  Chicago                 28
+10/29/1944  Green Bay               14  Detroit                  0
+10/29/1944  Philadelphia            24  NY Giants               17
+10/29/1944  Chi-Pitt                20  Washington              42
+11/05/1944  Green Bay                0  Chicago                 21
+11/05/1944  Detroit                 27  Chi-Pitt                 6
+11/05/1944  Boston                   0  NY Giants               31
+11/05/1944  Philadelphia            21  Brooklyn                 7
+11/05/1944  Cleveland               10  Washington              14
+11/12/1944  Boston                   7  Chicago                 21
+11/12/1944  Chi-Pitt                 7  Detroit                 21
+11/12/1944  Green Bay               42  Cleveland                7
+11/12/1944  NY Giants               21  Philadelphia            21
+11/12/1944  Washington              10  Brooklyn                 0
+11/19/1944  Brooklyn                 6  Boston                  13
+11/19/1944  Cleveland               33  Chi-Pitt                 6
+11/19/1944  Chicago                 21  Detroit                 41
+11/19/1944  Green Bay                0  NY Giants               24
+11/19/1944  Philadelphia            37  Washington               7
+11/26/1944  Chicago                 28  Philadelphia             7
+11/26/1944  Detroit                 26  Cleveland               14
+11/26/1944  Green Bay               35  Chi-Pitt                20
+11/26/1944  Brooklyn                 0  NY Giants                7
+11/26/1944  Boston                   7  Washington              14
+12/03/1944  Chicago                 49  Chi-Pitt                 7
+12/03/1944  Boston                   7  Detroit                 38
+12/03/1944  Washington              13  NY Giants               16
+12/03/1944  Brooklyn                 0  Philadelphia            34
+12/10/1944  NY Giants               31  Washington               0
+12/10/1944  Cleveland               13  Philadelphia            26
+12/17/1944  Green Bay               14  NY Giants                7

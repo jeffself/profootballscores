@@ -1,5 +1,5 @@
 09/08/1940  Chicago Cardinals        7  Pittsburgh               7
-09/15/1940  Detroit                  0  Chicago Cardinals        0  neutral
+09/15/1940  Detroit                  0  Chicago Cardinals        0  N
 09/15/1940  Philadelphia            20  Green Bay               27
 09/15/1940  NY Giants               10  Pittsburgh              10
 09/15/1940  Brooklyn                17  Washington              24

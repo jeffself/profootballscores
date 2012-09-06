@@ -1,62 +1,62 @@
-09/21/1947	Detroit             	10	Pittsburgh          	17
-09/28/1947	Detroit             	21	Chicago Cardinals   	45
-09/28/1947	Chicago             	20	Green Bay           	29
-09/28/1947	Washington          	42	Philadelphia        	45
-09/29/1947	LA Rams             	48	Pittsburgh          	 7
-09/29/1947	NY Giants           	 7	Boston              	 7
-10/05/1947	Chicago             	 7	Chicago Cardinals   	31
-10/05/1947	Detroit             	21	Boston              	 7
-10/05/1947	LA Rams             	14	Green Bay           	17
-10/05/1947	Philadelphia        	23	NY Giants           	 0
-10/05/1947	Pittsburgh          	26	Washington          	27
-10/12/1947	Philadelphia        	 7	Chicago             	40
-10/12/1947	Chicago Cardinals   	14	Green Bay           	10
-10/12/1947	LA Rams             	27	Detroit             	13
-10/12/1947	Pittsburgh          	30	Boston              	14
-10/12/1947	NY Giants           	20	Washington          	28
-10/19/1947	Boston              	14	NY Giants           	 0
-10/19/1947	Detroit             	24	Chicago             	33
-10/19/1947	Washington          	10	Green Bay           	27
-10/19/1947	Chicago Cardinals   	 7	LA Rams             	27
-10/19/1947	Philadelphia        	24	Pittsburgh          	35
-10/26/1947	Chicago             	56	Washington          	20
-10/26/1947	Boston              	 7	Chicago Cardinals   	27
-10/26/1947	Detroit             	17	Green Bay           	34
-10/26/1947	LA Rams             	 7	Philadelphia        	14
-10/26/1947	Pittsburgh          	38	NY Giants           	21
-11/02/1947	Chicago             	28	Boston              	24
-11/02/1947	LA Rams             	10	Chicago Cardinals   	17
-11/02/1947	NY Giants           	 7	Detroit             	35
-11/02/1947	Philadelphia        	38	Washington          	14
-11/02/1947	Pittsburgh          	18	Green Bay           	17
-11/09/1947	Boston              	27	LA Rams             	16
-11/09/1947	Green Bay           	17	Chicago             	20
-11/09/1947	Chicago Cardinals   	17	Detroit             	 7
-11/09/1947	Philadelphia        	41	NY Giants           	24
-11/09/1947	Washington          	14	Pittsburgh          	21
-11/16/1947	Chicago             	41	LA Rams             	21
-11/16/1947	Green Bay           	20	Chicago Cardinals   	21
-11/16/1947	Washington          	21	Detroit             	38
-11/16/1947	Boston              	 0	Philadelphia        	32
-11/16/1947	NY Giants           	 7	Pittsburgh          	24
-11/23/1947	Philadelphia        	14	Boston              	21
-11/23/1947	Pittsburgh          	 7	Chicago             	49
-11/23/1947	Green Bay           	24	NY Giants           	24
-11/23/1947	Detroit             	17	LA Rams             	28
-11/23/1947	Chicago Cardinals   	21	Washington          	45
-11/27/1947	Chicago             	34	Detroit             	14
-11/30/1947	Washington          	24	Boston              	27
-11/30/1947	Green Bay           	30	LA Rams             	10
-11/30/1947	Chicago Cardinals   	31	NY Giants           	35
-11/30/1947	Pittsburgh          	 0	Philadelphia        	21
-12/07/1947	Chicago Cardinals   	45	Philadelphia        	21
-12/07/1947	Green Bay           	35	Detroit             	14
-12/07/1947	LA Rams             	17	Chicago             	14
-12/07/1947	Washington          	10	NY Giants           	35
-12/07/1947	Boston              	 7	Pittsburgh          	17
-12/14/1947	Chicago Cardinals   	30	Chicago             	21
-12/14/1947	NY Giants           	10	LA Rams             	34
-12/14/1947	Green Bay           	14	Philadelphia        	28
-12/14/1947	Boston              	13	Washington          	40
-12/21/1947	Philadelphia        	21	Pittsburgh          	 0
-12/28/1947	Philadelphia        	21	Chicago Cardinals   	28
+09/21/1947  Detroit                 10  Pittsburgh              17
+09/28/1947  Detroit                 21  Chicago Cardinals       45
+09/28/1947  Chicago                 20  Green Bay               29
+09/28/1947  Washington              42  Philadelphia            45
+09/29/1947  LA Rams                 48  Pittsburgh               7
+09/29/1947  NY Giants                7  Boston                   7
+10/05/1947  Chicago                  7  Chicago Cardinals       31
+10/05/1947  Detroit                 21  Boston                   7
+10/05/1947  LA Rams                 14  Green Bay               17
+10/05/1947  Philadelphia            23  NY Giants                0
+10/05/1947  Pittsburgh              26  Washington              27
+10/12/1947  Philadelphia             7  Chicago                 40
+10/12/1947  Chicago Cardinals       14  Green Bay               10
+10/12/1947  LA Rams                 27  Detroit                 13
+10/12/1947  Pittsburgh              30  Boston                  14
+10/12/1947  NY Giants               20  Washington              28
+10/19/1947  Boston                  14  NY Giants                0
+10/19/1947  Detroit                 24  Chicago                 33
+10/19/1947  Washington              10  Green Bay               27
+10/19/1947  Chicago Cardinals        7  LA Rams                 27
+10/19/1947  Philadelphia            24  Pittsburgh              35
+10/26/1947  Chicago                 56  Washington              20
+10/26/1947  Boston                   7  Chicago Cardinals       27
+10/26/1947  Detroit                 17  Green Bay               34
+10/26/1947  LA Rams                  7  Philadelphia            14
+10/26/1947  Pittsburgh              38  NY Giants               21
+11/02/1947  Chicago                 28  Boston                  24
+11/02/1947  LA Rams                 10  Chicago Cardinals       17
+11/02/1947  NY Giants                7  Detroit                 35
+11/02/1947  Philadelphia            38  Washington              14
+11/02/1947  Pittsburgh              18  Green Bay               17
+11/09/1947  Boston                  27  LA Rams                 16
+11/09/1947  Green Bay               17  Chicago                 20
+11/09/1947  Chicago Cardinals       17  Detroit                  7
+11/09/1947  Philadelphia            41  NY Giants               24
+11/09/1947  Washington              14  Pittsburgh              21
+11/16/1947  Chicago                 41  LA Rams                 21
+11/16/1947  Green Bay               20  Chicago Cardinals       21
+11/16/1947  Washington              21  Detroit                 38
+11/16/1947  Boston                   0  Philadelphia            32
+11/16/1947  NY Giants                7  Pittsburgh              24
+11/23/1947  Philadelphia            14  Boston                  21
+11/23/1947  Pittsburgh               7  Chicago                 49
+11/23/1947  Green Bay               24  NY Giants               24
+11/23/1947  Detroit                 17  LA Rams                 28
+11/23/1947  Chicago Cardinals       21  Washington              45
+11/27/1947  Chicago                 34  Detroit                 14
+11/30/1947  Washington              24  Boston                  27
+11/30/1947  Green Bay               30  LA Rams                 10
+11/30/1947  Chicago Cardinals       31  NY Giants               35
+11/30/1947  Pittsburgh               0  Philadelphia            21
+12/07/1947  Chicago Cardinals       45  Philadelphia            21
+12/07/1947  Green Bay               35  Detroit                 14
+12/07/1947  LA Rams                 17  Chicago                 14
+12/07/1947  Washington              10  NY Giants               35
+12/07/1947  Boston                   7  Pittsburgh              17
+12/14/1947  Chicago Cardinals       30  Chicago                 21
+12/14/1947  NY Giants               10  LA Rams                 34
+12/14/1947  Green Bay               14  Philadelphia            28
+12/14/1947  Boston                  13  Washington              40
+12/21/1947  Philadelphia            21  Pittsburgh               0
+12/28/1947  Philadelphia            21  Chicago Cardinals       28
