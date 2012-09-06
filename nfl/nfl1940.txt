@@ -1,56 +1,56 @@
-09/08/1940	Chicago Cardinals   	 7	Pittsburgh          	 7
-09/15/1940	Detroit             	 0	Chicago Cardinals   	 0	neutral
-09/15/1940	Philadelphia        	20	Green Bay           	27
-09/15/1940	NY Giants           	10	Pittsburgh          	10
-09/15/1940	Brooklyn            	17	Washington          	24
-09/22/1940	Chicago             	41	Green Bay           	10
-09/22/1940	Philadelphia        	13	Cleveland           	21
-09/22/1940	Pittsburgh          	10	Detroit             	 7
-09/22/1940	NY Giants           	 7	Washington          	21
-09/25/1940	Chicago             	 7	Chicago Cardinals   	21
-09/28/1940	NY Giants           	20	Philadelphia        	14
-09/29/1940	Brooklyn            	10	Pittsburgh          	 3
-09/29/1940	Cleveland           	 0	Detroit             	 6
-09/29/1940	Chicago Cardinals   	 6	Green Bay           	31
-10/04/1940	Philadelphia        	17	Brooklyn            	30
-10/05/1940	Chicago Cardinals   	14	Detroit             	43
-10/06/1940	Chicago             	21	Cleveland           	14
-10/06/1940	Washington          	40	Pittsburgh          	10
-10/13/1940	Pittsburgh          	 0	Brooklyn            	21
-10/13/1940	Detroit             	 0	Chicago             	 7
-10/13/1940	Cleveland           	14	Green Bay           	31
-10/13/1940	Philadelphia        	 7	NY Giants           	17
-10/13/1940	Chicago Cardinals   	21	Washington          	28
-10/20/1940	Brooklyn            	 7	Chicago             	16
-10/20/1940	Chicago Cardinals   	14	Cleveland           	26
-10/20/1940	Detroit             	23	Green Bay           	14
-10/20/1940	Pittsburgh          	 0	NY Giants           	12
-10/20/1940	Washington          	34	Philadelphia        	17
-10/26/1940	Brooklyn            	21	Philadelphia        	 7
-10/27/1940	Chicago             	37	NY Giants           	21
-10/27/1940	Cleveland           	 7	Chicago Cardinals   	17
-10/27/1940	Pittsburgh          	 3	Green Bay           	24
-10/27/1940	Washington          	20	Detroit             	14
-11/03/1940	Green Bay           	 7	Chicago             	14
-11/03/1940	Detroit             	 0	Cleveland           	24
-11/03/1940	NY Giants           	10	Brooklyn            	 7
-11/03/1940	Pittsburgh          	10	Washington          	37
-11/10/1940	Washington          	14	Brooklyn            	16
-11/10/1940	Cleveland           	13	NY Giants           	 0
-11/10/1940	Chicago             	14	Detroit             	17
-11/10/1940	Green Bay           	28	Chicago Cardinals   	 7
-11/10/1940	Philadelphia        	 3	Pittsburgh          	 7
-11/17/1940	Cleveland           	14	Brooklyn            	29
-11/17/1940	Detroit             	21	Philadelphia        	 0
-11/17/1940	Green Bay           	 3	NY Giants           	 7
-11/17/1940	Chicago             	 3	Washington          	 7
-11/24/1940	Chicago Cardinals   	 9	Brooklyn            	14
-11/24/1940	Cleveland           	25	Chicago             	47
-11/24/1940	Green Bay           	50	Detroit             	 7
-11/24/1940	Washington          	 7	NY Giants           	21
-11/28/1940	Pittsburgh          	 0	Philadelphia        	 7
-12/01/1940	Brooklyn            	14	NY Giants           	 6
-12/01/1940	Chicago Cardinals   	23	Chicago             	31
-12/01/1940	Green Bay           	13	Cleveland           	13
-12/01/1940	Philadelphia        	 6	Washington          	13
-12/08/1940	Chicago             	73	Washington          	 0
+09/08/1940  Chicago Cardinals        7  Pittsburgh               7
+09/15/1940  Detroit                  0  Chicago Cardinals        0  neutral
+09/15/1940  Philadelphia            20  Green Bay               27
+09/15/1940  NY Giants               10  Pittsburgh              10
+09/15/1940  Brooklyn                17  Washington              24
+09/22/1940  Chicago                 41  Green Bay               10
+09/22/1940  Philadelphia            13  Cleveland               21
+09/22/1940  Pittsburgh              10  Detroit                  7
+09/22/1940  NY Giants                7  Washington              21
+09/25/1940  Chicago                  7  Chicago Cardinals       21
+09/28/1940  NY Giants               20  Philadelphia            14
+09/29/1940  Brooklyn                10  Pittsburgh               3
+09/29/1940  Cleveland                0  Detroit                  6
+09/29/1940  Chicago Cardinals        6  Green Bay               31
+10/04/1940  Philadelphia            17  Brooklyn                30
+10/05/1940  Chicago Cardinals       14  Detroit                 43
+10/06/1940  Chicago                 21  Cleveland               14
+10/06/1940  Washington              40  Pittsburgh              10
+10/13/1940  Pittsburgh               0  Brooklyn                21
+10/13/1940  Detroit                  0  Chicago                  7
+10/13/1940  Cleveland               14  Green Bay               31
+10/13/1940  Philadelphia             7  NY Giants               17
+10/13/1940  Chicago Cardinals       21  Washington              28
+10/20/1940  Brooklyn                 7  Chicago                 16
+10/20/1940  Chicago Cardinals       14  Cleveland               26
+10/20/1940  Detroit                 23  Green Bay               14
+10/20/1940  Pittsburgh               0  NY Giants               12
+10/20/1940  Washington              34  Philadelphia            17
+10/26/1940  Brooklyn                21  Philadelphia             7
+10/27/1940  Chicago                 37  NY Giants               21
+10/27/1940  Cleveland                7  Chicago Cardinals       17
+10/27/1940  Pittsburgh               3  Green Bay               24
+10/27/1940  Washington              20  Detroit                 14
+11/03/1940  Green Bay                7  Chicago                 14
+11/03/1940  Detroit                  0  Cleveland               24
+11/03/1940  NY Giants               10  Brooklyn                 7
+11/03/1940  Pittsburgh              10  Washington              37
+11/10/1940  Washington              14  Brooklyn                16
+11/10/1940  Cleveland               13  NY Giants                0
+11/10/1940  Chicago                 14  Detroit                 17
+11/10/1940  Green Bay               28  Chicago Cardinals        7
+11/10/1940  Philadelphia             3  Pittsburgh               7
+11/17/1940  Cleveland               14  Brooklyn                29
+11/17/1940  Detroit                 21  Philadelphia             0
+11/17/1940  Green Bay                3  NY Giants                7
+11/17/1940  Chicago                  3  Washington               7
+11/24/1940  Chicago Cardinals        9  Brooklyn                14
+11/24/1940  Cleveland               25  Chicago                 47
+11/24/1940  Green Bay               50  Detroit                  7
+11/24/1940  Washington               7  NY Giants               21
+11/28/1940  Pittsburgh               0  Philadelphia             7
+12/01/1940  Brooklyn                14  NY Giants                6
+12/01/1940  Chicago Cardinals       23  Chicago                 31
+12/01/1940  Green Bay               13  Cleveland               13
+12/01/1940  Philadelphia             6  Washington              13
+12/08/1940  Chicago                 73  Washington               0
