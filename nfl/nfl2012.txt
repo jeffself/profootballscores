@@ -14,3 +14,4 @@
 09/09/2012  Pittsburgh          19  Denver              31
 09/10/2012  Cincinnati          13  Baltimore           44
 09/10/2012  San Diego           22  Oakland             14
+09/13/2012  Chicago             10  Green Bay           23
