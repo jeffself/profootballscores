@@ -30,3 +30,18 @@
 09/16/2012  Tennessee           10  San Diego           38
 09/16/2012  Detroit             19  San Francisco       27
 09/17/2012  Denver              21  Atlanta             27
+09/20/2012  New York Giants     36  Carolina             7
+09/23/2012  St. Louis            6  Chicago             23
+09/23/2012  Buffalo             24  Cleveland           14
+09/23/2012  Tampa Bay           10  Dallas              16
+09/23/2012  Jacksonville        22  Indianapolis        17
+09/23/2012  New York Jets       23  Miami               20
+09/23/2012  San Francisco       13  Minnesota           24
+09/23/2012  Kansas City         27  New Orleans         24
+09/23/2012  Detroit             41  Tennessee           44
+09/23/2012  Cincinnati          38  Washington          31
+09/23/2012  Philadelphia         6  Arizona             27
+09/23/2012  Atlanta             27  San Diego            3
+09/23/2012  Houston             31  Denver              25
+09/23/2012  Pittsburgh          31  Oakland             34
+09/23/2012  New England         30  Baltimore           31
