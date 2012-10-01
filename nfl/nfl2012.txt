@@ -59,3 +59,4 @@
 09/30/2012  Cincinnati          27  Jacksonville        10
 09/30/2012  New Orleans         27  Green Bay           28
 09/30/2012  Washington          24  Tampa Bay           22
+09/30/2012  New York Giants     17  Philadelphia        19
