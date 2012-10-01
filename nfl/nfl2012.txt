@@ -47,3 +47,15 @@
 09/23/2012  New England         30  Baltimore           31
 09/24/2012  Green Bay           12  Seattle             14
 09/27/2012  Cleveland           16  Baltimore           23
+09/30/2012  Carolina            28  Atlanta             30
+09/30/2012  New England         52  Buffalo             28
+09/30/2012  Minnesota           20  Detroit             13
+09/30/2012  Tennessee           14  Houston             38
+09/30/2012  San Diego           37  Kansas City         20
+09/30/2012  San Francisco       34  New York Jets        0
+09/30/2012  Seattle             13  St. Louis           19
+09/30/2012  Miami               21  Arizona             24
+09/30/2012  Oakland              6  Denver              37
+09/30/2012  Cincinnati          27  Jacksonville        10
+09/30/2012  New Orleans         27  Green Bay           28
+09/30/2012  Washington          24  Tampa Bay           22
