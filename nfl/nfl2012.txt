@@ -62,3 +62,15 @@
 09/30/2012  New York Giants     17  Philadelphia        19
 10/01/2012  Chicago             34  Dallas              18
 10/04/2012  Arizona              3  St. Louis           17
+10/07/2012  Miami               17  Cincinnati          13
+10/07/2012  Green Bay           27  Indianapolis        30
+10/07/2012  Baltimore            9  Kansas City          6
+10/07/2012  Cleveland           27  New York Giants     41
+10/07/2012  Philadelphia        14  Pittsburgh          16
+10/07/2012  Atlanta             24  Washington          17
+10/07/2012  Seattle             16  Carolina            12
+10/07/2012  Chicago             41  Jacksonville         3
+10/07/2012  Tennessee            7  Minnesota           30
+10/07/2012  Denver              21  New England         31
+10/07/2012  Buffalo              3  San Francisco       45
+10/07/2012  San Diego           24  New Orleans         31
