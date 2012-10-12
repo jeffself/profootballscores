@@ -75,3 +75,4 @@
 10/07/2012  Buffalo              3  San Francisco       45
 10/07/2012  San Diego           24  New Orleans         31
 10/08/2012  Houston             23  New York Jets       17
+10/11/2012  Pittsburgh          23  Tennessee           26
