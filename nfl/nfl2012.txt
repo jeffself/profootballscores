@@ -83,3 +83,8 @@
 10/14/2012  Indianapolis         9  New York Jets       35
 10/14/2012  Detroit             26  Philadelphia        23
 10/14/2012  Kansas City         10  Tampa Bay           38
+10/14/2012  Buffalo             19  Arizona             16
+10/14/2012  New England         23  Seattle             24
+10/14/2012  New York Giants     26  San Francisco        3
+10/14/2012  Minnesota           26  Washington          38
+10/14/2012  Green Bay           42  Houston             24
