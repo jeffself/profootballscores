@@ -89,3 +89,4 @@
 10/14/2012  Minnesota           26  Washington          38
 10/14/2012  Green Bay           42  Houston             24
 10/15/2012  Denver              35  San Diego           24
+10/18/2012  Seattle              6  San Francisco       13
