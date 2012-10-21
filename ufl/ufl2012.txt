@@ -4,8 +4,8 @@
 10/05/2012|Sacramento Mountain Lions|29|Virginia Destroyers|37
 10/10/2012|Las Vegas Locomotives|20|Sacramento Mountain Lions|9
 10/12/2012|Virginia Destroyers|10|Omaha Nighthawks|38
-10/17/2012|Las Vegas Locomotives||Omaha Nighthawks|
-10/19/2012|Sacramento Mountain Lions||Virginia Destroyers|
+10/17/2012|Las Vegas Locomotives|38|Omaha Nighthawks|23
+10/19/2012|Sacramento Mountain Lions|20|Virginia Destroyers|17
 10/23/2012|Sacramento Mountain Lions||Omaha Nighthawks|
 10/25/2012|Las Vegas Locomotives||Virginia Destroyers|
 10/31/2012|Omaha Nighthawks||Las Vegas Locomotives|
