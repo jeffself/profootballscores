@@ -101,4 +101,4 @@
 10/21/2012  New York Jets       26  New England         29
 10/21/2012  Jacksonville        23  Oakland             26
 10/21/2012  Pittsburgh          24  Cincinnati          17
-10/22/2012  Detroit              0  Chicago             13
+10/22/2012  Detroit              7  Chicago             13
