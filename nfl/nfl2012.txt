@@ -103,3 +103,5 @@
 10/21/2012  Pittsburgh          24  Cincinnati          17
 10/22/2012  Detroit              7  Chicago             13
 10/25/2012  Tampa Bay           36  Minnesota           17
+10/25/2012  New Orleans         14  Denver              34
+10/26/2012  San Francisco       24  Arizona              3
