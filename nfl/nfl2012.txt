@@ -103,5 +103,16 @@
 10/21/2012  Pittsburgh          24  Cincinnati          17
 10/22/2012  Detroit              7  Chicago             13
 10/25/2012  Tampa Bay           36  Minnesota           17
-10/25/2012  New Orleans         14  Denver              34
-10/26/2012  San Francisco       24  Arizona              3
+10/28/2012  Carolina            22  Chicago             23
+10/28/2012  San Diego            6  Cleveland            7
+10/28/2012  Seattle             24  Detroit             28
+10/28/2012  Jacksonville        15  Green Bay           24
+10/28/2012  Miami               30  New York Jets        9
+10/28/2012  Atlanta             30  Philadelphia        17
+10/28/2012  Washington          12  Pittsburgh          27
+10/28/2012  New England         45  St. Louis            7 N
+10/28/2012  Indianapolis        19  Tennessee           13
+10/28/2012  Oakland             26  Kansas City         16
+10/28/2012  New York Giants     29  Dallas              24
+10/28/2012  New Orleans         14  Denver              34
+10/29/2012  San Francisco       24  Arizona              3
