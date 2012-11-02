@@ -116,3 +116,4 @@
 10/28/2012  New York Giants     29  Dallas              24
 10/28/2012  New Orleans         14  Denver              34
 10/29/2012  San Francisco       24  Arizona              3
+11/01/2012  Kansas City         13  San Diego           31
