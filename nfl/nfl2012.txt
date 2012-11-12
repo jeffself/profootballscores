@@ -131,3 +131,15 @@
 11/04/2012  Dallas              13  Atlanta             19
 11/05/2012  Philadelphia        13  New Orleans         28
 11/08/2012  Indianapolis        27  Jacksonville        10
+11/11/2012  Oakland             20  Baltimore           55
+11/11/2012  Denver              36  Carolina            14
+11/11/2012  New York Giants     13  Cincinnati          31
+11/11/2012  Tennessee           37  Miami                3
+11/11/2012  Detroit             24  Minnesota           34
+11/11/2012  Buffalo             31  New England         37
+11/11/2012  Atlanta             27  New Orleans         31
+11/11/2012  San Diego           24  Tampa Bay           34
+11/11/2012  New York Jets        7  Seattle             28
+11/11/2012  Dallas              38  Philadelphia        23
+11/11/2012  St. Louis           24  San Francisco       24
+11/11/2012  Houston             13  Chicago              6
