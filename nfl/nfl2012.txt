@@ -145,3 +145,15 @@
 11/11/2012  Houston             13  Chicago              6
 11/12/2012  Kansas City         13  Pittsburgh          16
 11/15/2012  Miami               14  Buffalo             19
+11/18/2012  Arizona             19  Atlanta             23
+11/18/2012  Tampa Bay           27  Carolina            21
+11/18/2012  Cleveland           20  Dallas              23
+11/18/2012  Green Bay           24  Detroit             20
+11/18/2012  Jacksonville        37  Houston             44
+11/18/2012  Cincinnati          28  Kansas City          6
+11/18/2012  New York Jets       27  St. Louis           13
+11/18/2012  Philadelphia         6  Washington          31
+11/18/2012  New Orleans         38  Oakland             17
+11/18/2012  San Diego           23  Denver              30
+11/18/2012  Indianapolis        24  New England         59
+11/18/2012  Baltimore           13  Pittsburgh          10
