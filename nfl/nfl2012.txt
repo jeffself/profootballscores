@@ -158,3 +158,5 @@
 11/18/2012  Indianapolis        24  New England         59
 11/18/2012  Baltimore           13  Pittsburgh          10
 11/19/2012  Chicago              7  San Francisco       32
+11/22/2012  Houston             34  Detroit             31
+11/22/2012  Washington          38  Dallas              31
