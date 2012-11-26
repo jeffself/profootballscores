@@ -161,3 +161,15 @@
 11/22/2012  Houston             34  Detroit             31
 11/22/2012  Washington          38  Dallas              31
 11/22/2012  New England         49  New York Jets       19
+11/25/2012  Minnesota           10  Chicago             28
+11/25/2012  Oakland             10  Cincinnati          34
+11/25/2012  Pittsburgh          14  Cleveland           20
+11/25/2012  Buffalo             13  Indianapolis        20
+11/25/2012  Tennessee           19  Jacksonville        24
+11/25/2012  Denver              17  Kansas City          9
+11/25/2012  Seattle             21  Miami               24
+11/25/2012  Atlanta             24  Tampa Bay           23
+11/25/2012  Baltimore           16  San Diego           13
+11/25/2012  St. Louis           31  Arizona             17
+11/25/2012  San Francisco       31  New Orleans         21
+11/25/2012  Green Bay           10  New York Giants     38
