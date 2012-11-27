@@ -173,3 +173,4 @@
 11/25/2012  St. Louis           31  Arizona             17
 11/25/2012  San Francisco       31  New Orleans         21
 11/25/2012  Green Bay           10  New York Giants     38
+11/26/2012  Carolina            30  Philadelphia        22
