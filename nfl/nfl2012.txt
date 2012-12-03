@@ -184,3 +184,8 @@
 12/02/2012  Arizona              6  New York Jets        7
 12/02/2012  San Francisco       13  St. Louis           16
 12/02/2012  Houston             24  Tennessee           10
+12/02/2012  Tampa Bay           23  Denver              31
+12/02/2012  Pittsburgh          23  Baltimore           20
+12/02/2012  Cleveland           20  Oakland             17
+12/02/2012  Cincinnati          20  San Diego           13
+12/02/2012  Philadelphia        33  Dallas              38
