@@ -189,3 +189,4 @@
 12/02/2012  Cleveland           20  Oakland             17
 12/02/2012  Cincinnati          20  San Diego           13
 12/02/2012  Philadelphia        33  Dallas              38
+12/03/2012  New York Giants     16  Washington          17
