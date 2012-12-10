@@ -190,3 +190,18 @@
 12/02/2012  Cincinnati          20  San Diego           13
 12/02/2012  Philadelphia        33  Dallas              38
 12/03/2012  New York Giants     16  Washington          17
+12/06/2012  Denver              26  Oakland             13
+12/09/2012  St. Louis           15  Buffalo             12
+12/09/2012  Atlanta             20  Carolina            30
+12/09/2012  Dallas              20  Cincinnati          19
+12/09/2012  Kansas City          7  Cleveland           30
+12/09/2012  Tennessee           23  Indianapolis        27
+12/09/2012  New York Jets       17  Jacksonville        10
+12/09/2012  Chicago             14  Minnesota           21
+12/09/2012  San Diego           34  Pittsburgh          24
+12/09/2012  Philadelphia        23  Tampa Bay           21
+12/09/2012  Baltimore           28  Washington          31
+12/09/2012  Miami               13  San Francisco       27
+12/09/2012  New Orleans         27  New York Giants     52
+12/09/2012  Arizona              0  Seattle             58
+12/09/2012  Detroit             20  Green Bay           27
