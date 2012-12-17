@@ -206,3 +206,18 @@
 12/09/2012  Arizona              0  Seattle             58
 12/09/2012  Detroit             20  Green Bay           27
 12/10/2012  Houston             14  New England         42
+12/13/2012  Cincinnati          34  Philadelphia        13
+12/16/2012  New York Giants      0  Atlanta             34
+12/16/2012  Denver              34  Baltimore           17
+12/16/2012  Green Bay           21  Chicago             13
+12/16/2012  Washington          38  Cleveland           21
+12/16/2012  Indianapolis        17  Houston             29
+12/16/2012  Jacksonville         3  Miami               24
+12/16/2012  Tampa Bay            0  New Orleans         41
+12/16/2012  Minnesota           36  St. Louis           22
+12/16/2012  Detroit             10  Arizona             38
+12/16/2012  Seattle             50  Buffalo             17
+12/16/2012  Carolina            31  San Diego            7
+12/16/2012  Pittsburgh          24  Dallas              27
+12/16/2012  Kansas City          0  Oakland             15
+12/16/2012  San Francisco       41  New England         34
