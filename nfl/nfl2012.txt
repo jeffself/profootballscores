@@ -222,3 +222,4 @@
 12/16/2012  Kansas City          0  Oakland             15
 12/16/2012  San Francisco       41  New England         34
 12/17/2012  New York Jets       10  Tennessee           14
+12/22/2012  Atlanta             31  Detroit             18
