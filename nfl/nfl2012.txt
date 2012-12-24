@@ -223,3 +223,18 @@
 12/16/2012  San Francisco       41  New England         34
 12/17/2012  New York Jets       10  Tennessee           14
 12/22/2012  Atlanta             31  Detroit             18
+12/23/2012  Oakland              6  Carolina            17
+12/23/2012  New Orleans         34  Dallas              31
+12/23/2012  Tennessee            7  Green Bay           55
+12/23/2012  Minnesota           23  Houston              6
+12/23/2012  New England         23  Jacksonville        16
+12/23/2012  Indianapolis        20  Kansas City         13
+12/23/2012  Buffalo             10  Miami               24
+12/23/2012  San Diego           27  New York Jets       17
+12/23/2012  Washington          27  Philadelphia        20
+12/23/2012  Cincinnati          13  Pittsburgh          10
+12/23/2012  St. Louis           28  Tampa Bay           13
+12/23/2012  Cleveland           12  Denver              34
+12/23/2012  Chicago             28  Arizona             13
+12/23/2012  New York Giants     14  Baltimore           33
+12/23/2012  San Francisco       13  Seattle             42
