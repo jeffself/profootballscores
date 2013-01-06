@@ -254,3 +254,5 @@
 12/30/2012  Arizona             13  San Francisco       27
 12/30/2012  Kansas City          3  Denver              38
 12/30/2012  Dallas              18  Washington          28
+01/05/2013  Cincinnati          13  Houston             19
+01/05/2013  Minnesota           10  Green Bay           24
