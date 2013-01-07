@@ -256,3 +256,5 @@
 12/30/2012  Dallas              18  Washington          28
 01/05/2013  Cincinnati          13  Houston             19
 01/05/2013  Minnesota           10  Green Bay           24
+01/06/2013  Indianapolis         9  Baltimore           24
+01/06/2013  Seattle             24  Washington          14
