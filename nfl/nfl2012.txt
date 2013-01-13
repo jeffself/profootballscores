@@ -258,3 +258,5 @@
 01/05/2013  Minnesota           10  Green Bay           24
 01/06/2013  Indianapolis         9  Baltimore           24
 01/06/2013  Seattle             24  Washington          14
+01/12/2013  Baltimore           38  Denver              35
+01/12/2013  Green Bay           31  San Francisco       45
