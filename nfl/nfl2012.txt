@@ -262,3 +262,5 @@
 01/12/2013  Green Bay           31  San Francisco       45
 01/13/2013  Seattle             28  Atlanta             30
 01/13/2013  Houston             28  New England         41
+01/20/2013  San Francisco       28  Atlanta             24
+01/20/2013  Baltimore           28  New England         13
