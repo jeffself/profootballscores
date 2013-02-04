@@ -264,3 +264,4 @@
 01/13/2013  Houston             28  New England         41
 01/20/2013  San Francisco       28  Atlanta             24
 01/20/2013  Baltimore           28  New England         13
+02/03/2013  Baltimore           34  San Francisco       31 N
