@@ -1,1 +1,14 @@
 09/05/2013|Baltimore|27|Denver|49
+09/08/2013|New England|23|Buffalo|21
+09/08/2013|Seattle|12|Carolina|7
+09/08/2013|Cincinnati|21|Chicago|24
+09/08/2013|Miami|23|Cleveland|10
+09/08/2013|Minnesota|24|Detroit|34
+09/08/2013|Oakland|17|Indianapolis|21
+09/08/2013|Kansas City|28|Jacksonville|2
+09/08/2013|Atlanta|17|New Orleans|23
+09/08/2013|Tampa Bay|17|New York Jets|18
+09/08/2013|Tennessee|16|Pittsburgh|9
+09/08/2013|Green Bay|28|San Francisco|34
+09/08/2013|Arizona|24|St. Louis|27
+09/08/2013|New York Giants|31|Dallas|36
