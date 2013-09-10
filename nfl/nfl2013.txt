@@ -12,3 +12,5 @@
 09/08/2013|Green Bay|28|San Francisco|34
 09/08/2013|Arizona|24|St. Louis|27
 09/08/2013|New York Giants|31|Dallas|36
+09/09/2013|Philadelphia|33|Washington|27
+09/09/2013|Houston|31|San Diego|28
