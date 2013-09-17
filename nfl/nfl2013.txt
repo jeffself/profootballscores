@@ -29,3 +29,4 @@
 09/15/2013|Denver|41|New York Giants|23
 09/15/2013|Jacksonville|9|Oakland|19
 09/15/2013|San Francisco|3|Seattle|29
+09/16/2013|Pittsburgh|10|Cincinnati|20
