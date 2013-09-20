@@ -30,3 +30,4 @@
 09/15/2013|Jacksonville|9|Oakland|19
 09/15/2013|San Francisco|3|Seattle|29
 09/16/2013|Pittsburgh|10|Cincinnati|20
+09/19/2013|Kansas City|26|Philadelphia|16
