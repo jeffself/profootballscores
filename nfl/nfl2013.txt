@@ -31,3 +31,17 @@
 09/15/2013|San Francisco|3|Seattle|29
 09/16/2013|Pittsburgh|10|Cincinnati|20
 09/19/2013|Kansas City|26|Philadelphia|16
+09/22/2013|St. Louis|7|Dallas|31
+09/22/2013|Buffalo|20|New York Jets|27
+09/22/2013|Indianapolis|27|San Francisco|7
+09/22/2013|Jacksonville|17|Seattle|45
+09/22/2013|Atlanta|23|Miami|27
+09/22/2013|Houston|9|Baltimore|30
+09/22/2013|New York Giants|0|Carolina|38
+09/22/2013|Green Bay|30|Cincinnati|34
+09/22/2013|Cleveland|31|Minnesota|27
+09/22/2013|Tampa Bay|3|New England|23
+09/22/2013|Arizona|7|New Orleans|31
+09/22/2013|San Diego|17|Tennessee|20
+09/22/2013|Detroit|27|Washington|20
+09/22/2013|Chicago|40|Pittsburgh|23
