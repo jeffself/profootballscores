@@ -45,3 +45,4 @@
 09/22/2013|San Diego|17|Tennessee|20
 09/22/2013|Detroit|27|Washington|20
 09/22/2013|Chicago|40|Pittsburgh|23
+09/23/2013|Oakland|21|Denver|37
