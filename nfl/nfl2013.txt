@@ -46,3 +46,4 @@
 09/22/2013|Detroit|27|Washington|20
 09/22/2013|Chicago|40|Pittsburgh|23
 09/23/2013|Oakland|21|Denver|37
+09/26/2013|San Francisco|35|St. Louis|11
