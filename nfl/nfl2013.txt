@@ -47,3 +47,16 @@
 09/22/2013|Chicago|40|Pittsburgh|23
 09/23/2013|Oakland|21|Denver|37
 09/26/2013|San Francisco|35|St. Louis|11
+09/29/2013|Baltimore|20|Buffalo|23
+09/29/2013|Cincinnati|6|Cleveland|17
+09/29/2013|Chicago|32|Detroit|40
+09/29/2013|Seattle|23|Houston|20
+09/29/2013|Indianapolis|37|Jacksonville|3
+09/29/2013|New York Giants|7|Kansas City|31
+09/29/2013|Pittsburgh|27|Minnesota|34
+09/29/2013|Arizona|13|Tampa Bay|10
+09/29/2013|New York Jets|13|Tennessee|38
+09/29/2013|Philadelphia|20|Denver|52
+09/29/2013|Washington|24|Oakland|14
+09/29/2013|Dallas|21|San Diego|30
+09/29/2013|New England|30|Atlanta|23
