@@ -61,3 +61,16 @@
 09/29/2013|Dallas|21|San Diego|30
 09/29/2013|New England|30|Atlanta|23
 09/30/2013|Miami|17|New Orleans|38
+10/03/2013|Buffalo|24|Cleveland|37
+10/06/2013|New Orleans|26|Chicago|18
+10/06/2013|New England|6|Cincinnati|13
+10/06/2013|Detroit|9|Green Bay|22
+10/06/2013|Seattle|28|Indianapolis|34
+10/06/2013|Baltimore|26|Miami|23
+10/06/2013|Philadelphia|36|New York Giants|21
+10/06/2013|Jacksonville|20|St. Louis|34
+10/06/2013|Kansas City|26|Tennessee|17
+10/06/2013|Carolina|6|Arizona|22
+10/06/2013|Denver|51|Dallas|48
+10/06/2013|Houston|3|San Francisco|34
+10/06/2013|San Diego|17|Oakland|27
