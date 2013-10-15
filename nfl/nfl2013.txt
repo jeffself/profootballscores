@@ -75,3 +75,18 @@
 10/06/2013|Houston|3|San Francisco|34
 10/06/2013|San Diego|17|Oakland|27
 10/07/2013|New York Jets|30|Atlanta|28
+10/10/2013|New York Giants|21|Chicago|27
+10/13/2013|Arizona|20|San Francisco|32
+10/13/2013|Tennessee|13|Seattle|20
+10/13/2013|New Orleans|27|New England|30
+10/13/2013|Philadelphia|31|Tampa Bay|20
+10/13/2013|Jacksonville|19|Denver|35
+10/13/2013|Carolina|35|Minnesota|10
+10/13/2013|Pittsburgh|19|New York Jets|6
+10/13/2013|St. Louis|38|Houston|13
+10/13/2013|Oakland|7|Kansas City|24
+10/13/2013|Cincinnati|27|Buffalo|24
+10/13/2013|Detroit|31|Cleveland|17
+10/13/2013|Green Bay|19|Baltimore|17
+10/13/2013|Washington|16|Dallas|31
+10/14/2013|Indianapolis|9|San Diego|19
