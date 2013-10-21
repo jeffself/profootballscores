@@ -90,3 +90,17 @@
 10/13/2013|Green Bay|19|Baltimore|17
 10/13/2013|Washington|16|Dallas|31
 10/14/2013|Indianapolis|9|San Diego|19
+10/17/2013|Seattle|34|Arizona|22
+10/20/2013|Tampa Bay|23|Atlanta|31
+10/20/2013|St. Louis|15|Carolina|30
+10/20/2013|Cincinnati|27|Detroit|24
+10/20/2013|San Diego|24|Jacksonville|6
+10/20/2013|Buffalo|23|Miami|21
+10/20/2013|New England|27|New York Jets|30
+10/20/2013|Dallas|17|Philadelphia|3
+10/20/2013|Chicago|41|Washington|45
+10/20/2013|San Francisco|31|Tennessee|17
+10/20/2013|Cleveland|13|Green Bay|31
+10/20/2013|Houston|16|Kansas City|17
+10/20/2013|Baltimore|16|Pittsburgh|19
+10/20/2013|Denver|33|Indianapolis|39
