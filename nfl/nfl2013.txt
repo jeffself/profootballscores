@@ -104,3 +104,4 @@
 10/20/2013|Houston|16|Kansas City|17
 10/20/2013|Baltimore|16|Pittsburgh|19
 10/20/2013|Denver|33|Indianapolis|39
+10/21/2013|Minnesota|7|New York Giants|23
