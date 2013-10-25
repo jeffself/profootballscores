@@ -105,3 +105,4 @@
 10/20/2013|Baltimore|16|Pittsburgh|19
 10/20/2013|Denver|33|Indianapolis|39
 10/21/2013|Minnesota|7|New York Giants|23
+10/24/2013|Carolina|31|Tampa Bay|13
