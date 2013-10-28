@@ -106,3 +106,14 @@
 10/20/2013|Denver|33|Indianapolis|39
 10/21/2013|Minnesota|7|New York Giants|23
 10/24/2013|Carolina|31|Tampa Bay|13
+10/27/2013|Dallas|30|Detroit|31
+10/27/2013|San Francisco|42|Jacksonville|10
+10/27/2013|Cleveland|17|Kansas City|23
+10/27/2013|Miami|17|New England|27
+10/27/2013|Buffalo|17|New Orleans|35
+10/27/2013|New York Giants|15|Philadelphia|7
+10/27/2013|New York Jets|9|Cincinnati|49
+10/27/2013|Pittsburgh|18|Oakland|21
+10/27/2013|Atlanta|13|Arizona|27
+10/27/2013|Washington|21|Denver|45
+10/27/2013|Green Bay|44|Minnesota|31
