@@ -117,3 +117,4 @@
 10/27/2013|Atlanta|13|Arizona|27
 10/27/2013|Washington|21|Denver|45
 10/27/2013|Green Bay|44|Minnesota|31
+10/28/2013|Seattle|14|St. Louis|9
