@@ -118,3 +118,4 @@
 10/27/2013|Washington|21|Denver|45
 10/27/2013|Green Bay|44|Minnesota|31
 10/28/2013|Seattle|14|St. Louis|9
+10/31/2013|Cincinnati|20|Miami|22
