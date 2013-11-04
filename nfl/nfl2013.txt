@@ -119,3 +119,14 @@
 10/27/2013|Green Bay|44|Minnesota|31
 10/28/2013|Seattle|14|St. Louis|9
 10/31/2013|Cincinnati|20|Miami|22
+11/03/2013|Kansas City|23|Buffalo|13
+11/03/2013|Atlanta|10|Carolina|34
+11/03/2013|Minnesota|23|Dallas|27
+11/03/2013|New Orleans|20|New York Jets|26
+11/03/2013|Tennessee|28|St. Louis|21
+11/03/2013|San Diego|24|Washington|30
+11/03/2013|Philadelphia|49|Oakland|20
+11/03/2013|Tampa Bay|24|Seattle|27
+11/03/2013|Baltimore|18|Cleveland|24
+11/03/2013|Pittsburgh|31|New England|55
+11/03/2013|Indianapolis|27|Houston|24
