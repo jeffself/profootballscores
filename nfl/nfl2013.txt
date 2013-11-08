@@ -131,3 +131,4 @@
 11/03/2013|Pittsburgh|31|New England|55
 11/03/2013|Indianapolis|27|Houston|24
 11/04/2013|Chicago|27|Green Bay|20
+11/07/2013|Washington|27|Minnesota|34
