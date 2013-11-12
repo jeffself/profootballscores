@@ -132,3 +132,16 @@
 11/03/2013|Indianapolis|27|Houston|24
 11/04/2013|Chicago|27|Green Bay|20
 11/07/2013|Washington|27|Minnesota|34
+11/10/2013|Seattle|33|Atlanta|10
+11/10/2013|Cincinnati|17|Baltimore|20
+11/10/2013|Detroit|21|Chicago|19
+11/10/2013|Philadelphia|27|Green Bay|13
+11/10/2013|St. Louis|38|Indianapolis|8
+11/10/2013|Oakland|20|New York Giants|24
+11/10/2013|Buffalo|10|Pittsburgh|23
+11/10/2013|Jacksonville|29|Tennessee|27
+11/10/2013|Carolina|10|San Francisco|9
+11/10/2013|Houston|24|Arizona|27
+11/10/2013|Denver|28|San Diego|20
+11/10/2013|Dallas|17|New Orleans|49
+11/11/2013|Miami|19|Tampa Bay|22
