@@ -146,3 +146,16 @@
 11/10/2013|Dallas|17|New Orleans|49
 11/11/2013|Miami|19|Tampa Bay|22
 11/14/2013|Indianapolis|30|Tennessee|27
+11/17/2013|New York Jets|14|Buffalo|37
+11/17/2013|Baltimore|20|Chicago|23
+11/17/2013|Cleveland|20|Cincinnati|41
+11/17/2013|Oakland|28|Houston|23
+11/17/2013|Arizona|27|Jacksonville|14
+11/17/2013|Washington|16|Philadelphia|24
+11/17/2013|Detroit|27|Pittsburgh|37
+11/17/2013|Atlanta|28|Tampa Bay|41
+11/17/2013|San Diego|16|Miami|20
+11/17/2013|Green Bay|13|New York Giants|27
+11/17/2013|Minnesota|20|Seattle|41
+11/17/2013|San Francisco|20|New Orleans|23
+11/17/2013|Kansas City|17|Denver|27
