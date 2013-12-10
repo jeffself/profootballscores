@@ -205,3 +205,4 @@
 12/08/2013|Kansas City|45|Washington|10
 12/08/2013|Atlanta|21|Green Bay|22
 12/08/2013|Carolina|13|New Orleans|31
+12/09/2013|Dallas|28|Chicago|45
