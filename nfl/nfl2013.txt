@@ -206,3 +206,18 @@
 12/08/2013|Atlanta|21|Green Bay|22
 12/08/2013|Carolina|13|New Orleans|31
 12/09/2013|Dallas|28|Chicago|45
+12/12/2013|San Diego|27|Denver|20
+12/15/2013|Washington|26|Atlanta|27
+12/15/2013|Chicago|38|Cleveland|31
+12/15/2013|Houston|3|Indianapolis|25
+12/15/2013|Buffalo|27|Jacksonville|20
+12/15/2013|New England|20|Miami|24
+12/15/2013|Philadelphia|30|Minnesota|48
+12/15/2013|Seattle|23|New York Giants|0
+12/15/2013|San Francisco|33|Tampa Bay|14
+12/15/2013|New York Jets|20|Carolina|30
+12/15/2013|Kansas City|56|Oakland|31
+12/15/2013|Green Bay|37|Dallas|36
+12/15/2013|New Orleans|16|St. Louis|27
+12/15/2013|Arizona|37|Tennessee|34
+12/15/2013|Cincinnati|20|Pittsburgh|30
