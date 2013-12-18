@@ -221,3 +221,4 @@
 12/15/2013|New Orleans|16|St. Louis|27
 12/15/2013|Arizona|37|Tennessee|34
 12/15/2013|Cincinnati|20|Pittsburgh|30
+12/16/2013|Baltimore|18|Detroit|16
