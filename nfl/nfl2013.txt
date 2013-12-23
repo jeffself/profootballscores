@@ -222,3 +222,18 @@
 12/15/2013|Arizona|37|Tennessee|34
 12/15/2013|Cincinnati|20|Pittsburgh|30
 12/16/2013|Baltimore|18|Detroit|16
+12/22/2013|Miami|0|Buffalo|19
+12/22/2013|New Orleans|13|Carolina|17
+12/22/2013|Minnesota|14|Cincinnati|42
+12/22/2013|Denver|37|Houston|13
+12/22/2013|Tennessee|20|Jacksonville|16
+12/22/2013|Indianapolis|23|Kansas City|7
+12/22/2013|Cleveland|13|New York Jets|24
+12/22/2013|Tampa Bay|13|St. Louis|23
+12/22/2013|Dallas|24|Washington|23
+12/22/2013|New York Giants|23|Detroit|20
+12/22/2013|Arizona|17|Seattle|10
+12/22/2013|New England|41|Baltimore|7
+12/22/2013|Pittsburgh|38|Green Bay|31
+12/22/2013|Oakland|13|San Diego|26
+12/22/2013|Chicago|11|Philadelphia|54
