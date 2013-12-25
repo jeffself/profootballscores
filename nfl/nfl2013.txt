@@ -237,3 +237,4 @@
 12/22/2013|Pittsburgh|38|Green Bay|31
 12/22/2013|Oakland|13|San Diego|26
 12/22/2013|Chicago|11|Philadelphia|54
+12/23/2013|Atlanta|27|San Francisco|37
