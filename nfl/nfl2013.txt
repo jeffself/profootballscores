@@ -238,3 +238,19 @@
 12/22/2013|Oakland|13|San Diego|26
 12/22/2013|Chicago|11|Philadelphia|54
 12/23/2013|Atlanta|27|San Francisco|37
+12/29/2013|Green Bay|33|Chicago|28
+12/29/2013|Buffalo|20|New England|34
+12/29/2013|Tampa Bay|17|New Orleans|42
+12/29/2013|San Francisco|23|Arizona|20
+12/29/2013|Denver|34|Oakland|14
+12/29/2013|Kansas City|24|San Diego|27
+12/29/2013|St. Louis|9|Seattle|27
+12/29/2013|Carolina|21|Atlanta|20
+12/29/2013|Baltimore|17|Cincinnati|34
+12/29/2013|Jacksonville|10|Indianapolis|30
+12/29/2013|New York Jets|20|Miami|7
+12/29/2013|Detroit|13|Minnesota|14
+12/29/2013|Washington|6|New York Giants|20
+12/29/2013|Cleveland|7|Pittsburgh|20
+12/29/2013|Houston|10|Tennessee|16
+12/29/2013|Philadelphia|24|Dallas|22
