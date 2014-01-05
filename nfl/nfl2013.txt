@@ -254,3 +254,5 @@
 12/29/2013|Cleveland|7|Pittsburgh|20
 12/29/2013|Houston|10|Tennessee|16
 12/29/2013|Philadelphia|24|Dallas|22
+01/04/2014|Kansas City|44|Indianapolis|45
+01/04/2014|New Orleans|26|Philadelphia|24
