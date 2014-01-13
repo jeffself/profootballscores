@@ -258,3 +258,7 @@
 01/04/2014|New Orleans|26|Philadelphia|24
 01/05/2014|San Diego|27|Cincinnati|10
 01/05/2014|San Francisco|23|Green Bay|20
+01/11/2014|New Orleans|14|Seattle|23
+01/11/2014|Indianapolis|22|New England|43
+01/12/2014|San Francisco|23|Carolina|10
+01/12/2014|San Diego|17|Denver|24
