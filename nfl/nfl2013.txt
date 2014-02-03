@@ -264,3 +264,4 @@
 01/12/2014|San Diego|17|Denver|24
 01/19/2014|New England|16|Denver|26
 01/19/2014|San Francisco|17|Seattle|23
+02/03/2014|Seattle|43|Denver|8
