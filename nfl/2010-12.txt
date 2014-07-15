@@ -1,0 +1,801 @@
+09/09/2010|Minnesota|9|New Orleans|14
+09/12/2010|Cleveland|14|Tampa Bay|17
+09/12/2010|Miami|15|Buffalo|10
+09/12/2010|Cincinnati|24|New England|38
+09/12/2010|Indianapolis|24|Houston|34
+09/12/2010|Denver|17|Jacksonville|24
+09/12/2010|Atlanta|9|Pittsburgh|15
+09/12/2010|Oakland|13|Tennessee|38
+09/12/2010|Carolina|18|New York Giants|31
+09/12/2010|Detroit|14|Chicago|19
+09/12/2010|Arizona|17|St. Louis|13
+09/12/2010|Green Bay|27|Philadelphia|20
+09/12/2010|San Francisco|6|Seattle|31
+09/12/2010|Dallas|7|Washington|13
+09/13/2010|Baltimore|10|New York Jets|9
+09/13/2010|San Diego|14|Kansas City|21
+09/19/2010|Buffalo|7|Green Bay|34
+09/19/2010|Miami|14|Minnesota|10
+09/19/2010|Kansas City|16|Cleveland|14
+09/19/2010|Chicago|27|Dallas|20
+09/19/2010|Arizona|7|Atlanta|41
+09/19/2010|Tampa Bay|20|Carolina|7
+09/19/2010|Philadelphia|35|Detroit|32
+09/19/2010|Baltimore|10|Cincinnati|15
+09/19/2010|Pittsburgh|19|Tennessee|11
+09/19/2010|Seattle|14|Denver|31
+09/19/2010|St. Louis|14|Oakland|16
+09/19/2010|Houston|30|Washington|27
+09/19/2010|New England|14|New York Jets|28
+09/19/2010|Jacksonville|13|San Diego|38
+09/19/2010|New York Giants|14|Indianapolis|38
+09/20/2010|New Orleans|25|San Francisco|22
+09/26/2010|Tennessee|29|New York Giants|10
+09/26/2010|Cincinnati|20|Carolina|7
+09/26/2010|Pittsburgh|38|Tampa Bay|13
+09/26/2010|Buffalo|30|New England|38
+09/26/2010|Cleveland|17|Baltimore|24
+09/26/2010|San Francisco|10|Kansas City|31
+09/26/2010|Dallas|27|Houston|13
+09/26/2010|Detroit|10|Minnesota|24
+09/26/2010|Atlanta|27|New Orleans|24
+09/26/2010|Philadelphia|28|Jacksonville|3
+09/26/2010|Washington|16|St. Louis|30
+09/26/2010|Indianapolis|27|Denver|13
+09/26/2010|Oakland|23|Arizona|24
+09/26/2010|San Diego|20|Seattle|27
+09/26/2010|New York Jets|31|Miami|23
+09/27/2010|Green Bay|17|Chicago|20
+10/03/2010|New York Jets|38|Buffalo|14
+10/03/2010|Cincinnati|20|Cleveland|23
+10/03/2010|Baltimore|17|Pittsburgh|14
+10/03/2010|Denver|26|Tennessee|20
+10/03/2010|Detroit|26|Green Bay|28
+10/03/2010|San Francisco|14|Atlanta|16
+10/03/2010|Carolina|14|New Orleans|16
+10/03/2010|Seattle|3|St. Louis|20
+10/03/2010|Indianapolis|28|Jacksonville|31
+10/03/2010|Houston|31|Oakland|24
+10/03/2010|Arizona|10|San Diego|41
+10/03/2010|Washington|17|Philadelphia|12
+10/03/2010|Chicago|3|New York Giants|17
+10/04/2010|New England|41|Miami|14
+10/10/2010|Jacksonville|36|Buffalo|26
+10/10/2010|Denver|17|Baltimore|31
+10/10/2010|Kansas City|9|Indianapolis|19
+10/10/2010|Green Bay|13|Washington|16
+10/10/2010|St. Louis|6|Detroit|44
+10/10/2010|Chicago|23|Carolina|6
+10/10/2010|Tampa Bay|24|Cincinnati|21
+10/10/2010|Atlanta|20|Cleveland|10
+10/10/2010|New York Giants|34|Houston|10
+10/10/2010|New Orleans|20|Arizona|30
+10/10/2010|Tennessee|34|Dallas|27
+10/10/2010|San Diego|27|Oakland|35
+10/10/2010|Philadelphia|27|San Francisco|24
+10/11/2010|Minnesota|20|New York Jets|29
+10/17/2010|Miami|23|Green Bay|20
+10/17/2010|San Diego|17|St. Louis|20
+10/17/2010|Baltimore|20|New England|23
+10/17/2010|Cleveland|10|Pittsburgh|28
+10/17/2010|Kansas City|31|Houston|35
+10/17/2010|Detroit|20|New York Giants|28
+10/17/2010|Atlanta|17|Philadelphia|31
+10/17/2010|Seattle|23|Chicago|20
+10/17/2010|New Orleans|31|Tampa Bay|6
+10/17/2010|New York Jets|24|Denver|20
+10/17/2010|Oakland|9|San Francisco|17
+10/17/2010|Dallas|21|Minnesota|24
+10/17/2010|Indianapolis|27|Washington|24
+10/18/2010|Tennessee|30|Jacksonville|3
+10/24/2010|Cincinnati|32|Atlanta|39
+10/24/2010|Pittsburgh|23|Miami|22
+10/24/2010|Buffalo|34|Baltimore|37
+10/24/2010|Jacksonville|20|Kansas City|42
+10/24/2010|Cleveland|30|New Orleans|17
+10/24/2010|Washington|17|Chicago|14
+10/24/2010|San Francisco|20|Carolina|23
+10/24/2010|St. Louis|17|Tampa Bay|18
+10/24/2010|Philadelphia|19|Tennessee|37
+10/24/2010|Arizona|10|Seattle|22
+10/24/2010|New England|23|San Diego|20
+10/24/2010|Oakland|59|Denver|14
+10/24/2010|Minnesota|24|Green Bay|28
+10/25/2010|New York Giants|41|Dallas|35
+10/31/2010|Denver|16|San Francisco|24
+10/31/2010|Jacksonville|35|Dallas|17
+10/31/2010|Miami|22|Cincinnati|14
+10/31/2010|Buffalo|10|Kansas City|13
+10/31/2010|Washington|25|Detroit|37
+10/31/2010|Carolina|10|St. Louis|20
+10/31/2010|Green Bay|9|New York Jets|0
+10/31/2010|Tennessee|25|San Diego|33
+10/31/2010|Minnesota|18|New England|28
+10/31/2010|Tampa Bay|38|Arizona|35
+10/31/2010|Seattle|3|Oakland|33
+10/31/2010|Pittsburgh|10|New Orleans|20
+11/01/2010|Houston|17|Indianapolis|30
+11/07/2010|Tampa Bay|21|Atlanta|27
+11/07/2010|Miami|10|Baltimore|26
+11/07/2010|Chicago|22|Buffalo|19
+11/07/2010|New Orleans|34|Carolina|3
+11/07/2010|New England|14|Cleveland|34
+11/07/2010|New York Jets|23|Detroit|20
+11/07/2010|San Diego|29|Houston|23
+11/07/2010|Arizona|24|Minnesota|27
+11/07/2010|New York Giants|41|Seattle|7
+11/07/2010|Indianapolis|24|Philadelphia|26
+11/07/2010|Kansas City|20|Oakland|23
+11/07/2010|Dallas|7|Green Bay|45
+11/08/2010|Pittsburgh|27|Cincinnati|21
+11/11/2010|Baltimore|21|Atlanta|26
+11/14/2010|Detroit|12|Buffalo|14
+11/14/2010|Minnesota|13|Chicago|27
+11/14/2010|New York Jets|26|Cleveland|20
+11/14/2010|Cincinnati|17|Indianapolis|23
+11/14/2010|Houston|24|Jacksonville|31
+11/14/2010|Tennessee|17|Miami|29
+11/14/2010|Carolina|16|Tampa Bay|31
+11/14/2010|Kansas City|29|Denver|49
+11/14/2010|Seattle|36|Arizona|18
+11/14/2010|Dallas|33|New York Giants|20
+11/14/2010|St. Louis|20|San Francisco|23
+11/14/2010|New England|39|Pittsburgh|26
+11/15/2010|Philadelphia|59|Washington|28
+11/18/2010|Chicago|16|Miami|0
+11/21/2010|Baltimore|37|Carolina|13
+11/21/2010|Buffalo|49|Cincinnati|31
+11/21/2010|Detroit|19|Dallas|35
+11/21/2010|Cleveland|20|Jacksonville|24
+11/21/2010|Arizona|13|Kansas City|31
+11/21/2010|Green Bay|31|Minnesota|3
+11/21/2010|Houston|27|New York Jets|30
+11/21/2010|Oakland|3|Pittsburgh|35
+11/21/2010|Washington|19|Tennessee|16
+11/21/2010|Seattle|19|New Orleans|34
+11/21/2010|Tampa Bay|21|San Francisco|0
+11/21/2010|Atlanta|34|St. Louis|17
+11/21/2010|Indianapolis|28|New England|31
+11/21/2010|New York Giants|17|Philadelphia|27
+11/22/2010|Denver|14|San Diego|35
+11/25/2010|New England|45|Detroit|24
+11/25/2010|New Orleans|30|Dallas|27
+11/25/2010|Cincinnati|10|New York Jets|26
+11/28/2010|Green Bay|17|Atlanta|20
+11/28/2010|Pittsburgh|19|Buffalo|16
+11/28/2010|Carolina|23|Cleveland|24
+11/28/2010|Tennessee|0|Houston|20
+11/28/2010|Jacksonville|20|New York Giants|24
+11/28/2010|Minnesota|17|Washington|13
+11/28/2010|Miami|33|Oakland|17
+11/28/2010|Kansas City|42|Seattle|24
+11/28/2010|Tampa Bay|10|Baltimore|17
+11/28/2010|Philadelphia|26|Chicago|31
+11/28/2010|St. Louis|36|Denver|33
+11/28/2010|San Diego|36|Indianapolis|14
+11/29/2010|San Francisco|27|Arizona|6
+12/01/2010|Houston|24|Philadelphia|34
+12/04/2010|New Orleans|34|Cincinnati|30
+12/04/2010|Chicago|24|Detroit|20
+12/04/2010|San Francisco|16|Green Bay|34
+12/04/2010|Denver|6|Kansas City|10
+12/04/2010|Cleveland|13|Miami|10
+12/04/2010|Buffalo|14|Minnesota|38
+12/04/2010|Washington|7|New York Giants|31
+12/04/2010|Jacksonville|17|Tennessee|6
+12/04/2010|Oakland|28|San Diego|13
+12/04/2010|St. Louis|19|Arizona|6
+12/04/2010|Dallas|38|Indianapolis|35
+12/04/2010|Carolina|14|Seattle|31
+12/04/2010|Atlanta|28|Tampa Bay|14
+12/04/2010|Pittsburgh|13|Baltimore|10
+12/05/2010|New York Jets|3|New England|45
+12/09/2010|Indianapolis|30|Tennessee|28
+12/12/2010|Cleveland|6|Buffalo|13
+12/12/2010|Atlanta|31|Carolina|10
+12/12/2010|Green Bay|3|Detroit|7
+12/12/2010|Oakland|31|Jacksonville|38
+12/12/2010|Cincinnati|7|Pittsburgh|23
+12/12/2010|Tampa Bay|17|Washington|10
+12/12/2010|St. Louis|13|New Orleans|31
+12/12/2010|Seattle|21|San Francisco|40
+12/12/2010|Denver|13|Arizona|43
+12/12/2010|New England|36|Chicago|7
+12/12/2010|Miami|10|New York Jets|6
+12/12/2010|Kansas City|0|San Diego|31
+12/12/2010|Philadelphia|30|Dallas|27
+12/13/2010|New York Giants|21|Minnesota|3
+12/13/2010|Baltimore|34|Houston|28
+12/16/2010|San Francisco|7|San Diego|34
+12/19/2010|New Orleans|24|Baltimore|30
+12/19/2010|Arizona|12|Carolina|19
+12/19/2010|Cleveland|17|Cincinnati|19
+12/19/2010|Washington|30|Dallas|33
+12/19/2010|Jacksonville|24|Indianapolis|34
+12/19/2010|Buffalo|17|Miami|14
+12/19/2010|Philadelphia|38|New York Giants|31
+12/19/2010|Kansas City|27|St. Louis|13
+12/19/2010|Detroit|23|Tampa Bay|20
+12/19/2010|Houston|17|Tennessee|31
+12/19/2010|Atlanta|34|Seattle|18
+12/19/2010|Denver|23|Oakland|39
+12/19/2010|New York Jets|22|Pittsburgh|17
+12/19/2010|Green Bay|27|New England|31
+12/20/2010|Chicago|40|Minnesota|14
+12/23/2010|Carolina|3|Pittsburgh|27
+12/25/2010|Dallas|26|Arizona|27
+12/26/2010|New England|34|Buffalo|3
+12/26/2010|New York Jets|34|Chicago|38
+12/26/2010|Baltimore|20|Cleveland|10
+12/26/2010|Washington|20|Jacksonville|17
+12/26/2010|Tennessee|14|Kansas City|34
+12/26/2010|Detroit|34|Miami|27
+12/26/2010|San Francisco|17|St. Louis|25
+12/26/2010|San Diego|20|Cincinnati|34
+12/26/2010|Houston|23|Denver|24
+12/26/2010|Indianapolis|31|Oakland|26
+12/26/2010|New York Giants|17|Green Bay|45
+12/26/2010|Seattle|15|Tampa Bay|38
+12/27/2010|New Orleans|17|Atlanta|14
+12/28/2010|Minnesota|24|Philadelphia|14
+01/02/2011|Carolina|10|Atlanta|31
+01/02/2011|Cincinnati|7|Baltimore|13
+01/02/2011|Pittsburgh|41|Cleveland|9
+01/02/2011|Minnesota|13|Detroit|20
+01/02/2011|Oakland|31|Kansas City|10
+01/02/2011|Miami|7|New England|38
+01/02/2011|Tampa Bay|23|New Orleans|13
+01/02/2011|Buffalo|7|New York Jets|38
+01/02/2011|San Diego|33|Denver|28
+01/02/2011|Chicago|3|Green Bay|10
+01/02/2011|Jacksonville|17|Houston|34
+01/02/2011|Tennessee|20|Indianapolis|23
+01/02/2011|Dallas|14|Philadelphia|13
+01/02/2011|Arizona|7|San Francisco|38
+01/02/2011|New York Giants|17|Washington|14
+01/02/2011|St. Louis|6|Seattle|16
+01/08/2011|New Orleans|36|Seattle|41
+01/08/2011|New York Jets|17|Indianapolis|16
+01/09/2011|Baltimore|30|Kansas City|7
+01/09/2011|Green Bay|21|Philadelphia|16
+01/15/2011|Baltimore|24|Pittsburgh|31
+01/15/2011|Green Bay|48|Atlanta|21
+01/16/2011|Seattle|24|Chicago|35
+01/16/2011|New York Jets|28|New England|21
+01/23/2011|Green Bay|21|Chicago|14
+01/23/2011|New York Jets|19|Pittsburgh|24
+02/06/2011|Pittsburgh|25|Green Bay|31
+09/08/2011|New Orleans|34|Green Bay|42
+09/11/2011|Pittsburgh|7|Baltimore|35
+09/11/2011|Atlanta|12|Chicago|30
+09/11/2011|Cincinnati|27|Cleveland|17
+09/11/2011|Indianapolis|7|Houston|34
+09/11/2011|Tennessee|14|Jacksonville|16
+09/11/2011|Buffalo|41|Kansas City|7
+09/11/2011|Philadelphia|31|St. Louis|13
+09/11/2011|Detroit|27|Tampa Bay|20
+09/11/2011|Carolina|21|Arizona|28
+09/11/2011|Minnesota|17|San Diego|24
+09/11/2011|Seattle|17|San Francisco|33
+09/11/2011|New York Giants|14|Washington|28
+09/11/2011|Dallas|24|New York Jets|27
+09/12/2011|New England|38|Miami|24
+09/12/2011|Oakland|23|Denver|20
+09/18/2011|Oakland|35|Buffalo|38
+09/18/2011|Green Bay|30|Carolina|23
+09/18/2011|Kansas City|3|Detroit|48
+09/18/2011|Cleveland|27|Indianapolis|19
+09/18/2011|Tampa Bay|24|Minnesota|20
+09/18/2011|Chicago|13|New Orleans|30
+09/18/2011|Jacksonville|3|New York Jets|32
+09/18/2011|Seattle|0|Pittsburgh|24
+09/18/2011|Baltimore|13|Tennessee|26
+09/18/2011|Arizona|21|Washington|22
+09/18/2011|Dallas|27|San Francisco|24
+09/18/2011|Cincinnati|22|Denver|24
+09/18/2011|Houston|23|Miami|13
+09/18/2011|San Diego|21|New England|35
+09/18/2011|Philadelphia|31|Atlanta|35
+09/19/2011|St. Louis|16|New York Giants|28
+09/25/2011|New England|31|Buffalo|34
+09/25/2011|Jacksonville|10|Carolina|16
+09/25/2011|San Francisco|13|Cincinnati|8
+09/25/2011|Miami|16|Cleveland|17
+09/25/2011|Detroit|26|Minnesota|23
+09/25/2011|Houston|33|New Orleans|40
+09/25/2011|New York Giants|29|Philadelphia|16
+09/25/2011|Denver|14|Tennessee|17
+09/25/2011|New York Jets|24|Oakland|34
+09/25/2011|Kansas City|17|San Diego|20
+09/25/2011|Baltimore|37|St. Louis|7
+09/25/2011|Green Bay|27|Chicago|17
+09/25/2011|Arizona|10|Seattle|13
+09/25/2011|Atlanta|13|Tampa Bay|16
+09/25/2011|Pittsburgh|23|Indianapolis|20
+09/26/2011|Washington|16|Dallas|18
+10/02/2011|Carolina|29|Chicago|34
+10/02/2011|Buffalo|20|Cincinnati|23
+10/02/2011|Tennessee|31|Cleveland|13
+10/02/2011|Detroit|34|Dallas|30
+10/02/2011|Pittsburgh|10|Houston|17
+10/02/2011|New Orleans|23|Jacksonville|10
+10/02/2011|Minnesota|17|Kansas City|22
+10/02/2011|San Francisco|24|Philadelphia|23
+10/02/2011|Washington|17|St. Louis|10
+10/02/2011|New York Giants|31|Arizona|27
+10/02/2011|Atlanta|30|Seattle|28
+10/02/2011|Denver|23|Green Bay|49
+10/02/2011|New England|31|Oakland|19
+10/02/2011|Miami|16|San Diego|26
+10/02/2011|New York Jets|17|Baltimore|34
+10/03/2011|Indianapolis|17|Tampa Bay|24
+10/09/2011|Philadelphia|24|Buffalo|31
+10/09/2011|New Orleans|30|Carolina|27
+10/09/2011|Oakland|25|Houston|20
+10/09/2011|Kansas City|28|Indianapolis|24
+10/09/2011|Cincinnati|30|Jacksonville|20
+10/09/2011|Arizona|10|Minnesota|34
+10/09/2011|Seattle|36|New York Giants|25
+10/09/2011|Tennessee|17|Pittsburgh|38
+10/09/2011|Tampa Bay|3|San Francisco|48
+10/09/2011|San Diego|29|Denver|24
+10/09/2011|New York Jets|21|New England|30
+10/09/2011|Green Bay|25|Atlanta|14
+10/10/2011|Chicago|13|Detroit|24
+10/15/2011|Carolina|17|Atlanta|31
+10/15/2011|Indianapolis|17|Cincinnati|27
+10/15/2011|San Francisco|25|Detroit|19
+10/15/2011|St. Louis|3|Green Bay|24
+10/15/2011|Buffalo|24|New York Giants|27
+10/15/2011|Jacksonville|13|Pittsburgh|17
+10/15/2011|Philadelphia|20|Washington|13
+10/15/2011|Houston|14|Baltimore|29
+10/15/2011|Cleveland|17|Oakland|24
+10/15/2011|Dallas|16|New England|20
+10/15/2011|New Orleans|20|Tampa Bay|26
+10/15/2011|Minnesota|10|Chicago|39
+10/16/2011|Miami|6|New York Jets|24
+10/23/2011|Washington|20|Carolina|33
+10/23/2011|Seattle|3|Cleveland|6
+10/23/2011|Atlanta|23|Detroit|16
+10/23/2011|Denver|18|Miami|15
+10/23/2011|San Diego|21|New York Jets|27
+10/23/2011|Chicago|24|Tampa Bay|18
+10/23/2011|Houston|41|Tennessee|7
+10/23/2011|Pittsburgh|32|Arizona|20
+10/23/2011|Kansas City|28|Oakland|0
+10/23/2011|St. Louis|7|Dallas|34
+10/23/2011|Green Bay|33|Minnesota|27
+10/23/2011|Indianapolis|7|New Orleans|62
+10/24/2011|Baltimore|7|Jacksonville|12
+10/30/2011|Arizona|27|Baltimore|30
+10/30/2011|Minnesota|24|Carolina|21
+10/30/2011|Jacksonville|14|Houston|24
+10/30/2011|Miami|17|New York Giants|20
+10/30/2011|New Orleans|21|St. Louis|31
+10/30/2011|Indianapolis|10|Tennessee|27
+10/30/2011|Washington|0|Buffalo|23
+10/30/2011|Detroit|45|Denver|10
+10/30/2011|New England|17|Pittsburgh|25
+10/30/2011|Cincinnati|34|Seattle|12
+10/30/2011|Cleveland|10|San Francisco|20
+10/30/2011|Dallas|7|Philadelphia|34
+10/31/2011|San Diego|20|Kansas City|23
+11/06/2011|New York Jets|27|Buffalo|11
+11/06/2011|Seattle|13|Dallas|23
+11/06/2011|Cleveland|12|Houston|30
+11/06/2011|Atlanta|31|Indianapolis|7
+11/06/2011|Miami|31|Kansas City|3
+11/06/2011|Tampa Bay|16|New Orleans|27
+11/06/2011|San Francisco|19|Washington|11
+11/06/2011|Denver|38|Oakland|24
+11/06/2011|Cincinnati|24|Tennessee|17
+11/06/2011|St. Louis|13|Arizona|19
+11/06/2011|New York Giants|24|New England|20
+11/06/2011|Green Bay|45|San Diego|38
+11/06/2011|Baltimore|23|Pittsburgh|20
+11/07/2011|Chicago|30|Philadelphia|24
+11/10/2011|Oakland|24|San Diego|17
+11/13/2011|New Orleans|26|Atlanta|23
+11/13/2011|Tennessee|30|Carolina|3
+11/13/2011|Pittsburgh|24|Cincinnati|17
+11/13/2011|St. Louis|13|Cleveland|12
+11/13/2011|Buffalo|7|Dallas|44
+11/13/2011|Jacksonville|17|Indianapolis|3
+11/13/2011|Denver|17|Kansas City|10
+11/13/2011|Washington|9|Miami|20
+11/13/2011|Arizona|21|Philadelphia|17
+11/13/2011|Houston|37|Tampa Bay|9
+11/13/2011|Baltimore|17|Seattle|22
+11/13/2011|Detroit|13|Chicago|37
+11/13/2011|New York Giants|20|San Francisco|27
+11/13/2011|New England|37|New York Jets|16
+11/14/2011|Minnesota|7|Green Bay|45
+11/17/2011|New York Jets|13|Denver|17
+11/20/2011|Cincinnati|24|Baltimore|31
+11/20/2011|Jacksonville|10|Cleveland|14
+11/20/2011|Carolina|35|Detroit|49
+11/20/2011|Tampa Bay|26|Green Bay|35
+11/20/2011|Buffalo|8|Miami|35
+11/20/2011|Oakland|27|Minnesota|21
+11/20/2011|Dallas|27|Washington|24
+11/20/2011|Arizona|7|San Francisco|23
+11/20/2011|Seattle|24|St. Louis|7
+11/20/2011|Tennessee|17|Atlanta|23
+11/20/2011|San Diego|20|Chicago|31
+11/20/2011|Philadelphia|17|New York Giants|10
+11/21/2011|Kansas City|3|New England|34
+11/24/2011|Green Bay|27|Detroit|15
+11/24/2011|Miami|19|Dallas|20
+11/24/2011|San Francisco|6|Baltimore|16
+11/27/2011|Minnesota|14|Atlanta|24
+11/27/2011|Cleveland|20|Cincinnati|23
+11/27/2011|Carolina|27|Indianapolis|19
+11/27/2011|Houston|20|Jacksonville|13
+11/27/2011|Buffalo|24|New York Jets|28
+11/27/2011|Arizona|23|St. Louis|20
+11/27/2011|Tampa Bay|17|Tennessee|23
+11/27/2011|Chicago|20|Oakland|25
+11/27/2011|Washington|23|Seattle|17
+11/27/2011|New England|38|Philadelphia|20
+11/27/2011|Denver|16|San Diego|13
+11/27/2011|Pittsburgh|13|Kansas City|9
+11/28/2011|New York Giants|24|New Orleans|49
+12/01/2011|Philadelphia|14|Seattle|31
+12/04/2011|Tennessee|23|Buffalo|17
+12/04/2011|Kansas City|10|Chicago|3
+12/04/2011|Atlanta|10|Houston|17
+12/04/2011|Oakland|14|Miami|34
+12/04/2011|Denver|35|Minnesota|32
+12/04/2011|Indianapolis|24|New England|31
+12/04/2011|Cincinnati|7|Pittsburgh|35
+12/04/2011|Carolina|38|Tampa Bay|19
+12/04/2011|New York Jets|34|Washington|19
+12/04/2011|Baltimore|24|Cleveland|10
+12/04/2011|Dallas|13|Arizona|19
+12/04/2011|Green Bay|38|New York Giants|35
+12/04/2011|St. Louis|0|San Francisco|26
+12/04/2011|Detroit|17|New Orleans|31
+12/05/2011|San Diego|38|Jacksonville|14
+12/08/2011|Cleveland|3|Pittsburgh|14
+12/11/2011|Indianapolis|10|Baltimore|24
+12/11/2011|Atlanta|31|Carolina|23
+12/11/2011|Houston|20|Cincinnati|19
+12/11/2011|Minnesota|28|Detroit|34
+12/11/2011|Tampa Bay|14|Jacksonville|41
+12/11/2011|Philadelphia|26|Miami|10
+12/11/2011|Kansas City|10|New York Jets|37
+12/11/2011|New Orleans|22|Tennessee|17
+12/11/2011|New England|34|Washington|27
+12/11/2011|San Francisco|19|Arizona|21
+12/11/2011|Chicago|10|Denver|13
+12/11/2011|Oakland|16|Green Bay|46
+12/11/2011|Buffalo|10|San Diego|37
+12/11/2011|New York Giants|37|Dallas|34
+12/12/2011|St. Louis|13|Seattle|30
+12/15/2011|Jacksonville|14|Atlanta|41
+12/17/2011|Dallas|31|Tampa Bay|15
+12/18/2011|Green Bay|14|Kansas City|19
+12/18/2011|Washington|23|New York Giants|10
+12/18/2011|New Orleans|42|Minnesota|20
+12/18/2011|Seattle|38|Chicago|14
+12/18/2011|Miami|30|Buffalo|23
+12/18/2011|Carolina|28|Houston|13
+12/18/2011|Tennessee|13|Indianapolis|27
+12/18/2011|Cincinnati|20|St. Louis|13
+12/18/2011|Detroit|28|Oakland|27
+12/18/2011|New England|41|Denver|23
+12/18/2011|New York Jets|19|Philadelphia|45
+12/18/2011|Cleveland|17|Arizona|20
+12/18/2011|Baltimore|14|San Diego|34
+12/19/2011|Pittsburgh|3|San Francisco|20
+12/22/2011|Houston|16|Indianapolis|19
+12/24/2011|Cleveland|14|Baltimore|20
+12/24/2011|Denver|14|Buffalo|40
+12/24/2011|Tampa Bay|16|Carolina|48
+12/24/2011|Arizona|16|Cincinnati|23
+12/24/2011|Oakland|16|Kansas City|13
+12/24/2011|Miami|24|New England|27
+12/24/2011|New York Giants|29|New York Jets|24
+12/24/2011|St. Louis|0|Pittsburgh|27
+12/24/2011|Jacksonville|17|Tennessee|23
+12/24/2011|Minnesota|33|Washington|26
+12/24/2011|San Diego|10|Detroit|38
+12/24/2011|Philadelphia|20|Dallas|7
+12/24/2011|San Francisco|19|Seattle|17
+12/25/2011|Chicago|21|Green Bay|35
+12/26/2011|Atlanta|16|New Orleans|45
+01/01/2012|Tennessee|23|Houston|22
+01/01/2012|Indianapolis|13|Jacksonville|19
+01/01/2012|New York Jets|17|Miami|19
+01/01/2012|Chicago|17|Minnesota|13
+01/01/2012|Buffalo|21|New England|49
+01/01/2012|Carolina|17|New Orleans|45
+01/01/2012|Washington|10|Philadelphia|34
+01/01/2012|Detroit|41|Green Bay|45
+01/01/2012|San Francisco|34|St. Louis|27
+01/01/2012|Seattle|20|Arizona|23
+01/01/2012|Tampa Bay|24|Atlanta|45
+01/01/2012|Baltimore|24|Cincinnati|16
+01/01/2012|Pittsburgh|13|Cleveland|9
+01/01/2012|Kansas City|7|Denver|3
+01/01/2012|San Diego|38|Oakland|26
+01/01/2012|Dallas|14|New York Giants|31
+01/07/2012|Cincinnati|10|Houston|31
+01/07/2012|Detroit|28|New Orleans|45
+01/08/2012|Atlanta|2|New York Giants|24
+01/08/2012|Pittsburgh|23|Denver|29
+01/14/2012|New Orleans|32|San Francisco|36
+01/14/2012|Denver|10|New England|45
+01/15/2012|Houston|13|Baltimore|20
+01/15/2012|New York Giants|37|Green Bay|20
+01/22/2012|Baltimore|20|New England|23
+01/22/2012|New York Giants|20|San Francisco|17
+02/05/2012|New York Giants|21|New England|17
+09/05/2012|Dallas|24|New York Giants|17
+09/09/2012|Indianapolis|21|Chicago|41
+09/09/2012|Philadelphia|17|Cleveland|16
+09/09/2012|St. Louis|23|Detroit|27
+09/09/2012|Miami|10|Houston|30
+09/09/2012|Atlanta|40|Kansas City|24
+09/09/2012|Jacksonville|23|Minnesota|26
+09/09/2012|Washington|40|New Orleans|32
+09/09/2012|Buffalo|28|New York Jets|48
+09/09/2012|New England|34|Tennessee|13
+09/09/2012|Seattle|16|Arizona|20
+09/09/2012|San Francisco|30|Green Bay|22
+09/09/2012|Carolina|10|Tampa Bay|16
+09/09/2012|Pittsburgh|19|Denver|31
+09/10/2012|Cincinnati|13|Baltimore|44
+09/10/2012|San Diego|22|Oakland|14
+09/13/2012|Chicago|10|Green Bay|23
+09/16/2012|Kansas City|17|Buffalo|35
+09/16/2012|New Orleans|27|Carolina|35
+09/16/2012|Cleveland|27|Cincinnati|34
+09/16/2012|Minnesota|20|Indianapolis|23
+09/16/2012|Houston|27|Jacksonville|7
+09/16/2012|Oakland|13|Miami|35
+09/16/2012|Arizona|20|New England|18
+09/16/2012|Tampa Bay|34|New York Giants|41
+09/16/2012|Baltimore|23|Philadelphia|24
+09/16/2012|Dallas|7|Seattle|27
+09/16/2012|Washington|28|St. Louis|31
+09/16/2012|New York Jets|10|Pittsburgh|27
+09/16/2012|Tennessee|10|San Diego|38
+09/16/2012|Detroit|19|San Francisco|27
+09/17/2012|Denver|21|Atlanta|27
+09/20/2012|New York Giants|36|Carolina|7
+09/23/2012|St. Louis|6|Chicago|23
+09/23/2012|Buffalo|24|Cleveland|14
+09/23/2012|Tampa Bay|10|Dallas|16
+09/23/2012|Jacksonville|22|Indianapolis|17
+09/23/2012|New York Jets|23|Miami|20
+09/23/2012|San Francisco|13|Minnesota|24
+09/23/2012|Kansas City|27|New Orleans|24
+09/23/2012|Detroit|41|Tennessee|44
+09/23/2012|Cincinnati|38|Washington|31
+09/23/2012|Philadelphia|6|Arizona|27
+09/23/2012|Atlanta|27|San Diego|3
+09/23/2012|Houston|31|Denver|25
+09/23/2012|Pittsburgh|31|Oakland|34
+09/23/2012|New England|30|Baltimore|31
+09/24/2012|Green Bay|12|Seattle|14
+09/27/2012|Cleveland|16|Baltimore|23
+09/30/2012|Carolina|28|Atlanta|30
+09/30/2012|New England|52|Buffalo|28
+09/30/2012|Minnesota|20|Detroit|13
+09/30/2012|Tennessee|14|Houston|38
+09/30/2012|San Diego|37|Kansas City|20
+09/30/2012|San Francisco|34|New York Jets|0
+09/30/2012|Seattle|13|St. Louis|19
+09/30/2012|Miami|21|Arizona|24
+09/30/2012|Oakland|6|Denver|37
+09/30/2012|Cincinnati|27|Jacksonville|10
+09/30/2012|New Orleans|27|Green Bay|28
+09/30/2012|Washington|24|Tampa Bay|22
+09/30/2012|New York Giants|17|Philadelphia|19
+10/01/2012|Chicago|34|Dallas|18
+10/04/2012|Arizona|3|St. Louis|17
+10/07/2012|Miami|17|Cincinnati|13
+10/07/2012|Green Bay|27|Indianapolis|30
+10/07/2012|Baltimore|9|Kansas City|6
+10/07/2012|Cleveland|27|New York Giants|41
+10/07/2012|Philadelphia|14|Pittsburgh|16
+10/07/2012|Atlanta|24|Washington|17
+10/07/2012|Seattle|16|Carolina|12
+10/07/2012|Chicago|41|Jacksonville|3
+10/07/2012|Tennessee|7|Minnesota|30
+10/07/2012|Denver|21|New England|31
+10/07/2012|Buffalo|3|San Francisco|45
+10/07/2012|San Diego|24|New Orleans|31
+10/08/2012|Houston|23|New York Jets|17
+10/11/2012|Pittsburgh|23|Tennessee|26
+10/14/2012|Oakland|20|Atlanta|23
+10/14/2012|Dallas|29|Baltimore|31
+10/14/2012|Cincinnati|24|Cleveland|34
+10/14/2012|St. Louis|14|Miami|17
+10/14/2012|Indianapolis|9|New York Jets|35
+10/14/2012|Detroit|26|Philadelphia|23
+10/14/2012|Kansas City|10|Tampa Bay|38
+10/14/2012|Buffalo|19|Arizona|16
+10/14/2012|New England|23|Seattle|24
+10/14/2012|New York Giants|26|San Francisco|3
+10/14/2012|Minnesota|26|Washington|38
+10/14/2012|Green Bay|42|Houston|24
+10/15/2012|Denver|35|San Diego|24
+10/18/2012|Seattle|6|San Francisco|13
+10/21/2012|Tennessee|35|Buffalo|34
+10/21/2012|Dallas|19|Carolina|14
+10/21/2012|Baltimore|13|Houston|43
+10/21/2012|Cleveland|13|Indianapolis|17
+10/21/2012|Arizona|14|Minnesota|21
+10/21/2012|Washington|23|New York Giants|27
+10/21/2012|Green Bay|30|St. Louis|20
+10/21/2012|New Orleans|35|Tampa Bay|28
+10/21/2012|New York Jets|26|New England|29
+10/21/2012|Jacksonville|23|Oakland|26
+10/21/2012|Pittsburgh|24|Cincinnati|17
+10/22/2012|Detroit|7|Chicago|13
+10/25/2012|Tampa Bay|36|Minnesota|17
+10/28/2012|Carolina|22|Chicago|23
+10/28/2012|San Diego|6|Cleveland|7
+10/28/2012|Seattle|24|Detroit|28
+10/28/2012|Jacksonville|15|Green Bay|24
+10/28/2012|Miami|30|New York Jets|9
+10/28/2012|Atlanta|30|Philadelphia|17
+10/28/2012|Washington|12|Pittsburgh|27
+10/28/2012|New England|45|St. Louis|7
+10/28/2012|Indianapolis|19|Tennessee|13
+10/28/2012|Oakland|26|Kansas City|16
+10/28/2012|New York Giants|29|Dallas|24
+10/28/2012|New Orleans|14|Denver|34
+10/29/2012|San Francisco|24|Arizona|3
+11/01/2012|Kansas City|13|San Diego|31
+11/04/2012|Denver|31|Cincinnati|23
+11/04/2012|Baltimore|25|Cleveland|15
+11/04/2012|Arizona|17|Green Bay|31
+11/04/2012|Buffalo|9|Houston|21
+11/04/2012|Miami|20|Indianapolis|23
+11/04/2012|Detroit|31|Jacksonville|14
+11/04/2012|Chicago|51|Tennessee|20
+11/04/2012|Carolina|21|Washington|13
+11/04/2012|Tampa Bay|42|Oakland|32
+11/04/2012|Minnesota|20|Seattle|30
+11/04/2012|Pittsburgh|24|New York Giants|20
+11/04/2012|Dallas|13|Atlanta|19
+11/05/2012|Philadelphia|13|New Orleans|28
+11/08/2012|Indianapolis|27|Jacksonville|10
+11/11/2012|Oakland|20|Baltimore|55
+11/11/2012|Denver|36|Carolina|14
+11/11/2012|New York Giants|13|Cincinnati|31
+11/11/2012|Tennessee|37|Miami|3
+11/11/2012|Detroit|24|Minnesota|34
+11/11/2012|Buffalo|31|New England|37
+11/11/2012|Atlanta|27|New Orleans|31
+11/11/2012|San Diego|24|Tampa Bay|34
+11/11/2012|New York Jets|7|Seattle|28
+11/11/2012|Dallas|38|Philadelphia|23
+11/11/2012|St. Louis|24|San Francisco|24
+11/11/2012|Houston|13|Chicago|6
+11/12/2012|Kansas City|13|Pittsburgh|16
+11/15/2012|Miami|14|Buffalo|19
+11/18/2012|Arizona|19|Atlanta|23
+11/18/2012|Tampa Bay|27|Carolina|21
+11/18/2012|Cleveland|20|Dallas|23
+11/18/2012|Green Bay|24|Detroit|20
+11/18/2012|Jacksonville|37|Houston|44
+11/18/2012|Cincinnati|28|Kansas City|6
+11/18/2012|New York Jets|27|St. Louis|13
+11/18/2012|Philadelphia|6|Washington|31
+11/18/2012|New Orleans|38|Oakland|17
+11/18/2012|San Diego|23|Denver|30
+11/18/2012|Indianapolis|24|New England|59
+11/18/2012|Baltimore|13|Pittsburgh|10
+11/19/2012|Chicago|7|San Francisco|32
+11/22/2012|Houston|34|Detroit|31
+11/22/2012|Washington|38|Dallas|31
+11/22/2012|New England|49|New York Jets|19
+11/25/2012|Minnesota|10|Chicago|28
+11/25/2012|Oakland|10|Cincinnati|34
+11/25/2012|Pittsburgh|14|Cleveland|20
+11/25/2012|Buffalo|13|Indianapolis|20
+11/25/2012|Tennessee|19|Jacksonville|24
+11/25/2012|Denver|17|Kansas City|9
+11/25/2012|Seattle|21|Miami|24
+11/25/2012|Atlanta|24|Tampa Bay|23
+11/25/2012|Baltimore|16|San Diego|13
+11/25/2012|St. Louis|31|Arizona|17
+11/25/2012|San Francisco|31|New Orleans|21
+11/25/2012|Green Bay|10|New York Giants|38
+11/26/2012|Carolina|30|Philadelphia|22
+11/29/2012|New Orleans|13|Atlanta|23
+12/02/2012|Jacksonville|18|Buffalo|34
+12/02/2012|Seattle|23|Chicago|17
+12/02/2012|Indianapolis|35|Detroit|33
+12/02/2012|Minnesota|14|Green Bay|23
+12/02/2012|Carolina|21|Kansas City|27
+12/02/2012|New England|23|Miami|16
+12/02/2012|Arizona|6|New York Jets|7
+12/02/2012|San Francisco|13|St. Louis|16
+12/02/2012|Houston|24|Tennessee|10
+12/02/2012|Tampa Bay|23|Denver|31
+12/02/2012|Pittsburgh|23|Baltimore|20
+12/02/2012|Cleveland|20|Oakland|17
+12/02/2012|Cincinnati|20|San Diego|13
+12/02/2012|Philadelphia|33|Dallas|38
+12/03/2012|New York Giants|16|Washington|17
+12/06/2012|Denver|26|Oakland|13
+12/09/2012|St. Louis|15|Buffalo|12
+12/09/2012|Atlanta|20|Carolina|30
+12/09/2012|Dallas|20|Cincinnati|19
+12/09/2012|Kansas City|7|Cleveland|30
+12/09/2012|Tennessee|23|Indianapolis|27
+12/09/2012|New York Jets|17|Jacksonville|10
+12/09/2012|Chicago|14|Minnesota|21
+12/09/2012|San Diego|34|Pittsburgh|24
+12/09/2012|Philadelphia|23|Tampa Bay|21
+12/09/2012|Baltimore|28|Washington|31
+12/09/2012|Miami|13|San Francisco|27
+12/09/2012|New Orleans|27|New York Giants|52
+12/09/2012|Arizona|0|Seattle|58
+12/09/2012|Detroit|20|Green Bay|27
+12/10/2012|Houston|14|New England|42
+12/13/2012|Cincinnati|34|Philadelphia|13
+12/16/2012|New York Giants|0|Atlanta|34
+12/16/2012|Denver|34|Baltimore|17
+12/16/2012|Green Bay|21|Chicago|13
+12/16/2012|Washington|38|Cleveland|21
+12/16/2012|Indianapolis|17|Houston|29
+12/16/2012|Jacksonville|3|Miami|24
+12/16/2012|Tampa Bay|0|New Orleans|41
+12/16/2012|Minnesota|36|St. Louis|22
+12/16/2012|Detroit|10|Arizona|38
+12/16/2012|Seattle|50|Buffalo|17
+12/16/2012|Carolina|31|San Diego|7
+12/16/2012|Pittsburgh|24|Dallas|27
+12/16/2012|Kansas City|0|Oakland|15
+12/16/2012|San Francisco|41|New England|34
+12/17/2012|New York Jets|10|Tennessee|14
+12/22/2012|Atlanta|31|Detroit|18
+12/23/2012|Oakland|6|Carolina|17
+12/23/2012|New Orleans|34|Dallas|31
+12/23/2012|Tennessee|7|Green Bay|55
+12/23/2012|Minnesota|23|Houston|6
+12/23/2012|New England|23|Jacksonville|16
+12/23/2012|Indianapolis|20|Kansas City|13
+12/23/2012|Buffalo|10|Miami|24
+12/23/2012|San Diego|27|New York Jets|17
+12/23/2012|Washington|27|Philadelphia|20
+12/23/2012|Cincinnati|13|Pittsburgh|10
+12/23/2012|St. Louis|28|Tampa Bay|13
+12/23/2012|Cleveland|12|Denver|34
+12/23/2012|Chicago|28|Arizona|13
+12/23/2012|New York Giants|14|Baltimore|33
+12/23/2012|San Francisco|13|Seattle|42
+12/30/2012|Tampa Bay|22|Atlanta|17
+12/30/2012|New York Jets|9|Buffalo|28
+12/30/2012|Baltimore|17|Cincinnati|23
+12/30/2012|Chicago|26|Detroit|24
+12/30/2012|Houston|16|Indianapolis|28
+12/30/2012|Carolina|44|New Orleans|38
+12/30/2012|Philadelphia|7|New York Giants|42
+12/30/2012|Cleveland|10|Pittsburgh|24
+12/30/2012|Jacksonville|20|Tennessee|38
+12/30/2012|Green Bay|34|Minnesota|37
+12/30/2012|St. Louis|13|Seattle|20
+12/30/2012|Miami|0|New England|28
+12/30/2012|Oakland|21|San Diego|24
+12/30/2012|Arizona|13|San Francisco|27
+12/30/2012|Kansas City|3|Denver|38
+12/30/2012|Dallas|18|Washington|28
+01/05/2013|Cincinnati|13|Houston|19
+01/05/2013|Minnesota|10|Green Bay|24
+01/06/2013|Indianapolis|9|Baltimore|24
+01/06/2013|Seattle|24|Washington|14
+01/12/2013|Baltimore|38|Denver|35
+01/12/2013|Green Bay|31|San Francisco|45
+01/13/2013|Seattle|28|Atlanta|30
+01/13/2013|Houston|28|New England|41
+01/20/2013|San Francisco|28|Atlanta|24
+01/20/2013|Baltimore|28|New England|13
+02/03/2013|Baltimore|34|San Francisco|31
