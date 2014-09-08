@@ -1,1 +1,14 @@
 09/04/2014|Green Bay|16|Seattle|36
+09/07/2014|New Orleans|34|Atlanta|37
+09/07/2014|Cincinnati|23|Baltimore|16
+09/07/2014|Buffalo|23|Chicago|20
+09/07/2014|Washington|6|Houston|17
+09/07/2014|Tennessee|26|Kansas City|10
+09/07/2014|New England|20|Miami|33
+09/07/2014|Oakland|14|New York Jets|19
+09/07/2014|Jacksonville|17|Philadelphia|34
+09/07/2014|Cleveland|27|Pittsburgh|30
+09/07/2014|Minnesota|34|St. Louis|6
+09/07/2014|San Francisco|28|Dallas|17
+09/07/2014|Carolina|20|Tampa Bay|14
+09/07/2014|Indianapolis|24|Denver|31
