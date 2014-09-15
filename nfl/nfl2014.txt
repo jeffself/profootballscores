@@ -15,3 +15,17 @@
 09/08/2014|New York Giants|14|Detroit|35
 09/08/2014|San Diego|17|Arizona|18
 09/11/2014|Pittsburgh|6|Baltimore|26
+09/14/2014|Miami|10|Buffalo|29
+09/14/2014|Detroit|7|Carolina|24
+09/14/2014|Atlanta|10|Cincinnati|24
+09/14/2014|New Orleans|24|Cleveland|26
+09/14/2014|New England|30|Minnesota|7
+09/14/2014|Arizona|25|New York Giants|14
+09/14/2014|Dallas|26|Tennessee|10
+09/14/2014|Jacksonville|10|Washington|41
+09/14/2014|Seattle|21|San Diego|30
+09/14/2014|St. Louis|19|Tampa Bay|17
+09/14/2014|Kansas City|17|Denver|24
+09/14/2014|New York Jets|24|Green Bay|31
+09/14/2014|Houston|30|Oakland|14
+09/14/2014|Chicago|28|San Francisco|20
