@@ -30,3 +30,4 @@
 09/14/2014|Houston|30|Oakland|14
 09/14/2014|Chicago|28|San Francisco|20
 09/15/2014|Philadelphia|30|Indianapolis|27
+09/18/2014|Tampa Bay|14|Atlanta|56
