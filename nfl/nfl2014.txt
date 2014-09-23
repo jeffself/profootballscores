@@ -31,3 +31,18 @@
 09/14/2014|Chicago|28|San Francisco|20
 09/15/2014|Philadelphia|30|Indianapolis|27
 09/18/2014|Tampa Bay|14|Atlanta|56
+09/21/2014|San Diego|22|Buffalo|10
+09/21/2014|Tennessee|7|Cincinnati|33
+09/21/2014|Baltimore|23|Cleveland|21
+09/21/2014|Green Bay|7|Detroit|19
+09/21/2014|Indianapolis|44|Jacksonville|17
+09/21/2014|Oakland|9|New England|16
+09/21/2014|Minnesota|9|New Orleans|20
+09/21/2014|Houston|17|New York Giants|30
+09/21/2014|Washington|34|Philadelphia|37
+09/21/2014|Dallas|34|St. Louis|31
+09/21/2014|San Francisco|14|Arizona|23
+09/21/2014|Kansas City|34|Miami|15
+09/21/2014|Denver|20|Seattle|26
+09/21/2014|Pittsburgh|37|Carolina|19
+09/22/2014|Chicago|27|New York Jets|19
