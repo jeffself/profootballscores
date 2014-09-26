@@ -46,3 +46,4 @@
 09/21/2014|Denver|20|Seattle|26
 09/21/2014|Pittsburgh|37|Carolina|19
 09/22/2014|Chicago|27|New York Jets|19
+09/25/2014|New York Giants|45|Washington|14
