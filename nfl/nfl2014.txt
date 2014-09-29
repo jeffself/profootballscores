@@ -47,3 +47,14 @@
 09/21/2014|Pittsburgh|37|Carolina|19
 09/22/2014|Chicago|27|New York Jets|19
 09/25/2014|New York Giants|45|Washington|14
+09/28/2014|Carolina|10|Baltimore|38
+09/28/2014|Green Bay|38|Chicago|17
+09/28/2014|Buffalo|17|Houston|23
+09/28/2014|Tennessee|17|Indianapolis|41
+09/28/2014|Detroit|24|New York Jets|17
+09/28/2014|Miami|38|Oakland|14
+09/28/2014|Tampa Bay|27|Pittsburgh|24
+09/28/2014|Jacksonville|14|San Diego|33
+09/28/2014|Atlanta|28|Minnesota|41
+09/28/2014|Philadelphia|21|San Francisco|26
+09/28/2014|New Orleans|17|Dallas|38
