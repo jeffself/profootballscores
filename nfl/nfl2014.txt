@@ -58,3 +58,4 @@
 09/28/2014|Atlanta|28|Minnesota|41
 09/28/2014|Philadelphia|21|San Francisco|26
 09/28/2014|New Orleans|17|Dallas|38
+09/29/2014|New England|14|Kansas City|41
