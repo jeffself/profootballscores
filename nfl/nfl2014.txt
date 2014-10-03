@@ -59,3 +59,4 @@
 09/28/2014|Philadelphia|21|San Francisco|26
 09/28/2014|New Orleans|17|Dallas|38
 09/29/2014|New England|14|Kansas City|41
+10/02/2014|Minnesota|10|Green Bay|42
