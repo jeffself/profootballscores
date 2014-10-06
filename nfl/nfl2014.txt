@@ -60,3 +60,16 @@
 09/28/2014|New Orleans|17|Dallas|38
 09/29/2014|New England|14|Kansas City|41
 10/02/2014|Minnesota|10|Green Bay|42
+10/05/2014|Chicago|24|Carolina|31
+10/05/2014|Houston|17|Dallas|20
+10/05/2014|Buffalo|17|Detroit|14
+10/05/2014|Baltimore|13|Indianapolis|20
+10/05/2014|Pittsburgh|17|Jacksonville|9
+10/05/2014|Tampa Bay|31|New Orleans|37
+10/05/2014|Atlanta|20|New York Giants|30
+10/05/2014|St. Louis|28|Philadelphia|34
+10/05/2014|Cleveland|29|Tennessee|28
+10/05/2014|Arizona|20|Denver|41
+10/05/2014|Kansas City|17|San Francisco|22
+10/05/2014|New York Jets|0|San Diego|31
+10/05/2014|Cincinnati|17|New England|43
