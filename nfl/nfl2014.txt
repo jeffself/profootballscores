@@ -73,3 +73,4 @@
 10/05/2014|Kansas City|17|San Francisco|22
 10/05/2014|New York Jets|0|San Diego|31
 10/05/2014|Cincinnati|17|New England|43
+10/06/2014|Seattle|27|Washington|17
