@@ -75,3 +75,16 @@
 10/05/2014|Cincinnati|17|New England|43
 10/06/2014|Seattle|27|Washington|17
 10/09/2014|Indianapolis|33|Houston|28
+10/12/2014|New England|37|Buffalo|22
+10/12/2014|Carolina|37|Cincinnati|37
+10/12/2014|Pittsburgh|10|Cleveland|31
+10/12/2014|Green Bay|27|Miami|24
+10/12/2014|Detroit|17|Minnesota|3
+10/12/2014|Denver|31|New York Jets|17
+10/12/2014|Baltimore|48|Tampa Bay|17
+10/12/2014|Jacksonville|14|Tennessee|16
+10/12/2014|San Diego|31|Oakland|28
+10/12/2014|Chicago|27|Atlanta|13
+10/12/2014|Washington|20|Arizona|30
+10/12/2014|Dallas|30|Seattle|23
+10/12/2014|New York Giants|0|Philadelphia|27
