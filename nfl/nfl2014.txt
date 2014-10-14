@@ -88,3 +88,4 @@
 10/12/2014|Washington|20|Arizona|30
 10/12/2014|Dallas|30|Seattle|23
 10/12/2014|New York Giants|0|Philadelphia|27
+10/13/2014|San Francisco|31|St. Louis|17
