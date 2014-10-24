@@ -104,3 +104,4 @@
 10/19/2014|Arizona|24|Oakland|13
 10/19/2014|San Francisco|17|Denver|42
 10/20/2014|Houston|23|Pittsburgh|30
+10/23/2014|San Diego|21|Denver|35
