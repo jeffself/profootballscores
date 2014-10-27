@@ -105,3 +105,16 @@
 10/19/2014|San Francisco|17|Denver|42
 10/20/2014|Houston|23|Pittsburgh|30
 10/23/2014|San Diego|21|Denver|35
+10/26/2014|Detroit|22|Atlanta|21
+10/26/2014|Seattle|13|Carolina|9
+10/26/2014|Baltimore|24|Cincinnati|27
+10/26/2014|Miami|27|Jacksonville|13
+10/26/2014|St. Louis|7|Kansas City|34
+10/26/2014|Chicago|23|New England|51
+10/26/2014|Buffalo|43|New York Jets|23
+10/26/2014|Minnesota|19|Tampa Bay|13
+10/26/2014|Houston|30|Tennessee|16
+10/26/2014|Philadelphia|20|Arizona|24
+10/26/2014|Oakland|13|Cleveland|23
+10/26/2014|Indianapolis|34|Pittsburgh|51
+10/26/2014|Green Bay|23|New Orleans|44
