@@ -118,3 +118,4 @@
 10/26/2014|Oakland|13|Cleveland|23
 10/26/2014|Indianapolis|34|Pittsburgh|51
 10/26/2014|Green Bay|23|New Orleans|44
+10/27/2014|Washington|20|Dallas|17
