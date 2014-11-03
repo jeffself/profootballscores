@@ -119,3 +119,15 @@
 10/26/2014|Indianapolis|34|Pittsburgh|51
 10/26/2014|Green Bay|23|New Orleans|44
 10/27/2014|Washington|20|Dallas|17
+10/30/2014|New Orleans|28|Carolina|10
+11/02/2014|Jacksonville|23|Cincinnati|33
+11/02/2014|Tampa Bay|17|Cleveland|22
+11/02/2014|Arizona|28|Dallas|17
+11/02/2014|Philadelphia|31|Houston|21
+11/02/2014|New York Jets|10|Kansas City|24
+11/02/2014|San Diego|0|Miami|37
+11/02/2014|Washington|26|Minnesota|29
+11/02/2014|St. Louis|13|San Francisco|10
+11/02/2014|Denver|21|New England|43
+11/02/2014|Oakland|24|Seattle|30
+11/02/2014|Baltimore|23|Pittsburgh|43
