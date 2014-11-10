@@ -133,3 +133,15 @@
 11/02/2014|Baltimore|23|Pittsburgh|43
 11/03/2014|Indianapolis|40|New York Giants|24
 11/06/2014|Cleveland|24|Cincinnati|3
+11/09/2014|Tennessee|7|Baltimore|21
+11/09/2014|Kansas City|17|Buffalo|13
+11/09/2014|Miami|16|Detroit|20
+11/09/2014|Dallas|31|Jacksonville|17
+11/09/2014|San Francisco|27|New Orleans|24
+11/09/2014|Pittsburgh|13|New York Jets|20
+11/09/2014|Atlanta|27|Tampa Bay|17
+11/09/2014|Denver|41|Oakland|17
+11/09/2014|St. Louis|14|Arizona|31
+11/09/2014|New York Giants|17|Seattle|38
+11/09/2014|Chicago|14|Green Bay|55
+
