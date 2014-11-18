@@ -158,4 +158,4 @@
 11/16/2014|Detroit|6|Arizona|14
 11/16/2014|Philadelphia|20|Green Bay|53
 11/16/2014|New England|42|Indianapolis|20
-
+11/17/2014|Pittsburgh|27|Tennessee|24
