@@ -159,3 +159,4 @@
 11/16/2014|Philadelphia|20|Green Bay|53
 11/16/2014|New England|42|Indianapolis|20
 11/17/2014|Pittsburgh|27|Tennessee|24
+11/20/2014|Kansas City|20|Oakland|24
