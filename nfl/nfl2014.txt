@@ -160,3 +160,15 @@
 11/16/2014|New England|42|Indianapolis|20
 11/17/2014|Pittsburgh|27|Tennessee|24
 11/20/2014|Kansas City|20|Oakland|24
+11/23/2014|Cleveland|26|Atlanta|24
+11/23/2014|Tampa Bay|13|Chicago|21
+11/23/2014|Cincinnati|22|Houston|13
+11/23/2014|Jacksonville|3|Indianapolis|23
+11/23/2014|Green Bay|24|Minnesota|21
+11/23/2014|Detroit|9|New England|34
+11/23/2014|Tennessee|24|Philadelphia|43
+11/23/2014|St. Louis|24|San Diego|27
+11/23/2014|Arizona|3|Seattle|19
+11/23/2014|Miami|36|Denver|39
+11/23/2014|Washington|13|San Francisco|17
+11/23/2014|Dallas|31|New York Giants|28
