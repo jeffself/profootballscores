@@ -172,3 +172,5 @@
 11/23/2014|Miami|36|Denver|39
 11/23/2014|Washington|13|San Francisco|17
 11/23/2014|Dallas|31|New York Giants|28
+11/24/2014|New York Jets|3|Buffalo|38
+11/24/2014|Baltimore|34|New Orleans|27
