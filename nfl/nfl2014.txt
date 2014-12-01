@@ -177,3 +177,14 @@
 11/27/2014|Chicago|17|Detroit
 11/27/2014|Philadelphia|33|Dallas|10
 11/27/2014|Seattle|19|San Francisco|3
+11/30/2014|San Diego|34|Baltimore|33
+11/30/2014|Cleveland|10|Buffalo|26
+11/30/2014|Tennessee|21|Houston|45
+11/30/2014|Washington|27|Indianapolis|49
+11/30/2014|New York Giants|24|Jacksonville|25
+11/30/2014|Carolina|13|Minnesota|31
+11/30/2014|New Orleans|35|Pittsburgh|32
+11/30/2014|Oakland|0|St. Louis|52
+11/30/2014|Cincinnati|14|Tampa Bay|13
+11/30/2014|Arizona|18|Atlanta|29
+11/30/2014|New England|21|Green Bay|26
