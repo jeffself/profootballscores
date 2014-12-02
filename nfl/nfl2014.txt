@@ -189,3 +189,4 @@
 11/30/2014|Arizona|18|Atlanta|29
 11/30/2014|New England|21|Green Bay|26
 11/30/2014|Denver|29|Kansas City|16
+12/01/2014|Miami|16|New York Jets|13
