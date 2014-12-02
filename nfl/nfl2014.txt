@@ -174,7 +174,7 @@
 11/23/2014|Dallas|31|New York Giants|28
 11/24/2014|New York Jets|3|Buffalo|38
 11/24/2014|Baltimore|34|New Orleans|27
-11/27/2014|Chicago|17|Detroit
+11/27/2014|Chicago|17|Detroit|34
 11/27/2014|Philadelphia|33|Dallas|10
 11/27/2014|Seattle|19|San Francisco|3
 11/30/2014|San Diego|34|Baltimore|33
